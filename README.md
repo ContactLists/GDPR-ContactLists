@@ -1,2 +1,3 @@
-# GDPR
- ContacLists - GDPR (General Data Protection Regulation)
+# GDPR (General Data Protection Regulation) #
+
+ ContactLists - GDPR compliant lists
