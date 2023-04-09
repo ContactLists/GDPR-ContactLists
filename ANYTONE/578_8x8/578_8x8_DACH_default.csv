@@ -2309,6 +2309,17 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2320477,OE5GFI,Guenther,,,AUT,,Private Call,None
 ,2320478,OE9PMH,Peter,,,AUT,,Private Call,None
 ,2320479,OE7IFA,Armin,,,AUT,,Private Call,None
+,2320480,OE8DEG,Rose Gerd,,,AUT,,Private Call,None
+,2320481,OE9FRP,Michael,,,AUT,,Private Call,None
+,2320482,OE8CEV,Christoffer,,,AUT,,Private Call,None
+,2320483,OE8CNI,Christian,,,AUT,,Private Call,None
+,2320484,OE8LVB,Lukas,,,AUT,,Private Call,None
+,2320485,OE8TWL,Victoria,,,AUT,,Private Call,None
+,2320486,OE7MZT,Max,,,AUT,,Private Call,None
+,2320487,OE8LEA,Lygia,,,AUT,,Private Call,None
+,2320488,OE8KWZ,Wolfram,,,AUT,,Private Call,None
+,2320489,OE8KRD,Klaus,,,AUT,,Private Call,None
+,2320490,OE8YAK,Anna-Maria,,,AUT,,Private Call,None
 ,2321001,OE1KBC,Kurt,,,AUT,,Private Call,None
 ,2321002,OE1KBC,Kurt,,,AUT,,Private Call,None
 ,2321003,OE1KBC,Kurt,,,AUT,,Private Call,None
@@ -4050,7 +4061,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2620066,DG0CFO,Dirk,,,DEU,,Private Call,None
 ,2620067,DH6ABE,Thomas,,,DEU,,Private Call,None
 ,2620068,DK5CQ,Hans-Juergen,,,DEU,,Private Call,None
-,2620069,DO3JU,Juergen,,,DEU,,Private Call,None
+,2620069,DO3JU,Hans Juergen,,,DEU,,Private Call,None
 ,2620070,DH5FM,Michael,,,DEU,,Private Call,None
 ,2620071,DO1TOM,Thomas,,,DEU,,Private Call,None
 ,2620072,DM6ME,Manfred,,,DEU,,Private Call,None
@@ -4367,7 +4378,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2620399,DL5AAX,Thomas,,,DEU,,Private Call,None
 ,2620400,DL3YDP,Heinz-Gerd,,,DEU,,Private Call,None
 ,2620401,DL5RU,Rudolf,,,DEU,,Private Call,None
-,2620402,DK0KSR,Clubst.,,,DEU,,Private Call,None
+,2620402,DK0KSR,ClubSt.,,,DEU,,Private Call,None
 ,2620403,DL7YCE,Stefan,,,DEU,,Private Call,None
 ,2620404,DL2OCH,Michael,,,DEU,,Private Call,None
 ,2620405,DK7STE,Markus,,,DEU,,Private Call,None
@@ -7232,7 +7243,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2623420,DJ1AA,Mirko,,,DEU,,Private Call,None
 ,2623421,DF5WS,Wolfgang-Rudolf,,,DEU,,Private Call,None
 ,2623422,DL9HBO,Otto,,,DEU,,Private Call,None
-,2623423,DG4TK,Torsten,,,DEU,,Private Call,None
+,2623423,DG4TK,Torsten Alexander,,,DEU,,Private Call,None
 ,2623424,DO6OTH,Thomas,,,DEU,,Private Call,None
 ,2623425,DJ1SM,Soenke,,,DEU,,Private Call,None
 ,2623426,DO7MT,Maik,,,DEU,,Private Call,None
@@ -8508,7 +8519,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2624753,DG1EFR,Ralph,,,DEU,,Private Call,None
 ,2624754,DO5JBU,Joerg,,,DEU,,Private Call,None
 ,2624755,DK3JB,Hans-Gerhard,,,DEU,,Private Call,None
-,2624756,DO1DRN,Dominik,,,DEU,,Private Call,None
+,2624756,DO1DRN,Dominik Marco,,,DEU,,Private Call,None
 ,2624757,DF5EI,Hermann,,,DEU,,Private Call,None
 ,2624758,DL1THM,Torsten,,,DEU,,Private Call,None
 ,2624759,DF7XS,Peter,,,DEU,,Private Call,None
@@ -13939,6 +13950,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2630356,DO2BN,Christian,,,DEU,,Private Call,None
 ,2630357,DL2AD,Karsten,,,DEU,,Private Call,None
 ,2630358,DL7REE,Robert Lambertus Tjeerd,,,DEU,,Private Call,None
+,2630359,DO9RX,Daniel Sascha,,,DEU,,Private Call,None
 ,2630360,DM3MA,Matthias Johannes,,,DEU,,Private Call,None
 ,2630361,DL2THW,Sebastian,,,DEU,,Private Call,None
 ,2630362,DD4CS,Christopher,,,DEU,,Private Call,None
@@ -14409,7 +14421,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2630828,DL1JHR,Michael,,,DEU,,Private Call,None
 ,2630829,DO8RP,Rainer Marcus,,,DEU,,Private Call,None
 ,2630830,DL1EWK,Hans-Eberhard,,,DEU,,Private Call,None
-,2630831,DO2KHW,Karl,,,DEU,,Private Call,None
+,2630831,DO2KHW,Karl Heinz,,,DEU,,Private Call,None
 ,2630832,DG4KL,Klaus,,,DEU,,Private Call,None
 ,2630833,DO2ET,Thomas,,,DEU,,Private Call,None
 ,2630834,DO1NCS,Christian,,,DEU,,Private Call,None
@@ -14430,7 +14442,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2630849,DK7PK,Philipp,,,DEU,,Private Call,None
 ,2630850,DK5GN,Uwe,,,DEU,,Private Call,None
 ,2630851,DL6CN,Christoph Alexander,,,DEU,,Private Call,None
-,2630852,DO5BK,Uwe,,,DEU,,Private Call,None
+,2630852,DO5BK,Uwe Erwin,,,DEU,,Private Call,None
 ,2630853,DO2TC,Peter,,,DEU,,Private Call,None
 ,2630854,DG7WA,Andreas Franz,,,DEU,,Private Call,None
 ,2630855,DO2MBE,Marc,,,DEU,,Private Call,None
@@ -14448,16 +14460,16 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2630867,DD6UTG,Torsten,,,DEU,,Private Call,None
 ,2630868,DO2MAC,Martin,,,DEU,,Private Call,None
 ,2630869,DO1GAD,Achim,,,DEU,,Private Call,None
-,2630870,DO3SMH,Stephan,,,DEU,,Private Call,None
+,2630870,DO3SMH,,,,DEU,,Private Call,None
 ,2630871,DL2THZ,Timo,,,DEU,,Private Call,None
 ,2630872,DO1WHG,Werner,,,DEU,,Private Call,None
 ,2630873,DO9FK,Frank,,,DEU,,Private Call,None
 ,2630874,DO6ID,Ingo,,,DEU,,Private Call,None
-,2630875,DG5FER,Heidi,,,DEU,,Private Call,None
+,2630875,DG5FER,,,,DEU,,Private Call,None
 ,2630876,DO1DAH,Willi,,,DEU,,Private Call,None
 ,2630877,DF9UJ,Juergen,,,DEU,,Private Call,None
 ,2630878,DL1KWK,Frank,,,DEU,,Private Call,None
-,2630879,DO2LO,Thomas,,,DEU,,Private Call,None
+,2630879,DO2LO,,,,DEU,,Private Call,None
 ,2630880,DL9FK,Florian,,,DEU,,Private Call,None
 ,2630881,DL1MAD,Thomas,,,DEU,,Private Call,None
 ,2630882,DO7DOS,Gerald,,,DEU,,Private Call,None
@@ -14465,17 +14477,45 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2630884,DO2TLS,Tilo,,,DEU,,Private Call,None
 ,2630885,DG4EF,Horst,,,DEU,,Private Call,None
 ,2630886,DO1CSB,Christian,,,DEU,,Private Call,None
-,2630887,DH1TL,Thomas,,,DEU,,Private Call,None
-,2630888,DL0DE,Clubst.,,,DEU,,Private Call,None
-,2630889,DL1GST,Torsten,,,DEU,,Private Call,None
-,2630890,DJ0MAD,Mark,,,DEU,,Private Call,None
+,2630887,DH1TL,Thomas Hans-Hugo,,,DEU,,Private Call,None
+,2630888,DL0DE,ClubSt.,,,DEU,,Private Call,None
+,2630889,DL1GST,Torsten Ronald,,,DEU,,Private Call,None
+,2630890,DJ0MAD,Mark Janis,,,DEU,,Private Call,None
 ,2630891,DD1MD,Michael,,,DEU,,Private Call,None
 ,2630892,DD3EE,Alexander,,,DEU,,Private Call,None
 ,2630893,DL8SXB,Ruediger,,,DEU,,Private Call,None
 ,2630894,DL1EML,Eva-Marie,,,DEU,,Private Call,None
-,2630895,DO7NCM,Christian,,,DEU,,Private Call,None
-,2630897,DD4DV,Thorsten,,,DEU,,Private Call,None
+,2630895,DO7NCM,Christian Hubert,,,DEU,,Private Call,None
+,2630897,DD4DV,Thorsten Heinrich,,,DEU,,Private Call,None
 ,2630898,DO5RL,Raphael,,,DEU,,Private Call,None
+,2630899,DO1UDF,Ullrich,,,DEU,,Private Call,None
+,2630900,DF2IY,Wolfgang,,,DEU,,Private Call,None
+,2630901,DO1BJF,Frank,,,DEU,,Private Call,None
+,2630902,DL2OZ,Peter,,,DEU,,Private Call,None
+,2630903,DK2MR,Ronald,,,DEU,,Private Call,None
+,2630904,DO1PPS,Pierre Patrick,,,DEU,,Private Call,None
+,2630905,DO1SCL,Sabine Christina,,,DEU,,Private Call,None
+,2630906,DO1AKW,Alexander,,,DEU,,Private Call,None
+,2630907,DL9HBD,Gunther,,,DEU,,Private Call,None
+,2630908,DO1SL,Carsten Holger Ludwig,,,DEU,,Private Call,None
+,2630909,DO4MHH,Mike,,,DEU,,Private Call,None
+,2630910,DO1TEI,Frank Juergen,,,DEU,,Private Call,None
+,2630911,DF0DOX,ClubSt.,,,DEU,,Private Call,None
+,2630912,DO2LAE,Markus,,,DEU,,Private Call,None
+,2630913,DB9WO,Frank,,,DEU,,Private Call,None
+,2630914,DO1LSF,Sascha Konrad,,,DEU,,Private Call,None
+,2630915,DO2HEI,Heiko,,,DEU,,Private Call,None
+,2630916,DO1ARR,Andreas,,,DEU,,Private Call,None
+,2630917,DO4RWE,Harry,,,DEU,,Private Call,None
+,2630918,DO3WRE,Reinhard Wolfgang,,,DEU,,Private Call,None
+,2630919,DD2SH,Sebastian,,,DEU,,Private Call,None
+,2630920,DO5FN,Falko,,,DEU,,Private Call,None
+,2630921,DG6ACW,Michael,,,DEU,,Private Call,None
+,2630922,DO1BND,Marcel,,,DEU,,Private Call,None
+,2630923,DL4VK,Valentin,,,DEU,,Private Call,None
+,2630924,DO3MOS,Michael,,,DEU,,Private Call,None
+,2630925,DO8NC,Nicolas Cedric,,,DEU,,Private Call,None
+,2630926,DC5TH,Wolfgang,,,DEU,,Private Call,None
 ,2633001,DG4AK,Dietmar,,,DEU,,Private Call,None
 ,2633002,DH8AAA,Oliver,,,DEU,,Private Call,None
 ,2633003,DC6BV,Reinhardt,,,DEU,,Private Call,None
@@ -15327,7 +15367,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2634168,DK8JV,Eberhard,,,DEU,,Private Call,None
 ,2634169,DO1JLO,Joerg,,,DEU,,Private Call,None
 ,2634170,DL1MVD,Michael,,,DEU,,Private Call,None
-,2634171,DL6AKU,Michael,,,DEU,,Private Call,None
 ,2634172,DL3DX,Remigius Marius,,,DEU,,Private Call,None
 ,2634173,DK6FC,Johannes Alexander,,,DEU,,Private Call,None
 ,2634174,DJ3DY,Rudolf,,,DEU,,Private Call,None
@@ -16711,7 +16750,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2638023,DO1NAK,Alexander,,,DEU,,Private Call,None
 ,2638024,DL3NDL,Michael,,,DEU,,Private Call,None
 ,2638025,DH4WK,Willibald,,,DEU,,Private Call,None
-,2638028,DL8MEW,Klaus,,,DEU,,Private Call,None
+,2638028,DL8MEW,Klaus Rudolf,,,DEU,,Private Call,None
 ,2638029,DC5MJ,Manfred,,,DEU,,Private Call,None
 ,2638030,DC1BHE,Hermann,,,DEU,,Private Call,None
 ,2638031,DB1PJ,Juergen,,,DEU,,Private Call,None
@@ -16910,7 +16949,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2638247,DD3NC,Juergen,,,DEU,,Private Call,None
 ,2638248,DJ1GL,Wolfgang,,,DEU,,Private Call,None
 ,2638249,DJ5WJB,Rolf,,,DEU,,Private Call,None
-,2638250,DK1MBN,Norbert,,,DEU,,Private Call,None
+,2638250,DK1MBN,Reinhold Norbert,,,DEU,,Private Call,None
 ,2638251,DO6IQ,Gabriela,,,DEU,,Private Call,None
 ,2638252,DL4NDM,Rudolf,,,DEU,,Private Call,None
 ,2638253,DK8PL,Petra Christin,,,DEU,,Private Call,None
@@ -17602,7 +17641,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2638990,DG4AO,Anton,,,DEU,,Private Call,None
 ,2638992,DL2MEW,Udo,,,DEU,,Private Call,None
 ,2638993,DL2MAN,Manuel,,,DEU,,Private Call,None
-,2640000,DF1AX,Alex,,,DEU,,Private Call,None
+,2640000,DF1AX,Alexander,,,DEU,,Private Call,None
 ,2644001,DF4JG,Ulrich,,,DEU,,Private Call,None
 ,2644002,DO8JKR,Joerg,,,DEU,,Private Call,None
 ,2644004,DL6YES,Hans-Peter,,,DEU,,Private Call,None
@@ -18386,5 +18425,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2644850,DL5JA,Peter,,,DEU,,Private Call,None
 ,2644851,DO3THP,,,,DEU,,Private Call,None
 ,2650000,DO5DC,Christian,,,DEU,,Private Call,None
+,2654321,DM3GA,Michael,,,DEU,,Private Call,None
 ,2655555,DG2MAS,Andreas,,,DEU,,Private Call,None
 ,2656565,DJ3LE,Hans-Juergen,,,DEU,,Private Call,None
