@@ -740,6 +740,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060599,ON5AGQ,Gysemans,,,BEL,,Private Call,None
 ,2060600,ON3HPA,Jan,,,BEL,,Private Call,None
 ,2060601,ON5PU,Paul,,,BEL,,Private Call,None
+,2060602,ON7ARO,Roland,,,BEL,,Private Call,None
+,2060603,ON3DAF,Christian,,,BEL,,Private Call,None
+,2060604,ON7BBL,Bart,,,BEL,,Private Call,None
+,2060605,ON4ALA,Lemmes,,,BEL,,Private Call,None
+,2060606,ON7XF,Erwin,,,BEL,,Private Call,None
+,2060607,ON3PO,Jan,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -3195,6 +3201,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081374,F4DPO,Arnaud,,,FRA,,Private Call,None
 ,2081375,F4JSB,Chardayre,,,FRA,,Private Call,None
 ,2081376,F4FDP,Jean Luc,,,FRA,,Private Call,None
+,2081377,F4JYY,Arnaud,,,FRA,,Private Call,None
+,2081378,F4JWI,Pierre,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -4923,6 +4931,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280263,HB3XDD,Portmann,,,CHE,,Private Call,None
 ,2280264,HB3XEX,Marco,,,CHE,,Private Call,None
 ,2280265,HB9HXF,Daniel,,,CHE,,Private Call,None
+,2280266,HB3XFP,Thomas,,,CHE,,Private Call,None
+,2280267,HB9RRA,Alain,,,CHE,,Private Call,None
+,2280268,HB9HXQ,Marco,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -11393,7 +11404,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3024949,VA3SXX,Stephen,,,CAN,,Private Call,None
 ,3024950,VE9PTG,Perley,,,CAN,,Private Call,None
 ,3024951,VE7HWD,Daniel,,,CAN,,Private Call,None
-,3024952,VE2UGO,Hugo,,,CAN,,Private Call,None
 ,3024953,VE2WJL,Jean-Luc,,,CAN,,Private Call,None
 ,3024954,VA2PXR,Pier-Luc,,,CAN,,Private Call,None
 ,3024955,VA3ZMZ,Patrick,,,CAN,,Private Call,None
@@ -11768,6 +11778,16 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025326,VO1CRM,Chris,,,CAN,,Private Call,None
 ,3025327,VE2MKC,Martin,,,CAN,,Private Call,None
 ,3025328,VE7IFX,Roger,,,CAN,,Private Call,None
+,3025329,VE3XG,Gwyneth Caelee,,,CAN,,Private Call,None
+,3025330,VE7RNG,Randal,,,CAN,,Private Call,None
+,3025331,VA3CDV,Calogero,,,CAN,,Private Call,None
+,3025332,VE2ICL,Benjamin,,,CAN,,Private Call,None
+,3025333,VA3WPB,Justin,,,CAN,,Private Call,None
+,3025334,VE2JWL,Jean Luc,,,CAN,,Private Call,None
+,3025335,VA3QH,Ronald,,,CAN,,Private Call,None
+,3025336,VE6RFL,Robert,,,CAN,,Private Call,None
+,3025337,VE3KNB,Kristian,,,CAN,,Private Call,None
+,3025338,VE7OZW,Colin,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None
