@@ -3209,6 +3209,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081380,F4KNP,Rc Crapma,,,FRA,,Private Call,None
 ,2081381,F4JZC,Nicolas,,,FRA,,Private Call,None
 ,2081382,F4JMI,Mansuy,,,FRA,,Private Call,None
+,2081383,F4JUA,Cabane,,,FRA,,Private Call,None
+,2081384,F4GUQ,Franck,,,FRA,,Private Call,None
+,2081385,F4VVG,Simon,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -11808,6 +11811,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025345,VE6CIG,Gary,,,CAN,,Private Call,None
 ,3025346,VA3JAD,Trish,,,CAN,,Private Call,None
 ,3025347,VE5RJK,Robert,,,CAN,,Private Call,None
+,3025348,VE4ROX,Christopher,,,CAN,,Private Call,None
+,3025349,VE7WDO,William Francis,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None

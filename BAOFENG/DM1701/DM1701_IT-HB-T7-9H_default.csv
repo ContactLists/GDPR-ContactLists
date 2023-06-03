@@ -6374,7 +6374,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2226395,IW6MCX,Pietro,,,,ITA,DMR
 2226396,IK6WHU,Claudio,,,,ITA,DMR
 2226397,IZ6NQL,Sergio,,,,ITA,DMR
-2226398,IU6KQP,Carlo,,,,ITA,DMR
 2226399,IK6AWY,Fausto,,,,ITA,DMR
 2226400,IZ6RJQ,Fabrizio,,,,ITA,DMR
 2226401,IK6DAZ,Dante,,,,ITA,DMR
@@ -10420,7 +10419,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2230454,IU0REK,Matteo,,,,ITA,DMR
 2230455,IZ2GAO,Mario,,,,ITA,DMR
 2230456,IT9IKY,Luigi,,,,ITA,DMR
+2230457,IU4BIY,Giovanni,,,,ITA,DMR
 2230458,IU2RPQ,Luca,,,,ITA,DMR
+2230459,IU8RRE,Luciano,,,,ITA,DMR
+2230460,IW8ENN,Giovanni,,,,ITA,DMR
+2230461,IZ4OSC,Lorenzo,,,,ITA,DMR
+2230462,IZ2YNZ,Michele,,,,ITA,DMR
 2231276,IU5PTS,Stefano,,,,ITA,DMR
 2280001,4U1ITU,International,,,,CHE,DMR
 2280002,HB3XWO,Kornel,,,,CHE,DMR
@@ -12358,3 +12362,4 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2920025,T77AZ,Matias,,,,SMR,DMR
 2920026,T72MS,Mauro,,,,SMR,DMR
 2920027,T77PM,Marco,,,,SMR,DMR
+2920028,T77CB,Aldo Benvenuto,,,,SMR,DMR
