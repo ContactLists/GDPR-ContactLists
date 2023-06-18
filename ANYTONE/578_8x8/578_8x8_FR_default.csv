@@ -750,6 +750,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060609,ON2EA,Jean Marie,,,BEL,,Private Call,None
 ,2060610,ON3RF,Gaetan,,,BEL,,Private Call,None
 ,2060611,ON5APC,Patrick,,,BEL,,Private Call,None
+,2060612,ON3CLL,Carl,,,BEL,,Private Call,None
+,2060613,ON3MEL,Mumin Enis,,,BEL,,Private Call,None
+,2060614,ON3ERI,Eric,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -3216,6 +3219,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081385,F4VVG,Simon,,,FRA,,Private Call,None
 ,2081386,F8JIR,Jean Paul,,,FRA,,Private Call,None
 ,2081387,F4JYN,Jeremy,,,FRA,,Private Call,None
+,2081388,F4GHH,Cyril,,,FRA,,Private Call,None
+,2081389,F4WDZ,Pete,,,FRA,,Private Call,None
+,2081390,F4JFS,Benoit,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -4955,6 +4961,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280274,HB9HWG,Daniel,,,CHE,,Private Call,None
 ,2280275,HB9HUW,Dario,,,CHE,,Private Call,None
 ,2280276,HB3XFA,Heimo,,,CHE,,Private Call,None
+,2280277,HB3XFV,Tobias Andreas,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -11829,6 +11836,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025356,VA3MAD,Denis,,,CAN,,Private Call,None
 ,3025357,VE2PWQ,Nelson,,,CAN,,Private Call,None
 ,3025358,VE2HXR,Raphael,,,CAN,,Private Call,None
+,3025359,VE3BHD,Brian,,,CAN,,Private Call,None
+,3025360,VE1AC,Michael,,,CAN,,Private Call,None
+,3025361,VE9DWF,Tracy,,,CAN,,Private Call,None
+,3025362,VA3JTN,Justin Stafford,,,CAN,,Private Call,None
+,3025363,VE3ZPY,Alain,,,CAN,,Private Call,None
+,3025364,VA2JOG,Jonathan,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None
