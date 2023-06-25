@@ -3222,6 +3222,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081388,F4GHH,Cyril,,,,FRA,DMR
 2081389,F4WDZ,Pete,,,,FRA,DMR
 2081390,F4JFS,Benoit,,,,FRA,DMR
+2081391,F1RWB,Dominique,,,,FRA,DMR
 2081777,F4JBM,Francois,,,,FRA,DMR
 2082001,F4FUL,Cyril,,,,FRA,DMR
 2082002,F5VIN,Heiko,,,,FRA,DMR
@@ -4962,6 +4963,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280275,HB9HUW,Dario,,,,CHE,DMR
 2280276,HB3XFA,Heimo,,,,CHE,DMR
 2280277,HB3XFV,Tobias Andreas,,,,CHE,DMR
+2280278,HB9HUE,Hans Joerg,,,,CHE,DMR
 2281001,HB3YNV,Cedric,,,,CHE,DMR
 2281002,HB3YNV,Cedric,,,,CHE,DMR
 2281003,HB3YNV,Cedric,,,,CHE,DMR
@@ -11842,6 +11844,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025362,VA3JTN,Justin Stafford,,,,CAN,DMR
 3025363,VE3ZPY,Alain,,,,CAN,DMR
 3025364,VA2JOG,Jonathan,,,,CAN,DMR
+3025365,VA2KFU,Deroy,,,,CAN,DMR
+3025366,VE7IP,East Kootenay Arc,,,,CAN,DMR
+3025367,VA3AYD,Jon,,,,CAN,DMR
+3025368,VE4CYW,Ching Yin Eric,,,,CAN,DMR
 3026001,VA6IP,Kiernan,,,,CAN,DMR
 3026002,VE6GG,Kerry,,,,CAN,DMR
 3026003,VE6GG,Kerry,,,,CAN,DMR
