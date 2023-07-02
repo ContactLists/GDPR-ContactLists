@@ -753,6 +753,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060612,ON3CLL,Carl,,,BEL
 2060613,ON3MEL,Mumin Enis,,,BEL
 2060614,ON3ERI,Eric,,,BEL
+2060615,ON8MA,Georges,,,BEL
+2060616,ON3PEA,Paul,,,BEL
+2060617,ON3JC,Jasper,,,BEL
 2061001,ON8SVH,Stijn,,,BEL
 2061002,ON8SI,Simon,,,BEL
 2061003,ON5LUC,Luc,,,BEL
@@ -3223,6 +3226,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081389,F4WDZ,Pete,,,FRA
 2081390,F4JFS,Benoit,,,FRA
 2081391,F1RWB,Dominique,,,FRA
+2081392,F4FTX,Erwan,,,FRA
 2081777,F4JBM,Francois,,,FRA
 2082001,F4FUL,Cyril,,,FRA
 2082002,F5VIN,Heiko,,,FRA
@@ -4964,6 +4968,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280276,HB3XFA,Heimo,,,CHE
 2280277,HB3XFV,Tobias Andreas,,,CHE
 2280278,HB9HUE,Hans Joerg,,,CHE
+2280279,HB3XEU,Juerg,,,CHE
+2280280,HB3XEO,Oliver,,,CHE
+2280281,HB3XFU,Michele,,,CHE
+2280282,HB100JAM,Kisc,,,CHE
 2281001,HB3YNV,Cedric,,,CHE
 2281002,HB3YNV,Cedric,,,CHE
 2281003,HB3YNV,Cedric,,,CHE
@@ -11848,6 +11856,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3025366,VE7IP,East Kootenay Arc,,,CAN
 3025367,VA3AYD,Jon,,,CAN
 3025368,VE4CYW,Ching Yin Eric,,,CAN
+3025369,VE7ZCZ,Zachariah,,,CAN
+3025370,VE3AOR,Steven,,,CAN
 3026001,VA6IP,Kiernan,,,CAN
 3026002,VE6GG,Kerry,,,CAN
 3026003,VE6GG,Kerry,,,CAN

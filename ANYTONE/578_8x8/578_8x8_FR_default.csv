@@ -753,6 +753,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060612,ON3CLL,Carl,,,BEL,,Private Call,None
 ,2060613,ON3MEL,Mumin Enis,,,BEL,,Private Call,None
 ,2060614,ON3ERI,Eric,,,BEL,,Private Call,None
+,2060615,ON8MA,Georges,,,BEL,,Private Call,None
+,2060616,ON3PEA,Paul,,,BEL,,Private Call,None
+,2060617,ON3JC,Jasper,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -3223,6 +3226,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081389,F4WDZ,Pete,,,FRA,,Private Call,None
 ,2081390,F4JFS,Benoit,,,FRA,,Private Call,None
 ,2081391,F1RWB,Dominique,,,FRA,,Private Call,None
+,2081392,F4FTX,Erwan,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -4964,6 +4968,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280276,HB3XFA,Heimo,,,CHE,,Private Call,None
 ,2280277,HB3XFV,Tobias Andreas,,,CHE,,Private Call,None
 ,2280278,HB9HUE,Hans Joerg,,,CHE,,Private Call,None
+,2280279,HB3XEU,Juerg,,,CHE,,Private Call,None
+,2280280,HB3XEO,Oliver,,,CHE,,Private Call,None
+,2280281,HB3XFU,Michele,,,CHE,,Private Call,None
+,2280282,HB100JAM,Kisc,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -11848,6 +11856,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025366,VE7IP,East Kootenay Arc,,,CAN,,Private Call,None
 ,3025367,VA3AYD,Jon,,,CAN,,Private Call,None
 ,3025368,VE4CYW,Ching Yin Eric,,,CAN,,Private Call,None
+,3025369,VE7ZCZ,Zachariah,,,CAN,,Private Call,None
+,3025370,VE3AOR,Steven,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None
