@@ -757,6 +757,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060616,ON3PEA,Paul,,,BEL,,Private Call,None
 ,2060617,ON3JC,Jasper,,,BEL,,Private Call,None
 ,2060618,ON3HKO,Helmut,,,BEL,,Private Call,None
+,2060619,ON3NL,Arnoud,,,BEL,,Private Call,None
+,2060620,ON3NGL,Alice,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -3232,6 +3234,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081394,F4EEL,Dominique Dl,,,FRA,,Private Call,None
 ,2081395,F4NYC,Laroche,,,FRA,,Private Call,None
 ,2081396,F4GHR,Amaury,,,FRA,,Private Call,None
+,2081397,F4LBB,Joseph,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -4982,6 +4985,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280285,HB3XFG,Markus,,,CHE,,Private Call,None
 ,2280286,HB9HOA,Wiget,,,CHE,,Private Call,None
 ,2280287,HB9HEY,Bela,,,CHE,,Private Call,None
+,2280288,HB3XGE,Mike,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -11874,6 +11878,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025374,VE7HJ,James,,,CAN,,Private Call,None
 ,3025375,VE6GPT,Gordon Patrick,,,CAN,,Private Call,None
 ,3025376,VE3ZHI,Paul,,,CAN,,Private Call,None
+,3025377,VE6CKY,James Maurice,,,CAN,,Private Call,None
+,3025378,VE2LBI,Stephane,,,CAN,,Private Call,None
+,3025379,VE3XLQ,Peter,,,CAN,,Private Call,None
+,3025380,VA7YRV,Roman,,,CAN,,Private Call,None
+,3025381,VA3DTJ,David,,,CAN,,Private Call,None
+,3025382,VA3HCR,Greg,,,CAN,,Private Call,None
+,3025383,VE3TUH,Randy,,,CAN,,Private Call,None
+,3025384,VA3VZT,Linda,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None
