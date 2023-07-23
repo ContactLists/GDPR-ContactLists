@@ -287,6 +287,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280286,HB9HOA,Wiget,,,,CHE
 2280287,HB9HEY,Bela,,,,CHE
 2280288,HB3XGE,Mike,,,,CHE
+2280289,HB3XGG,Marco,,,,CHE
+2280290,HB9TLY,Werner,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -2449,6 +2451,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320594,OE4GGH,Georg,,,,AUT
 2320595,OE6TXW,Tom,,,,AUT
 2320596,OE3CWU,Christoph,,,,AUT
+2320597,OE7LPM,Thomas,,,,AUT
 2321001,OE1KBC,Kurt,,,,AUT
 2321002,OE1KBC,Kurt,,,,AUT
 2321003,OE1KBC,Kurt,,,,AUT
@@ -13798,7 +13801,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2630143,DK5AI,Wolfgang,,,,DEU
 2630144,DO6ASZ,Enrico,,,,DEU
 2630145,DJ2HM,Hendrik,,,,DEU
-2630146,DO7JOC,Jochen,,,,DEU
+2630146,DL6JOE,Jochen,,,,DEU
 2630147,DM3IC,Dominik,,,,DEU
 2630148,DJ6TB,Thomas,,,,DEU
 2630149,DO7MJK,Martin Josef,,,,DEU
@@ -14853,6 +14856,24 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2631212,DB3KW,Uwe,,,,DEU
 2631213,DL4RAB,Rike,,,,DEU
 2631214,DO1WEI,Stefan,,,,DEU
+2631215,DL8EBL,Olaf,,,,DEU
+2631216,DL7CP,Christian,,,,DEU
+2631217,DB1CR,Christoph,,,,DEU
+2631218,DL3MFG,Karen,,,,DEU
+2631219,DB1KEC,Alexander,,,,DEU
+2631220,DO5RAK,Ralf,,,,DEU
+2631221,DM8LE,Leandro,,,,DEU
+2631222,DL1TWA,Tobias,,,,DEU
+2631223,DO6AC,Colin,,,,DEU
+2631224,DL2FD,Horst,,,,DEU
+2631225,DO1LAA,Andre,,,,DEU
+2631226,DL7HRM,Heinrich,,,,DEU
+2631227,DO8DH,Dominik,,,,DEU
+2631228,DO1HN,Harald,,,,DEU
+2631229,DL4FJ,Volker,,,,DEU
+2631230,DF1JB,Jan,,,,DEU
+2631231,DG3ACK,Ralf,,,,DEU
+2631232,DL1FF,Rainer,,,,DEU
 2631337,DO9CK,Christopher,,,,DEU
 2633001,DG4AK,Dietmar,,,,DEU
 2633002,DH8AAA,Oliver,,,,DEU
@@ -17152,7 +17173,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2638117,DB5FX,Andreas,,,,DEU
 2638119,DG7NCY,Eberhard,,,,DEU
 2638120,DG1MBH,Robert,,,,DEU
-2638121,DG3NCG,Walter,,,,DEU
 2638122,DL1SFA,Walter Anton,,,,DEU
 2638123,DL4NP,Roland,,,,DEU
 2638124,DF5MR,Heinz,,,,DEU
@@ -18729,3 +18749,4 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2655555,DG2MAS,Andreas,,,,DEU
 2656565,DJ3LE,Hans-Juergen,,,,DEU
 2656666,DL8EP,Erik,,,,DEU
+2658888,DG3NCG,Walter,,,,DEU
