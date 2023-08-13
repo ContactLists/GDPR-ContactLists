@@ -766,6 +766,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060625,ON4WIX,Glenn,,,BEL
 2060626,ON3RJM,Jozef,,,BEL
 2060627,ON7DAL,Kris,,,BEL
+2060628,ON6ZT,Amateur Radio Clubstation,,,BEL
 2061001,ON8SVH,Stijn,,,BEL
 2061002,ON8SI,Simon,,,BEL
 2061003,ON5LUC,Luc,,,BEL
@@ -3248,6 +3249,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081401,F4VTR,Dimitrios,,,FRA
 2081402,F4IWO,Gregory,,,FRA
 2081403,F6ENR,Gervais,,,FRA
+2081404,F4ICA,Boillon,,,FRA
 2081777,F4JBM,Francois,,,FRA
 2082001,F4FUL,Cyril,,,FRA
 2082002,F5VIN,Heiko,,,FRA
@@ -5005,6 +5007,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280292,HB9DKY,Hans Peter,,,CHE
 2280293,HB9OBM,Renato,,,CHE
 2280294,HB9FDY,Michael,,,CHE
+2280295,HB9HDJ,Juerg George,,,CHE
 2281001,HB3YNV,Cedric,,,CHE
 2281002,HB3YNV,Cedric,,,CHE
 2281003,HB3YNV,Cedric,,,CHE
@@ -11921,6 +11924,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3025398,VE4JUB,Jean,,,CAN
 3025399,VA6DKA,Deneir,,,CAN
 3025400,VA7JC,Jonathan,,,CAN
+3025401,VE7BUM,Donald Ian,,,CAN
+3025402,VA3RUC,Samuel,,,CAN
+3025403,VE7RIN,East Kootenay Arc,,,CAN
+3025404,VA7YBI,Jack,,,CAN
+3025405,VA3IRD,Adam,,,CAN
+3025406,VA2YGH,Yann,,,CAN
+3025407,VA7UQ,James Russell,,,CAN
 3026001,VA6IP,Kiernan,,,CAN
 3026002,VE6GG,Kerry,,,CAN
 3026003,VE6GG,Kerry,,,CAN
@@ -12126,8 +12136,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3026217,VE6AJD,Robert,,,CAN
 3026218,VE6DPA,Michael,,,CAN
 3026219,VA6BBY,Marife,,,CAN
-3026220,VE6IZ,James,,,CAN
-3026221,VE6KDL,James,,,CAN
 3026222,VA6JG,John,,,CAN
 3026223,VE6GG,Kerry,,,CAN
 3026226,VE2DFD,Wayne,,,CAN
