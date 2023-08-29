@@ -3260,6 +3260,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081409,F4FIA,Mickael,,,,FRA,DMR
 2081410,F4LAV,Jerome,,,,FRA,DMR
 2081411,F4HVV,Valentin,,,,FRA,DMR
+2081412,F5CDN,Sorel,,,,FRA,DMR
 2081777,F4JBM,Francois,,,,FRA,DMR
 2082001,F4FUL,Cyril,,,,FRA,DMR
 2082002,F5VIN,Heiko,,,,FRA,DMR
@@ -5021,6 +5022,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280296,HB9HPE,Joel,,,,CHE,DMR
 2280297,HB9HXZ,Reto,,,,CHE,DMR
 2280298,HB9GUN,Andi,,,,CHE,DMR
+2280299,HB9HXW,Daniel,,,,CHE,DMR
 2281001,HB3YNV,Cedric,,,,CHE,DMR
 2281002,HB3YNV,Cedric,,,,CHE,DMR
 2281003,HB3YNV,Cedric,,,,CHE,DMR
@@ -11958,6 +11960,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025419,VA7WKW,William,,,,CAN,DMR
 3025420,VE3NHQ,Northern Ontario,,,,CAN,DMR
 3025421,VA7KPW,Kevan Paul,,,,CAN,DMR
+3025422,VE3KVR,David,,,,CAN,DMR
+3025423,VE2CFY,Alexandre,,,,CAN,DMR
+3025424,VE3RLV,Ronald,,,,CAN,DMR
 3026001,VA6IP,Kiernan,,,,CAN,DMR
 3026002,VE6GG,Kerry,,,,CAN,DMR
 3026003,VE6GG,Kerry,,,,CAN,DMR
