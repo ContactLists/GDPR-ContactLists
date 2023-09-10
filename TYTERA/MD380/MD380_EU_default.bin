@@ -1,4 +1,4 @@
-2696036
+2694921
 1,Local,,,,,
 2,Local/Cluster,,,,,
 8,Regional,,,,,
@@ -33,9 +33,7 @@
 246,Lithuania,,,,,
 247,Latvia,,,,,
 248,Estonia,,,,,
-250,Russia,,,,,
 255,Ukraine,,,,,
-257,Weissrussland,,,,,
 259,Moldova,,,,,
 260,Poland,,,,,
 262,Deutschland,,,,,
@@ -43,7 +41,6 @@
 268,Portugal,,,,,
 270,Luxembourg,,,,,
 272,Ireland,,,,,
-276,Albanien,,,,,
 278,Malta,,,,,
 280,Cyprus,,,,,
 282,Georgia,,,,,
@@ -55,14 +52,11 @@
 293,Slovenia,,,,,
 295,Liechtenstein,,,,,
 297,Montenegro,,,,,
-888,888,,,,,
-899,Repeater Testing,,,,,
 901,WW Tac 1,,,,,
 902,WW Tac 2,,,,,
 903,WW Tac 3,,,,,
 907,JOTA,,,,,
 910,German,,,,,
-911,Francais,,,,,
 913,English,,,,,
 914,Spanish,,,,,
 915,Portuguese,,,,,
@@ -94,8 +88,6 @@
 2043,Zuid NLD,,,,,
 2044,Oost NLD,,,,,
 2045,TechTalk NLD,,,,,
-2047,Chat 1 NLD,,,,,
-2048,Chat 2 NLD,,,,,
 2061,Belgium North,,,,,
 2062,Belgium South,,,,,
 2063,Belgium East,,,,,
@@ -111,9 +103,7 @@
 2083,France Midi Pyrenees 3,,,,,
 2084,France Est 4,,,,,
 2085,France Ouest,,,,,
-2086,France Atlantique 6,,,,,
 2087,France Nord 7,,,,,
-2088,France Centre 8,,,,,
 2089,France DOM-TOM,,,,,
 2140,Spain Link,,,,,
 2141,Regional EA1,,,,,
@@ -131,26 +121,6 @@
 2164,Hungary South,,,,,
 2165,Hungary Test,,,,,
 2169,Local repeater,,,,,
-2230,Lazio,,,,,
-2231,Sardegna,,,,,
-2232,Umbria,,,,,
-2233,Liguria,,,,,
-2234,Piemonte,,,,,
-2235,Valle Aosta,,,,,
-2236,Lombardia,,,,,
-2237,Friuli VG,,,,,
-2238,Trentino AA,,,,,
-2239,Veneto,,,,,
-2240,Emilia-Rom.,,,,,
-2241,Toscana,,,,,
-2242,Abruzzo,,,,,
-2243,Marche,,,,,
-2244,Puglia,,,,,
-2245,Basilicata,,,,,
-2246,Calabria,,,,,
-2247,Campania,,,,,
-2248,Molise,,,,,
-2249,Sicilia,,,,,
 2260,OZN Area,,,,,
 2262,District YO2,,,,,
 2263,District YO3,,,,,
@@ -201,8 +171,6 @@
 2385,Denmark Sjaelland,,,,,
 2386,QSY1 Chat,,,,,
 2387,QSY2 Chat,,,,,
-2388,D-Star DCS699B,,,,,
-2389,XLX238 Interlink,,,,,
 2400,Regional SM0,,,,,
 2401,Regional SM1,,,,,
 2402,Regional SM2,,,,,
@@ -267,7 +235,6 @@
 2686,Azores,,,,,
 2687,Madeira Is.,,,,,
 2701,XLX270 A,,,,,
-2702,Luxembourg North,,,,,
 2703,Luxembourg Center,,,,,
 2705,LX ADRAD,,,,,
 2706,LX RLX,,,,,
@@ -276,8 +243,6 @@
 2723,IE Chat,,,,,
 2724,TG2724 IE-YSF Bridge,,,,,
 2729,AREN Logistics,,,,,
-2730,TG2730 AREN Log.,,,,,
-2731,XLX925 MultiLink.,,,,,
 2780,Malta EchoLink,,,,,
 2802,Nicosia,,,,,
 2803,Famagusta,,,,,
@@ -288,9 +253,6 @@
 2840,TEST,,,,,
 2842,Sofia,,,,,
 2843,Plovdiv,,,,,
-2844,Burgas,,,,,
-2847,Haskovo,,,,,
-2849,Varna,,,,,
 2860,Turkey Istanbul,,,,,
 2861,Turkey 1.Region,,,,,
 2940,EmComm,,,,,
@@ -305,28 +267,6 @@
 2949,Strumica,,,,,
 3722,Department Ouest,,,,,
 3728,Department Sud-Est,,,,,
-4033,4033 Gestland,,,,,
-4250,REF4250TestItaly,,,,,
-4251,REF4251TestItaly-Zona1,,,,,
-4252,REF4252TestItaly-Zona2,,,,,
-4253,REF4253TestItaly-Zona3,,,,,
-4254,REF4254TestItaly-Zona4,,,,,
-4255,REF4255TestItaly-Zona5,,,,,
-4256,REF4256TestItaly-Zona6,,,,,
-4257,REF4257TestItaly-Zona7,,,,,
-4258,REF4258TestItaly-Zona8,,,,,
-4259,REF4259TestItaly-Zona9,,,,,
-4260,REF4260TestItaly-Zona0,,,,,
-4799,REF4799XEExperimental,,,,,
-4837,TG937Francophone,,,,,
-4907,TG907JOTA,,,,,
-4990,REF4990Testreflector1,,,,,
-4991,REF4991Testreflector2,,,,,
-4992,REF4992Testreflector3,,,,,
-4993,REF4993Testreflector4,,,,,
-4999,REF4999ExtendedRouting,,,,,
-5000,Status,,,,,
-8515,Dstar Italia XLX-77 Link,,,,,
 9071,JOTA Tac 1,,,,,
 9072,JOTA Tac 2,,,,,
 9073,JOTA Tac 3,,,,,
@@ -344,17 +284,8 @@
 9410,ATV Talk,,,,,
 9480,ICQ Podcast,,,,,
 9500,Collegiate,,,,,
-9502,XRF250C Bridge,,,,,
-9504,*RUSSIA* (EchoLink),,,,,
-9505,Bridge to Radiocult (FRN),,,,,
 9800,Cafe Gratis,,,,,
 9911,Emcom US,,,,,
-9990,ECHO,,,,,
-9994,FCSNL-007,,,,,
-9995,YSF444,,,,,
-9996,YSF-Centraal,,,,,
-9997,YSF-Almere,,,,,
-9998,EchoNCPRN,,,,,
 20201,Hellenic Tech 1,,,,,
 20202,Hellenic Tech 2,,,,,
 20203,Hellenic Echolink Bridge,,,,,
@@ -366,10 +297,7 @@
 20261,Ioannina Greece,,,,,
 20281,Corfu Island Greece,,,,,
 20401,Wires-X Hobbyscoop,,,,,
-20411,Z-O Digi NLD,,,,,
-20412,XRelay,,,,,
 20413,Noordenveld,,,,,
-20415,Peanut XRF088T,,,,,
 20421,Regio Keistad,,,,,
 20422,Rijk van Nijmegen,,,,,
 20423,Utrecht,,,,,
@@ -383,7 +311,6 @@
 20443,GLD Midden NLD,,,,,
 20492,Veteranendag,,,,,
 20493,RFDX,,,,,
-20494,YSF444,,,,,
 20601,Belgium North YSF Bridge,,,,,
 20602,Belgium South YSF Bridge,,,,,
 20610,Belgian CW,,,,,
@@ -391,12 +318,10 @@
 20800,YSF France,,,,,
 20803,Dept Allier,,,,,
 20810,Departement Aube,,,,,
-20811,YSF France,,,,,
 20812,Dept Aveyron,,,,,
 20813,Dept Bouches-du-Rhone,,,,,
 20818,Dept Cher,,,,,
 20820,Dept Corse,,,,,
-20821,Corsica,,,,,
 20825,D√©pt Doubs,,,,,
 20828,D√©pt Eure-et-Loir,,,,,
 20830,Dept Gard,,,,,
@@ -488,6 +413,7 @@
 22201,Lazio,,,,,
 22202,Sardegna,,,,,
 22203,Umbria,,,,,
+22209,IT Radio Chat,,,,,
 22211,Liguria,,,,,
 22212,Piemonte,,,,,
 22213,Valle d Aosta,,,,,
@@ -496,30 +422,27 @@
 22232,Trentino Alto Adige,,,,,
 22233,Veneto,,,,,
 22241,Emilia Romagna,,,,,
+22249,IT Radio Canate,,,,,
 22251,Toscana,,,,,
 22261,Abruzzo,,,,,
 22262,Marche,,,,,
+22266,Abruzzo Radio,,,,,
+22269,IT Francavilla,,,,,
 22271,Puglia,,,,,
 22281,Basilicata,,,,,
 22282,Calabria,,,,,
 22283,Campania,,,,,
 22284,Molise,,,,,
-22286,CL†ARPP Associazione Radioamatori Polo Positivo,,,,,
 22287,IT CISAR,,,,,
 22288,IT ARI,,,,,
 22289,IT ERA,,,,,
-22290,CL†ARFI Associazione Radioamatori Finanzieri Italiani,,,,,
 22291,Sicilia,,,,,
 22292,Dstar ITALY,,,,,
-22296,Wires-X Room IT-Italy-Free Link,,,,,
 22298,Wires-X ITALY-NORD,,,,,
-22299,WIRESX-Room-ITA,,,,,
-22400,Wires-X Room ITALIA CISAR Multiprotocol Link,,,,,
-22480,Digiland Italy Group multiprotocol Link,,,,,
-22486,Gruppo Radioamatori G.P.G.†(Time Slot-1 Preferable),,,,,
 22601,Diaspora YO,,,,,
 22602,LoRa YO,,,,,
 22603,Gate to ROLINK,,,,,
+22610,BMZELLRO,,,,,
 22691,YO Start,,,,,
 22801,UA 1,,,,,
 22802,UA 2,,,,,
@@ -532,7 +455,6 @@
 22814,Alpes Valaisannes,,,,,
 22815,Neuchatel,,,,,
 22817,Fribourg,,,,,
-22820,Bridge YSF-HB9,,,,,
 22860,Swiss-Italiana,,,,,
 22877,Poschiavo,,,,,
 23200,TAC 1 Austria,,,,,
@@ -548,9 +470,6 @@
 23516,Jersey,,,,,
 23520,N.West,,,,,
 23526,Hubnet UK,,,,,
-23527,UK Mil & Vet,,,,,
-23528,UK Hackspace,,,,,
-23529,Bracknell ARC,,,,,
 23530,Yorkshire,,,,,
 23531,RAYNET UK,,,,,
 23540,Ireland Chat,,,,,
@@ -564,8 +483,6 @@
 23575,SALOP Cluster,,,,,
 23580,Midlands,,,,,
 23590,East Midlands,,,,,
-23810,YSF238 YSF DENMARK,,,,,
-23811,WiresX CQ-SWEDEN,,,,,
 23812,WiresX CQ-DENMARK,,,,,
 23824,BornHack,,,,,
 23888,OZ0FT Link,,,,,
@@ -577,12 +494,6 @@
 24203,Chatrom 3,,,,,
 24204,Chatrom 4,,,,,
 24400,AX OH0 QSY,,,,,
-24401,Finland QSY1,,,,,
-24402,Finland QSY2,,,,,
-24403,Finland SAR,,,,,
-24404,Finland Tech Talk,,,,,
-24405,Finland Bulletins,,,,,
-24406,Finland Testing,,,,,
 24409,AX OH0 SAR/FRT,,,,,
 24410,FI OH1 QSY,,,,,
 24420,FI OH2 QSY,,,,,
@@ -601,16 +512,11 @@
 24461,Finland OH6 Jyv√§skyl√§ region,,,,,
 24462,FI OH6 Pjm,,,,,
 24463,FI OH6 √ñbo,,,,,
-24465,TG de uso libre,,,,,
 24470,FI OH7 QSY,,,,,
 24471,FI OH7 OSa,,,,,
 24472,FI OH7 PKa,,,,,
 24480,FI OH8 QSY,,,,,
 24490,FI OH9 QSY,,,,,
-24491,Finland Links1,,,,,
-24492,Finland Links2,,,,,
-24493,Finland Links3,,,,,
-24499,Finland All-Mode-Linking,,,,,
 24601,Lithuania MultiMode,,,,,
 24706,XLX636,,,,,
 24804,ES4 Narva Region,,,,,
@@ -678,6 +584,7 @@
 26202,DL Aeronautical,,,,,
 26207,Sachsen-Anhalt,,,,,
 26209,Brandenburg,,,,,
+26211,OV F11 Bad Homburg,,,,,
 26212,Berlin-City,,,,,
 26217,Mecklenburg - Vorpommern,,,,,
 26220,Grossraum Hamburg,,,,,
@@ -721,6 +628,7 @@
 26264,Odenwald,,,,,
 26265,Taunus,,,,,
 26266,TAC 4,,,,,
+26269,Wires-X DL-HE/RLP,,,,,
 26270,Stuttgart,,,,,
 26271,Baden,,,,,
 26272,Neckar-Odenwald,,,,,
@@ -777,6 +685,7 @@
 26444,Inselfreunde,,,,,
 26446,Multibridge OWL,,,,,
 26447,OWL-Talk,,,,,
+26538,Nordharz,,,,,
 26810,PT DMRNXDN PT,,,,,
 26861,CU1-Sta.Maria Isl.,,,,,
 26862,CU2-S.Miguel Isl.,,,,,
@@ -851,38 +760,18 @@
 29497,Traffic NAV Borders,,,,,
 29498,Multilanguage,,,,,
 29499,TechZone,,,,,
-90710,JOTA deutsch,,,,,
 91665,Marines RNLMC,,,,,
 95150,Global NorCal 5150,,,,,
 97911,Red Am√©ricas EMCOM,,,,,
-98001,WWARG,,,,,
-98002,HamFurs,,,,,
 98003,Reddit,,,,,
-98004,W8IRC IRC Chat,,,,,
-98005,SBE,,,,,
 98006,AMSAT,,,,,
-98007,IECRO,,,,,
 98008,Military Veterans,,,,,
-98009,World Events,,,,,
-98010,Cafe Gratis WW,,,,,
-98011,FT8DMC,,,,,
 98012,LBGTQ,,,,,
-98013,Sked TG Europe,,,,,
-98014,RV-ers World Wide,,,,,
-98229,Sicily FREE,,,,,
 98638,WVNET,,,,,
-98977,OpenGD77,,,,,
-202011,DV4 Chat,,,,,
-202012,DMO Chat,,,,,
-202020,Hellenic RoIP,,,,,
-202030,Greek QSO net,,,,,
-202199,HAREN,,,,,
 204907,JOTA NL CQ,,,,,
 204911,EmComm NL,,,,,
 208003,RPT Fontenay JN18kq,,,,,
 208647,Reunion Island,,,,,
-208911,RPT St Amand JO10RK,,,,,
-208921,RPT Dijon JN27mh,,,,,
 208963,RPT Capelle L.G. JO11ea,,,,,
 214012,Galicia,,,,,
 214112,Emergencias,,,,,
@@ -897,54 +786,18 @@
 222009,TAC9-ITA,,,,,
 222010,TAC10-ITA,,,,,
 222030,Cluster Brescia,,,,,
-222031,CL†DOLOMITI,,,,,
-222037,CL†RAGUSA,,,,,
-222039,CL†SALENTO,,,,,
-222048,CL†OROBIE,,,,,
-222049,CL†INSUBRIA,,,,,
-222052,CL†GOLFO di GAETA,,,,,
-222054,CL†MALPENSA,,,,,
-222055,CL†D2ALP - Appennino Ligure Piemontese,,,,,
-222056,CL†AGRIGENTO,,,,,
-222057,CL†TORINO,,,,,
-222058,CL†CASSINO,,,,,
-222059,CL†VERONA,,,,,
-222060,CL†CATANIA,,,,,
-222061,CL†PALERMO,,,,,
-222062,CL†PARCO NAZIONALE ABRUZZO & MOLISE,,,,,
-222063,CL†TERNI,,,,,
-222064,CL†SAVONA,,,,,
-222065,CL†ARCIPELAGO TOSCANO,,,,,
-222066,CL†CASTELLAMMARE DI STABIA,,,,,
-222067,CL†ROVIGO,,,,,
-222068,CL†PERUGIA,,,,,
-222069,CL†ADRIATICO,,,,,
-222070,CL†AVELLINO,,,,,
-222071,CL†VILLA SAN GIOVANNI,,,,,
-222072,CL†VAL DI BISENZIO,,,,,
-222073,CL†AGRO NOCERINO SARNESE,,,,,
-222074,CL†VALLI CANAVESANE,,,,,
-222090,CL†STRETTO di MESSINA,,,,,
-222111,CL†GRUPPO DMR R.N.R.E.,,,,,
 222112,Emergenza-112,,,,,
-222113,Emergenza-113,,,,,
-222555,CL†Gruppo Radio Firenze,,,,,
-222666,CL†ANCONA,,,,,
-222773,CL†ROMA/LATINA,,,,,
 222907,JOTA IT,,,,,
 222990,Special Activation,,,,,
-222991,SvxLink RedNet,,,,,
-222992,SvxLinkTaa,,,,,
 226112,YO EMCOMM 112,,,,,
-226123,YO QSO PARTY,,,,,
 226777,CafeGratis Arges,,,,,
-228111,Room Verbier,,,,,
 235907,JOTA UK,,,,,
 240240,DCS010B,,,,,
 240888,SM Openspot,,,,,
 240907,JOTA SE,,,,,
 250011,Russia / Ukhta,,,,,
 250014,Russia / Khabarovsk,,,,,
+250015,Russia,,,,,
 250016,Russia / Nizhnekamsk,,,,,
 250021,Russia / Cheboksary,,,,,
 250024,Russia / Krasnoyarsk Region,,,,,
@@ -1040,8 +893,6 @@
 250813,Russia / SPBR7,,,,,
 250888,Russia / Shumerlya,,,,,
 250907,JOTA RU,,,,,
-250997,ParrotService,,,,,
-250999,APRSGate,,,,,
 260014,Poland Tech,,,,,
 260015,SP EmCom,,,,,
 260019,Homebrew testing,,,,,
@@ -1055,8 +906,6 @@
 262826,DM0QN,,,,,
 262841,Region Ingolstadt,,,,,
 262872,Amberg,,,,,
-262997,Echo,,,,,
-262999,GPS,,,,,
 263112,HiOrg-Talk EmComm,,,,,
 263113,(Un)Wetter Netz,,,,,
 263301,Bahnfreunde,,,,,
@@ -1066,7 +915,6 @@
 264555,IG HamSpirit,,,,,
 265112,Notfunk-Deutschland,,,,,
 268112,EmComm PT,,,,,
-268117,Emergencia 117,,,,,
 268901,Oporto group,,,,,
 268902,R. A. T. A.,,,,,
 268903,ARAT Club,,,,,
@@ -1077,49 +925,19 @@
 268914,PT DMR<>CS5LART,,,,,
 268915,PT Hotspot(2),,,,,
 268916,YSF BR,,,,,
-268940,XRF040 A,,,,,
-268941,XRF040 B,,,,,
-268942,XRF789 B,,,,,
-268945,XLX766 D,,,,,
-268950,XLX950 E,,,,,
 272907,JOTA IRL,,,,,
-272997,Parrot Service,,,,,
-272999,APRS Gate,,,,,
 283001,Armenia Global,,,,,
 284112,EmComm BG,,,,,
 284359,XLX359B,,,,,
-284991,Audition App,,,,,
-284997,Parrot Service,,,,,
 286112,AFET ACIL DURUM,,,,,
-950600,Russia / Ivanovo,,,,,
-950601,Russia / Tarko-Sale / RT9K,,,,,
-950602,Russia / Tarko-Sale / RT9K / Emergency,,,,,
-950603,Russia / Moscow / UA3AAT,,,,,
-950604,Russia / Moscow / ICS,,,,,
-950605,Russia / Ekaterinburg (1),,,,,
-950606,Russia / Saint Petersburg,,,,,
-950607,Russia / Verkhnaya Pyshma,,,,,
-950608,Russia / Kaliningrad,,,,,
-950609,Russia / Syktyvkar,,,,,
-950610,Russia / Chelyabinsk,,,,,
-950611,Russia / Moscow / RD3ANL,,,,,
-950612,Russia / Omsk,,,,,
-950613,Russia / Ekaterinburg (2),,,,,
-950614,Russia / Domodedovo,,,,,
-950615,Russia / Rostov-on-Don,,,,,
-950616,Russia / Rostov Region,,,,,
-950617,Russia / Caucasus,,,,,
-950618,Russia / Kirov,,,,,
-950619,Russia / Volgodonsk,,,,,
-950620,Russia / Moscow / R2AJV,,,,,
-950621,Russia / Moscow,,,,,
-950622,Russia / Krasnoyarsk (1),,,,,
-950623,Russia / Krasnoyarsk (2),,,,,
-950624,Russia / Mozhaysk,,,,,
-950626,Russia / Narofominsk,,,,,
-950627,Russia / Krasnodar,,,,,
-950628,Russia / Sevastopol,,,,,
-950629,Russia / Zelenograd (Moscow),,,,,
+292112,San Marino Emergenza,,,,,
+983872,9-TETRA,,,,,
+2049881,XRF088 A,,,,,
+2049882,XRF088 B,,,,,
+2080332,France/DCS033C 16,,,,,
+2080673,France/XRF067C 17,,,,,
+2169112,Emergency Hungary,,,,,
+2709112,LX EMCOMM,,,,,
 2020001,SY8CYI,Spapaioannou,,,,GRC
 2020002,SV1SNM,Harris,,,,GRC
 2020003,SV2JOM,Georgios,,,,GRC
@@ -1849,6 +1667,8 @@
 2020727,SV1TEU,Athanasios Antonios,,,,GRC
 2020728,SY1EHH,Periklis,,,,GRC
 2020729,SY9EFF,George,,,,GRC
+2020730,SV9TEG,Dimitrios,,,,GRC
+2020731,SV4AMW,Apostolis,,,,GRC
 2021001,SV1BYK,Babis,,,,GRC
 2021002,SV1PDW,Ioannis,,,,GRC
 2021003,SV1IW,Emmanouel,,,,GRC
@@ -3748,6 +3568,9 @@
 2040682,PD4JOH,Johnny,,,,NLD
 2040683,PH2NL,Cees,,,,NLD
 2040684,PD1JVH,Jasper,,,,NLD
+2040685,PA4HJH,Huite Jan,,,,NLD
+2040686,PB9ZR,Ruben,,,,NLD
+2040687,PE1KFQ,Coen,,,,NLD
 2041001,PD2ML,Mark,,,,NLD
 2041002,PD2ML,Mark,,,,NLD
 2041003,PA2JM,Joop,,,,NLD
@@ -6653,6 +6476,9 @@
 2060631,ON1RB,Rigo,,,,BEL
 2060632,ON1DOR,Detleff,,,,BEL
 2060633,ON2DY,Steve,,,,BEL
+2060634,ON1EE,Ronald,,,,BEL
+2060635,ON4SPG,Stephane,,,,BEL
+2060636,ON1AB,Eduard,,,,BEL
 2061001,ON8SVH,Stijn,,,,BEL
 2061002,ON8SI,Simon,,,,BEL
 2061003,ON5LUC,Luc,,,,BEL
@@ -9145,6 +8971,10 @@
 2081411,F4HVV,Valentin,,,,FRA
 2081412,F5CDN,Sorel,,,,FRA
 2081413,F4ELD,Estermann,,,,FRA
+2081414,F8AJM,Michel,,,,FRA
+2081415,F4JEF,Didier,,,,FRA
+2081416,F5NKG,Jean Marie,,,,FRA
+2081417,F5PCR,Thierry,,,,FRA
 2081777,F4JBM,Francois,,,,FRA
 2082001,F4FUL,Cyril,,,,FRA
 2082002,F5VIN,Heiko,,,,FRA
@@ -17405,6 +17235,16 @@
 2146778,EA5IWG,Raimundo,,,,ESP
 2146779,EA2FBL,Jose Luis,,,,ESP
 2146780,EA7JEG,Antonio,,,,ESP
+2146781,EA2EZH,Alejandro,,,,ESP
+2146782,EC2AGO,Juan Antonio,,,,ESP
+2146783,EA4HXZ,Antonio,,,,ESP
+2146784,EA2EZK,Ignacio,,,,ESP
+2146785,EA1DIW,Juan Agustin,,,,ESP
+2146786,EG8FAB,Jose,,,,ESP
+2146787,EA5OS,Miguel,,,,ESP
+2146788,EA3BAW,Josep,,,,ESP
+2146789,EA1VVV,Sergio,,,,ESP
+2146790,EB1ARK,Jose Manuel,,,,ESP
 2147001,EA7UW,Rafael,,,,ESP
 2147002,EA7CRA,Jose,,,,ESP
 2147003,EA7JRS,Manuel,,,,ESP
@@ -18804,6 +18644,7 @@
 2160208,HG6PM,Jozsef,,,,HUN
 2160209,HA2TOM,Lugosi,,,,HUN
 2160210,HA2HLT,no_name,,,,HUN
+2160211,HA7FB,Bence,,,,HUN
 2161001,HA2TO,Arpad,,,,HUN
 2161002,HA4XA,Istvan,,,,HUN
 2161003,HA9MDP,Peter,,,,HUN
@@ -19725,6 +19566,7 @@
 2180414,E77PDI,Dario,,,,BIH
 2180415,E79KO,no_name,,,,BIH
 2180416,E72BK,Bojan,,,,BIH
+2180417,E73VD,Damjan,,,,BIH
 2190001,9A5PH,Richard,,,,HRV
 2190002,9A5DW,Johann,,,,HRV
 2190003,9A0W,Ivan,,,,HRV
@@ -20311,6 +20153,7 @@
 2190585,9A6NCC,Ivica,,,,HRV
 2190586,9A3AYW,Ilija,,,,HRV
 2190587,9A3CCY,Ivan,,,,HRV
+2190588,9A3KMX,Mario,,,,HRV
 2200001,YT2CQ,Miloslav,,,,SRB
 2200002,YU1VI,Slobodan,,,,SRB
 2200003,YU5JZI,Igor,,,,SRB
@@ -20790,6 +20633,7 @@
 2200483,YU4UPM,Ivan,,,,SRB
 2200484,YU4SNE,Vladislav,,,,SRB
 2200485,YU4OVB,Vladimir,,,,SRB
+2200486,YU7OIL,Milivoj,,,,SRB
 2200634,YU2ZIX,Nikola,,,,SRB
 2200999,YT3DDM,Dejan,,,,SRB
 2206666,YT7UF,Igor,,,,SRB
@@ -31353,6 +31197,18 @@
 2230592,IZ0UNF,Walter,,,,ITA
 2230593,IV3ALA,Nico,,,,ITA
 2230594,IU0QVZ,Roberto,,,,ITA
+2230595,IW2JVV,Antonio,,,,ITA
+2230596,IW3FWL,Antonio,,,,ITA
+2230597,IU0QVW,Alessandro,,,,ITA
+2230598,IU1KYV,Alex,,,,ITA
+2230599,IW9HRZ,Paolo,,,,ITA
+2230600,IZ3BJK,Diego,,,,ITA
+2230601,IU0QVM,Gian Francesco,,,,ITA
+2230602,IU3QUX,Massimo,,,,ITA
+2230603,IW5ARK,Stefano,,,,ITA
+2230604,IU7RVA,Mauro,,,,ITA
+2230605,IU5RDZ,Giacomo,,,,ITA
+2230606,IU1NQK,Roberto,,,,ITA
 2231276,IU5PTS,Stefano,,,,ITA
 2242222,IT9JFW,Lorenzo,,,,
 2260001,YO5DSG,Daniel,,,,ROU
@@ -31658,6 +31514,8 @@
 2260306,YO2LFN,Stefan Gabriel,,,,ROU
 2260307,YO3IWJ,Alexandra,,,,ROU
 2260308,YO2MD,Daniel,,,,ROU
+2260309,YO5YM,Marcel,,,,ROU
+2260310,YO5POH,Manuel,,,,ROU
 2261000,YO5MDA,Dumi,,,,ROU
 2261001,YO3GTS,Dan,,,,ROU
 2261313,YO8TEH,Izzy,,,,ROU
@@ -31709,6 +31567,7 @@
 2262045,YO2MPL,Voicu,,,,ROU
 2262046,YO2DNO,Gataiantu,,,,ROU
 2262047,YO2LLQ,Dan,,,,ROU
+2262048,YO2OCP,Mihai,,,,ROU
 2262049,YO2BHP,Eparu,,,,ROU
 2262050,YO2LEV,Levente,,,,ROU
 2262051,YO2LBV,Emil,,,,ROU
@@ -31971,6 +31830,9 @@
 2265555,YO5ATL,Attila,,,,ROU
 2266001,YO6HDJ,Iulian,,,,ROU
 2266002,YO6IKC,Carla,,,,ROU
+2266003,YO6HEG,Marosyi,,,,ROU
+2266004,YO6HEG,Marosyi,,,,ROU
+2266005,YO6HEG,Marosyi,,,,ROU
 2266006,YO6IGM,Ovidiu,,,,ROU
 2266007,YO6FWM,Cosmin,,,,ROU
 2266008,YO6IOG,Sergiu,,,,ROU
@@ -34366,6 +34228,7 @@
 2300312,OK1DO,Jiri,,,,CZE
 2300313,OK2PUB,Michal,,,,CZE
 2300314,OK2VJM,no_name,,,,CZE
+2300315,OK1TK,Tomas,,,,CZE
 2301001,OK9DTZ,David,,,,CZE
 2301002,OK3ZB,Zdenek,,,,CZE
 2301003,OK1MX,Milan,,,,CZE
@@ -35724,6 +35587,10 @@
 2320601,OE1GTB,Georg,,,,AUT
 2320602,OE3XDC,Clubst.,,,,AUT
 2320603,OE1MTM,Thomas,,,,AUT
+2320604,OE8RTR,Ralf,,,,AUT
+2320605,OE2TBM,Herbert,,,,AUT
+2320606,OE6SDO,Moritz,,,,AUT
+2320607,OE3DCP,Daniel,,,,AUT
 2321001,OE1KBC,Kurt,,,,AUT
 2321002,OE1KBC,Kurt,,,,AUT
 2321003,OE1KBC,Kurt,,,,AUT
@@ -53100,6 +52967,24 @@
 2355880,M7DFO,John,,,,GBR
 2355881,M3TEZ,Terry,,,,GBR
 2355882,M0DWC,Del,,,,GBR
+2355883,M6CCZ,Mark,,,,GBR
+2355884,M6BZG,Rob,,,,GBR
+2355885,G7MRP,Ken,,,,GBR
+2355886,G4UVZ,Adrian,,,,GBR
+2355887,M0AZZ,Anthony,,,,GBR
+2355888,M7YOD,Michael,,,,GBR
+2355889,M7PXD,Martin,,,,GBR
+2355890,M7MBO,Mark,,,,GBR
+2355891,M7PDL,Dave,,,,GBR
+2355892,G0BSR,The Black Sheep Pub,,,,GBR
+2355893,M7VGT,Giuseppe,,,,GBR
+2355894,MW6EMR,Gavin,,,,GBR
+2355895,MW7EXS,Simon,,,,GBR
+2355896,G1CJL,Bruce,,,,GBR
+2355897,G3EWE,Mike,,,,GBR
+2355898,M7KMQ,Kieran,,,,GBR
+2355899,M0FRH,Ian,,,,GBR
+2355900,G4YIP,Vic,,,,GBR
 2356001,GD6XHG,Ed,,,,GBR
 2356002,GD6XHG,Ed,,,,GBR
 2356003,GD0NFN,John,,,,GBR
@@ -53423,6 +53308,9 @@
 2380246,OZ1WJ,Bahman,,,,DNK
 2380247,OZ3CHP,Christian,,,,DNK
 2380248,OZ1NBO,Niels Boris,,,,DNK
+2380249,OZ4DCJ,Flemming,,,,DNK
+2380250,OZ19A,Paul,,,,DNK
+2380251,OZ1XP,John Egholm,,,,DNK
 2380822,OZ8ADK,Anders Dam,,,,DNK
 2381001,OZ2CA,Soren,,,,DNK
 2381002,5P4Z,Herman,,,,DNK
@@ -57425,6 +57313,7 @@
 2420453,LB2UJ,Rolf Lund,,,,NOR
 2420454,LA4SIA,Vegard,,,,NOR
 2420455,LA1PNA,Pedersen,,,,NOR
+2420456,LB8GJ,Kent Inge,,,,NOR
 2421001,LA6VMA,Tommy,,,,NOR
 2421002,LA7ZKA,Arve,,,,NOR
 2421003,LA2YUA,Robin,,,,NOR
@@ -58774,6 +58663,8 @@
 2441510,OH4CVI,Jukka,,,,FIN
 2441511,OH4MQP,Pentti,,,,FIN
 2441512,OH2CPA,Kari,,,,FIN
+2441513,OH6AB,Laukaan,,,,FIN
+2441514,OH4TJ,Tuomo,,,,FIN
 2442001,OH2LAK,Erik,,,,FIN
 2442002,OH2LAK,Erik,,,,FIN
 2442003,OH2LAK,Erik,,,,FIN
@@ -59677,6 +59568,7 @@
 2460100,LY7O,Vilius,,,,LTU
 2460101,LY5RJ,Rolandas,,,,LTU
 2460102,LY1RD,Ricardas,,,,LTU
+2460103,LY7GG,Giedrius,,,,LTU
 2461111,LY1EU,Ramojus,,,,LTU
 2464444,LY1XP,Modestas,,,,LTU
 2470001,YL3JE,Juergen,,,,LVA
@@ -59811,6 +59703,7 @@
 2480076,ES5DSB,Indrek,,,,EST
 2480077,ES8LAU,Anto,,,,EST
 2480078,ES1CBES,Dmitri,,,,EST
+2480079,ES8MSA,Aivar,,,,EST
 2500001,RU0LA,Aleksandr,,,,RUS
 2500002,R0AET,Vladimir,,,,RUS
 2500003,R0ADW,Aleksandr,,,,RUS
@@ -60642,6 +60535,15 @@
 2500834,UB4FFB,Dmitry,,,,RUS
 2500835,R3KMI,Ivan,,,,RUS
 2500836,UB3AZI,Artur,,,,RUS
+2500837,UB3ZJH,Anatoly,,,,RUS
+2500838,R0JBI,Sergey,,,,RUS
+2500839,RA3GAC,Nickolay,,,,RUS
+2500840,RY3ABL,Oleg,,,,RUS
+2500841,RZ3DUD,Igor,,,,RUS
+2500842,RZ3ATG,Kirill,,,,RUS
+2500843,R3VE,Dmitryi,,,,RUS
+2500844,UC6UBB,Ivan,,,,RUS
+2500845,RA1AJE,Vyacheslav,,,,RUS
 2501001,UB1AAM,Dmitriy,,,,RUS
 2501002,UA1CDG,Vitaliy,,,,RUS
 2501003,RA1AQB,Sergey,,,,RUS
@@ -62823,7 +62725,6 @@
 2550547,UR5FTW,Trofan,,,,UKR
 2550548,UT3UMS,Nick,,,,UKR
 2550549,UW5EMC,Olexander,,,,UKR
-2550550,UR5KIT,Oleksandr,,,,UKR
 2550551,UT3FT,Yurii,,,,UKR
 2550552,UR5FGM,Serge,,,,UKR
 2550553,UR5KIV,Volodymyr,,,,UKR
@@ -63437,7 +63338,6 @@
 2600389,SP9MQU,Eugeniusz,,,,POL
 2600390,SP7SMF,Marek,,,,POL
 2600391,SP9PKS,Klub,,,,POL
-2600392,SP3IS,Jerzy,,,,POL
 2600393,SP1GAL,Krzysztof,,,,POL
 2600394,SQ5MOG,Wojciech,,,,POL
 2600395,SQ7FBP,Mariusz,,,,POL
@@ -64364,6 +64264,7 @@
 2601347,SP2VIM,Szymon,,,,POL
 2601348,SP9KON,Lukasz,,,,POL
 2601349,SP7CWZ,Jan,,,,POL
+2601350,SP7EVG,Krzysztof,,,,POL
 2601351,SP9MPX,Michal,,,,POL
 2601352,SQ6MIF,Jerzy,,,,POL
 2601353,SP7MME,Rafal,,,,POL
@@ -64440,6 +64341,7 @@
 2601426,SP9MPZ,Marcin,,,,POL
 2601427,SP9DPD,Adam,,,,POL
 2601428,SP9ADIK,Adrian,,,,POL
+2601429,SQ4OZO,Marcin,,,,POL
 2601430,SP2OMO,Daniel,,,,POL
 2601431,SN8KR,Kacper,,,,POL
 2601432,SQ7KLK,Krzysztof,,,,POL
@@ -64702,7 +64604,6 @@
 2601694,SP2LOL,Dawid,,,,POL
 2601695,SQ7DSP,Artur,,,,POL
 2601696,SP3SXS,Marek,,,,POL
-2601697,SQ9SFC,Michal,,,,POL
 2601698,SP9AWA,Lukasz,,,,POL
 2601699,SQ5IXI,Marek,,,,POL
 2601700,SP7FJX,Zbigniew,,,,POL
@@ -64905,6 +64806,7 @@
 2601897,SP7BRM,Rafal,,,,POL
 2601898,SP0Q,Zdzislaw,,,,POL
 2601899,SP5WQW,Marcin,,,,POL
+2601900,SP7SE,Marcin,,,,POL
 2601901,SQ2LP,Leszek,,,,POL
 2601902,SQ4KBF,Milewski,,,,POL
 2601903,SP9AMP,Aleksander,,,,POL
@@ -64959,6 +64861,18 @@
 2601952,SQ8BS,Bartosz,,,,POL
 2601953,SQ8NA,Mateusz,,,,POL
 2601954,SP9EUR,Grzegorz,,,,POL
+2601955,SQ8RKR,Mateusz,,,,POL
+2601956,SP5XZG,Jan,,,,POL
+2601957,SP2KZ,Krzysztof,,,,POL
+2601958,SQ2TMC,Tomasz,,,,POL
+2601959,SQ3POV,Dariusz,,,,POL
+2601960,SQ6GGI,Daniel,,,,POL
+2601961,SP7POR,Marcin,,,,POL
+2601962,SP5AH,Piotr,,,,POL
+2601963,SP2MJP,Marek,,,,POL
+2601964,SP7PLE,Artur,,,,POL
+2601965,SP9ADC,Adam,,,,POL
+2601966,SP1AMM,Maciej,,,,POL
 2601999,SP5VEQ,Tomasz,,,,POL
 2602001,SP2WGN,Maciej,,,,POL
 2602002,SP2FRN,Sebastian,,,,POL
@@ -66442,7 +66356,6 @@
 2608094,SQ8FEU,Pawel,,,,POL
 2608096,SQ8KMR,Roman,,,,POL
 2608097,SQ8MFO,Grzegorz,,,,POL
-2608098,SQ8WTC,Jakub,,,,POL
 2608099,SP8B,Bogdan,,,,POL
 2608100,SP8SMA,Sebastian,,,,POL
 2608101,SP8MFG,Michal,,,,POL
@@ -66746,7 +66659,6 @@
 2609247,SQ9MDD,Ryszard,,,,POL
 2609248,SQ9MLH,Oliwer,,,,POL
 2609249,SP9KRK,Krzysztof,,,,POL
-2609250,SO9ARC,Robert,,,,POL
 2609251,SP9KN,Przemek,,,,POL
 2609252,SQ9MYB,Maciek,,,,POL
 2609253,SQ9DHS,Adam,,,,POL
@@ -66893,7 +66805,6 @@
 2609403,SQ9LFP,Mariusz,,,,POL
 2609404,SP9JMR,Marcin,,,,POL
 2609405,SQ9ONG,Grzesiek,,,,POL
-2609406,SQ9CWN,Rafal,,,,POL
 2609407,SP9PJ,Piotr,,,,POL
 2609409,SP9FWQ,Arkadiusz,,,,POL
 2609410,SP9AK,Arkadiusz,,,,POL
@@ -66985,7 +66896,6 @@
 2609498,SP9OYT,Mariusz,,,,POL
 2609500,SP9UVG,Gustaw,,,,POL
 2609501,SP9EA,Andrzej,,,,POL
-2609502,SQ9CXE,Mariusz,,,,POL
 2609503,SP9AJM,Alojzy,,,,POL
 2609504,SP9PW,Paul,,,,POL
 2609505,SQ9BOR,Krzysztof,,,,POL
@@ -77858,6 +77768,18 @@
 2631343,DO9ATS,Joachim,,,,DEU
 2631344,DO8LE,Leonard,,,,DEU
 2631345,DL9VK,Verena,,,,DEU
+2631346,DL3NAR,Thomas,,,,DEU
+2631347,DO8LM,Manfred,,,,DEU
+2631348,DL2JAR,Roger,,,,DEU
+2631349,DM5MA,Hans-Juergen,,,,DEU
+2631350,DF1BB,Bjoern,,,,DEU
+2631351,DL0GHI,Dok-H39 Marienburg,,,,DEU
+2631352,DO6TW,Thomas,,,,DEU
+2631353,DO2JC,Jens Christian,,,,DEU
+2631354,DO6MKS,Mathias,,,,DEU
+2631355,DL2MWB,Wolfgang,,,,DEU
+2631356,DK5KP,Klaus,,,,DEU
+2631357,DF6IY,Norbert,,,,DEU
 2633001,DG4AK,Dietmar,,,,DEU
 2633002,DH8AAA,Oliver,,,,DEU
 2633003,DC6BV,Reinhardt,,,,DEU
@@ -79314,6 +79236,7 @@
 2634853,DH9DFI,Bernhard Victor,,,,DEU
 2634854,DO2EN,Edgar,,,,DEU
 2634855,DK7MT,Michael,,,,DEU
+2634856,DL3HK,Horst,,,,DEU
 2634857,DG3KM,Hans-Dieter,,,,DEU
 2634858,DG5YSB,Stefan,,,,DEU
 2634859,DG5EAU,Klaus Michael,,,,DEU
@@ -81808,7 +81731,6 @@
 2680065,CT2JCS,Jose,,,,PRT
 2680066,CS7AWH,Manuel,,,,PRT
 2680067,CT2JMG,Antonio,,,,PRT
-2680068,CT2JMN,Canavezes,,,,PRT
 2680069,CS7AMP,Joaopastorinho,,,,PRT
 2680070,CT1ERY,Rui,,,,PRT
 2680071,CU7AAS,Josedefatima,,,,PRT
@@ -84511,6 +84433,10 @@
 2840655,LZ1FUN,Rumen,,,,BGR
 2840656,LZ3VDM,Vasil,,,,BGR
 2840657,LZ1ISO,no_name,,,,BGR
+2840658,LZ2ACE,Aleksandar,,,,BGR
+2840659,LZ1VTI,Alexander,,,,BGR
+2840660,LZ1ONE,Nikolay,,,,BGR
+2840661,LZ2PSA,Petya,,,,BGR
 2843333,LZ1CLA,Kiril,,,,BGR
 2849998,LZ1JPK,Jordan,,,,BGR
 2860001,TA6TC,Mirac,,,,TUR
@@ -84677,7 +84603,6 @@
 2860192,TA8ALI,Bayram,,,,TUR
 2860194,TA4OKA,Emin,,,,TUR
 2860195,TB4DXM,Malik,,,,TUR
-2860196,TA4MCC,Mesut,,,,TUR
 2860197,TA4ABX,Abdurrahman,,,,TUR
 2860198,TB2THM,Halil,,,,TUR
 2860199,TA2OXY,Tolga,,,,TUR
@@ -89686,7 +89611,29 @@
 2865549,TB2NHW,Ilker,,,,TUR
 2865550,TA2APJ,Riza Baris,,,,TUR
 2865551,TA3NTY,no_name,,,,TUR
+2865552,TA9TCB,Burak,,,,TUR
+2865553,TA5TAL,Selahaddin,,,,TUR
+2865554,TA2LCM,Mehmet,,,,TUR
 2865555,TB5FDX,Ferhat,,,,TUR
+2865556,TA2WYZ,Halil,,,,TUR
+2865557,TB2MDY,Mustafa,,,,TUR
+2865558,TA8MCG,Mustafa,,,,TUR
+2865559,TB8GKE,Ali,,,,TUR
+2865560,TA5ARJ,Mehmet,,,,TUR
+2865561,TA3DRA,Arda,,,,TUR
+2865562,TA5BED,Berrin,,,,TUR
+2865563,TB4DIK,Keles,,,,TUR
+2865564,TA2EDS,Eren,,,,TUR
+2865565,TA5FL,Kenan,,,,TUR
+2865566,TA6EMR,Mert Emre,,,,TUR
+2865567,TA7DGR,Kurnaz,,,,TUR
+2865568,TA4IGS,Ismail,,,,TUR
+2865569,TA2SII,Ilkay,,,,TUR
+2865570,TB1ACC,Abdurrahim,,,,TUR
+2865571,TA2TGA,Tolga,,,,TUR
+2865572,TB3VRD,Veysel,,,,TUR
+2865573,TB2TBI,Serdar,,,,TUR
+2865574,TA1FSM,Said Ferhat,,,,TUR
 2866666,TA1FRK,Furkan,,,,TUR
 2867777,TA2SEK,Serhat,,,,TUR
 2868686,TB3ACU,Baris,,,,TUR
@@ -90567,6 +90514,10 @@
 2930841,S50UP,Umbertinho,,,,SVN
 2930842,S50PG,Peter,,,,SVN
 2930843,S57NUP,Urban,,,,SVN
+2930844,S59VEG,Radioklub,,,,SVN
+2930845,S57OKL,Ludvik,,,,SVN
+2930846,S54TIM,Martina,,,,SVN
+2930847,S56KOK,Oto,,,,SVN
 2940001,Z36AEC,Herolind,,,,MKD
 2940002,Z32IT,Dragan,,,,MKD
 2940003,Z32IT,Dragan,,,,MKD
