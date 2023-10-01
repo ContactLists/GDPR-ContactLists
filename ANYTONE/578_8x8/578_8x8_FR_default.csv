@@ -778,6 +778,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060639,ON4DSL,Peter,,,BEL,,Private Call,None
 ,2060640,ON8JPB,Jean Pol,,,BEL,,Private Call,None
 ,2060641,ON3VX,Lennart,,,BEL,,Private Call,None
+,2060642,ON3FRG,Gonzo,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -823,7 +824,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2061044,ON2TIM,Tim,,,BEL,,Private Call,None
 ,2061045,ON2RK,Kris,,,BEL,,Private Call,None
 ,2061046,ON3DHL,Julien,,,BEL,,Private Call,None
-,2061047,ON3GPS,Pieter,,,BEL,,Private Call,None
 ,2061048,ON4LQ,Raoul,,,BEL,,Private Call,None
 ,2061049,ON4BBQ,Ronald,,,BEL,,Private Call,None
 ,2061050,ON3DWD,Dirk,,,BEL,,Private Call,None
@@ -934,7 +934,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2061158,ON3KDR,Kris,,,BEL,,Private Call,None
 ,2061159,ON6AZ,Alex,,,BEL,,Private Call,None
 ,2061160,ON3TVC,Thomas,,,BEL,,Private Call,None
-,2061161,ON5LY,Johan,,,BEL,,Private Call,None
 ,2061162,ON4CCQ,Geert,,,BEL,,Private Call,None
 ,2061163,ON4LOL,Maarten,,,BEL,,Private Call,None
 ,2061164,ON3BVM,Benjamin,,,BEL,,Private Call,None
@@ -1010,9 +1009,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2061235,ON3WT,Julien,,,BEL,,Private Call,None
 ,2061236,ON6JV,Jo,,,BEL,,Private Call,None
 ,2061237,ON6ERS,Eddie,,,BEL,,Private Call,None
-,2061238,ON3VDS,Rudy,,,BEL,,Private Call,None
 ,2061239,ON3DPE,Daniel,,,BEL,,Private Call,None
-,2061240,ON4PC,Philippe,,,BEL,,Private Call,None
 ,2061241,ON3DWD,Dirk,,,BEL,,Private Call,None
 ,2061242,ON7VMR,Rudy,,,BEL,,Private Call,None
 ,2061243,ON6PK,Rudy,,,BEL,,Private Call,None
@@ -3281,6 +3278,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081425,F4JLQ,Jacky,,,FRA,,Private Call,None
 ,2081426,F4JRH,Noel,,,FRA,,Private Call,None
 ,2081427,F1VY,Jean Marie,,,FRA,,Private Call,None
+,2081428,F6DTU,Guy,,,FRA,,Private Call,None
+,2081429,F4FQT,Marc,,,FRA,,Private Call,None
+,2081430,F4LCT,Jean Philippe,,,FRA,,Private Call,None
+,2081431,F1GYG,Patrick,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -5044,6 +5045,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280298,HB9GUN,Andi,,,CHE,,Private Call,None
 ,2280299,HB9HXW,Daniel,,,CHE,,Private Call,None
 ,2280300,HB3YBY,Rolf,,,CHE,,Private Call,None
+,2280301,HB9GIH,Hans Heinrich,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -12002,6 +12004,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025441,VE7XUV,University Of Victoria Experimental Radio Group,,,CAN,,Private Call,None
 ,3025442,VE7HCU,Ka Lun Alan,,,CAN,,Private Call,None
 ,3025443,VE7NIZ,Kesar Singh,,,CAN,,Private Call,None
+,3025444,VA7CVD,David,,,CAN,,Private Call,None
+,3025445,VE7QQ,Timothy,,,CAN,,Private Call,None
+,3025446,VE9MAH,Michel,,,CAN,,Private Call,None
+,3025447,VE9WZ,Hayden Douglas,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None

@@ -10583,6 +10583,15 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2230621,I2TSJ,Salvatore,,,ITA,,Private Call,None
 ,2230622,IU8QTR,Rocco,,,ITA,,Private Call,None
 ,2230623,IU5RUZ,Gino,,,ITA,,Private Call,None
+,2230624,IS0DZW,Francesco,,,ITA,,Private Call,None
+,2230625,IK2QBZ,Claudio,,,ITA,,Private Call,None
+,2230626,IW2CPT,Giulio,,,ITA,,Private Call,None
+,2230627,I7GLO,Giovanni,,,ITA,,Private Call,None
+,2230628,IU0QVF,Gennaro,,,ITA,,Private Call,None
+,2230629,IU3QFH,Pietro,,,ITA,,Private Call,None
+,2230630,IU0QVA,Marco,,,ITA,,Private Call,None
+,2230631,IU2RLC,Guido,,,ITA,,Private Call,None
+,2230632,IU2RGL,Daniele,,,ITA,,Private Call,None
 ,2231276,IU5PTS,Stefano,,,ITA,,Private Call,None
 ,2280001,4U1ITU,International,,,CHE,,Private Call,None
 ,2280002,HB3XWO,Kornel,,,CHE,,Private Call,None
@@ -10884,6 +10893,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280298,HB9GUN,Andi,,,CHE,,Private Call,None
 ,2280299,HB9HXW,Daniel,,,CHE,,Private Call,None
 ,2280300,HB3YBY,Rolf,,,CHE,,Private Call,None
+,2280301,HB9GIH,Hans Heinrich,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -12526,6 +12536,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2780063,9H2MB,Michael,,,MLT,,Private Call,None
 ,2780064,9H1KR,Mario,,,MLT,,Private Call,None
 ,2780065,9H2LT,Mario,,,MLT,,Private Call,None
+,2780066,9H1JQ,Joe,,,MLT,,Private Call,None
 ,2920001,T77GR,Renato,,,SMR,,Private Call,None
 ,2920002,T77NC,Nazzareno,,,SMR,,Private Call,None
 ,2920003,T77DB,Danilo,,,SMR,,Private Call,None

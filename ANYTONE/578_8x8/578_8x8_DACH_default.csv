@@ -299,6 +299,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280298,HB9GUN,Andi,,,CHE,,Private Call,None
 ,2280299,HB9HXW,Daniel,,,CHE,,Private Call,None
 ,2280300,HB3YBY,Rolf,,,CHE,,Private Call,None
+,2280301,HB9GIH,Hans Heinrich,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -2474,6 +2475,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2320607,OE3DCP,Daniel,,,AUT,,Private Call,None
 ,2320608,OE5AHN,Martin,,,AUT,,Private Call,None
 ,2320609,OE4DMH,Martin,,,AUT,,Private Call,None
+,2320610,OE6MYC,Michael,,,AUT,,Private Call,None
+,2320611,OE3JRC,Hans,,,AUT,,Private Call,None
+,2320612,OE2YDJ,Wolfgang,,,AUT,,Private Call,None
+,2320613,OE7MBJ,Michael,,,AUT,,Private Call,None
 ,2321001,OE1KBC,Kurt,,,AUT,,Private Call,None
 ,2321002,OE1KBC,Kurt,,,AUT,,Private Call,None
 ,2321003,OE1KBC,Kurt,,,AUT,,Private Call,None
@@ -15058,6 +15063,19 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2631396,DL1UWE,Uwe,,,DEU,,Private Call,None
 ,2631397,DH2SK,Joachim,,,DEU,,Private Call,None
 ,2631398,DK5OZ,Thorsten,,,DEU,,Private Call,None
+,2631399,DK9RK,Guenter,,,DEU,,Private Call,None
+,2631400,DC9LJ,Jens,,,DEU,,Private Call,None
+,2631401,DL5FW,Frank,,,DEU,,Private Call,None
+,2631402,DR7K,Drk Siebengebirge,,,DEU,,Private Call,None
+,2631403,DO1DDC,Dominik,,,DEU,,Private Call,None
+,2631404,DG1OBD,Axel,,,DEU,,Private Call,None
+,2631405,DO3TKO,Thomas,,,DEU,,Private Call,None
+,2631406,DL1RK,Robert,,,DEU,,Private Call,None
+,2631407,DO1CPB,Christian,,,DEU,,Private Call,None
+,2631408,DC3SB,Sebastian,,,DEU,,Private Call,None
+,2631409,DO1SX,Steffen,,,DEU,,Private Call,None
+,2631410,DH9YBE,Jan,,,DEU,,Private Call,None
+,2631411,DL8AGC,Aleksander,,,DEU,,Private Call,None
 ,2633001,DG4AK,Dietmar,,,DEU,,Private Call,None
 ,2633002,DH8AAA,Oliver,,,DEU,,Private Call,None
 ,2633003,DC6BV,Reinhardt,,,DEU,,Private Call,None

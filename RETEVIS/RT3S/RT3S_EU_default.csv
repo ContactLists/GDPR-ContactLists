@@ -737,6 +737,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2020736,SV2HYZ,Ioannis,,,,GRC
 2020737,SV1EHK,Aris,,,,GRC
 2020738,SV2BIE,Georgios,,,,GRC
+2020739,SY1DRV,Theodoros,,,,GRC
+2020740,SY1EGE,Panagiotis,,,,GRC
+2020741,SV3TEP,Konstantinos,,,,GRC
+2020742,SV2HVU,Xristos,,,,GRC
+2020743,SV2HZE,Konstantinos,,,,GRC
+2020744,SV2DGA,Diamond,,,,GRC
 2021001,SV1BYK,Babis,,,,GRC
 2021002,SV1PDW,Ioannis,,,,GRC
 2021003,SV1IW,Emmanouel,,,,GRC
@@ -2004,7 +2010,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040046,PD5DE,Danny,,,,NLD
 2040047,PD5HZ,Herald,,,,NLD
 2040048,PE1AKC,Ph,,,,NLD
-2040049,PH4ANS,Hans,,,,NLD
 2040050,PA3HLE,Rob,,,,NLD
 2040051,PA1DVA,David,,,,NLD
 2040052,PD0JJ,Jan,,,,NLD
@@ -2014,7 +2019,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040056,PA3CPF,Albert,,,,NLD
 2040057,PA4INO,no_name,,,,NLD
 2040058,PD1CS,Huib,,,,NLD
-2040059,PD8RK,Robert,,,,NLD
 2040060,PA3HEV,Perry,,,,NLD
 2040061,PD0LIB,no_name,,,,NLD
 2040062,PD2ACW,Arjen,,,,NLD
@@ -2085,7 +2089,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040128,PD5URK,Andre,,,,NLD
 2040129,PB0ANW,Ricardo,,,,NLD
 2040130,PD1KA,Rene,,,,NLD
-2040131,PD2Y,Martijn,,,,NLD
 2040132,PD1RB,no_name,,,,NLD
 2040133,PE1EEC,Martin,,,,NLD
 2040134,PD1API,Sander,,,,NLD
@@ -2162,13 +2165,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040206,PE4KH,Koos,,,,NLD
 2040207,PE1RIT,no_name,,,,NLD
 2040208,PD1ANB,Ron,,,,NLD
-2040209,PA3CDN,Frans,,,,NLD
 2040210,PA3GMQ,Rapke,,,,NLD
 2040211,PD0KMG,D,,,,NLD
 2040212,PE2V,Vincent,,,,NLD
 2040213,PA0WSK,W,,,,NLD
 2040214,PD1RE,Rene,,,,NLD
-2040215,PB1T,Paul,,,,NLD
 2040216,PC8D,Denis,,,,NLD
 2040217,PD1GT,Ger,,,,NLD
 2040218,PD0LZE,Dirk,,,,NLD
@@ -2188,7 +2189,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040233,PA1MS,Martijn,,,,NLD
 2040234,PD0AAB,W.A.,,,,NLD
 2040235,PD1LOX,Eddy,,,,NLD
-2040236,PA2FDX,Cees,,,,NLD
 2040237,PD5WB,Wijnand,,,,NLD
 2040238,PA2JJC,Jan,,,,NLD
 2040239,PD4CAR,Carlos,,,,NLD
@@ -2357,7 +2357,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040403,PA3BLI,Danny,,,,NLD
 2040404,PG2C,Boudewijn,,,,NLD
 2040405,PD4LH,Martijn,,,,NLD
-2040406,PA3BI,Bernhard,,,,NLD
 2040407,PA0WAH,Willyan,,,,NLD
 2040408,PB7J,Jeroen,,,,NLD
 2040409,PA3EWC,Andre,,,,NLD
@@ -2378,7 +2377,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040424,PD5BT,Bram,,,,NLD
 2040425,PE2FOX,Erwin,,,,NLD
 2040426,PA4GR,Guido,,,,NLD
-2040427,PA1HR,Hans,,,,NLD
 2040428,PE1BOL,Ad,,,,NLD
 2040429,PE1GLG,Han,,,,NLD
 2040430,PA3BMB,Jacob,,,,NLD
@@ -2410,7 +2408,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040456,PA3UN,Cor,,,,NLD
 2040457,PD0PSY,Ilya,,,,NLD
 2040458,PA5MB,Michiel,,,,NLD
-2040459,PA5PEK,Patrick,,,,NLD
 2040460,PD2SHB,Theo,,,,NLD
 2040461,PE1MJA,Robert,,,,NLD
 2040462,PE1HBE,Ron,,,,NLD
@@ -2623,7 +2620,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040672,PB5A,Annard,,,,NLD
 2040673,PA1DKM,Julius,,,,NLD
 2040674,PA5JD,Jaap,,,,NLD
-2040675,PI1SNK,Repeater,,,,NLD
 2040676,PD0PSL,Paul,,,,NLD
 2040677,PB2SD,Mark,,,,NLD
 2040678,PE1MNB,Edwin,,,,NLD
@@ -2642,6 +2638,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040691,PD5EAR,Florian,,,,NLD
 2040692,PE9B,Egbert,,,,NLD
 2040693,PA3EOR,Hjm,,,,NLD
+2040694,PD1RCW,Roger,,,,NLD
+2040695,PD4FH,Fritz,,,,NLD
 2041001,PD2ML,Mark,,,,NLD
 2041002,PD2ML,Mark,,,,NLD
 2041003,PA2JM,Joop,,,,NLD
@@ -2651,7 +2649,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041008,PD1ECO,Erik,,,,NLD
 2041009,PA3EAL,Peter,,,,NLD
 2041010,PE1JAE,Jan-Willem,,,,NLD
-2041011,PA1HH,Hans,,,,NLD
 2041012,PD3LVS,Lucia,,,,NLD
 2041013,PD1E,Emiel,,,,NLD
 2041014,PA4TW,Remco,,,,NLD
@@ -2659,7 +2656,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041016,PD0LVS,Lucas,,,,NLD
 2041017,PA0WBB,Wim,,,,NLD
 2041018,PD0JB,Jos,,,,NLD
-2041019,PA3CUU,Heinsk,,,,NLD
 2041020,PE1ER,Ed,,,,NLD
 2041021,PA3CPI,Peter,,,,NLD
 2041022,PD7HM,Herman,,,,NLD
@@ -2696,7 +2692,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041056,PA3BKW,Frans,,,,NLD
 2041057,PD3LKN,Eric,,,,NLD
 2041058,PA5BM,Bert,,,,NLD
-2041059,PA0ZAN,Jan,,,,NLD
 2041060,PA0FKM,Fred,,,,NLD
 2041061,PA2AMY,Ton,,,,NLD
 2041062,PD1AJT,Marco,,,,NLD
@@ -2705,7 +2700,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041065,PH0DV,Dick,,,,NLD
 2041066,PA3CDS,Jan,,,,NLD
 2041067,PA3UAV,Jasper,,,,NLD
-2041068,PH0BOS,Imre,,,,NLD
 2041069,PA0NON,Jan,,,,NLD
 2041070,PA1DR,Dick,,,,NLD
 2041071,PE1BGQ,Pieter,,,,NLD
@@ -2760,7 +2754,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041124,PA3DRU,Piet,,,,NLD
 2041126,PI4ASD,Club,,,,NLD
 2041127,PD5RVG,Ron,,,,NLD
-2041128,PA3NFN,Lucas,,,,NLD
 2041129,PD5WVE,Willem,,,,NLD
 2041130,PD0BCA,Cees,,,,NLD
 2041131,PE1IBA,Gerrit,,,,NLD
@@ -2794,10 +2787,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041162,PA0ANH,Ton,,,,NLD
 2041163,PE1AMZ,Aad,,,,NLD
 2041164,PD0HOF,Milan,,,,NLD
-2041165,PA3DLK,Rob,,,,NLD
 2041167,PA5WIL,Wil,,,,NLD
 2041168,PA9D,Andor,,,,NLD
-2041169,PD0HKS,Roel,,,,NLD
 2041170,PF9DC,Deborah,,,,NLD
 2041171,PE4SVG,Sander,,,,NLD
 2041172,PA3CX,Ramon,,,,NLD
@@ -2813,7 +2804,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041182,PA3X,Rob,,,,NLD
 2041183,PA1DVB,Robbert,,,,NLD
 2041184,PE1PTP,Rolf,,,,NLD
-2041185,PA0HW,Hans-Willem,,,,NLD
 2041186,PE1LJY,Fred,,,,NLD
 2041187,PE1JIH,Vincent,,,,NLD
 2041188,PD0CD,Anne,,,,NLD
@@ -2832,7 +2822,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041202,PD2BKB,Edwin,,,,NLD
 2041203,PD1MSF,Martin,,,,NLD
 2041204,PA3LB,Lambert,,,,NLD
-2041205,PA4HS,Henk,,,,NLD
 2041206,PD4BRT,Bert,,,,NLD
 2041207,PA3GLS,Hans,,,,NLD
 2041208,PA2LX,Adrianus,,,,NLD
@@ -2871,8 +2860,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041241,PD7NW,Nico,,,,NLD
 2041242,PA1VG,Arie,,,,NLD
 2041243,PD3KWA,Rene,,,,NLD
-2041244,PA1AGB,Alexander,,,,NLD
-2041245,PA1BN,Natalia,,,,NLD
 2041246,PA2AS,Antwan,,,,NLD
 2041247,PD5LWE,Leo,,,,NLD
 2041248,PE1NLP,Ren,,,,NLD
@@ -2915,7 +2902,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2041285,PA1MC,Marcel,,,,NLD
 2041286,PA4GS,Gerard,,,,NLD
 2041287,PA3GG,Marco,,,,NLD
-2041288,PA0MRV,Martin,,,,NLD
 2041289,PE1RVJ,Egbert,,,,NLD
 2041290,PD7R,Roel,,,,NLD
 2041291,PA3FCE,Cees,,,,NLD
@@ -2951,7 +2937,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042017,PE1GXW,Arnold,,,,NLD
 2042018,PD0KDF,Ron,,,,NLD
 2042019,PD2TAZ,Rini,,,,NLD
-2042020,PD9ND,Saskatchewan,,,,NLD
 2042021,PE1OCD,Rene,,,,NLD
 2042022,PA3L,Lennart,,,,NLD
 2042023,PA7M,Henk,,,,NLD
@@ -2963,10 +2948,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042029,PD0PQO,Jans,,,,NLD
 2042030,PE1NVA,Rob,,,,NLD
 2042031,PE1NVA,Rob,,,,NLD
-2042032,PA1LQS,Frans,,,,NLD
 2042033,PE1PNF,Ina,,,,NLD
 2042034,PD0RJI,Martin,,,,NLD
-2042035,PA2ZZ,Henk,,,,NLD
 2042036,PA0JGS,Jack,,,,NLD
 2042037,PA3HGT,Hans,,,,NLD
 2042038,PD0NRH,Peter,,,,NLD
@@ -2975,7 +2958,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042041,PD7N,Wilbert,,,,NLD
 2042042,PD0MOH,Frits,,,,NLD
 2042044,PA0NUL,Floris,,,,NLD
-2042045,PA1LQS,Frans,,,,NLD
 2042046,PD0DNL,Joop,,,,NLD
 2042047,PA4GER,Ger,,,,NLD
 2042048,PA1MBW,Piet,,,,NLD
@@ -2999,7 +2981,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042067,PA3FTT,Quirijn,,,,NLD
 2042068,PA3CGE,Bob,,,,NLD
 2042069,PD5RD,Rene,,,,NLD
-2042070,PA2LAD,Leen,,,,NLD
 2042071,PD2RVO,Ronald,,,,NLD
 2042072,PD5EE,Edwin,,,,NLD
 2042073,PD9JG,Patrick,,,,NLD
@@ -3024,7 +3005,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042093,PE2PVD,Patrick,,,,NLD
 2042094,PA3SSB,Peter,,,,NLD
 2042095,PD4DYH,Danielle,,,,NLD
-2042096,PG4E,Ed,,,,NLD
 2042097,PE3M,Marco,,,,NLD
 2042098,PE2APR,Andrew,,,,NLD
 2042099,PA3AMD,Jan,,,,NLD
@@ -3043,7 +3023,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042112,PA7J,Jan,,,,NLD
 2042113,PA0GPE,Gilles,,,,NLD
 2042114,PD2OT,Ombry,,,,NLD
-2042115,PA1DD,Klaas,,,,NLD
 2042116,PA7MB,Marcel,,,,NLD
 2042117,PD0CBL,Cor,,,,NLD
 2042118,PD4M,Maarten,,,,NLD
@@ -3108,7 +3087,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042179,PA3JLM,Jan,,,,NLD
 2042180,PD4DFT,Ton,,,,NLD
 2042181,PD3RVH,Rene,,,,NLD
-2042182,PH0TR,Ton,,,,NLD
 2042183,PA2DKW,Frank,,,,NLD
 2042184,PA3ESJ,Cees,,,,NLD
 2042185,PE0RH,Ruud,,,,NLD
@@ -3134,7 +3112,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042206,PE1PYT,Peter,,,,NLD
 2042207,PB0ANU,Rob,,,,NLD
 2042208,PA3FFU,Joop,,,,NLD
-2042209,PD8A,Steven,,,,NLD
 2042210,PD4KK,Kees,,,,NLD
 2042211,PD2HI,Henk,,,,NLD
 2042212,PA3ESZ,Hans,,,,NLD
@@ -3172,21 +3149,18 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042244,PA1L,Wim,,,,NLD
 2042245,PD3EEF,Eef,,,,NLD
 2042246,PD1EJO,Ernst,,,,NLD
-2042247,PD0ECD,Ernie,,,,NLD
 2042248,PE9R,no_name,,,,NLD
 2042249,PA3GKU,Fred,,,,NLD
 2042250,PA0ONH,Niek,,,,NLD
 2042251,PH0RH,Rene,,,,NLD
 2042252,PD0ADL,Theo,,,,NLD
 2042253,PD7JT,Jan,,,,NLD
-2042254,PD9M,Mathijn,,,,NLD
 2042255,PA1HA,Henry,,,,NLD
 2042256,PA3BVS,Ben,,,,NLD
 2042257,PD0JSQ,Jean,,,,NLD
 2042258,PD1EVP,Ger,,,,NLD
 2042259,PD1PDR,Peter,,,,NLD
 2042260,PD2RD,Ruud,,,,NLD
-2042261,PA1AB,Johan,,,,NLD
 2042262,PD1GML,George,,,,NLD
 2042263,PD0TV,Ton,,,,NLD
 2042264,PA2PEP,Peppo,,,,NLD
@@ -3281,7 +3255,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042353,PD1MRT,Martijn,,,,NLD
 2042354,PH0MH,Mart,,,,NLD
 2042355,PA3BZY,Kees,,,,NLD
-2042356,PD9E,Edwin,,,,NLD
 2042357,PE1RGN,Henk,,,,NLD
 2042358,PD4RON,Ronald,,,,NLD
 2042359,PA1CS,Kees,,,,NLD
@@ -3296,7 +3269,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042368,PB7X,Pieter,,,,NLD
 2042369,PA3GSN,Arie,,,,NLD
 2042370,PH7Y,Peter,,,,NLD
-2042371,PA0MVB,Bernard,,,,NLD
 2042372,PD0LXQ,Vic,,,,NLD
 2042373,PD1AX,Alex,,,,NLD
 2042374,PE1PIZ,Marco,,,,NLD
@@ -3344,7 +3316,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2042418,PD2NM,Nico,,,,NLD
 2042419,PA8NPT,Andrew,,,,NLD
 2042420,PD2X,Johnny,,,,NLD
-2042421,PA1FRA,Francesco,,,,NLD
 2042422,PD1LSH,Anton,,,,NLD
 2042423,PE3FVU,Franz,,,,NLD
 2042424,PD4PBR,Peter,,,,NLD
@@ -3468,7 +3439,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2043087,PD0ASL,Angelo,,,,NLD
 2043088,PD0ZRY,Rudy,,,,NLD
 2043089,PA0SAR,Aart,,,,NLD
-2043090,PD2MT,Martijn,,,,NLD
 2043091,PA9MD,Michel,,,,NLD
 2043092,PD3UTR,Ronald,,,,NLD
 2043093,PA0MPL,Mick,,,,NLD
@@ -3477,7 +3447,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2043096,PA1JAL,Jan,,,,NLD
 2043097,PD0G,Gerton,,,,NLD
 2043098,PD0OM,Henry,,,,NLD
-2043099,PH7WIM,Wim,,,,NLD
 2043100,PA7PF,Peter,,,,NLD
 2043101,PE1HKJ,Leo,,,,NLD
 2043102,PA3EPI,Jan,,,,NLD
@@ -3565,7 +3534,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2043184,PE1GJ,Gerrit,,,,NLD
 2043185,PA3AZX,Jos,,,,NLD
 2043187,PD1VSD,Thomas,,,,NLD
-2043188,PD1CD,Paul,,,,NLD
 2043189,PA3JDB,Jan,,,,NLD
 2043190,PD5ISW,Jaap,,,,NLD
 2043191,PD9AS,Joop,,,,NLD
@@ -3626,7 +3594,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2043247,PD3PIM,Pim,,,,NLD
 2043248,PA7DRM,Mike,,,,NLD
 2043249,PA7JG,Johan,,,,NLD
-2043250,PD8HEI,Hanzell,,,,NLD
 2043251,PD2HCM,Henk,,,,NLD
 2043737,PD3RFR,Richard,,,,NLD
 2044001,PD4RS,Ruud,,,,NLD
@@ -3656,7 +3623,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2044026,PA0JKW,Jac,,,,NLD
 2044027,PA3DNR,Jan,,,,NLD
 2044028,PE1CTK,Jos,,,,NLD
-2044029,PA0EVO,Paul,,,,NLD
 2044030,PA3UL,Paul,,,,NLD
 2044031,PE2KMV,Ronald,,,,NLD
 2044032,PA5NT,Joost,,,,NLD
@@ -3666,7 +3632,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2044037,PD0RJT,Jos,,,,NLD
 2044038,PE2ERK,Erik,,,,NLD
 2044039,PA3TOP,Jo,,,,NLD
-2044040,PE1NPX,Piet,,,,NLD
 2044041,PD2FRE,Sander,,,,NLD
 2044042,PA3AEH,Wolfgang,,,,NLD
 2044043,PA3ATT,Paul,,,,NLD
@@ -3674,7 +3639,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2044045,PE1PTS,Michel,,,,NLD
 2044046,PE9GHZ,Eddy,,,,NLD
 2044047,PD0EJN,Rene,,,,NLD
-2044048,PD0ACZ,Assia,,,,NLD
 2044049,PD5CW,Jeroen,,,,NLD
 2044050,PB1SAM,Pascal,,,,NLD
 2044051,PA0HRA,Henk,,,,NLD
@@ -3687,7 +3651,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2044058,PE0FK,Frank,,,,NLD
 2044059,PD2HKZ,Wilco,,,,NLD
 2044060,PD1MRZ,Ben,,,,NLD
-2044061,PA3CGK,Ad,,,,NLD
 2044062,PC9DB,Mark,,,,NLD
 2044063,PA3ENP,John,,,,NLD
 2044064,PB1HF,Arno,,,,NLD
@@ -3700,7 +3663,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2044071,PA3GDS,Math,,,,NLD
 2044072,PE9GRC,Maurice,,,,NLD
 2044073,PA3BEY,Jef,,,,NLD
-2044074,PA0RKT,Gerard,,,,NLD
 2044075,PD4AVO,Michel,,,,NLD
 2044076,PA3GWO,Tony,,,,NLD
 2044077,PD2BVG,Berry,,,,NLD
@@ -3819,12 +3781,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2044191,PE1PUX,Erikdewildt,,,,NLD
 2044192,PA5OXW,Albert,,,,NLD
 2044193,PD0XX,Mick,,,,NLD
-2045001,PD0AQK,Saskatchewan,,,,NLD
-2045002,PD0AQK,Saskatchewan,,,,NLD
 2045003,PA0RTU,Klaas,,,,NLD
 2045005,PE1DGW,Ad,,,,NLD
 2045006,PE1DGW,Ad,,,,NLD
-2045007,PI5FTS,Fontys,,,,NLD
 2045008,PD9BG,Beau,,,,NLD
 2045009,PD9BG,Beau,,,,NLD
 2045010,PD8KRW,Roel,,,,NLD
@@ -3872,7 +3831,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2045053,PE1MSZ,Ruud,,,,NLD
 2045054,PA1PXL,Ton,,,,NLD
 2045055,PE0PLE,Walther,,,,NLD
-2045056,PA2U,Cees,,,,NLD
 2045057,PD1PME,Paul,,,,NLD
 2045058,PE5YES,Christ,,,,NLD
 2045059,PA3DP,Dijo,,,,NLD
@@ -3955,7 +3913,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2045136,PA3TG,Tom,,,,NLD
 2045137,PD0VDE,Stefan,,,,NLD
 2045138,PE1GQE,Joop,,,,NLD
-2045139,PA0AWA,Arie,,,,NLD
 2045140,PD7MB,Maarten,,,,NLD
 2045141,PE1G,Geurt,,,,NLD
 2045142,PD9MK,Maurice,,,,NLD
@@ -4006,14 +3963,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2045188,PA1TOM,Tom,,,,NLD
 2045189,PD2JOS,Jos,,,,NLD
 2045190,PA7FRN,Edwin,,,,NLD
-2045191,PB2B,Dave,,,,NLD
 2045192,PD3RBW,Ronald,,,,NLD
 2045193,PA3CAU,Joop,,,,NLD
 2045194,PD2ON,Pieter,,,,NLD
 2045195,PD1AJZ,Matthe,,,,NLD
 2045196,PA2FA,Frank,,,,NLD
 2045197,PA3SKY,Patrick,,,,NLD
-2045198,PD9HVS,Stephan,,,,NLD
 2045199,PD2AFO,Andre,,,,NLD
 2045200,PA2M,Frank,,,,NLD
 2045201,PA6SHB,Sc,,,,NLD
@@ -4072,7 +4027,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2045255,PH0R,Robert,,,,NLD
 2045256,PF3X,Laurens,,,,NLD
 2045257,PE1RYX,Ra,,,,NLD
-2045258,PA5LS,Leo,,,,NLD
 2045259,PA0VTM,Vincent,,,,NLD
 2045260,PD9PB,Peter,,,,NLD
 2045261,PD7RAD,Ronald,,,,NLD
@@ -4084,7 +4038,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2045267,PD4PJH,Pieterjan,,,,NLD
 2045269,PE1MIX,Eric,,,,NLD
 2045270,PD2BMG,Pd2bmg,,,,NLD
-2045271,PA2MAR,Pa2mar,,,,NLD
 2045272,PA9SBX,Erik,,,,NLD
 2045273,PB0X,Peter,,,,NLD
 2046001,PD2WGN,Walter,,,,NLD
@@ -4126,7 +4079,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2046037,PD2RMV,Richard,,,,NLD
 2046039,PA3GLM,Norbert,,,,NLD
 2046040,PD4K,Klaas,,,,NLD
-2046041,PG8M,Marcel,,,,NLD
 2046042,PA3RD,Reink,,,,NLD
 2046043,PD0MAC,Michel,,,,NLD
 2046044,PA0VIC,Vic,,,,NLD
@@ -4212,7 +4164,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2046127,PE1BGO,Guus,,,,NLD
 2046128,PA4SB,Sander,,,,NLD
 2046129,PD1NLD,Jeroen,,,,NLD
-2046130,PA5RS,Rene,,,,NLD
 2046131,PE1CCX,Joop,,,,NLD
 2046132,PD1WP,Wilfred,,,,NLD
 2046133,PA1RT,Ronald,,,,NLD
@@ -4224,7 +4175,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2046139,PH0NY,Albert,,,,NLD
 2046140,PD0CYR,Cyrille,,,,NLD
 2046141,PA0HEJ,Hans,,,,NLD
-2046142,PH9IF,Ivan,,,,NLD
 2046143,PD2DSB,Danny,,,,NLD
 2046144,PH3J,Jan,,,,NLD
 2046145,PA3CRP,Berry,,,,NLD
@@ -4395,7 +4345,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2047032,PA2TSL,Tom,,,,NLD
 2047033,PD0SCS,Henk,,,,NLD
 2047034,PE1BZF,William,,,,NLD
-2047035,PI9XXR,Test,,,,NLD
 2047037,PD0AC,Hans,,,,NLD
 2047038,PD8R,Rob,,,,NLD
 2047039,PA3AQI,Herman,,,,NLD
@@ -4417,7 +4366,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2047055,PD0POH,Richard,,,,NLD
 2047056,PE1MRN,Jan,,,,NLD
 2047057,PA3FFS,Marijn,,,,NLD
-2047059,PD0OZR,Hans,,,,NLD
 2047060,PC9F,Hans,,,,NLD
 2047061,PA3DPS,Hans,,,,NLD
 2047063,PA3GWU,Auke,,,,NLD
@@ -4425,7 +4373,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2047065,PE1PBQ,Ton,,,,NLD
 2047066,PA0ESH,Erik,,,,NLD
 2047067,PH0HI,Mario,,,,NLD
-2047068,PA1ART,Saskatchewan,,,,NLD
 2047069,PD1HS,Henry,,,,NLD
 2047070,PD9HDB,Hans,,,,NLD
 2047071,PD0WFS,Wilco,,,,NLD
@@ -4495,7 +4442,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2047138,PE0RVA,Reinout,,,,NLD
 2047139,PA3AUM,Reinier,,,,NLD
 2047140,PA3DXL,Joop,,,,NLD
-2047141,PA2XHF,Bert,,,,NLD
 2047143,PA0VDW,Jan,,,,NLD
 2047144,PD0HWN,Dick,,,,NLD
 2047145,PA1EMF,Django,,,,NLD
@@ -4521,14 +4467,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2047166,PA3AXA,Arend,,,,NLD
 2047167,PD1GE,Gerben,,,,NLD
 2047168,PE1JQK,Sjouke,,,,NLD
-2047169,PE1JEL,Andre,,,,NLD
 2047170,PD8G,Gijs,,,,NLD
 2047171,PD1JHG,Jeremy,,,,NLD
 2047172,PD1ROT,no_name,,,,NLD
 2047173,PA5HR,Bert,,,,NLD
-2047174,PA2KL,Klaas,,,,NLD
 2047175,PA4UNX,Rudi,,,,NLD
-2047176,PI3TWE,Stichting,,,,NLD
 2047177,PD7NWH,Henk,,,,NLD
 2047178,PA1RW,Dolf,,,,NLD
 2047179,PE1ADY,Piet,,,,NLD
@@ -4671,7 +4614,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2048048,PD1RS,Rene,,,,NLD
 2048049,PD0MBY,Dirk,,,,NLD
 2048050,PD0PBO,no_name,,,,NLD
-2048051,PH0K,Harry,,,,NLD
 2048052,PD2GKD,Gert,,,,NLD
 2048053,PC5E,Robert,,,,NLD
 2048054,PA1MLY,Henk,,,,NLD
@@ -4759,7 +4701,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2048136,PA3CNC,Henri,,,,NLD
 2048137,PA5MH,Marco,,,,NLD
 2048138,PA3GTL,Wim,,,,NLD
-2048139,PD0JMO,Ton,,,,NLD
 2048140,PA2TN,Teade,,,,NLD
 2048141,PA3FUO,Sietze,,,,NLD
 2048142,PA3GXX,Abe,,,,NLD
@@ -5535,6 +5476,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060639,ON4DSL,Peter,,,,BEL
 2060640,ON8JPB,Jean Pol,,,,BEL
 2060641,ON3VX,Lennart,,,,BEL
+2060642,ON3FRG,Gonzo,,,,BEL
 2061001,ON8SVH,Stijn,,,,BEL
 2061002,ON8SI,Simon,,,,BEL
 2061003,ON5LUC,Luc,,,,BEL
@@ -5580,7 +5522,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2061044,ON2TIM,Tim,,,,BEL
 2061045,ON2RK,Kris,,,,BEL
 2061046,ON3DHL,Julien,,,,BEL
-2061047,ON3GPS,Pieter,,,,BEL
 2061048,ON4LQ,Raoul,,,,BEL
 2061049,ON4BBQ,Ronald,,,,BEL
 2061050,ON3DWD,Dirk,,,,BEL
@@ -5691,7 +5632,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2061158,ON3KDR,Kris,,,,BEL
 2061159,ON6AZ,Alex,,,,BEL
 2061160,ON3TVC,Thomas,,,,BEL
-2061161,ON5LY,Johan,,,,BEL
 2061162,ON4CCQ,Geert,,,,BEL
 2061163,ON4LOL,Maarten,,,,BEL
 2061164,ON3BVM,Benjamin,,,,BEL
@@ -5767,9 +5707,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2061235,ON3WT,Julien,,,,BEL
 2061236,ON6JV,Jo,,,,BEL
 2061237,ON6ERS,Eddie,,,,BEL
-2061238,ON3VDS,Rudy,,,,BEL
 2061239,ON3DPE,Daniel,,,,BEL
-2061240,ON4PC,Philippe,,,,BEL
 2061241,ON3DWD,Dirk,,,,BEL
 2061242,ON7VMR,Rudy,,,,BEL
 2061243,ON6PK,Rudy,,,,BEL
@@ -8038,6 +7976,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081425,F4JLQ,Jacky,,,,FRA
 2081426,F4JRH,Noel,,,,FRA
 2081427,F1VY,Jean Marie,,,,FRA
+2081428,F6DTU,Guy,,,,FRA
+2081429,F4FQT,Marc,,,,FRA
+2081430,F4LCT,Jean Philippe,,,,FRA
+2081431,F1GYG,Patrick,,,,FRA
 2081777,F4JBM,Francois,,,,FRA
 2082001,F4FUL,Cyril,,,,FRA
 2082002,F5VIN,Heiko,,,,FRA
@@ -16326,6 +16268,20 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2146807,EA7KSU,Mota,,,,ESP
 2146808,EA1DH,Agustin,,,,ESP
 2146809,EA3GIB,Juan,,,,ESP
+2146810,EA9ACR,Domingo,,,,ESP
+2146811,EA7KRY,Luis Carlos,,,,ESP
+2146812,EA5JMI,Juanjo,,,,ESP
+2146813,EB3DWK,Antonio,,,,ESP
+2146814,EA7FPG,Aurelio,,,,ESP
+2146815,EA3HWX,Angel,,,,ESP
+2146816,EA5BWR,Txema,,,,ESP
+2146817,EA5JNK,Andres,,,,ESP
+2146818,EA1FTD,Rodrigo,,,,ESP
+2146819,EA4HYO,Alberto,,,,ESP
+2146820,EA2DSY,Javier,,,,ESP
+2146821,EA3IND,Joan Carles,,,,ESP
+2146822,EA5GOR,Pascual Pas,,,,ESP
+2146823,EA5BFA,Antonio,,,,ESP
 2147001,EA7UW,Rafael,,,,ESP
 2147002,EA7CRA,Jose,,,,ESP
 2147003,EA7JRS,Manuel,,,,ESP
@@ -17728,6 +17684,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2160212,HA5RE,Robert,,,,HUN
 2160213,HG5SPP,Peter,,,,HUN
 2160214,HA2LY,Lilien,,,,HUN
+2160215,HA1KED,Krisztian,,,,HUN
 2161001,HA2TO,Arpad,,,,HUN
 2161002,HA4XA,Istvan,,,,HUN
 2161003,HA9MDP,Peter,,,,HUN
@@ -30313,6 +30270,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230621,I2TSJ,Salvatore,,,,ITA
 2230622,IU8QTR,Rocco,,,,ITA
 2230623,IU5RUZ,Gino,,,,ITA
+2230624,IS0DZW,Francesco,,,,ITA
+2230625,IK2QBZ,Claudio,,,,ITA
+2230626,IW2CPT,Giulio,,,,ITA
+2230627,I7GLO,Giovanni,,,,ITA
+2230628,IU0QVF,Gennaro,,,,ITA
+2230629,IU3QFH,Pietro,,,,ITA
+2230630,IU0QVA,Marco,,,,ITA
+2230631,IU2RLC,Guido,,,,ITA
+2230632,IU2RGL,Daniele,,,,ITA
 2231276,IU5PTS,Stefano,,,,ITA
 2242222,IT9JFW,Lorenzo,,,,
 2260001,YO5DSG,Daniel,,,,ROU
@@ -30624,6 +30590,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2260312,YO8RQC,Iulius Ionel,,,,ROU
 2260313,YO9IPM,Pavel,,,,ROU
 2260314,YO3AEJ,Cristian,,,,ROU
+2260315,YO7VNS,Udrea,,,,ROU
 2261000,YO5MDA,Dumi,,,,ROU
 2261001,YO3GTS,Dan,,,,ROU
 2261313,YO8TEH,Izzy,,,,ROU
@@ -31448,6 +31415,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280298,HB9GUN,Andi,,,,CHE
 2280299,HB9HXW,Daniel,,,,CHE
 2280300,HB3YBY,Rolf,,,,CHE
+2280301,HB9GIH,Hans Heinrich,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -33343,6 +33311,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2300318,OK2RAC,Klub,,,,CZE
 2300319,OK1ECH,Lukas,,,,CZE
 2300320,OK9BWB,Vlasta,,,,CZE
+2300321,OK2BGS,Karel,,,,CZE
 2301001,OK9DTZ,David,,,,CZE
 2301002,OK3ZB,Zdenek,,,,CZE
 2301003,OK1MX,Milan,,,,CZE
@@ -34707,6 +34676,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320607,OE3DCP,Daniel,,,,AUT
 2320608,OE5AHN,Martin,,,,AUT
 2320609,OE4DMH,Martin,,,,AUT
+2320610,OE6MYC,Michael,,,,AUT
+2320611,OE3JRC,Hans,,,,AUT
+2320612,OE2YDJ,Wolfgang,,,,AUT
+2320613,OE7MBJ,Michael,,,,AUT
 2321001,OE1KBC,Kurt,,,,AUT
 2321002,OE1KBC,Kurt,,,,AUT
 2321003,OE1KBC,Kurt,,,,AUT
@@ -52141,6 +52114,28 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2355939,2I0IJN,Steven,,,,GBR
 2355940,G7SMD,Jordan,,,,GBR
 2355941,M3LVP,John,,,,GBR
+2355942,M7WCC,Caroline,,,,GBR
+2355943,M3ORU,Craig,,,,GBR
+2355944,M7MRW,Chris,,,,GBR
+2355945,G7PAE,Chris,,,,GBR
+2355946,G1KPZ,Malcolm,,,,GBR
+2355947,M0UNG,Farid,,,,GBR
+2355948,2E0YFM,Gavin,,,,GBR
+2355949,M1DDE,John,,,,GBR
+2355950,MW7FTO,David,,,,GBR
+2355951,M7NOA,Noah,,,,GBR
+2355952,M7YME,Mark,,,,GBR
+2355953,2E0ACE,Adrian,,,,GBR
+2355954,M7EMQ,Philip,,,,GBR
+2355955,M6NTY,Darren,,,,GBR
+2355956,MM7WXT,John,,,,GBR
+2355957,G6PJC,Paul,,,,GBR
+2355958,M7KIX,Thomas,,,,GBR
+2355959,2E0EMN,Charles,,,,GBR
+2355960,M7EYV,Elliott,,,,GBR
+2355961,M0AEI,Jeffrey,,,,GBR
+2355962,M7ODC,Sam,,,,GBR
+2355963,M7ORT,Paul,,,,GBR
 2356001,GD6XHG,Ed,,,,GBR
 2356002,GD6XHG,Ed,,,,GBR
 2356003,GD0NFN,John,,,,GBR
@@ -52471,6 +52466,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2380253,OZ1MKK,Mike,,,,DNK
 2380254,OZ5JG,Jens,,,,DNK
 2380255,OZ1GI,Allan,,,,DNK
+2380256,OZ1BCL,Finn,,,,DNK
 2380822,OZ8ADK,Anders Dam,,,,DNK
 2381001,OZ2CA,Soren,,,,DNK
 2381002,5P4Z,Herman,,,,DNK
@@ -56480,6 +56476,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2420454,LA4SIA,Vegard,,,,NOR
 2420455,LA1PNA,Pedersen,,,,NOR
 2420456,LB8GJ,Kent Inge,,,,NOR
+2420457,LA5VMA,Raynold,,,,NOR
 2421001,LA6VMA,Tommy,,,,NOR
 2421002,LA7ZKA,Arve,,,,NOR
 2421003,LA2YUA,Robin,,,,NOR
@@ -57834,6 +57831,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2441515,OH1HBT,Timo,,,,FIN
 2441516,OH2CLD,Joao,,,,FIN
 2441517,OH6AAD,Vts Radiokerho,,,,FIN
+2441518,OH8CRX,Jukka,,,,FIN
+2441520,OH8JH,Jari,,,,FIN
+2441521,OH2OPH,Ossi,,,,FIN
+2441522,OH6IR,Pasi,,,,FIN
+2441523,OH2KCR,Niko,,,,FIN
 2442001,OH2LAK,Erik,,,,FIN
 2442002,OH2LAK,Erik,,,,FIN
 2442003,OH2LAK,Erik,,,,FIN
@@ -58794,6 +58796,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2470052,YL3RIM,Inga,,,,LVA
 2470053,YL3RIM,Inga,,,,LVA
 2470054,YL3APT,Aleksandrs,,,,LVA
+2470055,YL3AOO,Austris,,,,LVA
 2480001,ES2AST,Marek,,,,EST
 2480002,ES2FJR,Ivan,,,,EST
 2480003,ES1BRD,Dmitri,,,,EST
@@ -59723,6 +59726,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2500853,R3DGW,Sergei,,,,RUS
 2500854,R3TNI,Aleksandr,,,,RUS
 2500855,UB9UEJ,no_name,,,,RUS
+2500856,R2DII,Dmitriy,,,,RUS
+2500857,UB3GFD,Vladimir,,,,RUS
+2500858,RY6UAA,Dmitry,,,,RUS
+2500859,R4PDM,Dmitry,,,,RUS
+2500860,UB3ZFT,Denis,,,,RUS
+2500861,R1ZDK,Valerii,,,,RUS
+2500862,R0WAC,Alexey,,,,RUS
+2500863,R9FDP,Ivan,,,,RUS
+2500864,RA9SCB,Alexander,,,,RUS
 2501001,UB1AAM,Dmitriy,,,,RUS
 2501002,UA1CDG,Vitaliy,,,,RUS
 2501003,RA1AQB,Sergey,,,,RUS
@@ -61925,6 +61937,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2550569,UT3UPV,Mykola,,,,UKR
 2550570,UR5FSS,Maksym,,,,UKR
 2550571,UR5KEX,Valentyna,,,,UKR
+2550572,UT5QBC,Yurii,,,,UKR
+2550573,UT3UTH,Andrii,,,,UKR
+2550574,UT3USW,Oleksii,,,,UKR
 2555555,UR5SSB,Yaroslav,,,,UKR
 2570001,EW7AS,Vladimir,,,,BLR
 2570002,EW7AS,Vladimir,,,,BLR
@@ -62595,7 +62610,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600464,SP1MPW,Pawel,,,,POL
 2600465,SP5J,Jan,,,,POL
 2600466,SP7PBC,Skierniewicki,,,,POL
-2600467,SP9WFU,Leszek,,,,POL
 2600468,SP1AL,Andrzej,,,,POL
 2600469,SP1IC,Irek,,,,POL
 2600470,SQ1EUF,Jaroslaw,,,,POL
@@ -62623,7 +62637,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600494,SQ7OS,Piotr,,,,POL
 2600495,SP6MED,Mateusz,,,,POL
 2600496,SQ4PKO,Jacek,,,,POL
-2600497,SP6OJK,Jarek,,,,POL
 2600498,SP1SU,Kacper,,,,POL
 2600499,SP8NFH,Andrzej,,,,POL
 2600500,SQ7AIE,Andrzej,,,,POL
@@ -62812,7 +62825,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600694,SP5RST,Robert,,,,POL
 2600695,SQ9CSB,Sebastian,,,,POL
 2600696,SQ9KGB,Dariusz,,,,POL
-2600697,SQ6ADD,Dawid,,,,POL
 2600698,SQ7LQT,Zibi.,,,,POL
 2600699,SP9OUV,Jacek,,,,POL
 2600700,SP7CC,Arek,,,,POL
@@ -62861,7 +62873,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600744,SP8DK,Tomasz,,,,POL
 2600745,SP1MDR,Stanislaw,,,,POL
 2600746,SP5GRZ,Grzegorz,,,,POL
-2600747,SQ6POH,Karol,,,,POL
 2600748,SQ9BZ,Lukasz,,,,POL
 2600749,SP5BUD,Kris,,,,POL
 2600750,SQ5MS,Marcin,,,,POL
@@ -63166,6 +63177,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2601056,SQ1OHF,Edward,,,,POL
 2601057,SP1UJW,Wojtek,,,,POL
 2601058,SQ1GU,Andrzej,,,,POL
+2601059,SQ1NT,Leszek,,,,POL
 2601060,SQ1WO,Wojtek,,,,POL
 2601061,SQ1BHQ,Piotr,,,,POL
 2601062,SP1IT,Tomasz,,,,POL
@@ -63254,7 +63266,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2601151,SP4ALA,Bartosz,,,,POL
 2601152,SP1KAR,Dawid,,,,POL
 2601153,SP2JB,Jaroslaw,,,,POL
-2601154,SQ1HTA,Pawel,,,,POL
 2601155,SQ7WT,Wojciech,,,,POL
 2601156,SP9CST,Edward,,,,POL
 2601157,SO4SO,Marcin,,,,POL
@@ -64083,6 +64094,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2601992,SP6WAF,Zenon,,,,POL
 2601993,SP0PQB,Jacek,,,,POL
 2601994,SP5GW,Andrzej,,,,POL
+2601995,SQ6PBA,Pawel,,,,POL
+2601996,SP6IZA,Robert,,,,POL
+2601998,SQ8JIU,Mariusz,,,,POL
 2601999,SP5VEQ,Tomasz,,,,POL
 2602001,SP2WGN,Maciej,,,,POL
 2602002,SP2FRN,Sebastian,,,,POL
@@ -64113,6 +64127,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2602029,SQ2FRG,Marcin,,,,POL
 2602030,SQ1GPI,Maciej,,,,POL
 2602031,SQ2RBY,Grzegorz,,,,POL
+2602032,SP5ORH,Jacek,,,,POL
 2602033,SP2XDM,Michal,,,,POL
 2602034,SQ2CDE,Marcin,,,,POL
 2602035,SP2XDQ,Slawek,,,,POL
@@ -64134,6 +64149,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2602052,SP2A,Leszek,,,,POL
 2602053,SP2TMK,Tomasz,,,,POL
 2602054,SQ2MTG,Blazej,,,,POL
+2602055,SP2HQP,Roman,,,,POL
 2602056,SP1NQN,Tadeusz,,,,POL
 2602057,SQ2MMP,Mariusz,,,,POL
 2602058,SP2BC,Marek,,,,POL
@@ -64217,6 +64233,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2602141,SP2DFW,Edward,,,,POL
 2602142,SP2NS,Norbert,,,,POL
 2602143,SP2RXY,Dorota,,,,POL
+2602144,SQ3MAT,Mateusz,,,,POL
 2602145,SP2KRZ,Krzysztof,,,,POL
 2602147,SP2WDV,Zbigniew,,,,POL
 2602148,SQ2TAC,Pawel,,,,POL
@@ -64239,6 +64256,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2602168,SP2RAW,Remigiusz,,,,POL
 2602169,SQ2RSE,Roberto,,,,POL
 2602170,SP2RZ,Robert,,,,POL
+2602171,SP9MKS,Mariusz,,,,POL
+2602172,HF7FT,Marek,,,,POL
+2602173,SP3SLK,Krzysztof,,,,POL
+2602174,SN4O,Zbigniew,,,,POL
+2602175,SP5SNB,Marcin,,,,POL
+2602176,SQ5GRQ,Marcin,,,,POL
+2602177,SQ8AK,Arkadiusz,,,,POL
 2602222,HF2Y,Maciej,,,,POL
 2602552,HF2Y,Maciej,,,,POL
 2603001,SQ3CLK,Michal,,,,POL
@@ -64402,7 +64426,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2603170,SP3WXH,Rafal,,,,POL
 2603171,SQ3OPC,Szymon,,,,POL
 2603172,SP3QFS,Jarek,,,,POL
-2603173,SP3NGN,Henryka,,,,POL
 2603174,SP3KPH,Klub,,,,POL
 2603175,SQ3SKU,Bogdan,,,,POL
 2603176,SQ3KKT,Dariusz,,,,POL
@@ -64637,7 +64660,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2605044,SQ5IZS,Krzysztof,,,,POL
 2605045,SQ5LTL,Pawel,,,,POL
 2605046,SQ8MFR,Krzysztof,,,,POL
-2605047,SP8NTH,Grzegorz,,,,POL
 2605048,SQ5AC,Antek,,,,POL
 2605049,SP5NAF,Grzegorz,,,,POL
 2605050,SP5CWC,Daniel,,,,POL
@@ -65912,7 +65934,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2609292,SQ9OJV,Dariusz,,,,POL
 2609293,SQ9FWX,Karol,,,,POL
 2609294,SP9VOG,Wladyslaw,,,,POL
-2609295,SO9AHG,Grzegorz,,,,POL
 2609296,SP9STN,Jacek,,,,POL
 2609297,SQ9OZA,Andrzej,,,,POL
 2609298,SQ9NKX,Mateusz,,,,POL
@@ -77031,6 +77052,19 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2631396,DL1UWE,Uwe,,,,DEU
 2631397,DH2SK,Joachim,,,,DEU
 2631398,DK5OZ,Thorsten,,,,DEU
+2631399,DK9RK,Guenter,,,,DEU
+2631400,DC9LJ,Jens,,,,DEU
+2631401,DL5FW,Frank,,,,DEU
+2631402,DR7K,Drk Siebengebirge,,,,DEU
+2631403,DO1DDC,Dominik,,,,DEU
+2631404,DG1OBD,Axel,,,,DEU
+2631405,DO3TKO,Thomas,,,,DEU
+2631406,DL1RK,Robert,,,,DEU
+2631407,DO1CPB,Christian,,,,DEU
+2631408,DC3SB,Sebastian,,,,DEU
+2631409,DO1SX,Steffen,,,,DEU
+2631410,DH9YBE,Jan,,,,DEU
+2631411,DL8AGC,Aleksander,,,,DEU
 2633001,DG4AK,Dietmar,,,,DEU
 2633002,DH8AAA,Oliver,,,,DEU
 2633003,DC6BV,Reinhardt,,,,DEU
@@ -81338,6 +81372,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2680424,CT2GZE,Marta,,,,PRT
 2680425,CR7BKJ,no_name,,,,PRT
 2680426,CS7ATN,Antonio,,,,PRT
+2680427,CT7AYO,Margarida,,,,PRT
+2680428,CR7BKS,Joaquim,,,,PRT
 2681001,CT2HMR,Manuel,,,,PRT
 2681002,CT1DQV,Eduardo,,,,PRT
 2681003,CT2GSW,Rui,,,,PRT
@@ -81825,7 +81861,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2683109,CT7AJM,Francisco,,,,PRT
 2683110,CT1FSM,Carlos,,,,PRT
 2683111,CT2GOY,Luis,,,,PRT
-2683112,CT2GWL,Custodio,,,,PRT
 2683113,CT2JUT,Miguel,,,,PRT
 2683114,CT1ECM,Antonio,,,,PRT
 2683115,CR7AOA,Rui,,,,PRT
@@ -82918,6 +82953,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2780063,9H2MB,Michael,,,,MLT
 2780064,9H1KR,Mario,,,,MLT
 2780065,9H2LT,Mario,,,,MLT
+2780066,9H1JQ,Joe,,,,MLT
 2800001,5B4AMD,George,,,,CYP
 2800002,5B4JY,Haralambos,,,,CYP
 2800003,5B4AMT,Ian,,,,CYP
@@ -83643,7 +83679,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2840610,LZ1MVP,Mihail,,,,BGR
 2840611,LZ5BN,Boyko,,,,BGR
 2840612,LZ1CBY,Kostadin,,,,BGR
-2840613,LZ1CN,Dragan,,,,BGR
 2840614,LZ5RO,Rosen,,,,BGR
 2840615,LZ3GDK,Gencho,,,,BGR
 2840616,LZ5OP,Petar,,,,BGR
@@ -83698,6 +83733,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2840665,LZ1SOW,Borislav,,,,BGR
 2840666,LZ1DMO,Dimitar,,,,BGR
 2840667,LZ4VR,Tzvetomir,,,,BGR
+2840668,LZ1DCB,Daniel,,,,BGR
 2843333,LZ1CLA,Kiril,,,,BGR
 2849998,LZ1JPK,Jordan,,,,BGR
 2860001,TA6TC,Mirac,,,,TUR
@@ -88928,6 +88964,16 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2865605,TA2UB,Ali,,,,TUR
 2865606,TA9DXD,Ismail Hakki,,,,TUR
 2865607,TB7DYT,Mert,,,,TUR
+2865608,TB2FAB,Ahmet,,,,TUR
+2865609,TA9V,Hamit Kadir,,,,TUR
+2865610,TA8JAH,Orhan,,,,TUR
+2865611,TB1DIA,Murat,,,,TUR
+2865612,TB3AID,Alperen,,,,TUR
+2865613,TA4GZP,Ramazan,,,,TUR
+2865614,YM1VKP,Kapakli Belediyesi,,,,TUR
+2865615,TA6SSS,Serkan Savas,,,,TUR
+2865616,TB2VCH,Berke,,,,TUR
+2865617,TB2HMJ,Murat,,,,TUR
 2866666,TA1FRK,Furkan,,,,TUR
 2867777,TA2SEK,Serhat,,,,TUR
 2868686,TB3ACU,Baris,,,,TUR
