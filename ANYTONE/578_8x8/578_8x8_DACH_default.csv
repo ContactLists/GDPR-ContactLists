@@ -301,6 +301,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280300,HB3YBY,Rolf,,,CHE,,Private Call,None
 ,2280301,HB9GIH,Hans Heinrich,,,CHE,,Private Call,None
 ,2280302,HB9MBT,Urs,,,CHE,,Private Call,None
+,2280303,HB3XFW,Alessio,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -4196,7 +4197,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2620040,DL3HQD,Winfried,,,DEU,,Private Call,None
 ,2620041,DM3AF,Alexander,,,DEU,,Private Call,None
 ,2620042,DO9AM,Silvio,,,DEU,,Private Call,None
-,2620043,DG6ZOD,Peter,,,DEU,,Private Call,None
 ,2620045,DG0HP,Dietmar,,,DEU,,Private Call,None
 ,2620046,DL9GRB,Rainer,,,DEU,,Private Call,None
 ,2620047,DO5AD,Torsten,,,DEU,,Private Call,None
@@ -15080,6 +15080,24 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2631410,DH9YBE,,,,DEU,,Private Call,None
 ,2631411,DL8AGC,Aleksander Maciej,,,DEU,,Private Call,None
 ,2631412,DL4GG,Uli,,,DEU,,Private Call,None
+,2631413,DL3TP,Tjark,,,DEU,,Private Call,None
+,2631414,DL1XBB,Harald,,,DEU,,Private Call,None
+,2631415,DF1KBN,Juergen,,,DEU,,Private Call,None
+,2631416,DR7K,Drk Siebengebirge,,,DEU,,Private Call,None
+,2631417,DL0MLU,Clubst.,,,DEU,,Private Call,None
+,2631418,DL3SBW,Alois,,,DEU,,Private Call,None
+,2631419,DM1LN,Milan,,,DEU,,Private Call,None
+,2631420,DO1MBB,Michael,,,DEU,,Private Call,None
+,2631421,DL5PT,Matthias,,,DEU,,Private Call,None
+,2631422,DL8UF,Uwe,,,DEU,,Private Call,None
+,2631423,DM5EE,Ulrich,,,DEU,,Private Call,None
+,2631424,DL2HYM,Steffen,,,DEU,,Private Call,None
+,2631425,DO2ALX,Alexander,,,DEU,,Private Call,None
+,2631426,DL7MAY,Leroy,,,DEU,,Private Call,None
+,2631427,DK4TB,Thomas,,,DEU,,Private Call,None
+,2631428,DO1JZH,Julius,,,DEU,,Private Call,None
+,2631429,DO1DS,Sholto,,,DEU,,Private Call,None
+,2631430,DL2HYL,Susanne,,,DEU,,Private Call,None
 ,2633001,DG4AK,Dietmar,,,DEU,,Private Call,None
 ,2633002,DH8AAA,Oliver,,,DEU,,Private Call,None
 ,2633003,DC6BV,Reinhardt,,,DEU,,Private Call,None
