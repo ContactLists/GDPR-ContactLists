@@ -782,6 +782,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060643,ON7PM,Philippe,,,BEL,,Private Call,None
 ,2060644,ON3CHE,Catherine,,,BEL,,Private Call,None
 ,2060645,ON4AXC,Jan,,,BEL,,Private Call,None
+,2060646,ON4SJB,Jean,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -3297,6 +3298,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081442,F5VO,Jean Louis,,,FRA,,Private Call,None
 ,2081443,F1PSZ,Philippe Ph,,,FRA,,Private Call,None
 ,2081444,F0GSF,Benjamin,,,FRA,,Private Call,None
+,2081445,F5VJN,Umberto,,,FRA,,Private Call,None
+,2081446,F4IKI,Stephane,,,FRA,,Private Call,None
+,2081447,F4LDW,Nicolas,,,FRA,,Private Call,None
+,2081448,F1JOF,Jean,,,FRA,,Private Call,None
+,2081449,F4DWE,Michel,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -5066,6 +5072,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280304,HB3XET,Patrick,,,CHE,,Private Call,None
 ,2280305,HB9DQS,Peter,,,CHE,,Private Call,None
 ,2280306,HB9AUR,Martin,,,CHE,,Private Call,None
+,2280307,HB9SLK,Michele,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -12051,6 +12058,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025468,VA6FTF,Sviatoslav,,,CAN,,Private Call,None
 ,3025469,VE6ALO,Alexandre,,,CAN,,Private Call,None
 ,3025470,VE7QYR,Denise,,,CAN,,Private Call,None
+,3025471,VE3EIE,Johnny Krzysztof,,,CAN,,Private Call,None
+,3025472,VE3AJI,Reed Norman,,,CAN,,Private Call,None
+,3025473,VA2DIY,Jocelyn,,,CAN,,Private Call,None
+,3025474,VE7KZ,David Keith,,,CAN,,Private Call,None
+,3025475,VY2WC,Robert Joseph,,,CAN,,Private Call,None
+,3025476,VE3KJZ,Bernie,,,CAN,,Private Call,None
+,3025477,VE3DZP,Gary Ronald,,,CAN,,Private Call,None
+,3025478,VE3ZAE,Justin,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None
