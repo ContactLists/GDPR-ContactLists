@@ -2635,7 +2635,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2222644,IK2IQU,Ciro,,,,ITA
 2222645,IU2DXM,Stefano,,,,ITA
 2222646,IU2GFJ,Nazzareno,,,,ITA
-2222647,IW2KIC,Bartolomeo,,,,ITA
 2222648,IW2DVN,Lorenzo,,,,ITA
 2222649,IZ2UTA,Osvaldo,,,,ITA
 2222650,IK2WAK,Mauro,,,,ITA
@@ -10652,6 +10651,18 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230692,IW1ROP,Luigi,,,,ITA
 2230693,IU0SAX,Fabrizio,,,,ITA
 2230694,IN3FTI,Paolo,,,,ITA
+2230695,IU5PMR,Tiziano,,,,ITA
+2230696,IT9UDQ,Nicolo,,,,ITA
+2230697,IK8UDK,Bruno,,,,ITA
+2230698,IW0ELF,Michele,,,,ITA
+2230699,IU0NHE,Carlo Maria,,,,ITA
+2230700,IZ1SFR,Gilfredo,,,,ITA
+2230701,IW8PGR,Antonio,,,,ITA
+2230702,IU4RYI,Ferdinando,,,,ITA
+2230703,IW4CYH,Luigi,,,,ITA
+2230704,I2UEA,Andrea,,,,ITA
+2230705,IQ3UH,A.R.I. Udine,,,,ITA
+2230706,IU3QNZ,Denis,,,,ITA
 2231276,IU5PTS,Stefano,,,,ITA
 2242222,IT9JFW,Lorenzo,,,,ITA
 2280001,4U1ITU,International,,,,CHE
@@ -10665,7 +10676,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280009,HB9TWP,Bolzani,,,,CHE
 2280010,HB9FSN,Bruno,,,,CHE
 2280011,HB9OBB,Daniele,,,,CHE
-2280012,HB9HGO,Carlos,,,,CHE
 2280013,HB9HOU,Roland,,,,CHE
 2280014,HB9GYV,Paul,,,,CHE
 2280015,HB3XVS,Stefan,,,,CHE
@@ -10961,6 +10971,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280305,HB9DQS,Peter,,,,CHE
 2280306,HB9AUR,Martin,,,,CHE
 2280307,HB9SLK,Michele,,,,CHE
+2280308,HB9HZJ,Christian,,,,CHE
+2280309,HB3XGM,Christian,,,,CHE
+2280310,HB9HZP,Cedric,,,,CHE
+2280311,HB9HEH,no_name,,,,CHE
+2280312,HB9SDB,Rolf,,,,CHE
+2280313,HB9IQW,Patrik,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -12633,3 +12649,4 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2920026,T72MS,Mauro,,,,SMR
 2920027,T77PM,Marco,,,,SMR
 2920028,T77CB,Aldo Benvenuto,,,,SMR
+2920029,T72P,Pier Paolo,,,,SMR
