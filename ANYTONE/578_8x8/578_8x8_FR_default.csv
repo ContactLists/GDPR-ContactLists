@@ -783,6 +783,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060644,ON3CHE,Catherine,,,BEL,,Private Call,None
 ,2060645,ON4AXC,Jan,,,BEL,,Private Call,None
 ,2060646,ON4SJB,Jean,,,BEL,,Private Call,None
+,2060647,ON4XY,Nico,,,BEL,,Private Call,None
+,2060648,ON3SEU,Seung,,,BEL,,Private Call,None
+,2060649,ON3JPN,Jean Philippe,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -2049,7 +2052,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2080188,F6HDV,Patrick,,,FRA,,Private Call,None
 ,2080189,F5BQP,Pierre-Franois,,,FRA,,Private Call,None
 ,2080190,F4AYE,Jean,,,FRA,,Private Call,None
-,2080191,F5NAK,Mohamed,,,FRA,,Private Call,None
 ,2080192,F6DWO,Jean-Michel,,,FRA,,Private Call,None
 ,2080193,F4AHN,Laurent,,,FRA,,Private Call,None
 ,2080194,F1OGV,Frederic,,,FRA,,Private Call,None
@@ -3304,6 +3306,15 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081448,F1JOF,Jean,,,FRA,,Private Call,None
 ,2081449,F4DWE,Michel,,,FRA,,Private Call,None
 ,2081450,F4LEB,Jean Claude,,,FRA,,Private Call,None
+,2081451,F1TKY,Seel,,,FRA,,Private Call,None
+,2081452,F1JPD,Hubert,,,FRA,,Private Call,None
+,2081453,F6GWB,Gerard,,,FRA,,Private Call,None
+,2081454,F4LFH,Thomas,,,FRA,,Private Call,None
+,2081455,F1IHA,Christophe,,,FRA,,Private Call,None
+,2081456,F4JYP,Jean Bernard,,,FRA,,Private Call,None
+,2081457,F4JEH,Nicolas,,,FRA,,Private Call,None
+,2081458,F4FCI,Helder,,,FRA,,Private Call,None
+,2081459,F4LBE,Bruno,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -12075,6 +12086,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025481,VE2NFT,David,,,CAN,,Private Call,None
 ,3025482,VE2UMG,Martial,,,CAN,,Private Call,None
 ,3025483,VE7DAQ,Sorin Daniel,,,CAN,,Private Call,None
+,3025484,VE3ELT,Michel,,,CAN,,Private Call,None
+,3025485,VA3HFC,Darie,,,CAN,,Private Call,None
+,3025486,VE3XZF,Adrian,,,CAN,,Private Call,None
+,3025487,VE3PUP,Wendy,,,CAN,,Private Call,None
+,3025488,VA3ODW,Shiyu William,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None
