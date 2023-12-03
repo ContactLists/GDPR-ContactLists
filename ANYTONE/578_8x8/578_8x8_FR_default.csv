@@ -788,6 +788,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060649,ON3JPN,Jean Philippe,,,BEL,,Private Call,None
 ,2060650,ON3EBR,Else,,,BEL,,Private Call,None
 ,2060651,OS8L,Jean Pierre,,,BEL,,Private Call,None
+,2060652,ON5NP,Marc,,,BEL,,Private Call,None
+,2060653,ON7RX,Xavier,,,BEL,,Private Call,None
+,2060654,ON4ALG,Gerard,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -3331,6 +3334,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081471,F4INR,Eric,,,FRA,,Private Call,None
 ,2081472,F4LFJ,Claude,,,FRA,,Private Call,None
 ,2081473,F4LEW,Pascal,,,FRA,,Private Call,None
+,2081474,F4LFC,Herve,,,FRA,,Private Call,None
+,2081475,F4LDB,Robert,,,FRA,,Private Call,None
+,2081476,F4JUQ,Arnaud,,,FRA,,Private Call,None
+,2081477,F6GRJ,Alain,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -5109,6 +5116,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280314,HB9HWP,Matthias,,,CHE,,Private Call,None
 ,2280315,HB9DRJ,Hans,,,CHE,,Private Call,None
 ,2280316,HB3YAQ,Ajdin,,,CHE,,Private Call,None
+,2280317,HB3YAC,Frank,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -12123,6 +12131,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025500,VE9DEN,Denis,,,CAN,,Private Call,None
 ,3025501,VE9CWT,Wayne,,,CAN,,Private Call,None
 ,3025502,VE3DDR,David,,,CAN,,Private Call,None
+,3025503,VE7DTA,Horace,,,CAN,,Private Call,None
+,3025504,VY2MA,Roman,,,CAN,,Private Call,None
+,3025505,VE3XIU,Shawn,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None
