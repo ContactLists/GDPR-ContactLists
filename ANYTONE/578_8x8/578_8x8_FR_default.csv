@@ -791,6 +791,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060652,ON5NP,Marc,,,BEL,,Private Call,None
 ,2060653,ON7RX,Xavier,,,BEL,,Private Call,None
 ,2060654,ON4ALG,Gerard,,,BEL,,Private Call,None
+,2060655,ON4PS,Pierre,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -3342,6 +3343,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081479,F4LFA,Jean Pierre,,,FRA,,Private Call,None
 ,2081480,F4LHF,Frederic,,,FRA,,Private Call,None
 ,2081481,F8KGY,Association Des Radioamateurs,,,FRA,,Private Call,None
+,2081482,F4IKG,Amaury,,,FRA,,Private Call,None
+,2081483,F4JLK,Sebastien,,,FRA,,Private Call,None
+,2081484,F4LFU,no_name,,,FRA,,Private Call,None
+,2081485,F8GTQ,Didier,,,FRA,,Private Call,None
+,2081486,F0GUI,Andre,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -12150,6 +12156,16 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025514,VE2MBS,Marc,,,CAN,,Private Call,None
 ,3025515,VA2TOZ,Eden,,,CAN,,Private Call,None
 ,3025516,VE2QMO,Marc Olivier,,,CAN,,Private Call,None
+,3025517,VA2CWZ,Constantin,,,CAN,,Private Call,None
+,3025518,VA3AVP,David Ian,,,CAN,,Private Call,None
+,3025519,VA7HIW,Walter,,,CAN,,Private Call,None
+,3025520,VA7VMX,Vinay,,,CAN,,Private Call,None
+,3025521,VA2DD,Daniel,,,CAN,,Private Call,None
+,3025522,VE3RTU,Stuart,,,CAN,,Private Call,None
+,3025523,VE3OTI,John,,,CAN,,Private Call,None
+,3025524,VA3AZP,Michael James,,,CAN,,Private Call,None
+,3025525,VE3KKA,Kimberly,,,CAN,,Private Call,None
+,3025526,VE2ISL,Stephane,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None

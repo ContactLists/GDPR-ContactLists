@@ -791,6 +791,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060652,ON5NP,Marc,,,,BEL
 2060653,ON7RX,Xavier,,,,BEL
 2060654,ON4ALG,Gerard,,,,BEL
+2060655,ON4PS,Pierre,,,,BEL
 2061001,ON8SVH,Stijn,,,,BEL
 2061002,ON8SI,Simon,,,,BEL
 2061003,ON5LUC,Luc,,,,BEL
@@ -3342,6 +3343,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081479,F4LFA,Jean Pierre,,,,FRA
 2081480,F4LHF,Frederic,,,,FRA
 2081481,F8KGY,Association Des Radioamateurs,,,,FRA
+2081482,F4IKG,Amaury,,,,FRA
+2081483,F4JLK,Sebastien,,,,FRA
+2081484,F4LFU,no_name,,,,FRA
+2081485,F8GTQ,Didier,,,,FRA
+2081486,F0GUI,Andre,,,,FRA
 2081777,F4JBM,Francois,,,,FRA
 2082001,F4FUL,Cyril,,,,FRA
 2082002,F5VIN,Heiko,,,,FRA
@@ -12150,6 +12156,16 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025514,VE2MBS,Marc,,,,CAN
 3025515,VA2TOZ,Eden,,,,CAN
 3025516,VE2QMO,Marc Olivier,,,,CAN
+3025517,VA2CWZ,Constantin,,,,CAN
+3025518,VA3AVP,David Ian,,,,CAN
+3025519,VA7HIW,Walter,,,,CAN
+3025520,VA7VMX,Vinay,,,,CAN
+3025521,VA2DD,Daniel,,,,CAN
+3025522,VE3RTU,Stuart,,,,CAN
+3025523,VE3OTI,John,,,,CAN
+3025524,VA3AZP,Michael James,,,,CAN
+3025525,VE3KKA,Kimberly,,,,CAN
+3025526,VE2ISL,Stephane,,,,CAN
 3026001,VA6IP,Kiernan,,,,CAN
 3026002,VE6GG,Kerry,,,,CAN
 3026003,VE6GG,Kerry,,,,CAN
