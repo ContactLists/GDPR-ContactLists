@@ -1866,7 +1866,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2221871,IZ1YWD,Maurizio,,,ITA,,Private Call,None
 ,2221872,IU1JXE,Giorgio,,,ITA,,Private Call,None
 ,2221873,IU1MRH,Roberto,,,ITA,,Private Call,None
-,2221874,IU1MSG,Bebo,,,ITA,,Private Call,None
 ,2221875,IW0FTA,Fabrizio,,,ITA,,Private Call,None
 ,2221876,IU1CZH,Bosticco,,,ITA,,Private Call,None
 ,2221877,IZ1ZJA,Elvis,,,ITA,,Private Call,None
@@ -10753,6 +10752,17 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2230796,IU7NJU,Cristiano,,,ITA,,Private Call,None
 ,2230797,IU2RPY,Michele,,,ITA,,Private Call,None
 ,2230798,IW5EHA,Giacomo,,,ITA,,Private Call,None
+,2230799,IU4RXA,Michele,,,ITA,,Private Call,None
+,2230800,IV3CTU,Gabriele,,,ITA,,Private Call,None
+,2230801,IW5CBL,Stefano,,,ITA,,Private Call,None
+,2230802,IK1MOU,Sandro,,,ITA,,Private Call,None
+,2230803,IU0PCI,Luca,,,ITA,,Private Call,None
+,2230804,IZ7ECV,Arianna,,,ITA,,Private Call,None
+,2230805,IV3BCP,Daniele,,,ITA,,Private Call,None
+,2230806,IW2LSW,Luigi,,,ITA,,Private Call,None
+,2230807,IZ5NTA,Andrea,,,ITA,,Private Call,None
+,2230808,IU3KIC,Andrea,,,ITA,,Private Call,None
+,2230809,IW8EHC,Edoardo,,,ITA,,Private Call,None
 ,2231276,IU5PTS,Stefano,,,ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,,ITA,,Private Call,None
 ,2280001,4U1ITU,International,,,CHE,,Private Call,None
@@ -11073,6 +11083,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280317,HB3YAC,Frank,,,CHE,,Private Call,None
 ,2280318,HB9IAQ,Holger,,,CHE,,Private Call,None
 ,2280319,HB9GZW,Christian,,,CHE,,Private Call,None
+,2280320,HB9HSA,Eliano,,,CHE,,Private Call,None
+,2280321,HB9IJK,Simone,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -12717,6 +12729,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2780065,9H2LT,Mario,,,MLT,,Private Call,None
 ,2780066,9H1JQ,Joe,,,MLT,,Private Call,None
 ,2780067,9H2YM,Martin,,,MLT,,Private Call,None
+,2780068,9H2AV,Andrew,,,MLT,,Private Call,None
 ,2920001,T77GR,Renato,,,SMR,,Private Call,None
 ,2920002,T77NC,Nazzareno,,,SMR,,Private Call,None
 ,2920003,T77DB,Danilo,,,SMR,,Private Call,None
