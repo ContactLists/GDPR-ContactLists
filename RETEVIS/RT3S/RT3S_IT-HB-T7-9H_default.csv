@@ -10657,7 +10657,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230701,IW8PGR,Antonio,,,,ITA
 2230702,IU4RYI,Ferdinando,,,,ITA
 2230703,IW4CYH,Luigi,,,,ITA
-2230704,I2UEA,Andrea,,,,ITA
 2230705,IQ3UH,A.R.I. Udine,,,,ITA
 2230706,IU3QNZ,Denis,,,,ITA
 2230707,IU4QSN,Maurizio,,,,ITA
@@ -10763,6 +10762,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2230807,IZ5NTA,Andrea,,,,ITA
 2230808,IU3KIC,Andrea,,,,ITA
 2230809,IW8EHC,Edoardo,,,,ITA
+2230810,IU0QVE,Costantino,,,,ITA
+2230811,IN3IZZ,Walter,,,,ITA
+2230812,IW3AMY,Massimo,,,,ITA
+2230813,IU2BNL,Mattia,,,,ITA
+2230814,IZ7NLN,Dagostino,,,,ITA
+2230815,IU3SEM,Claudio,,,,ITA
+2230816,IQ0XA,G.R.E.L.,,,,ITA
 2231276,IU5PTS,Stefano,,,,ITA
 2242222,IT9JFW,Lorenzo,,,,ITA
 2280001,4U1ITU,International,,,,CHE
@@ -11085,6 +11091,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280319,HB9GZW,Christian,,,,CHE
 2280320,HB9HSA,Eliano,,,,CHE
 2280321,HB9IJK,Simone,,,,CHE
+2280322,HB9SJP,Ernst,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -12730,6 +12737,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2780066,9H1JQ,Joe,,,,MLT
 2780067,9H2YM,Martin,,,,MLT
 2780068,9H2AV,Andrew,,,,MLT
+2780069,9H1T,Mark Louis,,,,MLT
 2920001,T77GR,Renato,,,,SMR
 2920002,T77NC,Nazzareno,,,,SMR
 2920003,T77DB,Danilo,,,,SMR
