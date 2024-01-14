@@ -320,6 +320,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280320,HB9HSA,Eliano,,,CHE,,Private Call,None
 ,2280321,HB9IJK,Simone,,,CHE,,Private Call,None
 ,2280322,HB9SJP,Ernst,,,CHE,,Private Call,None
+,2280323,HB3XGO,Yvan,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -2542,6 +2543,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2320654,OE5RWP,Wolfgang,,,AUT,,Private Call,None
 ,2320655,OE3FDI,Franz,,,AUT,,Private Call,None
 ,2320656,OE5RGO,Gerald,,,AUT,,Private Call,None
+,2320657,OE8JMT,Josef,,,AUT,,Private Call,None
+,2320658,OE3EBK,Erich,,,AUT,,Private Call,None
+,2320659,OE8WNM,Mark Rudolf,,,AUT,,Private Call,None
 ,2321001,OE1KBC,Kurt,,,AUT,,Private Call,None
 ,2321002,OE1KBC,Kurt,,,AUT,,Private Call,None
 ,2321003,OE1KBC,Kurt,,,AUT,,Private Call,None
@@ -15397,6 +15401,23 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2631668,DO1FM,Frank,,,DEU,,Private Call,None
 ,2631669,DK1MFE,Florian,,,DEU,,Private Call,None
 ,2631670,DO9TIM,Tim,,,DEU,,Private Call,None
+,2631671,DB5TR,Thomas,,,DEU,,Private Call,None
+,2631672,DL1BJQ,Joachim,,,DEU,,Private Call,None
+,2631673,DF5MA,Andreas,,,DEU,,Private Call,None
+,2631674,DL6WWM,Wolfgang,,,DEU,,Private Call,None
+,2631675,DM8TE,Alexander,,,DEU,,Private Call,None
+,2631676,DO1SMW,Werner,,,DEU,,Private Call,None
+,2631677,DO1MXN,Philipp,,,DEU,,Private Call,None
+,2631678,DK5BU,Ralf,,,DEU,,Private Call,None
+,2631679,DG1OBD,Axel,,,DEU,,Private Call,None
+,2631680,DD9JD,Frank,,,DEU,,Private Call,None
+,2631681,DJ1PH,Hermann,,,DEU,,Private Call,None
+,2631682,DG5YIL,Arthur,,,DEU,,Private Call,None
+,2631683,DM2FLY,Silvio,,,DEU,,Private Call,None
+,2631684,DO4WNR,Werner,,,DEU,,Private Call,None
+,2631685,DO2RFC,Ralph,,,DEU,,Private Call,None
+,2631686,DO9ZZZ,Alexander,,,DEU,,Private Call,None
+,2631687,DF8QL,Volker,,,DEU,,Private Call,None
 ,2633001,DG4AK,Dietmar,,,DEU,,Private Call,None
 ,2633002,DH8AAA,Oliver,,,DEU,,Private Call,None
 ,2633003,DC6BV,Reinhardt,,,DEU,,Private Call,None
@@ -18610,6 +18631,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2644131,DB4ST,Stefan Ulrich,,,DEU,,Private Call,None
 ,2644132,DL2ART,Arthur,,,DEU,,Private Call,None
 ,2644133,DL1YTT,Uwe,,,DEU,,Private Call,None
+,2644134,DG8YHH,Alfons,,,DEU,,Private Call,None
 ,2644136,DF8RJ,Bernd,,,DEU,,Private Call,None
 ,2644137,DF8DR,Norbert,,,DEU,,Private Call,None
 ,2644138,DG4FMA,Martin,,,DEU,,Private Call,None

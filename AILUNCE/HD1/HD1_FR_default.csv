@@ -3363,6 +3363,10 @@ Private Call,F4IPV Pascal,,,,FRA,2081497
 Private Call,F4ANS Barrau,,,,FRA,2081498
 Private Call,F4JDS Remy,,,,FRA,2081499
 Private Call,F4LIE Olivier,,,,FRA,2081500
+Private Call,F1PLI Damien,,,,FRA,2081501
+Private Call,F1IWC Jean Claude,,,,FRA,2081502
+Private Call,F8BLS Alain,,,,FRA,2081503
+Private Call,F4JUP Alex,,,,FRA,2081504
 Private Call,F4JBM Francois,,,,FRA,2081777
 Private Call,F4FUL Cyril,,,,FRA,2082001
 Private Call,F5VIN Heiko,,,,FRA,2082002
@@ -5147,6 +5151,7 @@ Private Call,HB9GZW Christian,,,,CHE,2280319
 Private Call,HB9HSA Eliano,,,,CHE,2280320
 Private Call,HB9IJK Simone,,,,CHE,2280321
 Private Call,HB9SJP Ernst,,,,CHE,2280322
+Private Call,HB3XGO Yvan,,,,CHE,2280323
 Private Call,HB3YNV Cedric,,,,CHE,2281001
 Private Call,HB3YNV Cedric,,,,CHE,2281002
 Private Call,HB3YNV Cedric,,,,CHE,2281003
@@ -8879,7 +8884,6 @@ Private Call,VE2PQO Alexander,,,,CAN,3022184
 Private Call,VA2VAZ Jean,,,,CAN,3022185
 Private Call,VE2ITX Rolf,,,,CAN,3022186
 Private Call,VE2GTR Anthony,,,,CAN,3022187
-Private Call,VE2TBC Patrice,,,,CAN,3022188
 Private Call,VE2JLM J.-Luc,,,,CAN,3022189
 Private Call,VA2REQ Adam,,,,CAN,3022190
 Private Call,VA2RJF Jean-Francois,,,,CAN,3022191
@@ -8905,7 +8909,6 @@ Private Call,VA2IR Ian,,,,CAN,3022210
 Private Call,VA2IR Ian,,,,CAN,3022211
 Private Call,VE2KE Robert,,,,CAN,3022212
 Private Call,VE2LPI Louis-Pierre,,,,CAN,3022213
-Private Call,VE2TBC Patrice,,,,CAN,3022214
 Private Call,VE2BTZ Robert,,,,CAN,3022215
 Private Call,VA2SUP Daniel,,,,CAN,3022216
 Private Call,VE2UQ Alain,,,,CAN,3022217
@@ -12213,6 +12216,16 @@ Private Call,VE3GLN Glenn,,,,CAN,3025551
 Private Call,VE7WRS Walter Robert,,,,CAN,3025552
 Private Call,VA7UY Paul,,,,CAN,3025553
 Private Call,VA7WWX Bertram,,,,CAN,3025554
+Private Call,VA3DTG Dwight,,,,CAN,3025555
+Private Call,VE3ISO Rodney L,,,,CAN,3025556
+Private Call,VE3DED Thomas Charles,,,,CAN,3025557
+Private Call,VE4WK Witold Maciej,,,,CAN,3025558
+Private Call,VE7WNL William,,,,CAN,3025559
+Private Call,VE2MJP Marc,,,,CAN,3025560
+Private Call,VE6XTC Bruce Ronald,,,,CAN,3025561
+Private Call,VE6TVE James,,,,CAN,3025562
+Private Call,VY2MJ Michael,,,,CAN,3025563
+Private Call,VE7NNO Michael,,,,CAN,3025564
 Private Call,VA6IP Kiernan,,,,CAN,3026001
 Private Call,VE6GG Kerry,,,,CAN,3026002
 Private Call,VE6GG Kerry,,,,CAN,3026003
