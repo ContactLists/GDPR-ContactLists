@@ -3371,6 +3371,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081506,F4KIR,Arace Radio Club,,,FRA,,Private Call,None
 ,2081507,F4LCU,Jean Bernard,,,FRA,,Private Call,None
 ,2081508,F4UEL,Freddy,,,FRA,,Private Call,None
+,2081509,F4LIB,Zied Allah,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -12242,6 +12243,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025572,VA2RHM,Robert,,,CAN,,Private Call,None
 ,3025573,VA2YE,Daniel,,,CAN,,Private Call,None
 ,3025574,VA3YJC,Jack,,,CAN,,Private Call,None
+,3025575,VE2DC,Melvyn,,,CAN,,Private Call,None
+,3025576,VA3TZA,Tihomir,,,CAN,,Private Call,None
+,3025577,VE3LKY,Lance,,,CAN,,Private Call,None
+,3025578,VE6MCR,Matthew,,,CAN,,Private Call,None
+,3025579,VA3KBI,Kevin,,,CAN,,Private Call,None
+,3025580,VE2WPC,Philippe,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None
