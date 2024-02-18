@@ -1,4 +1,4 @@
-384433
+384888
 1,Local,,,,,
 2,Local/Cluster,,,,,
 8,Regional,,,,,
@@ -119,6 +119,7 @@
 22860,Swiss-Italiana,,,,,
 22877,Poschiavo,,,,,
 30205,Atlantic Canada,,,,,
+30230,Southern Ontario Area,,,,,
 30234,FlexRadio SIG,,,,,
 30235,SWARC,,,,,
 30271,Canada BC 1,,,,,
@@ -928,6 +929,10 @@
 2060657,ON6AP,Dirk,,,,BEL
 2060658,ON4AEX,Jean Pierre,,,,BEL
 2060659,ON9JJ,Johan,,,,BEL
+2060660,ON9AID,Ignacio,,,,BEL
+2060661,ON4VDE,Tom,,,,BEL
+2060662,ON3FPB,Florent,,,,BEL
+2060663,ON1BIR,Dirk,,,,BEL
 2061001,ON8SVH,Stijn,,,,BEL
 2061002,ON8SI,Simon,,,,BEL
 2061003,ON5LUC,Luc,,,,BEL
@@ -3519,6 +3524,7 @@
 2081519,F6BQX,Gerard,,,,FRA
 2081520,F4BXV,Olivier,,,,FRA
 2081521,F4LKA,Philippe,,,,FRA
+2081522,F4WER,Philippe,,,,FRA
 2081777,F4JBM,Francois,,,,FRA
 2082001,F4FUL,Cyril,,,,FRA
 2082002,F5VIN,Heiko,,,,FRA
@@ -12415,6 +12421,15 @@
 3025601,VE8DW,Donald,,,,CAN
 3025602,VE2IMR,Martin,,,,CAN
 3025603,VA2SYQ,Sylvain,,,,CAN
+3025604,VA3JJC,Jason,,,,CAN
+3025605,VE7CWU,Darwin Kenneth,,,,CAN
+3025606,VE6GXP,Gareth,,,,CAN
+3025607,VE2FWZ,Ghislain,,,,CAN
+3025608,VA2LG,Gilles,,,,CAN
+3025609,VA6DM,Dino,,,,CAN
+3025610,VA6MSH,Michelle,,,,CAN
+3025611,VA7ODR,James,,,,CAN
+3025612,VE6NGK,Kam,,,,CAN
 3026001,VA6IP,Kiernan,,,,CAN
 3026002,VE6GG,Kerry,,,,CAN
 3026003,VE6GG,Kerry,,,,CAN

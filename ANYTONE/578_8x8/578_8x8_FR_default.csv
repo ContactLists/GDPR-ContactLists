@@ -796,6 +796,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060657,ON6AP,Dirk,,,BEL,,Private Call,None
 ,2060658,ON4AEX,Jean Pierre,,,BEL,,Private Call,None
 ,2060659,ON9JJ,Johan,,,BEL,,Private Call,None
+,2060660,ON9AID,Ignacio,,,BEL,,Private Call,None
+,2060661,ON4VDE,Tom,,,BEL,,Private Call,None
+,2060662,ON3FPB,Florent,,,BEL,,Private Call,None
+,2060663,ON1BIR,Dirk,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -3387,6 +3391,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081519,F6BQX,Gerard,,,FRA,,Private Call,None
 ,2081520,F4BXV,Olivier,,,FRA,,Private Call,None
 ,2081521,F4LKA,Philippe,,,FRA,,Private Call,None
+,2081522,F4WER,Philippe,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -12283,6 +12288,15 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025601,VE8DW,Donald,,,CAN,,Private Call,None
 ,3025602,VE2IMR,Martin,,,CAN,,Private Call,None
 ,3025603,VA2SYQ,Sylvain,,,CAN,,Private Call,None
+,3025604,VA3JJC,Jason,,,CAN,,Private Call,None
+,3025605,VE7CWU,Darwin Kenneth,,,CAN,,Private Call,None
+,3025606,VE6GXP,Gareth,,,CAN,,Private Call,None
+,3025607,VE2FWZ,Ghislain,,,CAN,,Private Call,None
+,3025608,VA2LG,Gilles,,,CAN,,Private Call,None
+,3025609,VA6DM,Dino,,,CAN,,Private Call,None
+,3025610,VA6MSH,Michelle,,,CAN,,Private Call,None
+,3025611,VA7ODR,James,,,CAN,,Private Call,None
+,3025612,VE6NGK,Kam,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None
