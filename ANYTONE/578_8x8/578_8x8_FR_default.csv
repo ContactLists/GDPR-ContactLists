@@ -3410,6 +3410,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081534,F0DWP,Erik,,,FRA,,Private Call,None
 ,2081535,F4JYW,Eric,,,FRA,,Private Call,None
 ,2081536,F4JOJ,Patrick,,,FRA,,Private Call,None
+,2081537,F4HMG,Alain,,,FRA,,Private Call,None
+,2081538,F8BQQ,Inacio,,,FRA,,Private Call,None
+,2081539,F4JNF,Gerard,,,FRA,,Private Call,None
+,2081540,F6KJX,Espace La Croche Livre,,,FRA,,Private Call,None
+,2081541,F6EAJ,Didier,,,FRA,,Private Call,None
+,2081542,F4DHL,Philippe,,,FRA,,Private Call,None
+,2081543,F6IAP,Claude,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
@@ -4770,7 +4777,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2089426,F5IBM,Dominique,,,FRA,,Private Call,None
 ,2089427,F6BAZ,Henri,,,FRA,,Private Call,None
 ,2089428,F1OMR,Jean-Jacques,,,FRA,,Private Call,None
-,2089429,F1HCN,Roger,,,FRA,,Private Call,None
 ,2089430,F8FLK,Thierry,,,FRA,,Private Call,None
 ,2089431,F4DJF,Jean-Marc,,,FRA,,Private Call,None
 ,2089432,F6CNO,Patrick,,,FRA,,Private Call,None
@@ -12341,6 +12347,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025637,VE3LFD,William Philip,,,CAN,,Private Call,None
 ,3025638,VE6CPF,Collin,,,CAN,,Private Call,None
 ,3025639,VE3FUN,Janet,,,CAN,,Private Call,None
+,3025640,VE3NEF,William,,,CAN,,Private Call,None
+,3025641,VE2AW,Gerard,,,CAN,,Private Call,None
+,3025642,VE2VTB,Reynald,,,CAN,,Private Call,None
+,3025643,VE2ZNP,Nico,,,CAN,,Private Call,None
+,3025644,VE3LEG,Brian,,,CAN,,Private Call,None
+,3025645,VA7PDA,Matthew,,,CAN,,Private Call,None
+,3025646,VA7QXM,Robin,,,CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,,CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,,CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,,CAN,,Private Call,None
