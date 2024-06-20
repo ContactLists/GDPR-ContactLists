@@ -6505,6 +6505,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2626952,DK0VG,Clubst.,,, - DEU,,Private Call,None
 ,2626953,DH8MV,Markus,,, - DEU,,Private Call,None
 ,2626954,DL0SEL,Clubst.,,, - DEU,,Private Call,None
+,2626955,DK5RTA,Robert,,, - DEU,,Private Call,None
 ,2626956,DL6WAB,Juergen Heinz,,, - DEU,,Private Call,None
 ,2626957,DO2SPK,Simon Peter Maria,,, - DEU,,Private Call,None
 ,2626958,DO4JC,Joerg Manfred,,, - DEU,,Private Call,None
@@ -11467,7 +11468,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2632133,DO1AKT,Alexandra,,, - DEU,,Private Call,None
 ,2632134,DH8HAK,Christian,,, - DEU,,Private Call,None
 ,2632135,DL4SAE,Hermann,,, - DEU,,Private Call,None
-,2632136,DO9MMP,Pertler,,, - DEU,,Private Call,None
+,2632136,DO9MMP,Maximilian,,, - DEU,,Private Call,None
 ,2632137,DL9DAT,Uwe,,, - DEU,,Private Call,None
 ,2632138,DA0B,ContestSt.,,, - DEU,,Private Call,None
 ,2632139,DL6NET,Robert,,, - DEU,,Private Call,None
@@ -11516,6 +11517,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2632182,DG2CP,Manfred,,, - DEU,,Private Call,None
 ,2632183,DO8ACM,Uwe,,, - DEU,,Private Call,None
 ,2632184,DO5MSB,Michael,,, - DEU,,Private Call,None
+,2632185,DO4CD,Christoph,,, - DEU,,Private Call,None
+,2632186,DL8MEF,Karl,,, - DEU,,Private Call,None
+,2632187,DL4OJ,Andreas,,, - DEU,,Private Call,None
+,2632188,DL4HTR,Harald,,, - DEU,,Private Call,None
+,2632189,DO3THM,Thomas,,, - DEU,,Private Call,None
+,2632190,DK9OG,Thomas,,, - DEU,,Private Call,None
+,2632191,DJ3NRA,Reinhard,,, - DEU,,Private Call,None
 ,2633001,DG4AK,Dietmar,,, - DEU,,Private Call,None
 ,2633002,DH8AAA,Oliver,,, - DEU,,Private Call,None
 ,2633003,DC6BV,Reinhardt,,, - DEU,,Private Call,None
@@ -13772,7 +13780,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2638117,DB5FX,Andreas,,, - DEU,,Private Call,None
 ,2638119,DG7NCY,Eberhard,,, - DEU,,Private Call,None
 ,2638120,DG1MBH,Robert,,, - DEU,,Private Call,None
-,2638122,DL1SFA,Walter Anton,,, - DEU,,Private Call,None
+,2638122,DL1SFA,Walter,,, - DEU,,Private Call,None
 ,2638123,DL4NP,Roland,,, - DEU,,Private Call,None
 ,2638124,DF5MR,Heinz,,, - DEU,,Private Call,None
 ,2638125,DO1MOS,Sascha,,, - DEU,,Private Call,None

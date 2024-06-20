@@ -850,6 +850,8 @@ Private Call,SY7ELW Younes,,,GRC,2020848
 Private Call,SV1KYI Giorgos,,,GRC,2020849
 Private Call,SY3EKK Theodore,,,GRC,2020850
 Private Call,SV1GYV Athanasios,,,GRC,2020851
+Private Call,SY7EMB Isidoros,,,GRC,2020852
+Private Call,SV2DXG Nikos,,,GRC,2020853
 Private Call,SV1BYK Babis,,,GRC,2021001
 Private Call,SV1PDW Ioannis,,,GRC,2021002
 Private Call,SV1IW Emmanouel,,,GRC,2021003
@@ -2867,6 +2869,12 @@ Private Call,PD8EL Elly,,,NLD,2040800
 Private Call,PD3AP Anne,,,NLD,2040801
 Private Call,PE7OPI Cees,,,NLD,2040802
 Private Call,PE1GHL Ronald,,,NLD,2040803
+Private Call,PC3Y Ronald,,,NLD,2040804
+Private Call,PA7OB Obrecht,,,NLD,2040805
+Private Call,PD7JC Andrew,,,NLD,2040806
+Private Call,PH5V Marcel,,,NLD,2040807
+Private Call,PD0HMP Martijn,,,NLD,2040808
+Private Call,PD1WS Wim,,,NLD,2040809
 Private Call,PD2ML Mark,,,NLD,2041001
 Private Call,PD2ML Mark,,,NLD,2041002
 Private Call,PA2JM Joop,,,NLD,2041003
@@ -6731,7 +6739,7 @@ Private Call,ON3ANS Claude,,,BEL,2068042
 Private Call,ON2KRJ Jean-Claude,,,BEL,2068043
 Private Call,ON3CA Adrien,,,BEL,2068044
 Private Call,ON2KJM Jean-Paul,,,BEL,2068045
-Private Call,ON6DP Paul,,,BEL,2068046
+Private Call,OP0P Paul,,,BEL,2068046
 Private Call,ON3HMT Martial,,,BEL,2068047
 Private Call,ON4EZJ Peter,,,BEL,2068048
 Private Call,ON4IJ Jean-Francois,,,BEL,2068049
@@ -8415,6 +8423,9 @@ Private Call,F1NYF Alain,,,FRA,2081598
 Private Call,F4LNE Luc,,,FRA,2081599
 Private Call,F4JBM Francois,,,FRA,2081777
 Private Call,F1UFW Saletzki,,,FRA,2081778
+Private Call,F4JJQ Pierre,,,FRA,2081779
+Private Call,F6GNY Guy,,,FRA,2081780
+Private Call,F4LVK ,,,FRA,2081781
 Private Call,F4FUL Cyril,,,FRA,2082001
 Private Call,F5VIN Heiko,,,FRA,2082002
 Private Call,F1AGU Charles-Henri,,,FRA,2082003
@@ -14626,7 +14637,7 @@ Private Call,EA4FAU Ricardo,,,ESP,2144729
 Private Call,EA4GVC Jose,,,ESP,2144730
 Private Call,EA4HDP David,,,ESP,2144731
 Private Call,EA4ESU Jose,,,ESP,2144732
-Private Call,EB4GDB no_name,,,ESP,2144733
+Private Call,EA4IEN David,,,ESP,2144733
 Private Call,EA4GYQ Angel,,,ESP,2144734
 Private Call,EA4II Manuel,,,ESP,2144735
 Private Call,EA4HDW Enrique,,,ESP,2144736
@@ -17209,7 +17220,7 @@ Private Call,EA7CK Esteban,,,ESP,2147316
 Private Call,EA7IWK Manuel,,,ESP,2147317
 Private Call,EA7E Pedro,,,ESP,2147318
 Private Call,EA7KY Julio,,,ESP,2147319
-Private Call,EA7JLM Jason,,,ESP,2147320
+Private Call,EA7JLM Mckinney,,,ESP,2147320
 Private Call,EB7CSL Tom,,,ESP,2147321
 Private Call,EA7GWC Paco,,,ESP,2147322
 Private Call,EB7AA Jose,,,ESP,2147323
@@ -17515,7 +17526,7 @@ Private Call,EA7NK Francisco,,,ESP,2147622
 Private Call,EC7ZT Manuel,,,ESP,2147623
 Private Call,EA7IGU Juan,,,ESP,2147624
 Private Call,EA7MED Mario,,,ESP,2147625
-Private Call,EA7JRG Jose,,,ESP,2147626
+Private Call,EA7JRG Jose Maria,,,ESP,2147626
 Private Call,EA7JAN Jose,,,ESP,2147627
 Private Call,EB7FNH Alfonso,,,ESP,2147628
 Private Call,EA7AZH Carmelo,,,ESP,2147629
@@ -18270,6 +18281,16 @@ Private Call,EA3IWF Fernando,,,ESP,2148378
 Private Call,EA5IYI Alfonso,,,ESP,2148379
 Private Call,EC3AAZ Juan,,,ESP,2148380
 Private Call,EA7BFF ,,,ESP,2148381
+Private Call,EA1EUH Jorge,,,ESP,2148382
+Private Call,EA4AVB Mario Luis,,,ESP,2148383
+Private Call,EA2FDI Hector,,,ESP,2148384
+Private Call,EA1FLW Alberto,,,ESP,2148385
+Private Call,EA5JQY Massimiliano,,,ESP,2148386
+Private Call,EA4HVG Carlos,,,ESP,2148387
+Private Call,EA7JHK Angel,,,ESP,2148388
+Private Call,EA3IUQ no_name,,,ESP,2148389
+Private Call,EA2DMT Sergio,,,ESP,2148390
+Private Call,EA1FWE Samuel,,,ESP,2148391
 Private Call,EB6AOK Enrique,,,ESP,2149000
 Private Call,EA9PE Alvaro,,,ESP,2149001
 Private Call,EB9PB Alejandro,,,ESP,2149002
@@ -18570,6 +18591,7 @@ Private Call,HA5OT Otto,,,HUN,2160253
 Private Call,HA7JEZ Tibor Gyula,,,HUN,2160254
 Private Call,HA6KLY Istvan,,,HUN,2160255
 Private Call,HG5CPZ no_name,,,HUN,2160256
+Private Call,HA0LCO Zsolt,,,HUN,2160257
 Private Call,HA2TO Arpad,,,HUN,2161001
 Private Call,HA4XA Istvan,,,HUN,2161002
 Private Call,HA9MDP Peter,,,HUN,2161003
@@ -20100,6 +20122,7 @@ Private Call,9A3TIC Tatic,,,HRV,2190569
 Private Call,9A3CBQ Konjikusic,,,HRV,2190570
 Private Call,9A4YR Koudela,,,HRV,2190571
 Private Call,9A7BB Sanjin,,,HRV,2190572
+Private Call,9A3GZ Edo,,,HRV,2190573
 Private Call,9A3CEK no_name,,,HRV,2190574
 Private Call,9A5VS Vitomir,,,HRV,2190575
 Private Call,9A3CBW Dino,,,HRV,2190576
@@ -20411,7 +20434,7 @@ Private Call,YU7RDI Darko,,,SRB,2200271
 Private Call,YU4FRG Zeljko,,,SRB,2200272
 Private Call,YU7YUM Miki,,,SRB,2200273
 Private Call,YT3DMX Stevica,,,SRB,2200274
-Private Call,YT1RES Zoran,,,SRB,2200275
+Private Call,YU7RES Zoran,,,SRB,2200275
 Private Call,YT1TDE Dejan,,,SRB,2200276
 Private Call,YT1VOJ Voja,,,SRB,2200277
 Private Call,YU7TBA Balinttoth,,,SRB,2200278
@@ -20710,6 +20733,9 @@ Private Call,YU2TDA Dejan,,,SRB,2200575
 Private Call,YU7TDD Damjan,,,SRB,2200576
 Private Call,YT1DRG Dragan,,,SRB,2200577
 Private Call,YU4PSB Slobodan,,,SRB,2200578
+Private Call,YU7VPN Uros,,,SRB,2200579
+Private Call,YU7XDE Dragan,,,SRB,2200580
+Private Call,YU4MED no_name,,,SRB,2200581
 Private Call,YU2ZIX Nikola,,,SRB,2200634
 Private Call,YT1ZD Zeljko,,,SRB,2200635
 Private Call,YU4SMM Srdjan,,,SRB,2200636
@@ -21615,7 +21641,7 @@ Private Call,IK0TIX Max,,,ITA,2220898
 Private Call,IZ0GYH Bruno,,,ITA,2220899
 Private Call,IW0UIF Natale,,,ITA,2220900
 Private Call,IS0XDA Gianni,,,ITA,2220901
-Private Call,IS0AYI Paolo,,,ITA,2220902
+Private Call,IS0AYI ,,,ITA,2220902
 Private Call,IS0VDP Andrea,,,ITA,2220903
 Private Call,IS0BZC Antonio,,,ITA,2220904
 Private Call,IS0OA Salvatore,,,ITA,2220905
@@ -31864,6 +31890,18 @@ Private Call,IK4WKT Giorgio,,,ITA,2231205
 Private Call,IK5TWZ Giovanni,,,ITA,2231206
 Private Call,IU5PTS Stefano,,,ITA,2231276
 Private Call,IT9BRN Antonino,,,ITA,2231277
+Private Call,IK1WGX Luca,,,ITA,2231278
+Private Call,IW1CJP Antonio,,,ITA,2231279
+Private Call,IW4APS Duilio,,,ITA,2231280
+Private Call,IU4ITV Gabriele,,,ITA,2231281
+Private Call,IU4BJW Marco,,,ITA,2231282
+Private Call,IV3JJP Alfonso,,,ITA,2231283
+Private Call,IW2HAF Angelo,,,ITA,2231284
+Private Call,IW6DTM Alberto,,,ITA,2231285
+Private Call,IU5RCS Marco,,,ITA,2231286
+Private Call,IQ2SPT Clubst.,,,ITA,2231287
+Private Call,IT9DAZ Paolo,,,ITA,2231288
+Private Call,IU8QEJ Salvatore,,,ITA,2231289
 Private Call,IT9JFW Lorenzo,,,ITA,2242222
 Private Call,YO3DSG Daniel,,,ROU,2260001
 Private Call,YO6YLJ Nico,,,ROU,2260002
@@ -33098,6 +33136,7 @@ Private Call,HB3XAJ Christophe,,,CHE,2280341
 Private Call,HB3YGE Fontaine,,,CHE,2280342
 Private Call,HB3YOZ Stefan,,,CHE,2280343
 Private Call,HB3YGL Marc,,,CHE,2280344
+Private Call,HB9DNK Ralph,,,CHE,2280345
 Private Call,HB3YNV Cedric,,,CHE,2281001
 Private Call,HB3YNV Cedric,,,CHE,2281002
 Private Call,HB3YNV Cedric,,,CHE,2281003
@@ -36528,6 +36567,15 @@ Private Call,OE7RUB Sabo,,,AUT,2320699
 Private Call,OE3CTR Thomas,,,AUT,2320700
 Private Call,OE1YBF Brigitte,,,AUT,2320701
 Private Call,OE7MEF Mathias,,,AUT,2320702
+Private Call,OE7UHJ Hansjoerg,,,AUT,2320703
+Private Call,OE7RLJ Lukas,,,AUT,2320704
+Private Call,OE3CZC Christian,,,AUT,2320705
+Private Call,OE4KGR Guenter,,,AUT,2320706
+Private Call,OE3EDF Roman,,,AUT,2320707
+Private Call,OE3EDK Sabine Karin,,,AUT,2320708
+Private Call,OE6MNE Juergen,,,AUT,2320709
+Private Call,OE3IDL Dieter,,,AUT,2320710
+Private Call,OE7DIL Michael,,,AUT,2320711
 Private Call,OE1KBC Kurt,,,AUT,2321001
 Private Call,OE1KBC Kurt,,,AUT,2321002
 Private Call,OE1KBC Kurt,,,AUT,2321003
@@ -38546,7 +38594,7 @@ Private Call,2E0MPO Lord,,,GBR,2340344
 Private Call,MW0KLW Andy,,,GBR,2340345
 Private Call,GW1HNG Philip,,,GBR,2340346
 Private Call,M7TXK Alexander,,,GBR,2340347
-Private Call,MB6IEV Evesham,,,GBR,2340348
+Private Call,MB6EV Dan,,,GBR,2340348
 Private Call,G5IPX Ian,,,GBR,2340349
 Private Call,M0JUM Garey,,,GBR,2340350
 Private Call,G4YNT Martin,,,GBR,2340351
@@ -40988,7 +41036,7 @@ Private Call,M0TTL Andrew,,,GBR,2342813
 Private Call,G3UQW Alan,,,GBR,2342814
 Private Call,M0XBS Bruce,,,GBR,2342815
 Private Call,2E0TVM Thomas,,,GBR,2342816
-Private Call,2E1GXT Gareth,,,GBR,2342817
+Private Call,M0VXT Gareth,,,GBR,2342817
 Private Call,M6YMN Mike,,,GBR,2342818
 Private Call,G7RJV Mark,,,GBR,2342819
 Private Call,2E0SIA Simon,,,GBR,2342820
@@ -44470,7 +44518,7 @@ Private Call,M6SRE Steve,,,GBR,2346347
 Private Call,M6GMU Liam,,,GBR,2346348
 Private Call,M7RJE Rob,,,GBR,2346349
 Private Call,G0GPH Peter,,,GBR,2346350
-Private Call,G8CAP Joe,,,GBR,2346351
+Private Call,G8CAP Charlotte,,,GBR,2346351
 Private Call,G0SJY Dave,,,GBR,2346352
 Private Call,M6EBW Chris,,,GBR,2346353
 Private Call,M6OJZ Jim,,,GBR,2346354
@@ -46179,7 +46227,7 @@ Private Call,G8EWT no_name,,,GBR,2348089
 Private Call,M7ALU no_name,,,GBR,2348090
 Private Call,M0HDF no_name,,,GBR,2348091
 Private Call,2E0AGB no_name,,,GBR,2348092
-Private Call,G0FEY Stephen,,,GBR,2348093
+Private Call,G0FEY Steve,,,GBR,2348093
 Private Call,2E0SSA no_name,,,GBR,2348094
 Private Call,G0VWP Mark,,,GBR,2348095
 Private Call,M7ASW no_name,,,GBR,2348096
@@ -48529,7 +48577,7 @@ Private Call,M0MSC Mike,,,GBR,2350489
 Private Call,M0GXF Endre,,,GBR,2350490
 Private Call,MM3UVF William,,,GBR,2350491
 Private Call,M7NJN James,,,GBR,2350492
-Private Call,MW7TNM Thomas,,,GBR,2350493
+Private Call,M7TNM Thomas,,,GBR,2350493
 Private Call,MI7CYX Tomasz,,,GBR,2350494
 Private Call,M7CYY Leslie,,,GBR,2350495
 Private Call,G4FJC Richard,,,GBR,2350496
@@ -51708,7 +51756,7 @@ Private Call,M6EFY Richard,,,GBR,2353707
 Private Call,M7RUD Richard,,,GBR,2353708
 Private Call,M7AEG David,,,GBR,2353709
 Private Call,2E0GYH Paul,,,GBR,2353710
-Private Call,2E0IYR David,,,GBR,2353711
+Private Call,M0NUL David,,,GBR,2353711
 Private Call,MW1FLY Richard,,,GBR,2353712
 Private Call,M7JOG Craig,,,GBR,2353713
 Private Call,G8PJF Ted,,,GBR,2353714
@@ -53213,7 +53261,6 @@ Private Call,GI1JHQ Joe,,,GBR,2355223
 Private Call,GI7UGV John,,,GBR,2355224
 Private Call,MI3VCI Gary,,,GBR,2355225
 Private Call,GI4SJQ George,,,GBR,2355226
-Private Call,GI4SOY Michael,,,GBR,2355227
 Private Call,MI6WPP Jonathan,,,GBR,2355228
 Private Call,GI3MBB Allen,,,GBR,2355229
 Private Call,MI3CST Denis,,,GBR,2355230
@@ -54391,7 +54438,7 @@ Private Call,G7PZT John,,,GBR,2356407
 Private Call,M7POF Steven,,,GBR,2356408
 Private Call,M7FMK Jack,,,GBR,2356409
 Private Call,2E0VPF Steve,,,GBR,2356410
-Private Call,M7ELU Mark,,,GBR,2356411
+Private Call,2E0WXF Mark,,,GBR,2356411
 Private Call,M7FCI Jay,,,GBR,2356412
 Private Call,MM7EJR Gavin,,,GBR,2356413
 Private Call,2E0VPX Andy,,,GBR,2356414
@@ -54648,7 +54695,7 @@ Private Call,GM6VVG George,,,GBR,2356664
 Private Call,G6HL Billy,,,GBR,2356665
 Private Call,G4MVU David,,,GBR,2356666
 Private Call,G8GOS Kevin,,,GBR,2356667
-Private Call,M7DCR Derry,,,GBR,2356668
+Private Call,2E0LZC Derry,,,GBR,2356668
 Private Call,M7TCR Timothy,,,GBR,2356669
 Private Call,M3MJE Martin John,,,GBR,2356670
 Private Call,2E0IZH Paul,,,GBR,2356671
@@ -54746,6 +54793,26 @@ Private Call,M3XRD Darren,,,GBR,2356763
 Private Call,M7GXT Tom,,,GBR,2356764
 Private Call,G1VFB John,,,GBR,2356765
 Private Call,M7RVL Paul,,,GBR,2356766
+Private Call,M7KYE Kye,,,GBR,2356767
+Private Call,G8LUZ ,,,GBR,2356768
+Private Call,G6GDG Steve,,,GBR,2356769
+Private Call,M7GSN Gordon,,,GBR,2356770
+Private Call,M7DQT Craig,,,GBR,2356771
+Private Call,G7SPS Tony,,,GBR,2356772
+Private Call,G0GQO ,,,GBR,2356773
+Private Call,M7USV Claire,,,GBR,2356774
+Private Call,M1FIF David,,,GBR,2356775
+Private Call,MW5ADD Andrew,,,GBR,2356776
+Private Call,M7WYK Alan Edward,,,GBR,2356777
+Private Call,M7HAA Logan,,,GBR,2356778
+Private Call,M7PTL Piotr,,,GBR,2356779
+Private Call,M7GFJ John,,,GBR,2356780
+Private Call,GW4GMJ Spitfire,,,GBR,2356781
+Private Call,G4ADG Peter,,,GBR,2356782
+Private Call,G8LCE Martin,,,GBR,2356783
+Private Call,M7GFP Tony,,,GBR,2356784
+Private Call,MM7MHY Mark,,,GBR,2356785
+Private Call,G2KS Kevin,,,GBR,2356786
 Private Call,GJ6WRI Steve,,,GBR,2357001
 Private Call,GJ7DTA Anthony,,,GBR,2357002
 Private Call,GJ7LJJ Nigel,,,GBR,2357003
@@ -55074,6 +55141,9 @@ Private Call,OZ7HLY Victor,,,DNK,2380307
 Private Call,OZ8ADK Anders Dam,,,DNK,2380822
 Private Call,5P4L Matt,,,DNK,2380823
 Private Call,OV4SB Sana,,,DNK,2380824
+Private Call,OZ1IFU Steen,,,DNK,2380825
+Private Call,OZ0CGHO Carlo,,,DNK,2380826
+Private Call,OZ1ITS Boje,,,DNK,2380827
 Private Call,OZ2CA Soren,,,DNK,2381001
 Private Call,5P4Z Herman,,,DNK,2381002
 Private Call,5P5V Find,,,DNK,2381003
@@ -57315,6 +57385,8 @@ Private Call,SA0RUN Rune,,,SWE,2400936
 Private Call,SA3NMT Erik,,,SWE,2400937
 Private Call,SA5VAN no_name,,,SWE,2400938
 Private Call,SM4SKA Patrik,,,SWE,2400939
+Private Call,SA5FEM Mikael,,,SWE,2400940
+Private Call,SA5MKL Mikael,,,SWE,2400941
 Private Call,SM5IGF Staffan,,,SWE,2401001
 Private Call,SM1NVX Dag,,,SWE,2401002
 Private Call,SA1CCQ Eddie,,,SWE,2401003
@@ -59176,6 +59248,10 @@ Private Call,LA7XK Halvard,,,NOR,2420491
 Private Call,LB0FG Solberg,,,NOR,2420492
 Private Call,LA1H Harstadgruppen Av,,,NOR,2420493
 Private Call,LB2EI Lislerud,,,NOR,2420494
+Private Call,LA4WGA Erik,,,NOR,2420495
+Private Call,LA2FNA Ketil,,,NOR,2420496
+Private Call,LB0GJ Sveinung,,,NOR,2420497
+Private Call,LB9AJ Marius Fohrn,,,NOR,2420498
 Private Call,LA6VMA Tommy,,,NOR,2421001
 Private Call,LA7ZKA Arve,,,NOR,2421002
 Private Call,LA2YUA Robin,,,NOR,2421003
@@ -60597,6 +60673,8 @@ Private Call,OH2EXE Jari,,,FIN,2441582
 Private Call,OH2JS Jussi,,,FIN,2441583
 Private Call,OH3TE Elias,,,FIN,2441584
 Private Call,OH3TJ Jussi,,,FIN,2441585
+Private Call,OH2HAC Helsinki Hacklab,,,FIN,2441586
+Private Call,OH7AB North Carelian Radio Club,,,FIN,2441587
 Private Call,OH2LAK Erik,,,FIN,2442001
 Private Call,OH2LAK Erik,,,FIN,2442002
 Private Call,OH2LAK Erik,,,FIN,2442003
@@ -61590,6 +61668,7 @@ Private Call,YL3IY Normunds,,,LVA,2470064
 Private Call,YL3KT Dagnis,,,LVA,2470065
 Private Call,YL3NR Raimonds,,,LVA,2470066
 Private Call,YL3AOB no_name,,,LVA,2470067
+Private Call,YL3CAAO Girts,,,LVA,2470068
 Private Call,ES2AST Marek,,,EST,2480001
 Private Call,ES2FJR Ivan,,,EST,2480002
 Private Call,ES1BRD Dmitri,,,EST,2480003
@@ -63053,6 +63132,17 @@ Private Call,UB9UGD Andrey,,,RUS,2501373
 Private Call,R4WAEN Vadim,,,RUS,2501374
 Private Call,R6FJ Roman,,,RUS,2501375
 Private Call,RY2YAA Yuri,,,RUS,2501376
+Private Call,UA2FAV Grigory,,,RUS,2501377
+Private Call,R3UDV Andrey,,,RUS,2501378
+Private Call,UB0AKG Aleksandr,,,RUS,2501379
+Private Call,R0AAL Yuliya,,,RUS,2501380
+Private Call,RO3ZD Vadim,,,RUS,2501381
+Private Call,R1BOE Sevastian,,,RUS,2501382
+Private Call,R4NBC Roman Yurevich,,,RUS,2501383
+Private Call,R1BOJ Alexander,,,RUS,2501384
+Private Call,UB4CLP Sergei,,,RUS,2501385
+Private Call,UB9ODM ,,,RUS,2501386
+Private Call,UB1ATZ Daniil,,,RUS,2501387
 Private Call,R2AEE Alexey,,,RUS,2502001
 Private Call,R2AAAA Alexey,,,RUS,2502002
 Private Call,R2DFR Mikhail,,,RUS,2502003
@@ -65185,6 +65275,12 @@ Private Call,UR5TNJ Volodymyr,,,UKR,2550668
 Private Call,UT3UUE Andrey,,,UKR,2550669
 Private Call,UW5ENB Volodymyr,,,UKR,2550670
 Private Call,UR4USB Yevhenii Oleksandrovich,,,UKR,2550671
+Private Call,UR4YLV Vasyl,,,UKR,2550672
+Private Call,UR5XPM Maksym,,,UKR,2550673
+Private Call,UT4QM Dmytro,,,UKR,2550674
+Private Call,UR5RNN Vladyslav,,,UKR,2550675
+Private Call,UR5XPA Serhii,,,UKR,2550676
+Private Call,UR5XPI Ivan,,,UKR,2550677
 Private Call,UR5SSB Yaroslav,,,UKR,2555555
 Private Call,EW7AS Vladimir,,,BLR,2570001
 Private Call,EW7AS Vladimir,,,BLR,2570002
@@ -66055,7 +66151,6 @@ Private Call,SQ9IWU Ryszard,,,POL,2600664
 Private Call,SQ3AM Artur,,,POL,2600665
 Private Call,SP7MTU Zbigniew,,,POL,2600666
 Private Call,SP9THO Krzysztof,,,POL,2600667
-Private Call,SP8OBU Iwona,,,POL,2600668
 Private Call,SQ2NNR Arkadiusz,,,POL,2600669
 Private Call,SQ7LRW Waldek,,,POL,2600670
 Private Call,SP9EOT Pawel,,,POL,2600671
@@ -66418,6 +66513,7 @@ Private Call,SP1T Lukasz,,,POL,2601052
 Private Call,SP1MKK Mariusz,,,POL,2601053
 Private Call,SQ1PRA Slawomir,,,POL,2601054
 Private Call,SP1MVS Ryszard,,,POL,2601055
+Private Call,SQ1OHF Edward,,,POL,2601056
 Private Call,SP1UJW Wojtek,,,POL,2601057
 Private Call,SQ1GU Andrzej,,,POL,2601058
 Private Call,SQ1NT Leszek,,,POL,2601059
@@ -66426,6 +66522,7 @@ Private Call,SQ1BHQ Piotr,,,POL,2601061
 Private Call,SP1IT Tomasz,,,POL,2601062
 Private Call,SQ1OOS Michal,,,POL,2601063
 Private Call,SQ1BSY Marek,,,POL,2601064
+Private Call,SQ1OHF Edward,,,POL,2601066
 Private Call,SP1WSR Andrzej,,,POL,2601068
 Private Call,SP1NKF Jacek,,,POL,2601069
 Private Call,SQ6SGV Zbyszek,,,POL,2601070
@@ -67933,6 +68030,20 @@ Private Call,SQ8KD Dawid,,,POL,2602618
 Private Call,SP3BOB Marcin,,,POL,2602619
 Private Call,SP5GK Krzysztof,,,POL,2602620
 Private Call,SP5WJZ Wojciech,,,POL,2602621
+Private Call,SQ6OCR Mariusz,,,POL,2602622
+Private Call,SQ3SIB Bartlomiej,,,POL,2602623
+Private Call,SP5MIK Maciej,,,POL,2602624
+Private Call,SP7SKD Janusz,,,POL,2602625
+Private Call,SO8ABC Lukasz,,,POL,2602627
+Private Call,SP3LEO Patryk,,,POL,2602628
+Private Call,SP3TSL Tomasz,,,POL,2602629
+Private Call,SP3AWI Arkadiusz,,,POL,2602630
+Private Call,SQ5DL Norbert,,,POL,2602631
+Private Call,SP9RKC Jakub,,,POL,2602632
+Private Call,SP5LMC Marcin,,,POL,2602633
+Private Call,SP3PK Piotr,,,POL,2602634
+Private Call,SP6VE Robert,,,POL,2602635
+Private Call,SQ4IOE Mariusz,,,POL,2602636
 Private Call,SQ3CLK Michal,,,POL,2603001
 Private Call,SQ3GJH Chrystian,,,POL,2603002
 Private Call,SP3WBY Artur,,,POL,2603003
@@ -68000,7 +68111,6 @@ Private Call,SQ3XZ Adam,,,POL,2603070
 Private Call,SQ3BMW Wojciech,,,POL,2603071
 Private Call,SP3XBS Bartosz,,,POL,2603072
 Private Call,SP3ABW Krzysztof,,,POL,2603073
-Private Call,SQ3PCL Jakub,,,POL,2603074
 Private Call,SQ3SHK Adrian,,,POL,2603075
 Private Call,SP3LOZ Artemiusz,,,POL,2603076
 Private Call,SP3SII Rafal,,,POL,2603077
@@ -69131,7 +69241,6 @@ Private Call,SP5PG Pawel,,,POL,2607236
 Private Call,SP8WJS Andrzej,,,POL,2608001
 Private Call,SP8PG Grzegorz,,,POL,2608002
 Private Call,SQ8LUN Lukasz,,,POL,2608003
-Private Call,SQ8KMY Robert,,,POL,2608004
 Private Call,SP8MTA Tomasz,,,POL,2608005
 Private Call,SQ8NXM Pawel,,,POL,2608007
 Private Call,SQ8OHR Krzysztof,,,POL,2608009
@@ -69165,7 +69274,6 @@ Private Call,SQ8HBD Jan,,,POL,2608038
 Private Call,SQ8JIO Dariusz,,,POL,2608039
 Private Call,SQ8DSX Pawel,,,POL,2608040
 Private Call,SP8RSW Pawel,,,POL,2608041
-Private Call,SQ8AL Radek,,,POL,2608042
 Private Call,SQ8NXC Mateusz,,,POL,2608044
 Private Call,SP8NCG Tomasz,,,POL,2608046
 Private Call,SQ8JII Adam,,,POL,2608047
@@ -69468,6 +69576,7 @@ Private Call,SP9PEW Klub,,,POL,2609206
 Private Call,SQ9UU Jacek,,,POL,2609207
 Private Call,SP9WTS Krzysztof,,,POL,2609208
 Private Call,SQ9ZBL Lukasz,,,POL,2609209
+Private Call,SP9WTC Robert,,,POL,2609211
 Private Call,SP9USB Kamil,,,POL,2609212
 Private Call,SP9LP Lukasz,,,POL,2609213
 Private Call,SQ9RT Piotr,,,POL,2609214
@@ -69483,6 +69592,7 @@ Private Call,SP9BSK Michal,,,POL,2609223
 Private Call,SQ9PRL Szczepan,,,POL,2609224
 Private Call,SQ9IWI Jacek,,,POL,2609226
 Private Call,SQ9MPK Krzysztof,,,POL,2609228
+Private Call,SP9WTC Robert,,,POL,2609229
 Private Call,SQ9RIM Marcin,,,POL,2609230
 Private Call,SP9NUW Konrad,,,POL,2609231
 Private Call,SP9CIH Marcin,,,POL,2609232
@@ -69504,11 +69614,9 @@ Private Call,SQ9MLH Oliwer,,,POL,2609248
 Private Call,SP9KRK Krzysztof,,,POL,2609249
 Private Call,SQ9MYB Maciek,,,POL,2609252
 Private Call,SQ9ONI Piotr,,,POL,2609254
-Private Call,SQ9RZM Lukasz,,,POL,2609255
 Private Call,SQ9GOL Piotr,,,POL,2609256
 Private Call,SQ9OKC Andrzej,,,POL,2609257
 Private Call,SQ9PG Pawel,,,POL,2609258
-Private Call,SQ9RZM Lukasz,,,POL,2609259
 Private Call,SQ9JYM Bartosz,,,POL,2609260
 Private Call,SQ9WDZ Tomasz,,,POL,2609261
 Private Call,SP9TOM Tomasz,,,POL,2609262
@@ -76248,6 +76356,7 @@ Private Call,DO2ABC Wilhelm,,,DEU,2626951
 Private Call,DK0VG Clubst.,,,DEU,2626952
 Private Call,DH8MV Markus,,,DEU,2626953
 Private Call,DL0SEL Clubst.,,,DEU,2626954
+Private Call,DK5RTA Robert,,,DEU,2626955
 Private Call,DL6WAB Juergen Heinz,,,DEU,2626956
 Private Call,DO2SPK Simon Peter Maria,,,DEU,2626957
 Private Call,DO4JC Joerg Manfred,,,DEU,2626958
@@ -81210,7 +81319,7 @@ Private Call,DJ4TI Till,,,DEU,2632132
 Private Call,DO1AKT Alexandra,,,DEU,2632133
 Private Call,DH8HAK Christian,,,DEU,2632134
 Private Call,DL4SAE Hermann,,,DEU,2632135
-Private Call,DO9MMP Pertler,,,DEU,2632136
+Private Call,DO9MMP Maximilian,,,DEU,2632136
 Private Call,DL9DAT Uwe,,,DEU,2632137
 Private Call,DA0B ContestSt.,,,DEU,2632138
 Private Call,DL6NET Robert,,,DEU,2632139
@@ -81259,6 +81368,13 @@ Private Call,DH4HWK Maximilian,,,DEU,2632181
 Private Call,DG2CP Manfred,,,DEU,2632182
 Private Call,DO8ACM Uwe,,,DEU,2632183
 Private Call,DO5MSB Michael,,,DEU,2632184
+Private Call,DO4CD Christoph,,,DEU,2632185
+Private Call,DL8MEF Karl,,,DEU,2632186
+Private Call,DL4OJ Andreas,,,DEU,2632187
+Private Call,DL4HTR Harald,,,DEU,2632188
+Private Call,DO3THM Thomas,,,DEU,2632189
+Private Call,DK9OG Thomas,,,DEU,2632190
+Private Call,DJ3NRA Reinhard,,,DEU,2632191
 Private Call,DG4AK Dietmar,,,DEU,2633001
 Private Call,DH8AAA Oliver,,,DEU,2633002
 Private Call,DC6BV Reinhardt,,,DEU,2633003
@@ -83515,7 +83631,7 @@ Private Call,DM2HW Johannes,,,DEU,2638116
 Private Call,DB5FX Andreas,,,DEU,2638117
 Private Call,DG7NCY Eberhard,,,DEU,2638119
 Private Call,DG1MBH Robert,,,DEU,2638120
-Private Call,DL1SFA Walter Anton,,,DEU,2638122
+Private Call,DL1SFA Walter,,,DEU,2638122
 Private Call,DL4NP Roland,,,DEU,2638123
 Private Call,DF5MR Heinz,,,DEU,2638124
 Private Call,DO1MOS Sascha,,,DEU,2638125
@@ -87114,6 +87230,7 @@ Private Call,EI6JGB Daithi,,,IRL,2720393
 Private Call,EI6JFB Michael,,,IRL,2720394
 Private Call,EI6JRB Allen,,,IRL,2720395
 Private Call,EI9SP Sierra Papa Dx Group,,,IRL,2720396
+Private Call,EI6JMB Michael,,,IRL,2720397
 Private Call,TF3PKN Pier,,,ISL,2740001
 Private Call,TF8KP Krzysztof,,,ISL,2740002
 Private Call,TF8KP Krzysztof,,,ISL,2740003
@@ -89260,7 +89377,6 @@ Private Call,TB2HKG Gurkan,,,TUR,2861377
 Private Call,TA2KUB Kubilay,,,TUR,2861379
 Private Call,TA3SGH Gulsoy,,,TUR,2861380
 Private Call,TA3SYM Mykaya,,,TUR,2861381
-Private Call,TA3IHY Hasan,,,TUR,2861382
 Private Call,TA2UEO no_name,,,TUR,2861383
 Private Call,TA2RP Recep,,,TUR,2861384
 Private Call,TB1TYH Kayayildirim,,,TUR,2861386
@@ -92487,7 +92603,6 @@ Private Call,TB2MSS Mehmet,,,TUR,2864823
 Private Call,TB5AKS Senol,,,TUR,2864824
 Private Call,TA7KYY Kenan,,,TUR,2864825
 Private Call,TA1SKY Tufan,,,TUR,2864826
-Private Call,TB5DOU Dogukan,,,TUR,2864827
 Private Call,TB2NCL Nuri,,,TUR,2864828
 Private Call,TB5CKE Kemal,,,TUR,2864829
 Private Call,TA1EEG Mehmet Emre,,,TUR,2864830
@@ -93353,7 +93468,6 @@ Private Call,TA8VAV Mehmet,,,TUR,2865701
 Private Call,TA2OHN Haci Arap,,,TUR,2865702
 Private Call,TA2ZU Efe,,,TUR,2865703
 Private Call,TA2NGB Beste,,,TUR,2865704
-Private Call,TA4MRT Ali Mert,,,TUR,2865705
 Private Call,TA1OIG Onur Ilker,,,TUR,2865706
 Private Call,TA6LAD Ali,,,TUR,2865707
 Private Call,TA2VIP Ibrahim,,,TUR,2865708
@@ -94000,13 +94114,31 @@ Private Call,TB2AGK Emrah,,,TUR,2866348
 Private Call,TA3BIP Mahmut,,,TUR,2866349
 Private Call,TB8ADM Murat,,,TUR,2866350
 Private Call,YM9KVN Van,,,TUR,2866351
-Private Call,TA3CBN Berrin,,,TUR,2866352
 Private Call,TA4VSO Ihsan Ramazan,,,TUR,2866353
 Private Call,TB7TMS Mithat,,,TUR,2866354
 Private Call,TB6FNA Fatma,,,TUR,2866355
 Private Call,TA1CSY Serdal,,,TUR,2866356
 Private Call,TA2ESD Onder,,,TUR,2866357
+Private Call,TA4VAR Mustafa,,,TUR,2866358
+Private Call,TA2ZOR Sedat,,,TUR,2866359
+Private Call,TA6AFF Eyup Oktay,,,TUR,2866360
+Private Call,TA4WAT Iskender,,,TUR,2866361
+Private Call,TA6AKS Eren Serkan,,,TUR,2866362
+Private Call,TA2VUT ,,,TUR,2866363
+Private Call,TA3PHI Emre,,,TUR,2866364
+Private Call,TB2MCG Mertcan,,,TUR,2866365
+Private Call,TA3CBM Berrin,,,TUR,2866366
+Private Call,TA2UHD Huseyin,,,TUR,2866367
+Private Call,TA4TKN Atakan,,,TUR,2866368
+Private Call,TA3CIJ no_name,,,TUR,2866369
+Private Call,TB2YCT no_name,,,TUR,2866370
+Private Call,TA6MLH Melih,,,TUR,2866371
 Private Call,TA1FRK Furkan,,,TUR,2866666
+Private Call,TA2VYM Vedat,,,TUR,2866667
+Private Call,TA9SSS ,,,TUR,2866668
+Private Call,TA2VAM Murat,,,TUR,2866669
+Private Call,TB5ADU Abdullah,,,TUR,2866670
+Private Call,TA2EGH Ekrem,,,TUR,2866671
 Private Call,TA2SEK Serhat,,,TUR,2867777
 Private Call,TB3ACU Baris,,,TUR,2868686
 Private Call,OY8W Steffen,,,FRO,2880001
