@@ -347,6 +347,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280346,HB9CQO,Rolf,,,,,CHE
 2280347,HB9DTC,Thomas,,,,,CHE
 2280348,HB9IME,Roosembert,,,,,CHE
+2280349,HB9FDE,Fred,,,,,CHE
 2281001,HB3YNV,Cedric,,,,,CHE
 2281002,HB3YNV,Cedric,,,,,CHE
 2281003,HB3YNV,Cedric,,,,,CHE
@@ -2640,6 +2641,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320716,OE1ANJ,Angelika,,,,,AUT
 2320717,OE5FTT,Frederic,,,,,AUT
 2320718,OE3WCR,Werner,,,,,AUT
+2320719,OE3DIJ,Dietmar,,,,,AUT
+2320720,OE5EDT,Markus,,,,,AUT
 2321001,OE1KBC,Kurt,,,,,AUT
 2321002,OE1KBC,Kurt,,,,,AUT
 2321003,OE1KBC,Kurt,,,,,AUT
@@ -13973,6 +13976,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2630274,DB1HS,Reiner,,,,,DEU
 2630275,DL1DK,Dariusz Robert,,,,,DEU
 2630276,DL3NR,Alexander,,,,,DEU
+2630279,DL7OAR,Anna,,,,,DEU
 2630280,DO2YZA,Ulrich,,,,,DEU
 2630281,DO3BEY,Tomislav,,,,,DEU
 2630282,DO2NG,Nicolas,,,,,DEU
@@ -15532,7 +15536,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2631882,DG4SGC,Markus,,,,,DEU
 2631883,DO1GPX,Georg,,,,,DEU
 2631884,DL7IB,Iris,,,,,DEU
-2631885,DO1IJS,Ingo,,,,,DEU
+2631885,DD1IS,Ingo,,,,,DEU
 2631886,DH2HAK,Christoph,,,,,DEU
 2631887,DJ3DE,Julian,,,,,DEU
 2631888,DO1NPR,Rainer,,,,,DEU
@@ -15865,7 +15869,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2632215,DO7ABC,Karsten,,,,,DEU
 2632216,DO1SWC,Christian,,,,,DEU
 2632217,DO2CQ,Sascha,,,,,DEU
-2632218,DL4TN,Hans Gerhard,,,,,DEU
+2632218,DL4TN,Gerhard,,,,,DEU
 2632219,DJ1DT,Dennis,,,,,DEU
 2632220,DN9CL,Christian,,,,,DEU
 2632221,DN9RM,Ronald,,,,,DEU
@@ -15894,6 +15898,25 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2632245,DN9ALF,Alexander,,,,,DEU
 2632246,DO8NA,Peter,,,,,DEU
 2632247,DO9DO,Markus,,,,,DEU
+2632248,DN9FM,Michael,,,,,DEU
+2632249,DO1TRH,Thomas,,,,,DEU
+2632250,DL5MEE,Hubert,,,,,DEU
+2632251,DO1TKD,Thorben,,,,,DEU
+2632252,DJ7MW,Manfred,,,,,DEU
+2632253,DF2HZ,Hans-Juergen,,,,,DEU
+2632254,DJ3RKA,Rudolf,,,,,DEU
+2632255,DL2UW,Uwe,,,,,DEU
+2632256,DB9CR,Christian,,,,,DEU
+2632258,DG9BEY,Axel,,,,,DEU
+2632259,DG9MHV,Gerhard,,,,,DEU
+2632260,DO9RE,Richard,,,,,DEU
+2632261,DF3ED,Peter,,,,,DEU
+2632262,DK0BT,ClubSt.,,,,,DEU
+2632263,DL1RMT,Dirk,,,,,DEU
+2632264,DO3RZ,Ralf,,,,,DEU
+2632265,DN9JO,Joachim,,,,,DEU
+2632266,DN9NW,Nils,,,,,DEU
+2632268,DN9EQ,Richard,,,,,DEU
 2633001,DG4AK,Dietmar,,,,,DEU
 2633002,DH8AAA,Oliver,,,,,DEU
 2633003,DC6BV,Reinhardt,,,,,DEU
