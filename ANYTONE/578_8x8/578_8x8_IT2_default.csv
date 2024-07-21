@@ -7457,7 +7457,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227504,IZ7MKN,Michele,,, - ITA,,Private Call,None
 ,2227505,IZ7JXO,Enzo,,, - ITA,,Private Call,None
 ,2227506,IZ7UMB,Rubini,,, - ITA,,Private Call,None
-,2227507,IZ7UMT,Gianluca,,, - ITA,,Private Call,None
+,2227507,IU7TFH,Gianluca,,, - ITA,,Private Call,None
 ,2227508,IK7MCM,Domenico,,, - ITA,,Private Call,None
 ,2227509,IZ8OYV,Daniele,,, - ITA,,Private Call,None
 ,2227510,IZ7JXW,Gentile,,, - ITA,,Private Call,None
@@ -11190,6 +11190,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2231320,IU1QZP,Daniele,,, - ITA,,Private Call,None
 ,2231321,IV3JAZ,Luciano,,, - ITA,,Private Call,None
 ,2231322,IU7BJB,Mimmo,,, - ITA,,Private Call,None
+,2231323,IZ5VKL,Gaetano,,, - ITA,,Private Call,None
+,2231324,IZ3QCS,Edoardo,,, - ITA,,Private Call,None
+,2231325,IU1RYU,Giovanni,,, - ITA,,Private Call,None
+,2231326,IU0PXK,Alessandro,,, - ITA,,Private Call,None
+,2231327,IK5ZPZ,Ferdinando,,, - ITA,,Private Call,None
+,2231328,IV3JJH,Leonardo,,, - ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,, - ITA,,Private Call,None
 ,2280001,4U1ITU,International,,, - CHE,,Private Call,None
 ,2280002,HB3XWO,Kornel,,, - CHE,,Private Call,None
@@ -11540,6 +11546,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280347,HB9DTC,Thomas,,, - CHE,,Private Call,None
 ,2280348,HB9IME,Roosembert,,, - CHE,,Private Call,None
 ,2280349,HB9FDE,Fred,,, - CHE,,Private Call,None
+,2280350,HB9IIT,Werner,,, - CHE,,Private Call,None
+,2280351,HB9IMH,Julio,,, - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,, - CHE,,Private Call,None

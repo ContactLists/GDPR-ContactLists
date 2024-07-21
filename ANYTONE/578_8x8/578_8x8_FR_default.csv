@@ -833,6 +833,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060694,ON3YDM,Yves,,, - BEL,,Private Call,None
 ,2060695,ON1MS,Michel,,, - BEL,,Private Call,None
 ,2060696,OT2T,Marc,,, - BEL,,Private Call,None
+,2060697,ON5DGP,Redgy,,, - BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,, - BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,, - BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,, - BEL,,Private Call,None
@@ -3522,6 +3523,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081781,F4LVK,,,, - FRA,,Private Call,None
 ,2081782,F4JAY,Tony,,, - FRA,,Private Call,None
 ,2081783,F4LSD,Florent,,, - FRA,,Private Call,None
+,2081784,F4EYD,Raphael,,, - FRA,,Private Call,None
+,2081785,F4LNI,Albert,,, - FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,, - FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,, - FRA,,Private Call,None
 ,2082003,F1AGU,Charles-Henri,,, - FRA,,Private Call,None
@@ -5332,6 +5335,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280347,HB9DTC,Thomas,,, - CHE,,Private Call,None
 ,2280348,HB9IME,Roosembert,,, - CHE,,Private Call,None
 ,2280349,HB9FDE,Fred,,, - CHE,,Private Call,None
+,2280350,HB9IIT,Werner,,, - CHE,,Private Call,None
+,2280351,HB9IMH,Julio,,, - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,, - CHE,,Private Call,None
@@ -12619,6 +12624,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025931,VE1CD,Trevor Rholand,,, - CAN,,Private Call,None
 ,3025932,VE7BZR,Roger,,, - CAN,,Private Call,None
 ,3025933,VE3OAA,Robert,,, - CAN,,Private Call,None
+,3025934,VE3JKN,William,,, - CAN,,Private Call,None
+,3025935,VA2KPA,Philippe,,, - CAN,,Private Call,None
+,3025936,VE7HDR,Stuart,,, - CAN,,Private Call,None
+,3025937,VE3FD,Heribert,,, - CAN,,Private Call,None
 ,3026001,VA6IP,Kiernan,,, - CAN,,Private Call,None
 ,3026002,VE6GG,Kerry,,, - CAN,,Private Call,None
 ,3026003,VE6GG,Kerry,,, - CAN,,Private Call,None
