@@ -2736,7 +2736,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2622956,DO3KKD,Klaus,,, - DEU,,Private Call,None
 ,2622957,DF7ET,Bernhard,,, - DEU,,Private Call,None
 ,2622958,DB1BHR,Hartwig,,, - DEU,,Private Call,None
-,2622959,DK1AJ,Michael-Alfred,,, - DEU,,Private Call,None
+,2622959,DK1AJ,Michael,,, - DEU,,Private Call,None
 ,2622960,DL6TP,Wolfgang Fritz,,, - DEU,,Private Call,None
 ,2622961,DO2GT,Thomas,,, - DEU,,Private Call,None
 ,2622962,DK0MM,Clubst.,,, - DEU,,Private Call,None
@@ -10506,7 +10506,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2631158,DL1VCA,Mario,,, - DEU,,Private Call,None
 ,2631159,DO1SGH,Sven,,, - DEU,,Private Call,None
 ,2631160,DM2DX,Steffen,,, - DEU,,Private Call,None
-,2631161,DO1BRZ,Robert Karl Guenter,,, - DEU,,Private Call,None
+,2631161,DG0BR,Robert,,, - DEU,,Private Call,None
 ,2631162,DH9MAJ,Bernhard,,, - DEU,,Private Call,None
 ,2631163,DO3RT,Thomas,,, - DEU,,Private Call,None
 ,2631164,DL1CSB,Carsten,,, - DEU,,Private Call,None
@@ -11614,6 +11614,17 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2632279,DJ1WB,Wolfgang,,, - DEU,,Private Call,None
 ,2632280,DA6FD,Dennis,,, - DEU,,Private Call,None
 ,2632281,DJ0GI,Juergen,,, - DEU,,Private Call,None
+,2632282,DN9JMS,Johannes,,, - DEU,,Private Call,None
+,2632283,DL8RAU,Peter,,, - DEU,,Private Call,None
+,2632284,DO1DNI,Sven,,, - DEU,,Private Call,None
+,2632285,DL7ULI,Ulrich,,, - DEU,,Private Call,None
+,2632286,DO2WS,Christopher,,, - DEU,,Private Call,None
+,2632287,DO2MIB,Michael,,, - DEU,,Private Call,None
+,2632288,DL2GMH,Holger,,, - DEU,,Private Call,None
+,2632289,DF8VY,Gertrud,,, - DEU,,Private Call,None
+,2632290,DN9CYL,Carsten,,, - DEU,,Private Call,None
+,2632291,DO9SMM,Sven,,, - DEU,,Private Call,None
+,2632292,DJ8MW,Bjoern,,, - DEU,,Private Call,None
 ,2633001,DG4AK,Dietmar,,, - DEU,,Private Call,None
 ,2633002,DH8AAA,Oliver,,, - DEU,,Private Call,None
 ,2633003,DC6BV,Reinhardt,,, - DEU,,Private Call,None
@@ -12306,7 +12317,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2634012,DL3ED,Ulrich,,, - DEU,,Private Call,None
 ,2634013,DC9EK,Ibrahim,,, - DEU,,Private Call,None
 ,2634014,DL6DCA,Wilhelm-Hartmut,,, - DEU,,Private Call,None
-,2634015,DF8DT,Benedikt-Emanuel,,, - DEU,,Private Call,None
+,2634015,DF8DT,Benedikt Emanuel,,, - DEU,,Private Call,None
 ,2634016,DL6LBT,Istvan,,, - DEU,,Private Call,None
 ,2634017,DO1DT,Thomas,,, - DEU,,Private Call,None
 ,2634019,DL1WKM,Walter,,, - DEU,,Private Call,None
