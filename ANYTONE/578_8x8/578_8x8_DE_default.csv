@@ -8198,7 +8198,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2628746,DL1PSK,Stefan,,, - DEU,,Private Call,None
 ,2628747,DG1NHL,Harald,,, - DEU,,Private Call,None
 ,2628748,DC7WF,Agnes,,, - DEU,,Private Call,None
-,2628749,DF1NRR,Robert Ivan,,, - DEU,,Private Call,None
+,2628749,DF1NRR,Robert,,, - DEU,,Private Call,None
 ,2628750,DL7MST,Matthias,,, - DEU,,Private Call,None
 ,2628751,DJ1MV,Fritz,,, - DEU,,Private Call,None
 ,2628752,DF6CW,Ernst,,, - DEU,,Private Call,None
@@ -11250,7 +11250,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2631913,DO7KAW,Andreas,,, - DEU,,Private Call,None
 ,2631914,DL1KBL,Achim,,, - DEU,,Private Call,None
 ,2631915,DO6PJK,Peter,,, - DEU,,Private Call,None
-,2631916,DL1GER,Michael,,, - DEU,,Private Call,None
 ,2631917,DF4VL,Karl-Heinz,,, - DEU,,Private Call,None
 ,2631918,DL2PT,Thomas,,, - DEU,,Private Call,None
 ,2631919,DO1MIA,Mia,,, - DEU,,Private Call,None
@@ -11364,7 +11363,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2632027,DO7MAX,Maximilian,,, - DEU,,Private Call,None
 ,2632028,DF2MJ,Markus,,, - DEU,,Private Call,None
 ,2632029,DC1RJJ,Johannes,,, - DEU,,Private Call,None
-,2632030,DO1TWD,Thomas,,, - DEU,,Private Call,None
+,2632030,DA1TWD,Thomas,,, - DEU,,Private Call,None
 ,2632031,DL1FLW,Lawrence,,, - DEU,,Private Call,None
 ,2632032,DO3WD,Werner,,, - DEU,,Private Call,None
 ,2632033,DO2DPK,Dirk,,, - DEU,,Private Call,None
@@ -11700,6 +11699,38 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2632367,DL7FLS,Frederik,,, - DEU,,Private Call,None
 ,2632368,DB1RZ,Artur,,, - DEU,,Private Call,None
 ,2632369,DL1MC,Michael,,, - DEU,,Private Call,None
+,2632370,DN9KUK,Kai,,, - DEU,,Private Call,None
+,2632371,DC4NT,Marco,,, - DEU,,Private Call,None
+,2632372,DO7FLY,Christian,,, - DEU,,Private Call,None
+,2632373,DN9DF,Dominic,,, - DEU,,Private Call,None
+,2632374,DG1UDO,Udo,,, - DEU,,Private Call,None
+,2632375,DL3JCW,Jan,,, - DEU,,Private Call,None
+,2632376,DL8OCI,Klaus,,, - DEU,,Private Call,None
+,2632377,DO6MEY,Sven,,, - DEU,,Private Call,None
+,2632378,DK8DE,Joerg Thassilo,,, - DEU,,Private Call,None
+,2632379,DC8TT,Tristan,,, - DEU,,Private Call,None
+,2632380,DN9NRO,Jonathan,,, - DEU,,Private Call,None
+,2632381,DN9MBE,Matthias,,, - DEU,,Private Call,None
+,2632382,DO1ORI,Volker,,, - DEU,,Private Call,None
+,2632383,DH1ZIY,Christian,,, - DEU,,Private Call,None
+,2632384,DO5YK,Katharina,,, - DEU,,Private Call,None
+,2632385,DN9TB,Torsten,,, - DEU,,Private Call,None
+,2632386,DO1FO,Ralf,,, - DEU,,Private Call,None
+,2632387,DN9NIG,Juergen,,, - DEU,,Private Call,None
+,2632388,DL1WKA,Wolfgang,,, - DEU,,Private Call,None
+,2632389,DN9ETS,Michael Johannes Josef,,, - DEU,,Private Call,None
+,2632390,DL4FP,Franz,,, - DEU,,Private Call,None
+,2632391,DO7GG,Thomas,,, - DEU,,Private Call,None
+,2632392,DN9OC,Claudia,,, - DEU,,Private Call,None
+,2632393,DF2JK,Franz-Josef,,, - DEU,,Private Call,None
+,2632394,DL1STA,Stefan,,, - DEU,,Private Call,None
+,2632395,DN9WS,Wolfgang,,, - DEU,,Private Call,None
+,2632396,DM4CA,Christian,,, - DEU,,Private Call,None
+,2632397,DO4IV,Iulian,,, - DEU,,Private Call,None
+,2632398,DJ2EAN,Jean,,, - DEU,,Private Call,None
+,2632399,DO9ST,Stephan,,, - DEU,,Private Call,None
+,2632400,DO1YM,Andre',,, - DEU,,Private Call,None
+,2632401,DO1STE,Stefan,,, - DEU,,Private Call,None
 ,2633001,DG4AK,Dietmar,,, - DEU,,Private Call,None
 ,2633002,DH8AAA,Oliver,,, - DEU,,Private Call,None
 ,2633003,DC6BV,Reinhardt,,, - DEU,,Private Call,None
@@ -15191,7 +15222,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2644496,DG9ME,Michael,,, - DEU,,Private Call,None
 ,2644497,DL9KV,Guenter,,, - DEU,,Private Call,None
 ,2644498,DK3CY,Wilhelm,,, - DEU,,Private Call,None
-,2644499,DG9YCL,Christoph,,, - DEU,,Private Call,None
+,2644499,DK2CP,Christoph,,, - DEU,,Private Call,None
 ,2644500,DO5TH,Thomas,,, - DEU,,Private Call,None
 ,2644501,DO2MP,Markus,,, - DEU,,Private Call,None
 ,2644502,DO5PL,Paul Michael,,, - DEU,,Private Call,None
