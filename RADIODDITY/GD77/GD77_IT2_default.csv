@@ -11176,6 +11176,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231238,I0MQV,Maurizio,,,,ITA
 2231239,IN3KGS,Lukas,,,,ITA
 2231240,IT9KKS,Maria Rita,,,,ITA
+2231241,IU0SHY,Francesco,,,,ITA
+2231242,IU8TIR,Antonio,,,,ITA
+2231243,IU0TGU,Angelo,,,,ITA
+2231244,IU3NJK,David,,,,ITA
+2231245,IU1TLH,Fabrizio,,,,ITA
+2231246,IW6DOL,Antonio,,,,ITA
 2231276,IU5PTS,Stefano,,,,ITA
 2231277,IT9BRN,Antonino,,,,ITA
 2231278,IK1WGX,Luca,,,,ITA
@@ -11297,6 +11303,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231394,IZ0UOO,Gabriele,,,,ITA
 2231395,IQ0OS,A.R.I.,,,,ITA
 2231396,IZ2UST,Massimiliano,,,,ITA
+2231397,IW2NEK,Alberto,,,,ITA
+2231398,IZ0WPE,Marcello,,,,ITA
+2231399,IW2NLM,Andrea,,,,ITA
+2231400,IT9KGX,Giovanni,,,,ITA
+2231401,IN3EMX,Fernando,,,,ITA
+2231402,IW7RIG,Pierpaolo,,,,ITA
+2231403,IV3QBT,Gianpietro,,,,ITA
 2242222,IT9JFW,Lorenzo,,,,ITA
 2280001,4U1ITU,International,,,,CHE
 2280002,HB3XWO,Kornel,,,,CHE
@@ -11651,6 +11664,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280351,HB9IMH,Julio,,,,CHE
 2280352,HB9EVW,Ayar,,,,CHE
 2280353,HB9HXD,Daniel,,,,CHE
+2280354,HB9QHG,Heinrich,,,,CHE
+2280355,HB9SSB,Marc,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -11822,7 +11837,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281169,HB3YAP,Pascal,,,,CHE
 2281170,HB9FDC,Vitor,,,,CHE
 2281171,HB9HBE,Emilie,,,,CHE
-2281172,HB9GYR,Jose-Antonio,,,,CHE
+2281172,HB9GYR,Jose,,,,CHE
 2281173,HB3YCY,Loick,,,,CHE
 2281174,HB3YFZ,Guy,,,,CHE
 2281175,HB9FXY,Jan,,,,CHE
@@ -11861,11 +11876,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281208,HB9GXP,Marc,,,,CHE
 2281209,HB9VCM,Ali-Reza,,,,CHE
 2281210,HB3YCB,Yves,,,,CHE
-2281211,HB9GYR,Jose-Antonio,,,,CHE
+2281211,HB9GYR,Jose,,,,CHE
 2281212,HB9GYM,Jean-Pierre,,,,CHE
 2281213,HB9HBY,Loick,,,,CHE
 2281214,HB9HBZ,Alexandre,,,,CHE
-2281215,HB9GYR,Jose-Antonio,,,,CHE
+2281215,HB9GYR,Jose,,,,CHE
 2281216,HB9HBE,Emilie,,,,CHE
 2281217,HB9TWU,Gregoire,,,,CHE
 2281218,HB9DSB,Adolphe,,,,CHE
@@ -13303,6 +13318,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2780073,9H2EC,Edward,,,,MLT
 2780074,9H2JC,John Baptist,,,,MLT
 2780075,9H2ME,James,,,,MLT
+2780076,9H2LM,Lee,,,,MLT
 2920001,T77GR,Renato,,,,SMR
 2920002,T77NC,Nazzareno,,,,SMR
 2920003,T77DB,Danilo,,,,SMR
