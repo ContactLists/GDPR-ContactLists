@@ -744,7 +744,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060606,ON7XF,Erwin,,,,BEL
 2060607,ON3PO,Jan,,,,BEL
 2060608,ON3JMC,Jean Marc,,,,BEL
-2060609,ON2EA,Jean Marie,,,,BEL
+2060609,ON5EA,Jean Marie,,,,BEL
 2060610,ON3RF,Gaetan,,,,BEL
 2060611,ON5APC,Patrick,,,,BEL
 2060612,ON3CLL,Carl,,,,BEL
@@ -857,6 +857,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060719,ON6DBF,Fred,,,,BEL
 2060720,ON3DVT,David,,,,BEL
 2060721,ON1AEC,Jean Pierre,,,,BEL
+2060722,ON4WL,Wouter,,,,BEL
+2060723,ON3ARJ,Damien,,,,BEL
 2061001,ON8SVH,Stijn,,,,BEL
 2061002,ON8SI,Simon,,,,BEL
 2061003,ON5LUC,Luc,,,,BEL
@@ -2301,7 +2303,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2080367,F0GFI,Daniel,,,,FRA
 2080368,F0GVD,Serge,,,,FRA
 2080369,F5HLQ,Jeanclaude,,,,FRA
-2080370,F0DVI,Christophe,,,,FRA
+2080370,F4DVI,Christophe,,,,FRA
 2080371,F0DXQ,Halim,,,,FRA
 2080372,F4GTK,Alain,,,,FRA
 2080373,F0GVN,no_name,,,,FRA
@@ -3550,6 +3552,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081620,F4LTB,Tifani,,,,FRA
 2081621,F1IRW,Bruno,,,,FRA
 2081622,F4GSA,Leander,,,,FRA
+2081623,F4LPH,Pascal,,,,FRA
+2081624,F1HQX,Henri,,,,FRA
 2081777,F4JBM,Francois,,,,FRA
 2081778,F1UFW,Saletzki,,,,FRA
 2081779,F4JJQ,Pierre,,,,FRA
@@ -3845,7 +3849,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2083009,F1PVR,Arnaud,,,,FRA
 2083010,F1RHS,Galante,,,,FRA
 2083011,F1IXL,Christian,,,,FRA
-2083012,F6DEV,Jean-Louis,,,,FRA
+2083012,F6DEV,Jean Louis,,,,FRA
 2083013,F5URG,Marcel,,,,FRA
 2083014,F5PDA,Jose,,,,FRA
 2083015,F5FDR,Edgar,,,,FRA
@@ -4384,7 +4388,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2087034,F5HFZ,Nicolas,,,,FRA
 2087035,F5PTY,Ivan,,,,FRA
 2087036,F5PSR,Cedric,,,,FRA
-2087037,F6BTM,Michel,,,,FRA
+2087037,F6BTM,Mic34,,,,FRA
 2087038,F5MSI,Pierre,,,,FRA
 2087039,F5RPY,Antoine,,,,FRA
 2087040,F4OGZ,Charles,,,,FRA
@@ -5398,6 +5402,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280355,HB9SSB,Marc,,,,CHE
 2280356,HB9EYH,Elvira,,,,CHE
 2280357,HB9HYB,Fabiano,,,,CHE
+2280358,HB9DJN,Urs,,,,CHE
+2280359,HB9IQB,Dr Perikles,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -12677,6 +12683,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025779,VA2MPH,Steve,,,,CAN
 3025780,VA4NJF,Nicholas,,,,CAN
 3025781,VE3OZG,Christopher E,,,,CAN
+3025782,VE9GF,Mathew,,,,CAN
+3025783,VA3TNE,Andrew,,,,CAN
 3025912,VE3XBI,Robert,,,,CAN
 3025913,VA2BBW,Ante,,,,CAN
 3025914,VA7HCW,Daniel,,,,CAN
@@ -12754,13 +12762,18 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025986,VA7KIZ,Keith,,,,CAN
 3025987,VE7NBF,Nicetos,,,,CAN
 3025988,VA2TVE,Steve,,,,CAN
-3025989,VE7CQ,Sanford Marshall,,,,CAN
+3025989,VE7CQ,Sandy,,,,CAN
 3025990,VA2OM,Jean,,,,CAN
 3025991,VE3KDT,Noel,,,,CAN
 3025992,VE2EGM,Marc Andre,,,,CAN
 3025993,VE3RMA,Marcio,,,,CAN
 3025994,VA4GUN,Joeseph Joshua,,,,CAN
 3025995,VE3AX,Randy,,,,CAN
+3025996,VA3VMH,Joseph,,,,CAN
+3025997,VA7QAK,Robert Adam,,,,CAN
+3025998,VE3IDZ,Rob,,,,CAN
+3025999,VA7GWS,George,,,,CAN
+3026000,VE5KVT,Timothy,,,,CAN
 3026001,VA6IP,Kiernan,,,,CAN
 3026002,VE6GG,Kerry,,,,CAN
 3026003,VE6GG,Kerry,,,,CAN
@@ -13242,7 +13255,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3027270,VA7XJ,Russel,,,,CAN
 3027271,VA7RKC,Rick,,,,CAN
 3027272,VE7KSB,Kevin,,,,CAN
-3027273,VA7DPF,David,,,,CAN
+3027273,VA7OG,David,,,,CAN
 3027274,VE7CK,Mark,,,,CAN
 3027275,VE7WF,Rick,,,,CAN
 3027276,VE7QJD,John,,,,CAN
@@ -13259,7 +13272,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3027287,VE7EM,Gary,,,,CAN
 3027288,VE7BPS,John,,,,CAN
 3027289,VE7BKU,Robert,,,,CAN
-3027290,VA7OG,Richard,,,,CAN
 3027291,VA7HSE,John,,,,CAN
 3027292,VE7BSM,Bruce,,,,CAN
 3027293,VA7CV,Glen,,,,CAN
