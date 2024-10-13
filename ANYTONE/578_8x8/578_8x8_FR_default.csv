@@ -859,6 +859,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060721,ON1AEC,Jean Pierre,,, - BEL,,Private Call,None
 ,2060722,ON4WL,Wouter,,, - BEL,,Private Call,None
 ,2060723,ON3ARJ,Damien,,, - BEL,,Private Call,None
+,2060724,ON6LES,Olagny,,, - BEL,,Private Call,None
+,2060725,ON4AZM,Iwan,,, - BEL,,Private Call,None
+,2060726,ON6MB,Michel,,, - BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,, - BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,, - BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,, - BEL,,Private Call,None
@@ -2268,7 +2271,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2080332,F1FTE,Chantal,,, - FRA,,Private Call,None
 ,2080333,F8NDM,Philippe,,, - FRA,,Private Call,None
 ,2080334,F1EBA,Accart,,, - FRA,,Private Call,None
-,2080335,F1POK,Jean-Luc,,, - FRA,,Private Call,None
+,2080335,F1POK,Jlt,,, - FRA,,Private Call,None
 ,2080336,F1MJM,Pierre,,, - FRA,,Private Call,None
 ,2080337,F4GCE,Christian,,, - FRA,,Private Call,None
 ,2080338,F4IJI,no_name,,, - FRA,,Private Call,None
@@ -3165,7 +3168,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081232,F8VOM,Peter,,, - FRA,,Private Call,None
 ,2081233,F4JGF,Se Bastien,,, - FRA,,Private Call,None
 ,2081234,F4SGU,Jean,,, - FRA,,Private Call,None
-,2081235,F1RXM,Jean,,, - FRA,,Private Call,None
+,2081235,F1RXM,Jean Pierre,,, - FRA,,Private Call,None
 ,2081236,F6EJJ,Christian,,, - FRA,,Private Call,None
 ,2081237,F4JOK,Olivier,,, - FRA,,Private Call,None
 ,2081238,F4JOG,Noel,,, - FRA,,Private Call,None
@@ -3554,6 +3557,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081622,F4GSA,Leander,,, - FRA,,Private Call,None
 ,2081623,F4LPH,Pascal,,, - FRA,,Private Call,None
 ,2081624,F1HQX,Henri,,, - FRA,,Private Call,None
+,2081625,F4GLG,Gilles,,, - FRA,,Private Call,None
+,2081626,F1HEQ,Laurent,,, - FRA,,Private Call,None
+,2081627,F6BEW,Christian,,, - FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,, - FRA,,Private Call,None
 ,2081778,F1UFW,Saletzki,,, - FRA,,Private Call,None
 ,2081779,F4JJQ,Pierre,,, - FRA,,Private Call,None
@@ -12685,6 +12691,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025781,VE3OZG,Christopher E,,, - CAN,,Private Call,None
 ,3025782,VE9GF,Mathew,,, - CAN,,Private Call,None
 ,3025783,VA3TNE,Andrew,,, - CAN,,Private Call,None
+,3025784,VA3BFX,Aron,,, - CAN,,Private Call,None
+,3025785,VA3GPT,Jacob,,, - CAN,,Private Call,None
+,3025786,VE3XVK,Mark,,, - CAN,,Private Call,None
+,3025787,VA3FRK,Frank,,, - CAN,,Private Call,None
+,3025788,VE7SNF,Andrew,,, - CAN,,Private Call,None
+,3025789,VA3BZL,William,,, - CAN,,Private Call,None
 ,3025912,VE3XBI,Robert,,, - CAN,,Private Call,None
 ,3025913,VA2BBW,Ante,,, - CAN,,Private Call,None
 ,3025914,VA7HCW,Daniel,,, - CAN,,Private Call,None
