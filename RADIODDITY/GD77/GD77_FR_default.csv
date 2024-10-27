@@ -862,6 +862,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060724,ON6LES,Olagny,,,,BEL
 2060725,ON4AZM,Iwan,,,,BEL
 2060726,ON6MB,Michel,,,,BEL
+2060727,ON5EPD,Edward,,,,BEL
+2060728,ON3LBU,Luc,,,,BEL
+2060729,ON3DGB,Dora,,,,BEL
+2060730,ON4GT,Geert,,,,BEL
 2061001,ON8SVH,Stijn,,,,BEL
 2061002,ON8SI,Simon,,,,BEL
 2061003,ON5LUC,Luc,,,,BEL
@@ -988,7 +992,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2061128,ON3RSK,Kennis,,,,BEL
 2061129,ON3KV,Kris,,,,BEL
 2061130,ON7TO,Ghislain,,,,BEL
-2061131,ON3ASZ,Daniel,,,,BEL
+2061131,ON7ASZ,Daniel,,,,BEL
 2061133,ON4BLM,Marc,,,,BEL
 2061134,ON3FI,Chris,,,,BEL
 2061135,ON8XT,Kristof,,,,BEL
@@ -2025,7 +2029,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2080084,F8CVF,Jean-Pierre,,,,FRA
 2080085,F5UGS,Gilles,,,,FRA
 2080086,F8FPV,Pascal,,,,FRA
-2080087,F5SDM,Jean,,,,FRA
 2080088,F6KCR,Bruno,,,,FRA
 2080089,F4GFJ,Bruno,,,,FRA
 2080090,F6HFH,Patrick,,,,FRA
@@ -3561,6 +3564,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081626,F1HEQ,Laurent,,,,FRA
 2081627,F6BEW,Christian,,,,FRA
 2081628,F4JWU,Florent,,,,FRA
+2081629,F4LQV,Martial,,,,FRA
+2081630,F4WDY,Graham,,,,FRA
+2081631,F1TQN,Didier,,,,FRA
+2081632,F4LUX,Daniel,,,,FRA
+2081633,F4LUP,Ewen,,,,FRA
 2081777,F4JBM,Francois,,,,FRA
 2081778,F1UFW,Saletzki,,,,FRA
 2081779,F4JJQ,Pierre,,,,FRA
@@ -5414,6 +5422,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280360,HB9HXH,Fabrizio,,,,CHE
 2280361,HB3YOC,Christian,,,,CHE
 2280362,HB9CPQ,Mario,,,,CHE
+2280363,HB9PGR,Franco,,,,CHE
+2280364,HB3MBO,Michel,,,,CHE
+2280365,HB9HCZ,Mateo,,,,CHE
+2280366,HB3YTR,Andre,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -12707,6 +12719,15 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025794,VE3WCW,Daniel,,,,CAN
 3025795,VA3HTP,Andre,,,,CAN
 3025796,VE3HSB,Harold,,,,CAN
+3025797,VA1PSG,Patrick,,,,CAN
+3025798,VA2DBB,Daniel,,,,CAN
+3025799,VA3MKK,Herman,,,,CAN
+3025800,VA2CU,Michel,,,,CAN
+3025801,VA3XRY,Shannon Dale,,,,CAN
+3025802,VE2SZG,Sebastien,,,,CAN
+3025803,VE9JCT,Jean Claude,,,,CAN
+3025804,VA2ESA,,,,,CAN
+3025805,VE3MLR,Eustathios,,,,CAN
 3025912,VE3XBI,Robert,,,,CAN
 3025913,VA2BBW,Ante,,,,CAN
 3025914,VA7HCW,Daniel,,,,CAN
