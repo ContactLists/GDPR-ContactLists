@@ -825,7 +825,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060687,ON3MNT,Julien,,,,BEL
 2060688,ON4LEA,Rolf,,,,BEL
 2060689,ON7SAS,Amy,,,,BEL
-2060690,ON3GBO,Gerald,,,,BEL
+2060690,ON4GER,Gerald,,,,BEL
 2060691,ON7JMP,Jean Malo,,,,BEL
 2060692,ON3BAF,Jozef,,,,BEL
 2060693,ON1KFK,Jean Francois,,,,BEL
@@ -871,6 +871,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060733,ON8EM,Michel,,,,BEL
 2060734,ON4KDT,Alain,,,,BEL
 2060735,ON3BPA,Bart,,,,BEL
+2060736,ON9MP,Marko,,,,BEL
+2060737,ON3GIR,Gilbert,,,,BEL
 2061001,ON8SVH,Stijn,,,,BEL
 2061002,ON8SI,Simon,,,,BEL
 2061003,ON5LUC,Luc,,,,BEL
@@ -3577,6 +3579,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081634,F4LPK,Michel,,,,FRA
 2081635,F4JEU,,,,,FRA
 2081636,F4LQE,Philippe,,,,FRA
+2081637,F8RPG,Joseph,,,,FRA
+2081638,F4LUJ,Martin,,,,FRA
+2081639,F4LFY,Jean Daniel,,,,FRA
+2081640,F4LUC,Cassegrain Lasierra,,,,FRA
 2081777,F4JBM,Francois,,,,FRA
 2081778,F1UFW,Saletzki,,,,FRA
 2081779,F4JJQ,Pierre,,,,FRA
@@ -3607,6 +3613,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081805,F8LJV,Hubert,,,,FRA
 2081806,F4JTJ,Alain,,,,FRA
 2081807,F4DOY,Patrick,,,,FRA
+2081808,F4LTV,David,,,,FRA
+2081809,F8BKQ,,,,,FRA
+2081810,F5KDY,Radio Club Amateurs,,,,FRA
+2081811,F4LVH,Emmanuel,,,,FRA
 2082001,F4FUL,Cyril,,,,FRA
 2082002,F5VIN,Heiko,,,,FRA
 2082003,F1AGU,Charles-Henri,,,,FRA
@@ -5440,6 +5450,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280370,HB3YJB,Jasmine,,,,CHE
 2280371,HB3YJA,David,,,,CHE
 2280372,HB9ILZ,Maurice,,,,CHE
+2280373,HB9HYC,Janosch,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -12751,6 +12762,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025814,VE2VZT,Victor,,,,CAN
 3025815,VA7VCI,Ruchie,,,,CAN
 3025816,VA3IRQ,Saad,,,,CAN
+3025817,VA3LPZ,Jiaxuan,,,,CAN
+3025818,VE3ZPW,Jack,,,,CAN
+3025819,VE7ZST,Trevor,,,,CAN
+3025820,VE9CAM,Camille Hector,,,,CAN
+3025821,VA7GRF,Feenstra,,,,CAN
+3025822,VA3SWW,David,,,,CAN
+3025823,VE1EJM,Eric,,,,CAN
 3025912,VE3XBI,Robert,,,,CAN
 3025913,VA2BBW,Ante,,,,CAN
 3025914,VA7HCW,Daniel,,,,CAN
