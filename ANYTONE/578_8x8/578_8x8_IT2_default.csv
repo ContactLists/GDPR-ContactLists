@@ -1563,7 +1563,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2221571,IU1KDS,Alessandro,,, - ITA,,Private Call,None
 ,2221572,IW1GHT,Massimo,,, - ITA,,Private Call,None
 ,2221573,IZ1YSQ,Diego,,, - ITA,,Private Call,None
-,2221574,IK1TSE,Gian,,, - ITA,,Private Call,None
+,2221574,IK1TSE,Gian Piero,,, - ITA,,Private Call,None
 ,2221575,IU1BLI,Luca,,, - ITA,,Private Call,None
 ,2221576,IU4FLB,Giovanni,,, - ITA,,Private Call,None
 ,2221577,IZ1YSE,Giovanni,,, - ITA,,Private Call,None
@@ -10051,7 +10051,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2230109,IU5RDD,Andrea,,, - ITA,,Private Call,None
 ,2230110,IW2IBU,Franco,,, - ITA,,Private Call,None
 ,2230111,IU4RAF,Daniel,,, - ITA,,Private Call,None
-,2230112,IW9FYN,Sucato,,, - ITA,,Private Call,None
+,2230112,IW9FYN,Giustino,,, - ITA,,Private Call,None
 ,2230113,IV3SGB,Adelmo,,, - ITA,,Private Call,None
 ,2230114,I6JJD,Fernando,,, - ITA,,Private Call,None
 ,2230115,I6NNJ,Nicola,,, - ITA,,Private Call,None
@@ -11396,6 +11396,15 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2231458,IU3QXZ,Enrico,,, - ITA,,Private Call,None
 ,2231459,IQ1GJ,Ari,,, - ITA,,Private Call,None
 ,2231460,IU3EDL,Flavio,,, - ITA,,Private Call,None
+,2231461,IT9KHW,Vincenzo Giuseppe,,, - ITA,,Private Call,None
+,2231462,IT9JWO,Antonino,,, - ITA,,Private Call,None
+,2231463,IT9KNC,Roberto,,, - ITA,,Private Call,None
+,2231464,IZ3NYI,Eugenio,,, - ITA,,Private Call,None
+,2231465,IT9KKB,Maria Catena,,, - ITA,,Private Call,None
+,2231466,IK2NUR,Felice,,, - ITA,,Private Call,None
+,2231467,IZ2KIW,Simone,,, - ITA,,Private Call,None
+,2231468,IK6TII,Giuseppe,,, - ITA,,Private Call,None
+,2231469,IU2TNR,Longoni,,, - ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,, - ITA,,Private Call,None
 ,2280001,4U1ITU,International,,, - CHE,,Private Call,None
 ,2280002,HB3XWO,Kornel,,, - CHE,,Private Call,None
@@ -11770,6 +11779,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280371,HB3YJA,David,,, - CHE,,Private Call,None
 ,2280372,HB9ILZ,Maurice,,, - CHE,,Private Call,None
 ,2280373,HB9HYC,Janosch,,, - CHE,,Private Call,None
+,2280374,HB9RSG,Urs,,, - CHE,,Private Call,None
+,2280375,HB9HZW,Pascal,,, - CHE,,Private Call,None
+,2280376,HB9IMX,Alexandre,,, - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,, - CHE,,Private Call,None
