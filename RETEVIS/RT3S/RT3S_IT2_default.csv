@@ -6716,7 +6716,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2226759,IT9BOC,Giuseppe,,,,,ITA
 2226760,IW2NIH,Massimo,,,,,ITA
 2226761,IZ8OGB,Maurizio,,,,,ITA
-2226762,IZ4EOX,Federico,,,,,ITA
+2226762,IZ8EOX,Federico,,,,,ITA
 2226763,IW1BR,Alberto,,,,,ITA
 2226764,IU2DIZ,Roberto,,,,,ITA
 2226765,IU3LKO,Gabriele,,,,,ITA
@@ -6758,7 +6758,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2226801,IU3MOO,no_name,,,,,ITA
 2226802,IZ4AKO,Pierluigi,,,,,ITA
 2226803,IU2OHY,Fabrizio,,,,,ITA
-2226804,IZ4EOX,Federico,,,,,ITA
 2226805,IT9INU,Carmelo,,,,,ITA
 2226806,IT9HGU,Mario,,,,,ITA
 2226807,IT9IMM,Giuseppe,,,,,ITA
@@ -11453,6 +11452,28 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2231516,IT9KGN,Daniele,,,,,ITA
 2231517,IK1NLZ,Paolo,,,,,ITA
 2231518,IT9JOS,Sebastiano,,,,,ITA
+2231519,IZ4RDV,Stefano,,,,,ITA
+2231520,IN3TTL,Luigi,,,,,ITA
+2231521,IU5TPM,Franco,,,,,ITA
+2231522,IZ0MCD,Paolo,,,,,ITA
+2231523,IU0TFW,Daniele,,,,,ITA
+2231524,IU7TUV,Davide,,,,,ITA
+2231525,IU7TVA,Antonio,,,,,ITA
+2231526,IU5CYB,Massimiliano,,,,,ITA
+2231527,IU4TPJ,Francesco,,,,,ITA
+2231528,IK7XLW,Salvatore,,,,,ITA
+2231530,IV3DMO,Andrea,,,,,ITA
+2231531,IU8TRB,Francesco,,,,,ITA
+2231532,IU6TOV,Andrea,,,,,ITA
+2231533,IU5TPZ,Michele,,,,,ITA
+2231534,IC8KOG,Giuseppe,,,,,ITA
+2231535,IU8TIK,Anna Mirella,,,,,ITA
+2231536,IZ3ZYR,Davide,,,,,ITA
+2231537,IU2SMA,Sergio,,,,,ITA
+2231538,IT9KLX,Mattia,,,,,ITA
+2231539,IU7TYM,Antonio,,,,,ITA
+2231540,IK7UFX,Vito,,,,,ITA
+2231541,IZ0XVW,Giuseppe,,,,,ITA
 2242222,IT9JFW,Lorenzo,,,,,ITA
 2280001,4U1ITU,International,,,,,CHE
 2280002,HB3XWO,Kornel,,,,,CHE
@@ -11836,6 +11857,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280380,HB9SSW,Florian,,,,,CHE
 2280381,HB9IJP,Marcel,,,,,CHE
 2280382,HB9RN,Radio,,,,,CHE
+2280384,HB9ING,Tristan,,,,,CHE
+2280385,HB3YLA,Christiaan,,,,,CHE
 2281001,HB3YNV,Cedric,,,,,CHE
 2281002,HB3YNV,Cedric,,,,,CHE
 2281003,HB3YNV,Cedric,,,,,CHE
@@ -12759,7 +12782,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286095,HB9EIX,Bruno,,,,,CHE
 2286096,HB9EFK,Nick,,,,,CHE
 2286097,HB9WAD,Konrad,,,,,CHE
-2286098,HB9EIH,Franco,,,,,CHE
+2286098,HB9EIH,,,,,,CHE
 2286099,HB9JBL,Reto,,,,,CHE
 2286100,HB9FKK,Andrea,,,,,CHE
 2286101,HB9FWL,Robert,,,,,CHE
@@ -13518,3 +13541,4 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2920027,T77PM,Marco,,,,,SMR
 2920028,T77CB,Aldo Benvenuto,,,,,SMR
 2920029,T72P,Pier Paolo,,,,,SMR
+2920030,T77R,Roberto,,,,,SMR
