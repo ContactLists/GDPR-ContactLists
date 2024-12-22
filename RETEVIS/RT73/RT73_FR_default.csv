@@ -2060,7 +2060,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080103,F1GVY,Jean-Claude,,,FRA
 2080104,F1TIT,Bernard,,,FRA
 2080105,F4BNZ,Pierre,,,FRA
-2080106,F1SCA,Jean-Marc,,,FRA
+2080106,F1SCA,Jean Marc,,,FRA
 2080107,F6KBK,Radio-Club,,,FRA
 2080108,F5RSU,Christophe,,,FRA
 2080109,F5MZW,Olivier,,,FRA
@@ -2110,7 +2110,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080153,F5PZP,Yvon,,,FRA
 2080154,F1FVW,Jean-Paul,,,FRA
 2080155,F4TNC,Patrice,,,FRA
-2080156,F1SCA,Jean-Marc,,,FRA
+2080156,F1SCA,Jean Marc,,,FRA
 2080157,F4EMV,Fabien,,,FRA
 2080158,F5CAR,Jocelyn,,,FRA
 2080159,F4HCT,Jean,,,FRA
@@ -2144,7 +2144,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080187,F6BVD,Daniel,,,FRA
 2080188,F6HDV,Patrick,,,FRA
 2080189,F5BQP,Pierre-Franois,,,FRA
-2080190,F4AYE,Jean,,,FRA
+2080190,F4AYE,Jean Claude,,,FRA
 2080192,F6DWO,Jean-Michel,,,FRA
 2080193,F4AHN,Laurent,,,FRA
 2080194,F1OGV,Frederic,,,FRA
@@ -2205,7 +2205,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080249,F4BOH,Marc,,,FRA
 2080250,F4HGF,Laurent,,,FRA
 2080251,F5BLR,Jean,,,FRA
-2080252,F5OQO,Jean-Michel,,,FRA
+2080252,F5OQO,Jean Michel,,,FRA
 2080253,F8RME,Jean Yves,,,FRA
 2080254,F8VOO,Anatol,,,FRA
 2080255,F4GOR,Dominique,,,FRA
@@ -2268,7 +2268,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080312,F1SVS,Hervewilliam,,,FRA
 2080313,F4HGN,Fabrice,,,FRA
 2080314,F1JWJ,Joelhenri,,,FRA
-2080315,F4WCP,Yves,,,FRA
+2080315,F4WCP,Yves Marcel,,,FRA
 2080316,F5TAO,Olivier,,,FRA
 2080317,F6DGC,Jeanfrancois,,,FRA
 2080318,F4CJA,Malek,,,FRA
@@ -2284,7 +2284,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080328,F4IGB,Michel,,,FRA
 2080329,F1TFV,Jeanphilippe,,,FRA
 2080330,F4HYQ,David,,,FRA
-2080331,F4IDM,no_name,,,FRA
+2080331,F4IDM,Claudio,,,FRA
 2080332,F1FTE,Chantal,,,FRA
 2080333,F8NDM,Philippe,,,FRA
 2080334,F1EBA,Accart,,,FRA
@@ -2342,7 +2342,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080386,F4EOS,Andre,,,FRA
 2080387,F5JQF,Yves,,,FRA
 2080388,F1TVH,no_name,,,FRA
-2080389,F4IGU,no_name,,,FRA
+2080389,F4IGU,Jacques,,,FRA
 2080390,F6DXE,Didier,,,FRA
 2080391,F4WAT,Johan,,,FRA
 2080392,F5LMI,Pierre,,,FRA
@@ -2373,7 +2373,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080417,F1IUS,Didier,,,FRA
 2080418,F4IMI,no_name,,,FRA
 2080419,F0GFM,no_name,,,FRA
-2080420,F1AGU,Charles-Henri,,,FRA
+2080420,F1AGU,Charles Henri,,,FRA
 2080421,F5NLG,no_name,,,FRA
 2080422,F4IJH,no_name,,,FRA
 2080423,F5VLO,no_name,,,FRA
@@ -2399,7 +2399,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080443,F5TTB,Liste,,,FRA
 2080444,F0GAG,Herve,,,FRA
 2080445,F5IOR,Gilbert,,,FRA
-2080446,F1SVR,no_name,,,FRA
+2080446,F1SVR,Claude,,,FRA
 2080447,F5OLC,Yves,,,FRA
 2080448,F6FNF,Guy,,,FRA
 2080449,F5LRG,Bruno,,,FRA
@@ -2502,7 +2502,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080546,F1TGU,Muriel,,,FRA
 2080547,F5HRX,Xavier,,,FRA
 2080548,F6HJL,Jljerome,,,FRA
-2080549,F1HQD,no_name,,,FRA
+2080549,F1HQD,Bernard,,,FRA
 2080550,F6IOD,no_name,,,FRA
 2080551,F4IRF,no_name,,,FRA
 2080552,F6FSI,Didier,,,FRA
@@ -2525,9 +2525,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080569,F5SPJ,Alain,,,FRA
 2080570,F4FXV,Alain,,,FRA
 2080571,TK4TO,Chris,,,FRA
-2080572,F4IRO,Qsantos,,,FRA
+2080572,F4IRO,Quentin,,,FRA
 2080573,F1CHF,Francois,,,FRA
-2080574,F0DWJ,Tripoul,,,FRA
+2080574,F0DWJ,Jean Michel,,,FRA
 2080575,F5NZN,Jacques,,,FRA
 2080576,TK4TN,Patrick,,,FRA
 2080577,F4IFK,Claude,,,FRA
@@ -2575,7 +2575,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080619,F5JBM,Denis,,,FRA
 2080620,F1RUM,Jean-Pierre,,,FRA
 2080621,F5AMX,Michael,,,FRA
-2080622,F4VUH,Siegfried,,,FRA
+2080622,F4VUH,Siegfried Loeffler,,,FRA
 2080623,F1EZQ,Michel,,,FRA
 2080624,F4HOL,Luigi,,,FRA
 2080625,F4ISA,Loic,,,FRA
@@ -2591,7 +2591,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080635,F0FBX,Vincent,,,FRA
 2080636,F4FAP,Eric,,,FRA
 2080637,F5ELY,Gerard,,,FRA
-2080638,F4CQS,Protat,,,FRA
+2080638,F4CQS,Philippe,,,FRA
 2080639,F5PEM,Jean,,,FRA
 2080640,F5TJK,Guy,,,FRA
 2080641,F1HUS,Jean-Jacques,,,FRA
@@ -2607,7 +2607,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080651,F4ITS,Pierre,,,FRA
 2080652,F4KMC,Emcomm-01,,,FRA
 2080653,F1BLH,Christian,,,FRA
-2080654,F4GUE,Berit,,,FRA
+2080654,F4GUE,Berit Debat,,,FRA
 2080655,F6BCD,Logel,,,FRA
 2080656,F1AMM,Francois,,,FRA
 2080657,F4KKH,Beta,,,FRA
@@ -2729,7 +2729,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080773,F4IXM,Pascal,,,FRA
 2080774,F4IZO,Guy,,,FRA
 2080775,F5NFB,Joel,,,FRA
-2080776,F4TME,Jean,,,FRA
+2080776,F4TME,Jean Paul,,,FRA
 2080777,F4IYU,Christophe,,,FRA
 2080778,F4JAJ,Remy,,,FRA
 2080779,F4JAI,Fabienne,,,FRA
@@ -2741,12 +2741,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080785,F1JBB,Eric,,,FRA
 2080786,F1GAL,Jerome,,,FRA
 2080787,F8CND,Philippe,,,FRA
-2080788,F4IXH,Jean,,,FRA
+2080788,F4IXH,Jean Louis,,,FRA
 2080789,F4FYF,Jean,,,FRA
 2080790,F1HUD,Gilles,,,FRA
 2080791,F4JAD,Quentin,,,FRA
 2080792,F5JEC,Guilland,,,FRA
-2080793,F4IWN,Jean,,,FRA
+2080793,F4IWN,Jean Denis,,,FRA
 2080794,F5VAT,Nicholas,,,FRA
 2080795,F4HHC,Bernard,,,FRA
 2080796,F4JAB,Stephane,,,FRA
@@ -2755,14 +2755,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080799,F4JAP,Antoine,,,FRA
 2080800,F4JAL,Alain,,,FRA
 2080801,F4FIP,Hubert,,,FRA
-2080802,F1PGQ,Jean-Marie,,,FRA
+2080802,F1PGQ,Jean Marie,,,FRA
 2080803,F4LVM,Jean-Luc,,,FRA
 2080804,F5HRT,Corbe,,,FRA
 2080805,F5XY,Roger,,,FRA
-2080806,F1ISW,Saint,,,FRA
+2080806,F1ISW,Saint Andre,,,FRA
 2080807,F4JBH,Deville,,,FRA
 2080808,F9RF,Francois,,,FRA
-2080809,F1BPP,Jean,,,FRA
+2080809,F1BPP,Jean Louis,,,FRA
 2080810,F4JBM,Francois,,,FRA
 2080811,F4JBQ,Didier,,,FRA
 2080812,F4JBS,Charlie,,,FRA
@@ -2784,7 +2784,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080828,F4DIA,Andre,,,FRA
 2080829,F4BHI,Regis,,,FRA
 2080830,F4IWI,Guillaume,,,FRA
-2080831,F4JCG,Isnard,,,FRA
+2080831,F4JCG,Baptiste,,,FRA
 2080832,F4HZY,Jean,,,FRA
 2080833,F4JCK,Nicolas,,,FRA
 2080834,F4JCC,Maxence,,,FRA
@@ -2798,13 +2798,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080842,F4HOZ,Koechlin,,,FRA
 2080843,F4IDU,Francois,,,FRA
 2080844,F4VSW,Andrew,,,FRA
-2080845,F4JCF,Jean,,,FRA
+2080845,F4JCF,Jean Marie,,,FRA
 2080846,F4FKT,David,,,FRA
 2080847,F5LGB,Pascal,,,FRA
 2080848,F5TIB,Olivier,,,FRA
 2080849,F4AKH,Joel,,,FRA
 2080850,F4JCR,Thierry,,,FRA
-2080851,F6KOU,Radio,,,FRA
+2080851,F6KOU,Radio Club,,,FRA
 2080852,F4KLR,Radio,,,FRA
 2080853,F4JAK,Carlos,,,FRA
 2080854,F6CZD,Maurice,,,FRA
@@ -2837,7 +2837,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080881,F0DDB,Philippe,,,FRA
 2080882,F5OQF,Alglave,,,FRA
 2080883,F4JBV,Raymond,,,FRA
-2080884,F5LOL,Jean,,,FRA
+2080884,F5LOL,Jean Pierre,,,FRA
 2080885,F1HBH,Philippe,,,FRA
 2080886,F4KMN,Radio,,,FRA
 2080887,F6JSP,Patrice,,,FRA
@@ -2858,7 +2858,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080902,F1UOD,Philippe,,,FRA
 2080903,F5MAF,Marc,,,FRA
 2080904,F4JBT,Rene,,,FRA
-2080905,F6KGL,Radio,,,FRA
+2080905,F6KGL,Radio Club,,,FRA
 2080906,F4ILK,Bruno,,,FRA
 2080907,F4JGB,Benjamin,,,FRA
 2080908,F4GYK,Jose,,,FRA
@@ -2925,18 +2925,18 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080969,F4ILJ,Jona,,,FRA
 2080970,F4JGG,Jean,,,FRA
 2080971,F4JFO,Yannick,,,FRA
-2080972,F4KMK,Radio,,,FRA
+2080972,F4KMK,Radio Club,,,FRA
 2080973,F4JGV,Yves,,,FRA
 2080974,F4JBB,Hugues,,,FRA
 2080975,F4GRR,Mario,,,FRA
-2080976,F5NED,Pierre,,,FRA
+2080976,F5NED,Pierre Louis,,,FRA
 2080977,F4JJW,Frank,,,FRA
 2080978,F4JCJ,Robert,,,FRA
 2080979,F4WDL,Frederic,,,FRA
 2080980,F4JKE,Jean,,,FRA
 2080981,F4JKL,Joel,,,FRA
 2080982,F4JBR,Yvan,,,FRA
-2080984,F4KNF,Radio,,,FRA
+2080984,F4KNF,Radio Club,,,FRA
 2080985,F4JJX,Pascal,,,FRA
 2080986,F1IZR,Gerard,,,FRA
 2080987,F4HCG,Nicolas,,,FRA
@@ -3000,7 +3000,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081046,F1SVV,Denis,,,FRA
 2081047,F5APG,Alain,,,FRA
 2081048,F4AQG,Christophe,,,FRA
-2081049,F5OZK,Frederick,,,FRA
+2081049,F5OZK,Fred,,,FRA
 2081050,F5RSV,Benoit,,,FRA
 2081051,F5ADL,Bruno,,,FRA
 2081052,F8HJV,Christian,,,FRA
@@ -3034,7 +3034,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081081,F5HTS,Bernard,,,FRA
 2081082,F6EXE,Jacques,,,FRA
 2081083,F6GLS,Herve,,,FRA
-2081084,F4HJX,Frederic,,,FRA
+2081084,F4HJX,Fredo,,,FRA
 2081085,F1UNA,Yvan,,,FRA
 2081086,F1BSL,Emmanuel,,,FRA
 2081087,F1YW,Michel,,,FRA
@@ -3044,7 +3044,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081091,F1EYA,Grard,,,FRA
 2081092,F4SIG,Bruno,,,FRA
 2081093,F1YI,Jean,,,FRA
-2081094,F5SIJ,Bernard,,,FRA
+2081094,F5SIJ,Ber,,,FRA
 2081095,F5GIT,Tony,,,FRA
 2081096,F4CRT,Michel,,,FRA
 2081097,F6AST,Fernand,,,FRA
@@ -3053,7 +3053,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081100,F4GVH,Patrice,,,FRA
 2081101,F8HYN,Marek,,,FRA
 2081102,F5LZN,Yves,,,FRA
-2081103,F1BRO,Daniel,,,FRA
+2081103,F1BRO,Dan,,,FRA
 2081104,F1RMR,Didier,,,FRA
 2081105,F2TI,Jean-Claude,,,FRA
 2081106,F5UPZ,Richard,,,FRA
@@ -3065,9 +3065,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081112,F4TJR,Michel,,,FRA
 2081113,F5SNO,Robert,,,FRA
 2081114,F5CAU,Gilbert,,,FRA
-2081115,F5LNP,Christian,,,FRA
+2081115,F5LNP,,,,FRA
 2081116,F4HKE,Castellanos,,,FRA
-2081117,F4HXN,Jean-Paul,,,FRA
+2081117,F4HXN,Polo,,,FRA
 2081118,F4COH,Pierre-Jean,,,FRA
 2081119,F4TJR,Michel,,,FRA
 2081120,F6EXF,Jacques,,,FRA
@@ -3098,7 +3098,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081145,F4SMX,Patrick,,,FRA
 2081146,F4OKC,Herve,,,FRA
 2081147,F6CFZ,Jean,,,FRA
-2081148,F5IHD,Edgardo,,,FRA
+2081148,F5IHD,Edgar,,,FRA
 2081149,F1HLX,Jean-Claude,,,FRA
 2081150,F1MHL,Serge,,,FRA
 2081151,F4AVW,Gerald,,,FRA
@@ -3117,7 +3117,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081164,F8TRT,Pascal,,,FRA
 2081165,F1IIM,Marc,,,FRA
 2081166,F1FII,Joel,,,FRA
-2081167,F4PCM,Masse,,,FRA
+2081167,F4PCM,Thierry,,,FRA
 2081168,F1FEI,Bernard,,,FRA
 2081169,F6KLN,Rc,,,FRA
 2081170,F1EMA,Jean-Paul,,,FRA
@@ -3144,7 +3144,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081191,F8AGD,Daniel,,,FRA
 2081192,F8FUR,Eric,,,FRA
 2081193,F8DSI,Romain,,,FRA
-2081194,F1BEH,Jean,,,FRA
+2081194,F1BEH,Jean Paul,,,FRA
 2081195,F6CEH,Michel,,,FRA
 2081196,F4THH,Jeanmarc,,,FRA
 2081197,F1HQM,Phil,,,FRA
@@ -3160,7 +3160,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081207,F6DMQ,no_name,,,FRA
 2081208,F4JLF,Jean,,,FRA
 2081209,F4FHV,Christophe,,,FRA
-2081210,F1AIZ,Jean,,,FRA
+2081210,F1AIZ,Jean Charles,,,FRA
 2081211,F4KNH,Radio,,,FRA
 2081212,F8PEC,Frederic,,,FRA
 2081213,F5JVT,Henryk,,,FRA
@@ -3170,7 +3170,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081217,F4EKH,Ludwig,,,FRA
 2081218,F4JJY,Alexandre,,,FRA
 2081219,F4JOE,Florian,,,FRA
-2081220,F6BCA,Jean,,,FRA
+2081220,F6BCA,Jean Jacques,,,FRA
 2081221,F4JMU,Serge,,,FRA
 2081222,F4FBS,Frederic,,,FRA
 2081223,F4JCZ,Christian,,,FRA
@@ -3183,7 +3183,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081230,F1LZT,Patrick,,,FRA
 2081231,F4JOV,Gabin,,,FRA
 2081232,F8VOM,Peter,,,FRA
-2081233,F4JGF,Se Bastien,,,FRA
+2081233,F4JGF,,,,FRA
 2081234,F4SGU,Jean,,,FRA
 2081235,F1RXM,Jean Pierre,,,FRA
 2081236,F6EJJ,Christian,,,FRA
@@ -3219,7 +3219,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081267,F6FMN,Jean,,,FRA
 2081268,F5MMP,Christian,,,FRA
 2081269,F5VDM,Garry,,,FRA
-2081270,F0DLW,Jean-Bernard,,,FRA
+2081270,F0DLW,Jean Bernard,,,FRA
 2081271,F4ELZ,Laurent,,,FRA
 2081272,F4JQV,Marc,,,FRA
 2081273,F0DXC,no_name,,,FRA
@@ -3295,7 +3295,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081344,F8FQX,Nicolas,,,FRA
 2081345,F4IPY,Joachim,,,FRA
 2081346,F4JSU,Remi,,,FRA
-2081347,F4JCS,Dobel,,,FRA
+2081347,F4JCS,,,,FRA
 2081348,F4HWG,Florin,,,FRA
 2081349,F6DAV,Christian,,,FRA
 2081350,F4JDC,Jose,,,FRA
@@ -3306,29 +3306,29 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081355,F4JWR,Bernard,,,FRA
 2081356,F4JNW,Olivier,,,FRA
 2081357,F1GFF,Amand,,,FRA
-2081358,F4GSL,Rojot,,,FRA
+2081358,F4GSL,Daniel,,,FRA
 2081359,F4JNT,Rodriguez,,,FRA
 2081360,F5BWU,Patrick,,,FRA
 2081361,F4IBS,Glaizot,,,FRA
-2081362,F4IVI,Reytinat Hardouin,,,FRA
-2081363,F6IVE,Cayon,,,FRA
+2081362,F4IVI,Jerome,,,FRA
+2081363,F6IVE,Gilles,,,FRA
 2081364,F5IVK,De Biagi,,,FRA
-2081365,F4VVZ,Heintzelmann,,,FRA
-2081366,F5DQP,Brondino,,,FRA
+2081365,F4VVZ,Carsten,,,FRA
+2081366,F5DQP,Patrick,,,FRA
 2081367,F4JWW,Dutheil,,,FRA
 2081368,F4JWQ,None,,,FRA
 2081369,F4JWV,Cappe,,,FRA
 2081370,F4JWS,Manu,,,FRA
-2081371,F4JTV,Collin,,,FRA
+2081371,F4JTV,Yoann,,,FRA
 2081372,F4JMF,Didier,,,FRA
 2081373,F4CQH,Ville,,,FRA
 2081374,F4DPO,Arnaud,,,FRA
-2081375,F4JSB,Chardayre,,,FRA
+2081375,F4JSB,Alex,,,FRA
 2081376,F4FDP,Jean Luc,,,FRA
 2081377,F4JYY,Arnaud,,,FRA
 2081378,F4JWI,Pierre,,,FRA
 2081379,F5MBF,Christian,,,FRA
-2081380,F4KNP,Rc Crapma,,,FRA
+2081380,F4KNP,,,,FRA
 2081381,F4JZC,Nicolas,,,FRA
 2081382,F4JMI,Mansuy,,,FRA
 2081383,F4JUA,Cabane,,,FRA
@@ -3391,7 +3391,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081440,F4LBC,Vincent,,,FRA
 2081441,F5MXN,Christian,,,FRA
 2081442,F5VO,Jean Louis,,,FRA
-2081443,F1PSZ,Philippe Ph,,,FRA
+2081443,F1PSZ,Philippe,,,FRA
 2081444,F0GSF,Benjamin,,,FRA
 2081445,F5VJN,Umberto,,,FRA
 2081446,F4IKI,Stephane,,,FRA
@@ -3410,7 +3410,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081459,F4LBE,Bruno,,,FRA
 2081460,F8IFT,Towlson,,,FRA
 2081461,F4LEJ,Cedric,,,FRA
-2081462,F4DWC,Paudrat,,,FRA
+2081462,F4DWC,,,,FRA
 2081463,F4HEA,Jean Christophe,,,FRA
 2081464,F4LFB,Stephen,,,FRA
 2081465,F4LEO,Eric,,,FRA
@@ -3446,7 +3446,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081495,F6EWW,Philippe,,,FRA
 2081496,F6FEG,Jean Michel,,,FRA
 2081497,F4IPV,Pascal,,,FRA
-2081498,F4ANS,Barrau,,,FRA
+2081498,F4ANS,,,,FRA
 2081499,F4JDS,Remy,,,FRA
 2081500,F4LIE,Olivier,,,FRA
 2081501,F1PLI,Damien,,,FRA
@@ -3481,7 +3481,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081530,F4LJC,Jean Claude Richard,,,FRA
 2081531,F4JHX,Claude,,,FRA
 2081532,F4LJG,Jean Claude,,,FRA
-2081533,F4LLF,Negri,,,FRA
+2081533,F4LLF,,,,FRA
 2081534,F0DWP,Erik,,,FRA
 2081535,F4JYW,Eric,,,FRA
 2081536,F4JOJ,Patrick,,,FRA
@@ -3493,7 +3493,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081542,F4DHL,Philippe,,,FRA
 2081543,F6IAP,Claude,,,FRA
 2081544,F4LLJ,Philippe,,,FRA
-2081545,F4LLK,Jean Luc,,,FRA
+2081545,F4LLK,Jean,,,FRA
 2081546,F4WDK,John,,,FRA
 2081547,F4IQP,Philippe,,,FRA
 2081548,F1FDA,Jean Yves,,,FRA
@@ -3510,7 +3510,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081559,F1ITT,Francois,,,FRA
 2081560,F4LML,David,,,FRA
 2081561,F4LMI,Christian,,,FRA
-2081562,F6AMS,Serbetot,,,FRA
+2081562,F6AMS,,,,FRA
 2081563,F6IDP,Oleg,,,FRA
 2081564,F4LAA,Christian,,,FRA
 2081565,F6JAM,Jacques,,,FRA
@@ -3526,7 +3526,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081575,F6KUF,Radio Club Vendeen,,,FRA
 2081576,F1NSK,Eric,,,FRA
 2081577,F1BLZ,Jean Paul,,,FRA
-2081578,F4LNW,Rodriguez,,,FRA
+2081578,F4LNW,,,,FRA
 2081579,F4JYA,Arnaud,,,FRA
 2081580,F6FGD,Michel,,,FRA
 2081581,F1FPC,Jean Pierre,,,FRA
@@ -3536,13 +3536,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081585,F4LCE,Pierre,,,FRA
 2081586,F4FRE,David,,,FRA
 2081587,F4VSE,Francisco,,,FRA
-2081588,F5BNH,Costa,,,FRA
+2081588,F5BNH,Andre,,,FRA
 2081589,F5JDC,Jean,,,FRA
 2081590,F4AMY,Frederic,,,FRA
 2081591,F4JBF,Christophe,,,FRA
 2081592,F1BIJ,Jean Marie,,,FRA
 2081593,F4JRK,Michel,,,FRA
-2081594,F4IFM,Gerald-Gege,,,FRA
+2081594,F4IFM,,,,FRA
 2081595,F4JYC,Renard,,,FRA
 2081596,F5BJV,Marcel,,,FRA
 2081597,F1RIF,Raymond,,,FRA
@@ -3602,6 +3602,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081651,F4CTG,Gilles,,,FRA
 2081652,F5TND,Jean,,,FRA
 2081653,F8TGE,Michel,,,FRA
+2081654,F4AXK,Laurent,,,FRA
 2081777,F4JBM,Francois,,,FRA
 2081778,F1UFW,Saletzki,,,FRA
 2081779,F4JJQ,Pierre,,,FRA
@@ -3653,7 +3654,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081826,F8NQV,Pascal,,,FRA
 2082001,F4FUL,Cyril,,,FRA
 2082002,F5VIN,Heiko,,,FRA
-2082003,F1AGU,Charles-Henri,,,FRA
+2082003,F1AGU,Charles Henri,,,FRA
 2082004,F4CZX,Damien,,,FRA
 2082005,F1GFB,Richard,,,FRA
 2082006,F5VIH,Nick,,,FRA
@@ -3673,7 +3674,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2082020,F4DLF,Philippe,,,FRA
 2082021,F5ANP,Guy,,,FRA
 2082022,F5LIK,Pascal,,,FRA
-2082023,F1JMN,Pierre-Paul,,,FRA
+2082023,F1JMN,Pierre Paul,,,FRA
 2082024,F1ORJ,Jean-Christophe,,,FRA
 2082025,F4EGZ,Cedric,,,FRA
 2082026,F8CIL,Pascal,,,FRA
@@ -3681,7 +3682,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2082028,F5IDF,Laurent,,,FRA
 2082029,F5PBQ,Xavier,,,FRA
 2082030,F4HOF,Geoffroy,,,FRA
-2082031,F4ASS,Sbastien,,,FRA
+2082031,F4ASS,Sebastien,,,FRA
 2082032,F1ABQ,Jean-Marc,,,FRA
 2082033,F1NUJ,Gerard,,,FRA
 2082034,F4GDF,Serge,,,FRA
@@ -3752,7 +3753,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2082099,F5RVG,Pierre,,,FRA
 2082100,F4BGE,Joseph,,,FRA
 2082101,F8BSI,Thierry,,,FRA
-2082102,F4FVV,Pierre,,,FRA
+2082102,F4FVV,,,,FRA
 2082103,F4HPA,Philippe,,,FRA
 2082104,F8ALS,Pierre,,,FRA
 2082105,F6HMK,Patrick,,,FRA
@@ -3774,7 +3775,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2082121,F4GIX,Didier,,,FRA
 2082122,F6FOA,Jean,,,FRA
 2082123,F4HIN,Gary,,,FRA
-2082124,F4DNF,Eric,,,FRA
+2082124,F4DNF,,,,FRA
 2082125,F5LER,Dominique,,,FRA
 2082126,F5PGR,Philippe,,,FRA
 2082127,F4GVA,Christian,,,FRA
@@ -3821,7 +3822,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2082168,F4DVG,Alain,,,FRA
 2082169,F1SMF,Patrick,,,FRA
 2082170,F5RRT,Pierre,,,FRA
-2082171,F4BND,Bernard,,,FRA
+2082171,F4BND,Nanard,,,FRA
 2082172,F5PUY,Yves,,,FRA
 2082173,F1CXG,Thierry,,,FRA
 2082174,F4GSP,Eric,,,FRA
@@ -3847,9 +3848,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2082194,F8ALU,Guy,,,FRA
 2082195,F4HDG,Vincent,,,FRA
 2082196,F1TDO,Jean-Luc,,,FRA
-2082197,F4IDD,Jacques-Laurent,,,FRA
+2082197,F4IDD,Jacques Laurent,,,FRA
 2082198,F4KKW,Rc,,,FRA
-2082199,F4GUN,Jean-Marc,,,FRA
+2082199,F4GUN,Jean Marc,,,FRA
 2082200,F6AZZ,Patrick,,,FRA
 2082201,F1FQN,Patrick,,,FRA
 2082202,F5RVV,Lilian,,,FRA
@@ -3891,7 +3892,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2082238,F4IJC,Fredericbourset,,,FRA
 2082239,F5JCE,Jean,,,FRA
 2082240,F8CJB,Djamal,,,FRA
-2082241,F5PQL,Raymond,,,FRA
+2082241,F5PQL,Jean,,,FRA
 2082242,F4IEN,Joss,,,FRA
 2082243,F3PI,Michel,,,FRA
 2082244,F4IHD,Fred,,,FRA
@@ -4272,7 +4273,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2086021,F5GXX,Francois,,,FRA
 2086022,F4BSN,Cedric,,,FRA
 2086023,F4CVH,Daniel,,,FRA
-2086024,F6IFG,Jean-Bertrand,,,FRA
+2086024,F6IFG,Jean Bertrand,,,FRA
 2086025,F5NQK,Claude,,,FRA
 2086026,F4KJT,Bernard,,,FRA
 2086027,F1SJX,Herve,,,FRA
@@ -4836,7 +4837,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2089252,F5BZU,Patrick,,,FRA
 2089253,F1FSU,Michel,,,FRA
 2089254,F6BGR,Christian,,,FRA
-2089255,F5GUH,Liste,,,FRA
+2089255,F5GUH,Joel,,,FRA
 2089256,F4FCE,Pierre-Marie,,,FRA
 2089257,F4DBC,Demade,,,FRA
 2089258,F4ETA,Gerard,,,FRA
@@ -4894,7 +4895,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2089310,F4UAN,Jerome,,,FRA
 2089311,F6DKO,Didier,,,FRA
 2089312,F5RQP,Bruno,,,FRA
-2089313,F5GUH,Jo,,,FRA
+2089313,F5GUH,Joel,,,FRA
 2089314,F4FVI,Geoffrey,,,FRA
 2089315,F4HCP,Denis,,,FRA
 2089316,F4HZC,Sullivan,,,FRA
@@ -4957,7 +4958,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2089373,F4HYA,Bruno,,,FRA
 2089374,F1IEX,Jean-Pierre,,,FRA
 2089375,F1NQP,Jean-Jacques,,,FRA
-2089376,F4BUV,Christophe,,,FRA
+2089376,F4BUV,Tof,,,FRA
 2089377,F1OXM,Jean,,,FRA
 2089378,F4DNK,Stephane,,,FRA
 2089379,F4HJK,Philippe,,,FRA
@@ -5496,6 +5497,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280382,HB9RN,Radio,,,CHE
 2280384,HB9ING,Tristan,,,CHE
 2280385,HB3YLA,Christiaan,,,CHE
+2280386,HB9FWB,Arti,,,CHE
+2280387,HB9IKK,Lennart,,,CHE
+2280388,HB9XNC,Patrick,,,CHE
 2281001,HB3YNV,Cedric,,,CHE
 2281002,HB3YNV,Cedric,,,CHE
 2281003,HB3YNV,Cedric,,,CHE
@@ -12859,6 +12863,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3025866,VE3YCL,Clayton Robert Gerald,,,CAN
 3025867,VA4JOE,Joeseph,,,CAN
 3025868,VE3AQE,Michel,,,CAN
+3025869,VE6FDL,Jackson,,,CAN
+3025870,VE7JYC,Stephen,,,CAN
+3025871,VE7EXW,Donald,,,CAN
+3025872,VA2BVC,Benoit,,,CAN
+3025873,VA7GHL,,,,CAN
 3025912,VE3XBI,Robert,,,CAN
 3025913,VA2BBW,Ante,,,CAN
 3025914,VA7HCW,Daniel,,,CAN
