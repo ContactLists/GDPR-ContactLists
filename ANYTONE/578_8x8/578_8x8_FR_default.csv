@@ -105,7 +105,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1023154,VE3WCZ,Charles,,, - CAN,,Private Call,None
 ,1023156,VE3IPC,Michael,,, - CAN,,Private Call,None
 ,1023160,VE3YN,S.,,, - CAN,,Private Call,None
-,1023161,VA3XY,Scott,,, - CAN,,Private Call,None
 ,1023163,VA3BGW,Brad,,, - CAN,,Private Call,None
 ,1023164,VE3NV,Harrison,,, - CAN,,Private Call,None
 ,1023167,VA3JNT,Jose,,, - CAN,,Private Call,None
@@ -896,6 +895,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060762,ON3LBA,Luc,,, - BEL,,Private Call,None
 ,2060763,ON8FAB,Fabrice,,, - BEL,,Private Call,None
 ,2060764,ON3WY,Jerome,,, - BEL,,Private Call,None
+,2060765,ON7AQC,Casimir Louis,,, - BEL,,Private Call,None
+,2060766,ON5LBV,Van Lysebetten,,, - BEL,,Private Call,None
+,2060767,ON6QV,Michel,,, - BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,, - BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,, - BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,, - BEL,,Private Call,None
@@ -3704,6 +3706,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081845,F4VWS,Robert,,, - FRA,,Private Call,None
 ,2081846,TK4US,Gilles,,, - FRA,,Private Call,None
 ,2081847,F1DXG,Didier,,, - FRA,,Private Call,None
+,2081848,F4GGY,Bruno,,, - FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,, - FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,, - FRA,,Private Call,None
 ,2082003,F1AGU,Charles Henri,,, - FRA,,Private Call,None
@@ -5577,6 +5580,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280411,HB9INV,Daniel,,, - CHE,,Private Call,None
 ,2280412,HB9IJU,Daniel,,, - CHE,,Private Call,None
 ,2280413,HB3YJX,Peter,,, - CHE,,Private Call,None
+,2280414,HB9RGG,Andreas,,, - CHE,,Private Call,None
+,2280415,HB3YGW,Miguel,,, - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,, - CHE,,Private Call,None
@@ -9453,7 +9458,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3022346,VE2IV,Pierre,,, - CAN,,Private Call,None
 ,3022347,VE2TSM,Mario,,, - CAN,,Private Call,None
 ,3022348,VE2IMS,Rejean,,, - CAN,,Private Call,None
-,3022349,VE2FSK,Jean-Guy,,, - CAN,,Private Call,None
 ,3022350,VA2PWR,Roger,,, - CAN,,Private Call,None
 ,3022351,VE2DVJ,Pierre,,, - CAN,,Private Call,None
 ,3022352,VE2ZS,Andre,,, - CAN,,Private Call,None
@@ -10984,7 +10988,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3023905,VE3IJX,Allan,,, - CAN,,Private Call,None
 ,3023906,VE3BXP,Bill,,, - CAN,,Private Call,None
 ,3023907,VE2CMM,Claude,,, - CAN,,Private Call,None
-,3023908,VA3BMY,Albert,,, - CAN,,Private Call,None
+,3023908,VA3BMY,Albert Charles,,, - CAN,,Private Call,None
 ,3023909,VE3MZI,Alex,,, - CAN,,Private Call,None
 ,3023910,VE3OHF,Stephen,,, - CAN,,Private Call,None
 ,3023912,VE3KTB,Pierre,,, - CAN,,Private Call,None
@@ -13328,12 +13332,20 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026258,VE6TNO,Chris,,, - CAN,,Private Call,None
 ,3026259,VA7JCO,Jorge Conrad,,, - CAN,,Private Call,None
 ,3026260,VE7WOA,Mykhailo,,, - CAN,,Private Call,None
+,3026261,VE6XAD,Chad,,, - CAN,,Private Call,None
+,3026262,VE3PIZ,Darrell,,, - CAN,,Private Call,None
+,3026263,VA2PDC,Daniel,,, - CAN,,Private Call,None
+,3026264,VA3XY,Scott,,, - CAN,,Private Call,None
+,3026265,VE3FLJ,Joshua,,, - CAN,,Private Call,None
 ,3026912,VA7RGM,Robert,,, - CAN,,Private Call,None
 ,3026913,VA6LTV,Larry,,, - CAN,,Private Call,None
 ,3026914,VE3ZWX,James Bradley,,, - CAN,,Private Call,None
 ,3026915,VE1ARM,Adrian,,, - CAN,,Private Call,None
 ,3026916,VE3XJW,Jeffery,,, - CAN,,Private Call,None
 ,3026917,VE5VOS,Krzysztof,,, - CAN,,Private Call,None
+,3026918,VE2EGK,Andre,,, - CAN,,Private Call,None
+,3026919,VA3MYZ,Myles,,, - CAN,,Private Call,None
+,3026920,VE3OEI,Lawrence,,, - CAN,,Private Call,None
 ,3027001,VE7NWX,Emcomm,,, - CAN,,Private Call,None
 ,3027002,VE7NWX,Emcomm,,, - CAN,,Private Call,None
 ,3027003,VE7NWX,Emcomm,,, - CAN,,Private Call,None

@@ -105,7 +105,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 1023154,VE3WCZ,Charles,,,,,CAN
 1023156,VE3IPC,Michael,,,,,CAN
 1023160,VE3YN,S.,,,,,CAN
-1023161,VA3XY,Scott,,,,,CAN
 1023163,VA3BGW,Brad,,,,,CAN
 1023164,VE3NV,Harrison,,,,,CAN
 1023167,VA3JNT,Jose,,,,,CAN
@@ -896,6 +895,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060762,ON3LBA,Luc,,,,,BEL
 2060763,ON8FAB,Fabrice,,,,,BEL
 2060764,ON3WY,Jerome,,,,,BEL
+2060765,ON7AQC,Casimir Louis,,,,,BEL
+2060766,ON5LBV,Van Lysebetten,,,,,BEL
+2060767,ON6QV,Michel,,,,,BEL
 2061001,ON8SVH,Stijn,,,,,BEL
 2061002,ON8SI,Simon,,,,,BEL
 2061003,ON5LUC,Luc,,,,,BEL
@@ -3704,6 +3706,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2081845,F4VWS,Robert,,,,,FRA
 2081846,TK4US,Gilles,,,,,FRA
 2081847,F1DXG,Didier,,,,,FRA
+2081848,F4GGY,Bruno,,,,,FRA
 2082001,F4FUL,Cyril,,,,,FRA
 2082002,F5VIN,Heiko,,,,,FRA
 2082003,F1AGU,Charles Henri,,,,,FRA
@@ -5577,6 +5580,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280411,HB9INV,Daniel,,,,,CHE
 2280412,HB9IJU,Daniel,,,,,CHE
 2280413,HB3YJX,Peter,,,,,CHE
+2280414,HB9RGG,Andreas,,,,,CHE
+2280415,HB3YGW,Miguel,,,,,CHE
 2281001,HB3YNV,Cedric,,,,,CHE
 2281002,HB3YNV,Cedric,,,,,CHE
 2281003,HB3YNV,Cedric,,,,,CHE
@@ -9453,7 +9458,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3022346,VE2IV,Pierre,,,,,CAN
 3022347,VE2TSM,Mario,,,,,CAN
 3022348,VE2IMS,Rejean,,,,,CAN
-3022349,VE2FSK,Jean-Guy,,,,,CAN
 3022350,VA2PWR,Roger,,,,,CAN
 3022351,VE2DVJ,Pierre,,,,,CAN
 3022352,VE2ZS,Andre,,,,,CAN
@@ -10984,7 +10988,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3023905,VE3IJX,Allan,,,,,CAN
 3023906,VE3BXP,Bill,,,,,CAN
 3023907,VE2CMM,Claude,,,,,CAN
-3023908,VA3BMY,Albert,,,,,CAN
+3023908,VA3BMY,Albert Charles,,,,,CAN
 3023909,VE3MZI,Alex,,,,,CAN
 3023910,VE3OHF,Stephen,,,,,CAN
 3023912,VE3KTB,Pierre,,,,,CAN
@@ -13328,12 +13332,20 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3026258,VE6TNO,Chris,,,,,CAN
 3026259,VA7JCO,Jorge Conrad,,,,,CAN
 3026260,VE7WOA,Mykhailo,,,,,CAN
+3026261,VE6XAD,Chad,,,,,CAN
+3026262,VE3PIZ,Darrell,,,,,CAN
+3026263,VA2PDC,Daniel,,,,,CAN
+3026264,VA3XY,Scott,,,,,CAN
+3026265,VE3FLJ,Joshua,,,,,CAN
 3026912,VA7RGM,Robert,,,,,CAN
 3026913,VA6LTV,Larry,,,,,CAN
 3026914,VE3ZWX,James Bradley,,,,,CAN
 3026915,VE1ARM,Adrian,,,,,CAN
 3026916,VE3XJW,Jeffery,,,,,CAN
 3026917,VE5VOS,Krzysztof,,,,,CAN
+3026918,VE2EGK,Andre,,,,,CAN
+3026919,VA3MYZ,Myles,,,,,CAN
+3026920,VE3OEI,Lawrence,,,,,CAN
 3027001,VE7NWX,Emcomm,,,,,CAN
 3027002,VE7NWX,Emcomm,,,,,CAN
 3027003,VE7NWX,Emcomm,,,,,CAN
