@@ -415,6 +415,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280415,HB3YGW,Miguel,,,,,CHE
 2280416,HB9IMG,John,,,,,CHE
 2280417,HB9GFA,Michael,,,,,CHE
+2280418,HB9HFM,Daniel,,,,,CHE
 2281001,HB3YNV,Cedric,,,,,CHE
 2281002,HB3YNV,Cedric,,,,,CHE
 2281003,HB3YNV,Cedric,,,,,CHE
@@ -2792,6 +2793,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320800,OE1CJG,Jozef,,,,,AUT
 2320801,OE6ISP,Stefan,,,,,AUT
 2320802,OE1MLD,Michael,,,,,AUT
+2320803,OE3REE,Reinhard,,,,,AUT
+2320804,OE5PFF,Franz,,,,,AUT
+2320805,OE3LRT,Lukas,,,,,AUT
 2321001,OE1KBC,Kurt,,,,,AUT
 2321002,OE1KBC,Kurt,,,,,AUT
 2321003,OE1KBC,Kurt,,,,,AUT
@@ -15494,7 +15498,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2631741,DB9OW,Lukas,,,,,DEU
 2631742,DD4VA,Alois Matthias,,,,,DEU
 2631743,DL2ECM,Gerhard,,,,,DEU
-2631744,DO1RNJ,Rene,,,,,DEU
+2631744,DM2WG,Rene,,,,,DEU
 2631745,DH5FBC,Lars Paul Josef Richard,,,,,DEU
 2631746,DO1DN,Bjoern Uwe,,,,,DEU
 2631747,DC5AX,Alexander Walter,,,,,DEU
@@ -17373,7 +17377,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2633637,DK4KAI,Kai,,,,,DEU
 2633638,DO2BT,Johann,,,,,DEU
 2633639,DC3BG,Heiner,,,,,DEU
-2633640,DL1HRU,Hans,,,,,DEU
+2633640,DL1HRU,Hans-Juergen,,,,,DEU
 2633641,DG1ABX,Markus,,,,,DEU
 2633642,DK4XY,Ulrich Oskar Willi,,,,,DEU
 2633643,DK1JAN,Jan Manuel,,,,,DEU
@@ -17488,6 +17492,24 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2633753,DH8LP,Lars,,,,,DEU
 2633754,DA6WW,Enrico,,,,,DEU
 2633755,DL8UDO,Udo,,,,,DEU
+2633756,DL1FTY,Frank,,,,,DEU
+2633757,DL2MDZ,Rainer,,,,,DEU
+2633758,DM6UWE,Uwe,,,,,DEU
+2633759,DA6JK,Jan,,,,,DEU
+2633760,DC3MO,Johann,,,,,DEU
+2633761,DN9MO,Max,,,,,DEU
+2633762,DO4MBL,Martin,,,,,DEU
+2633763,DN9CS,Christian,,,,,DEU
+2633764,DO1JSN,Jason,,,,,DEU
+2633765,DL9RP,Patrick,,,,,DEU
+2633766,DC8VS,Volkmar,,,,,DEU
+2633767,DO8AIR,Valerij,,,,,DEU
+2633768,DL3EC,Christian,,,,,DEU
+2633769,DL1LPS,Peter,,,,,DEU
+2633770,DK5BDM,Boris,,,,,DEU
+2633771,DG1SL,Stefan,,,,,DEU
+2633772,DN9MJK,Marcus,,,,,DEU
+2633773,DH4CW,Christian,,,,,DEU
 2633849,DL8XI,Ingo,,,,,DEU
 2633850,DL1LAL,Dieter,,,,,DEU
 2633851,DN9HD,Hans,,,,,DEU
