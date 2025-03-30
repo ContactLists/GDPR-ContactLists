@@ -902,6 +902,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060771,ON6OTO,Willy,,, - BEL,,Private Call,None
 ,2060772,ON6OMO,Marel,,, - BEL,,Private Call,None
 ,2060773,ON1HDV,Hendrik,,, - BEL,,Private Call,None
+,2060774,ON3SM,Salvator,,, - BEL,,Private Call,None
+,2060775,ON3KLA,Kristof,,, - BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,, - BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,, - BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,, - BEL,,Private Call,None
@@ -3727,6 +3729,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081847,F1DXG,Didier,,, - FRA,,Private Call,None
 ,2081848,F4GGY,Bruno,,, - FRA,,Private Call,None
 ,2081849,F4IML,Stephane,,, - FRA,,Private Call,None
+,2081850,F4LTG,Christian,,, - FRA,,Private Call,None
+,2081851,F4EAD,Arnaud,,, - FRA,,Private Call,None
+,2081852,F4JDO,Bernard,,, - FRA,,Private Call,None
+,2081853,F4MES,Jean,,, - FRA,,Private Call,None
+,2081854,F4MFA,Mathieu,,, - FRA,,Private Call,None
+,2081855,F1JMF,Maurice,,, - FRA,,Private Call,None
+,2081856,F4LAD,Francois,,, - FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,, - FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,, - FRA,,Private Call,None
 ,2082003,F1AGU,Charles Henri,,, - FRA,,Private Call,None
@@ -8282,7 +8291,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3021128,VE1CYP,Alan,,, - CAN,,Private Call,None
 ,3021129,VO1IDX,Chris,,, - CAN,,Private Call,None
 ,3021130,VO1IDX,Chris,,, - CAN,,Private Call,None
-,3021131,VA2WPM,Mathieu,,, - CAN,,Private Call,None
+,3021131,VA2ZT,Mathieu,,, - CAN,,Private Call,None
 ,3021132,VE3QSO,Gerald,,, - CAN,,Private Call,None
 ,3021133,VE3QBR,Cody,,, - CAN,,Private Call,None
 ,3021134,VA2AYA,Anthony,,, - CAN,,Private Call,None
@@ -9758,7 +9767,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3022628,VE2SUD,Rene,,, - CAN,,Private Call,None
 ,3022629,VA2RWN,Robert,,, - CAN,,Private Call,None
 ,3022630,VA3RDQ,Richard,,, - CAN,,Private Call,None
-,3022631,VA2ZT,Normand,,, - CAN,,Private Call,None
 ,3022632,VE3YPD,Pierre,,, - CAN,,Private Call,None
 ,3022633,VE2SXE,Konstantinos,,, - CAN,,Private Call,None
 ,3022634,VE2ATW,Martin,,, - CAN,,Private Call,None
@@ -13228,7 +13236,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026128,VE6LNX,Grant,,, - CAN,,Private Call,None
 ,3026129,VE6EDF,Edward,,, - CAN,,Private Call,None
 ,3026130,VE6EAH,Eric,,, - CAN,,Private Call,None
-,3026131,VE6EMG,J,,, - CAN,,Private Call,None
+,3026131,VA3YBA,Batawala,,, - CAN,,Private Call,None
 ,3026132,VE6BC,Doug,,, - CAN,,Private Call,None
 ,3026133,VE9MV,Matthieu,,, - CAN,,Private Call,None
 ,3026134,VE6AVK,Johannes,,, - CAN,,Private Call,None
@@ -13407,6 +13415,16 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026307,VE2LIA,Doris,,, - CAN,,Private Call,None
 ,3026308,VE3RZO,Rino,,, - CAN,,Private Call,None
 ,3026309,VE7GAQ,Gerard,,, - CAN,,Private Call,None
+,3026310,VE3FKA,Jarrett,,, - CAN,,Private Call,None
+,3026311,VE2NIN,Ninon,,, - CAN,,Private Call,None
+,3026312,VA3RKH,Robert,,, - CAN,,Private Call,None
+,3026313,VA7DBQ,David,,, - CAN,,Private Call,None
+,3026314,VE2JPI,Pascal,,, - CAN,,Private Call,None
+,3026315,VE2ORU,Oleksandr,,, - CAN,,Private Call,None
+,3026316,VE3LFH,David,,, - CAN,,Private Call,None
+,3026317,VE1USE,Julie,,, - CAN,,Private Call,None
+,3026318,VA5JEP,Jason,,, - CAN,,Private Call,None
+,3026319,VE2EQ,Bruno,,, - CAN,,Private Call,None
 ,3026912,VA7RGM,Robert,,, - CAN,,Private Call,None
 ,3026913,VA6LTV,Larry,,, - CAN,,Private Call,None
 ,3026914,VE3ZWX,James Bradley,,, - CAN,,Private Call,None
@@ -13519,7 +13537,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3027101,VA7EOC,Vancouver-Eoc,,, - CAN,,Private Call,None
 ,3027102,VA7EOC,Vancouver-Eoc,,, - CAN,,Private Call,None
 ,3027103,VA7DME,Donna,,, - CAN,,Private Call,None
-,3027104,VA7TI,J.,,, - CAN,,Private Call,None
 ,3027105,VA7XJC,James,,, - CAN,,Private Call,None
 ,3027106,VE7PJG,Patrick,,, - CAN,,Private Call,None
 ,3027107,VE7ISH,Scott Cullum,,, - CAN,,Private Call,None
