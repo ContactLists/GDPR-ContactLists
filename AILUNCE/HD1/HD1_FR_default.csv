@@ -424,7 +424,6 @@ Private Call,ON4FI Karel,,,BEL,2060290
 Private Call,ON5AB Paul,,,BEL,2060291
 Private Call,ON6ZK Hans,,,BEL,2060292
 Private Call,ON4IR Manoel,,,BEL,2060293
-Private Call,ON2PAT no_name,,,BEL,2060294
 Private Call,ON7CFZ no_name,,,BEL,2060295
 Private Call,ON3PBC no_name,,,BEL,2060296
 Private Call,ON6NY Willy,,,BEL,2060297
@@ -654,7 +653,7 @@ Private Call,ON6AOR Paul,,,BEL,2060522
 Private Call,ON9MJ Michael,,,BEL,2060524
 Private Call,ON4MOD Morgan,,,BEL,2060525
 Private Call,ON5AT Thierry,,,BEL,2060526
-Private Call,ON3XML Florian,,,BEL,2060527
+Private Call,ON7FM Florian,,,BEL,2060527
 Private Call,ON3PMC Peter,,,BEL,2060528
 Private Call,OT6X Patrick,,,BEL,2060529
 Private Call,ON3RLD Roland,,,BEL,2060530
@@ -713,7 +712,7 @@ Private Call,ON4YVM Yvan,,,BEL,2060584
 Private Call,ON3CHH Chris,,,BEL,2060585
 Private Call,ON3UI Fabrice,,,BEL,2060586
 Private Call,ON7FT Jonas,,,BEL,2060587
-Private Call,ON3OSL Mike,,,BEL,2060588
+Private Call,ON7OSL Mike,,,BEL,2060588
 Private Call,ON3MKO Marko,,,BEL,2060589
 Private Call,ON7CH Guido,,,BEL,2060590
 Private Call,ON6MDE Michiel,,,BEL,2060591
@@ -789,7 +788,7 @@ Private Call,ON9AID Ignacio,,,BEL,2060660
 Private Call,ON4VDE Tom,,,BEL,2060661
 Private Call,ON3FPB Florent,,,BEL,2060662
 Private Call,ON1BIR Dirk,,,BEL,2060663
-Private Call,ON3XML Florian,,,BEL,2060664
+Private Call,ON7FM Florian,,,BEL,2060664
 Private Call,ON4CET Bart,,,BEL,2060665
 Private Call,ON3AGU Andrei,,,BEL,2060666
 Private Call,ON3GRW Gunther,,,BEL,2060667
@@ -805,7 +804,7 @@ Private Call,ON6AA Marc,,,BEL,2060676
 Private Call,ON4BJB Jacques,,,BEL,2060677
 Private Call,ON8AVD Alonso,,,BEL,2060678
 Private Call,ON3TTH Thierry,,,BEL,2060679
-Private Call,ON3OSL Mike,,,BEL,2060680
+Private Call,ON7OSL Mike,,,BEL,2060680
 Private Call,ON3DPM Dirk,,,BEL,2060681
 Private Call,ON3PAW Florian,,,BEL,2060682
 Private Call,ON5MDV Mike,,,BEL,2060683
@@ -856,7 +855,7 @@ Private Call,ON5EPD Edward,,,BEL,2060727
 Private Call,ON3LBU Luc,,,BEL,2060728
 Private Call,ON3DGB Dora,,,BEL,2060729
 Private Call,ON4GT Geert,,,BEL,2060730
-Private Call,ON4KCH Jean Pierre,,,BEL,2060731
+Private Call,ON4KCH Jean,,,BEL,2060731
 Private Call,ON3TEA Alexis,,,BEL,2060732
 Private Call,ON8EM Michel,,,BEL,2060733
 Private Call,ON4KDT Alain,,,BEL,2060734
@@ -910,6 +909,7 @@ Private Call,ON3ZP Sebastiaan,,,BEL,2060781
 Private Call,ON7RK Koen,,,BEL,2060782
 Private Call,OO0O Rudy,,,BEL,2060783
 Private Call,ON3GB Dimitri,,,BEL,2060784
+Private Call,ON3KDS Jan,,,BEL,2060785
 Private Call,ON8SVH Stijn,,,BEL,2061001
 Private Call,ON8SI Simon,,,BEL,2061002
 Private Call,ON5LUC Luc,,,BEL,2061003
@@ -3672,6 +3672,17 @@ Private Call,F4LRW Nicolas,,,FRA,2081689
 Private Call,F4LAX Jean Paul,,,FRA,2081690
 Private Call,F4MAB Jean,,,FRA,2081691
 Private Call,F1EFQ Olivier,,,FRA,2081692
+Private Call,F4LEM Christian,,,FRA,2081693
+Private Call,F4LII Camille,,,FRA,2081694
+Private Call,F4OFF Patrick,,,FRA,2081695
+Private Call,F4LKE Remi,,,FRA,2081696
+Private Call,F4VWW Juan,,,FRA,2081697
+Private Call,F5BNL Amedee,,,FRA,2081698
+Private Call,F4MIW Jean Christophe,,,FRA,2081699
+Private Call,F4LZU Olivier,,,FRA,2081700
+Private Call,F4WFL Gaultier,,,FRA,2081701
+Private Call,F4MCT Thierry,,,FRA,2081702
+Private Call,F4MEE Mickael,,,FRA,2081703
 Private Call,F4JBM Francois,,,FRA,2081777
 Private Call,F1UFW Saletzki,,,FRA,2081778
 Private Call,F4JJQ Pierre,,,FRA,2081779
@@ -5655,6 +5666,10 @@ Private Call,HB9HGW Rene,,,CHE,2280422
 Private Call,HB9TEA Martin,,,CHE,2280423
 Private Call,HB9CAO Robert,,,CHE,2280424
 Private Call,HB9DFV Meinrad,,,CHE,2280425
+Private Call,HB9IOL Marcel,,,CHE,2280426
+Private Call,HB9UW Radioclub,,,CHE,2280427
+Private Call,HB9FGJ Luca,,,CHE,2280428
+Private Call,HB9ZHT Daniel,,,CHE,2280429
 Private Call,HB3YNV Cedric,,,CHE,2281001
 Private Call,HB3YNV Cedric,,,CHE,2281002
 Private Call,HB3YNV Cedric,,,CHE,2281003
@@ -9281,7 +9296,6 @@ Private Call,VE2STE Stephane,,,CAN,3022092
 Private Call,VE2SE Jean,,,CAN,3022093
 Private Call,VA2PV Pascal,,,CAN,3022094
 Private Call,VE2JOS Jose,,,CAN,3022095
-Private Call,VE2RI Rene,,,CAN,3022096
 Private Call,VA2PSL Steve,,,CAN,3022098
 Private Call,VE2PVR Pascal,,,CAN,3022099
 Private Call,VA2FP Fabrizio,,,CAN,3022100
@@ -9304,7 +9318,6 @@ Private Call,VE2ZVL Martin,,,CAN,3022116
 Private Call,VE2ZVL Martin,,,CAN,3022117
 Private Call,VE3JPZ Joseph,,,CAN,3022118
 Private Call,VE2NMB Martin,,,CAN,3022121
-Private Call,VE2RI Rene,,,CAN,3022122
 Private Call,VE2GLG Guy,,,CAN,3022123
 Private Call,VE2JN Jean,,,CAN,3022124
 Private Call,VE2MQF Michelle,,,CAN,3022125
@@ -11061,7 +11074,6 @@ Private Call,VE3MZI Alex,,,CAN,3023909
 Private Call,VE3OHF Stephen,,,CAN,3023910
 Private Call,VE3KTB Pierre,,,CAN,3023912
 Private Call,VE3CFS Gilbert,,,CAN,3023913
-Private Call,VA3DZZ Albert,,,CAN,3023914
 Private Call,VE3LFJ Alexander,,,CAN,3023915
 Private Call,VA3PU Alexander,,,CAN,3023916
 Private Call,VA3TL Norbert,,,CAN,3023917
@@ -13521,6 +13533,21 @@ Private Call,VA3WVA Brian,,,CAN,3026378
 Private Call,VE2ZXO Daniel,,,CAN,3026379
 Private Call,VE2FJU Denis,,,CAN,3026380
 Private Call,VE3MGH Michael,,,CAN,3026381
+Private Call,VE3ZIG Sigmond,,,CAN,3026382
+Private Call,VA3FMB Wayne,,,CAN,3026383
+Private Call,VE6BWM Mike,,,CAN,3026384
+Private Call,VA3RIR Raphael,,,CAN,3026385
+Private Call,VE5GTW George,,,CAN,3026386
+Private Call,VE2JFO Jean,,,CAN,3026387
+Private Call,VA1FUL Robert,,,CAN,3026388
+Private Call,VE2PIT Rock,,,CAN,3026389
+Private Call,VE9YVE Yves,,,CAN,3026390
+Private Call,VE1FSM Frank,,,CAN,3026391
+Private Call,VE2AQT Vincent,,,CAN,3026392
+Private Call,VE1LRL Lawerence,,,CAN,3026393
+Private Call,VE3FBX Bentley,,,CAN,3026394
+Private Call,VE5DTM David,,,CAN,3026395
+Private Call,VE1BIC Ronald,,,CAN,3026396
 Private Call,VA7RGM Robert,,,CAN,3026912
 Private Call,VA6LTV Larry,,,CAN,3026913
 Private Call,VE3ZWX James Bradley,,,CAN,3026914
