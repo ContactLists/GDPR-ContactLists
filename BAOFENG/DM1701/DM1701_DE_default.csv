@@ -1504,7 +1504,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621648,DK6WF,Wolfgang,,,,DEU,DMR
 2621649,DL8KM,Kristian,,,,DEU,DMR
 2621650,DO7NF,Holger Werner,,,,DEU,DMR
-2621651,DO1JJB,Joerg,,,,DEU,DMR
+2621651,DJ0NIX,Joerg,,,,DEU,DMR
 2621652,DL1AIW,Alexander,,,,DEU,DMR
 2621653,DH3SC,Carmen Margrita,,,,DEU,DMR
 2621654,DL4CCC,Thorsten,,,,DEU,DMR
@@ -2506,7 +2506,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2622736,DL3CZ,Christoph,,,,DEU,DMR
 2622737,DL2LAH,Hans Karsten,,,,DEU,DMR
 2622738,DL8DBL,Peter Robert,,,,DEU,DMR
-2622739,DL1ELO,Angelos,,,,DEU,DMR
+2622739,DL1ELO,Angelo,,,,DEU,DMR
 2622740,DF7HW,Holger,,,,DEU,DMR
 2622741,DO1LA,Andre,,,,DEU,DMR
 2622742,DL6NDK,Uwe,,,,DEU,DMR
@@ -8874,7 +8874,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629515,DL1SVH,Stefan Ludwig Claude,,,,DEU,DMR
 2629516,DH7MG,Michael,,,,DEU,DMR
 2629517,DF7AC,Ahmet,,,,DEU,DMR
-2629518,DL2GFS,Frank Guenter,,,,DEU,DMR
+2629518,DL2GFS,Frank,,,,DEU,DMR
 2629519,DO5KE,Kerstin,,,,DEU,DMR
 2629520,DO8LD,Erika,,,,DEU,DMR
 2629521,DF9DO,Hans Hermann,,,,DEU,DMR
@@ -10835,7 +10835,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2631563,DO7HAR,Harald,,,,DEU,DMR
 2631564,DB3CD,Dietmar,,,,DEU,DMR
 2631565,DJ2RA,Rainer,,,,DEU,DMR
-2631566,DO1JJB,Joerg,,,,DEU,DMR
+2631566,DJ0NIX,Joerg,,,,DEU,DMR
 2631567,DO2TA,Marco Kurt,,,,DEU,DMR
 2631568,DO1TEG,Tobias Eduard,,,,DEU,DMR
 2631569,DD6PE,Christian,,,,DEU,DMR
@@ -11568,7 +11568,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2632302,DB4MV,Norbert,,,,DEU,DMR
 2632303,DN9SF,Stefan,,,,DEU,DMR
 2632304,DG3YEC,Harald,,,,DEU,DMR
-2632305,DN9MH,Michael,,,,DEU,DMR
+2632305,DO5FC,Michael,,,,DEU,DMR
 2632306,DL9AIR,Thomas,,,,DEU,DMR
 2632307,DO4CTH,Tim,,,,DEU,DMR
 2632308,DD3DD,Wilhelm,,,,DEU,DMR
@@ -13298,6 +13298,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634049,DO9ABI,Adrian,,,,DEU,DMR
 2634050,DL1KJ,Rolf,,,,DEU,DMR
 2634051,DL6YBX,Mario,,,,DEU,DMR
+2634052,DL7JAD,Andreas,,,,DEU,DMR
 2634053,DD4KQ,Manfred,,,,DEU,DMR
 2634054,DG1DPN,Roland,,,,DEU,DMR
 2634055,DG7DAM,Juergen,,,,DEU,DMR
@@ -13355,6 +13356,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634109,DL7ED,Edgar,,,,DEU,DMR
 2634110,DO1MHB,Michael,,,,DEU,DMR
 2634111,DG2DBF,Uwe,,,,DEU,DMR
+2634113,DM7JHN,Johannes,,,,DEU,DMR
 2634114,DO1WC,Max,,,,DEU,DMR
 2634115,DO4LMW,Michael,,,,DEU,DMR
 2634116,DL6LJ,Lars,,,,DEU,DMR
@@ -13435,6 +13437,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634196,DC2PI,Lars,,,,DEU,DMR
 2634197,DL2KTH,Thomas,,,,DEU,DMR
 2634198,DG5YHZ,Joerg,,,,DEU,DMR
+2634199,DN9CLP,Florian,,,,DEU,DMR
 2634200,DJ8SR,Stephan,,,,DEU,DMR
 2634201,DK3JF,Joerg,,,,DEU,DMR
 2634202,DF4ES,Herbert,,,,DEU,DMR
@@ -13543,6 +13546,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634314,DG7YGI,Karsten,,,,DEU,DMR
 2634315,DD3CF,Christian,,,,DEU,DMR
 2634316,DH6MB,Michael Erich,,,,DEU,DMR
+2634317,DO5SR,Ronny,,,,DEU,DMR
 2634318,DL9DJ,Gisela,,,,DEU,DMR
 2634319,DJ0HF,Jan David,,,,DEU,DMR
 2634320,DO1YAC,Axel,,,,DEU,DMR
@@ -13647,6 +13651,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634427,DL5DP,Klaus-Dieter,,,,DEU,DMR
 2634428,DM2PA,Peter,,,,DEU,DMR
 2634429,DF9EG,Siegfried,,,,DEU,DMR
+2634430,DN9KNM,Daniel,,,,DEU,DMR
 2634431,DL9LD,Klaus,,,,DEU,DMR
 2634432,DL3LBM,Martin,,,,DEU,DMR
 2634433,DO6IE,Tommy,,,,DEU,DMR
@@ -13743,6 +13748,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634529,DL3YBK,Gerda,,,,DEU,DMR
 2634530,DN9GDM,Dieter,,,,DEU,DMR
 2634531,DG1EFE,Markus,,,,DEU,DMR
+2634532,DL6NRS,Richard,,,,DEU,DMR
 2634533,DH8JB,Holger,,,,DEU,DMR
 2634534,DG2YHR,David,,,,DEU,DMR
 2634535,DO1SO,Stephan,,,,DEU,DMR
@@ -13765,6 +13771,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634554,DL2DBI,Michael,,,,DEU,DMR
 2634555,DG1YIQ,Marco-Alexander,,,,DEU,DMR
 2634556,DG6YIP,Thomas Werner,,,,DEU,DMR
+2634557,DL3GO,Mehmet,,,,DEU,DMR
 2634558,DL7DAX,Ernst-Guenter,,,,DEU,DMR
 2634559,DL1YCG,Andreas Frank,,,,DEU,DMR
 2634561,DO4GJ,Jasmin,,,,DEU,DMR
@@ -13810,6 +13817,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634602,DL6WA,Hans-Georg,,,,DEU,DMR
 2634603,DD8JE,Werner,,,,DEU,DMR
 2634604,DG1ECQ,Frank,,,,DEU,DMR
+2634605,DO4JPL,Joerg,,,,DEU,DMR
 2634606,DL5ERJ,Joerg,,,,DEU,DMR
 2634607,DF8XO,Werner,,,,DEU,DMR
 2634609,DL0DZ,Clubst.,,,,DEU,DMR
@@ -13839,10 +13847,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634634,DO3YMS,Marko,,,,DEU,DMR
 2634635,DK7EM,Walter,,,,DEU,DMR
 2634636,DC4DO,Manfred,,,,DEU,DMR
+2634637,DO7MTA,Matthias,,,,DEU,DMR
 2634638,DK1RTL,Andreas,,,,DEU,DMR
 2634639,DG5YGS,Detlef,,,,DEU,DMR
 2634640,DD5JC,Uwe,,,,DEU,DMR
 2634641,DL6KBF,Horst,,,,DEU,DMR
+2634642,DA6TC,Thomas,,,,DEU,DMR
 2634643,DB9JWD,Willi,,,,DEU,DMR
 2634644,DL3DBC,Ralf,,,,DEU,DMR
 2634645,DO9DMG,Dorothea,,,,DEU,DMR
@@ -13910,6 +13920,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634710,DO3BTC,Andreas,,,,DEU,DMR
 2634711,DL5VU,Marc,,,,DEU,DMR
 2634712,DL6JU,Joerg,,,,DEU,DMR
+2634713,DG1ABM,Andreas,,,,DEU,DMR
 2634714,DB1UWE,Uwe Werner,,,,DEU,DMR
 2634715,DL2TP,Thomas,,,,DEU,DMR
 2634716,DO1CUL,Juergen,,,,DEU,DMR
@@ -13938,6 +13949,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634739,DF1DGE,Dieter,,,,DEU,DMR
 2634741,DB4OC,Hans Joachim Robert,,,,DEU,DMR
 2634742,DH3CT,Sebastian,,,,DEU,DMR
+2634743,DN9SE,Stephan,,,,DEU,DMR
+2634744,DO1LLL,Louis,,,,DEU,DMR
 2634745,DD4QA,Olaf,,,,DEU,DMR
 2634746,DK3GX,Wolfgang,,,,DEU,DMR
 2634747,DC2CT,Heike,,,,DEU,DMR
@@ -13978,6 +13991,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634783,DO4MO,Moritz,,,,DEU,DMR
 2634784,DL6LAL,Michael,,,,DEU,DMR
 2634785,DL1FS,Frank,,,,DEU,DMR
+2634786,DL4JB,Joseph,,,,DEU,DMR
 2634787,DO1WBA,Wolfgang Paul,,,,DEU,DMR
 2634788,DO6KC,Christian,,,,DEU,DMR
 2634789,DO8FR,Friedrich,,,,DEU,DMR
@@ -13994,6 +14008,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634804,DL1EIC,Bernd,,,,DEU,DMR
 2634805,DK9JY,Joerg,,,,DEU,DMR
 2634806,DK9JZ,Friedhelm,,,,DEU,DMR
+2634807,DK0LO,ClubSt.,,,,DEU,DMR
 2634808,DG3YFZ,Gunnar,,,,DEU,DMR
 2634810,DO4SKE,Stefan,,,,DEU,DMR
 2634811,DO8OD,Razvan,,,,DEU,DMR
@@ -14096,7 +14111,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634913,DO4AB,Andreas,,,,DEU,DMR
 2634914,DL9JM,Karl-Josef,,,,DEU,DMR
 2634915,DL4EDA,Ludwig,,,,DEU,DMR
-2634916,DO6DR,Ralph Johannes,,,,DEU,DMR
+2634916,DO6DR,Ralph,,,,DEU,DMR
 2634917,DL2SB,Gerhard,,,,DEU,DMR
 2634918,DO1NWB,Andreas,,,,DEU,DMR
 2634920,DD5CC,Olaf,,,,DEU,DMR
@@ -14144,6 +14159,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2634963,DD9DW,Egbert,,,,DEU,DMR
 2634964,DO5TCK,Abdullah,,,,DEU,DMR
 2634965,DO1CMR,Cem,,,,DEU,DMR
+2634966,DN9TS,Thomas,,,,DEU,DMR
+2634967,DJ3TM,Michael,,,,DEU,DMR
 2634968,DO6WJ,Joerg,,,,DEU,DMR
 2634969,DF3FX,Felix,,,,DEU,DMR
 2634970,DB3KB,Bernhard,,,,DEU,DMR
