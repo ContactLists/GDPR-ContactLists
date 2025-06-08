@@ -429,6 +429,8 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2280429,HB9ZHT,Daniel,,,,CHE
 2280430,HB3XEK,Ywan,,,,CHE
 2280431,HB3YNF,Daniel,,,,CHE
+2280432,HB9EXK,Stefan,,,,CHE
+2280433,HB9HDL,Craig,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -2852,6 +2854,9 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2320847,OE4COM,Marco,,,,AUT
 2320848,OE9RRI,Rares,,,,AUT
 2320849,OE6NUD,Manfred,,,,AUT
+2320850,OE6FNG,Werner,,,,AUT
+2320851,OE9VTS,Thomas,,,,AUT
+2320852,OE1VER,Wolfgang,,,,AUT
 2321001,OE1KBC,Kurt,,,,AUT
 2321002,OE1KBC,Kurt,,,,AUT
 2321003,OE1KBC,Kurt,,,,AUT
@@ -3360,7 +3365,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2323158,OE3HOI,Harald,,,,AUT
 2323159,OE3FKR,Friedrich,,,,AUT
 2323160,OE3NIM,Norbert,,,,AUT
-2323161,OE3EIW,Herbert,,,,AUT
+2323161,OE3EIW,Herbi,,,,AUT
 2323162,OE3FZB,Friedrich,,,,AUT
 2323163,OE3STU,Josef,,,,AUT
 2323164,OE3HCW,Helmuth,,,,AUT
@@ -13180,7 +13185,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2629292,DL2AMT,Juergen,,,,DEU
 2629293,DF6DR,Daniel,,,,DEU
 2629294,DM2MR,Marko,,,,DEU
-2629295,DM5SG,Frank Steffen,,,,DEU
+2629295,DM5SG,Frank,,,,DEU
 2629296,DL1OHS,Peter,,,,DEU
 2629297,DL4AMK,Peter,,,,DEU
 2629298,DG0LAW,Ronny,,,,DEU
@@ -13805,7 +13810,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2629950,DJ6PT,Maximilian,,,,DEU
 2629951,DK4CI,Peter,,,,DEU
 2629952,DL6GCW,Wilfried,,,,DEU
-2629953,DM4SG,Stefan Richard,,,,DEU
+2629953,DM4SG,Stefan,,,,DEU
 2629954,DB1FAL,Andreas,,,,DEU
 2629955,DL9HCJ,Matthias,,,,DEU
 2629956,DL9RM,Guenther,,,,DEU
@@ -14770,7 +14775,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2630953,DJ1SW,Helmut Manfred,,,,DEU
 2630954,DO1GDO,Oliver,,,,DEU
 2630955,DB9TZ,Tobias Johann,,,,DEU
-2630956,DJ4DI,Klaus-Peter,,,,DEU
+2630956,DJ4DI,Klaus,,,,DEU
 2630957,DO4AT,Pierre,,,,DEU
 2630958,DO6APO,Andreas,,,,DEU
 2630959,DL5ZBZ,Fred Peter,,,,DEU
@@ -16245,7 +16250,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2632461,DL2ERL,Roland,,,,DEU
 2632462,DN9SG,Stephan,,,,DEU
 2632463,DN9TR,Thomas,,,,DEU
-2632464,DN9ES,Elisabeth,,,,DEU
+2632464,DA6ES,Elisabeth,,,,DEU
 2632465,DO2FTW,Frank Tobias,,,,DEU
 2632466,DL2BKA,Karol,,,,DEU
 2632467,DN9KW,Kurt,,,,DEU
@@ -16580,7 +16585,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2632796,DL2SBA,Dietmar,,,,DEU
 2632797,DC5KE,Margret,,,,DEU
 2632798,DN9DO,Ralf,,,,DEU
-2632799,DN9OSK,Oliver,,,,DEU
+2632799,DO1OSK,Oliver,,,,DEU
 2632800,DO7KAT,Oliver,,,,DEU
 2632801,DO7LI,Lisa,,,,DEU
 2632802,DC3QI,Bernd,,,,DEU
@@ -17926,6 +17931,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634163,DG3YEG,Juergen,,,,DEU
 2634164,DN9FLZ,Ralf,,,,DEU
 2634165,DH6EAE,Michael,,,,DEU
+2634166,DO7GH,Gerald,,,,DEU
 2634167,DL8IY,Siegfried,,,,DEU
 2634168,DK8JV,Eberhard,,,,DEU
 2634169,DO1JLO,Joerg,,,,DEU
@@ -17994,8 +18000,10 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634234,DL5KI,Sebastian,,,,DEU
 2634235,DG1DP,Thomas,,,,DEU
 2634236,DK7DY,Klaus,,,,DEU
+2634237,DN9CTL,Carolin,,,,DEU
 2634238,DF1LON,Lars,,,,DEU
 2634239,DF3JO,Thomas,,,,DEU
+2634240,DL4FK,Karl Heinz,,,,DEU
 2634241,DO5NE,Norbert,,,,DEU
 2634242,DL6PI,Patrick,,,,DEU
 2634243,DG7DAZ,Andreas,,,,DEU
@@ -18004,8 +18012,10 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634246,DL4WAT,Karl-Ulrich,,,,DEU
 2634247,DJ0ACS,Yalcin,,,,DEU
 2634248,DM3MR,Markus,,,,DEU
+2634249,DJ0SJ,Hans,,,,DEU
 2634250,DO2HHM,Harald Hugo,,,,DEU
 2634251,DJ6QB,Klaus,,,,DEU
+2634252,DN9BG,Rainer,,,,DEU
 2634253,DF3DCB,Kai-Uwe,,,,DEU
 2634254,DM7MB,Manuela,,,,DEU
 2634255,DJ5QE,Udo,,,,DEU
@@ -18081,9 +18091,12 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634331,DJ1FC,Dieter,,,,DEU
 2634332,DO1ULI,Ulrich,,,,DEU
 2634333,DO7SI,Sebastian Hubertus Heinrich,,,,DEU
+2634334,DL2FC,Frank,,,,DEU
 2634335,DF3DH,Wilfried,,,,DEU
 2634336,DL9BU,Burkhard,,,,DEU
+2634337,DN9KGM,Thomas,,,,DEU
 2634338,DO1EPM,Matthias,,,,DEU
+2634339,DN9WDG,Florian,,,,DEU
 2634340,DM6TK,Thomas,,,,DEU
 2634341,DL9YAZ,Ralf,,,,DEU
 2634342,DC1KO,Olaf,,,,DEU
@@ -18105,6 +18118,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634358,DB3EF,Stefan,,,,DEU
 2634359,DL5BOC,Christian,,,,DEU
 2634360,DH5KAH,Gerhard,,,,DEU
+2634361,DM1AN,Guenter,,,,DEU
 2634362,DL6KU,Peter,,,,DEU
 2634363,DO1PBL,Peter,,,,DEU
 2634364,DL4DG,Josef,,,,DEU
@@ -18168,6 +18182,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634423,DO8FD,Lars-Oliver,,,,DEU
 2634424,DL5EAQ,Heinz-Dieter,,,,DEU
 2634425,DG9YFX,Joerg,,,,DEU
+2634426,DK4WIN,Sascha,,,,DEU
 2634427,DL5DP,Klaus-Dieter,,,,DEU
 2634428,DM2PA,Peter,,,,DEU
 2634429,DF9EG,Siegfried,,,,DEU
@@ -18194,6 +18209,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634450,DG6YHN,Frank,,,,DEU
 2634451,DB7QJ,Hans-Juergen,,,,DEU
 2634452,DO1KMT,Kevin,,,,DEU
+2634453,DF4FH,Florian,,,,DEU
 2634454,DO2MKS,Markus,,,,DEU
 2634455,DD1JD,Dirk,,,,DEU
 2634456,DL5LV,Volker,,,,DEU
@@ -18201,6 +18217,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634458,DJ7UE,Hans-Peter,,,,DEU
 2634459,DJ4RM,Robert,,,,DEU
 2634460,DO5SJ,Juergen,,,,DEU
+2634461,DO3GL,Gerhard,,,,DEU
 2634462,DL1EBS,Willi-Peter,,,,DEU
 2634463,DH4TL,Tanja,,,,DEU
 2634464,DG6KAU,Rainer,,,,DEU
@@ -18211,9 +18228,11 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634469,DO4AKI,Axel,,,,DEU
 2634470,DO6HI,Jochen,,,,DEU
 2634471,DL5YDI,Volker,,,,DEU
+2634472,DN2FZ,Gerald,,,,DEU
 2634473,DB4EQ,Ulrich,,,,DEU
 2634474,DN9BA,Arno,,,,DEU
 2634475,DL6YBX,Mario,,,,DEU
+2634476,DO7KGB,Andre,,,,DEU
 2634477,DF6HW,Hubert,,,,DEU
 2634478,DO3KHH,Hendrik,,,,DEU
 2634479,DL6DBK,Hermann,,,,DEU
@@ -18340,6 +18359,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634605,DO4JPL,Joerg,,,,DEU
 2634606,DL5ERJ,Joerg,,,,DEU
 2634607,DF8XO,Werner,,,,DEU
+2634608,DN9MCL,Marcel,,,,DEU
 2634609,DL0DZ,Clubst.,,,,DEU
 2634610,DF5EO,Hermann,,,,DEU
 2634612,DO1HDP,Heinz,,,,DEU
@@ -18407,6 +18427,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634674,DK5DN,Ernst-Guenter,,,,DEU
 2634676,DO9ET,Raimund,,,,DEU
 2634677,DO8JB,Jan Rene,,,,DEU
+2634678,DN9TW,Thomas,,,,DEU
 2634679,DJ5KM,Justin,,,,DEU
 2634680,DG6YIS,Lothar,,,,DEU
 2634681,DL4DE,Axel,,,,DEU
@@ -18467,6 +18488,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634737,DF3JM,Stefan,,,,DEU
 2634738,DO2ULF,Ulf,,,,DEU
 2634739,DF1DGE,Dieter,,,,DEU
+2634740,DN9TTH,Thomas,,,,DEU
 2634741,DB4OC,Hans Joachim Robert,,,,DEU
 2634742,DH3CT,Sebastian,,,,DEU
 2634743,DN9SE,Stephan,,,,DEU
@@ -18522,6 +18544,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634795,DK5SM,Stefan,,,,DEU
 2634796,DO1EFK,Frank,,,,DEU
 2634798,DO1YAR,Achim,,,,DEU
+2634799,DN9JTR,Jan,,,,DEU
 2634801,DK7SL,Sascha,,,,DEU
 2634802,DO3ED,Dietmar Walter,,,,DEU
 2634803,DL9DAE,Michael,,,,DEU
@@ -18541,6 +18564,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634818,DL6LAL,Michael,,,,DEU
 2634819,DF6UG,Guenther,,,,DEU
 2634820,DG1DAN,Uwe,,,,DEU
+2634821,DO1PLT,Philip,,,,DEU
 2634822,DO2MBA,Marcus,,,,DEU
 2634823,DO1PE,Peter,,,,DEU
 2634824,DJ9DQ,Gerhard,,,,DEU
@@ -18564,6 +18588,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634844,DD2DB,Franz,,,,DEU
 2634845,DL9YCS,Joerg,,,,DEU
 2634846,DF5DW,Ulrich,,,,DEU
+2634847,DO1CSK,Christian,,,,DEU
 2634848,DO1MPG,Manfred Paul,,,,DEU
 2634849,DK7CP,Carsten,,,,DEU
 2634850,DO3PJ,Sabine,,,,DEU
@@ -18688,6 +18713,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 2634972,DG1KBY,Hans Guenther,,,,DEU
 2634973,DO5WA,Klaus,,,,DEU
 2634974,DL1KFS,Franz,,,,DEU
+2634975,DC2MK,Michael,,,,DEU
 2634976,DG5KI,Ralf,,,,DEU
 2634977,DA6YMB,Matthias,,,,DEU
 2634978,DO9VA,Volker,,,,DEU
