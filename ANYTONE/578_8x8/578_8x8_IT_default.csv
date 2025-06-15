@@ -215,6 +215,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2220227,IZ0TKI,Aldo,,, - ITA,,Private Call,None
 ,2220228,IK0JAY,Pasquale,,, - ITA,,Private Call,None
 ,2220229,IZ0ZGT,Federico,,, - ITA,,Private Call,None
+,2220234,IK0CHU,Mauro,,, - ITA,,Private Call,None
 ,2220236,IZ0OZS,Aldo,,, - ITA,,Private Call,None
 ,2220237,IW0BNH,Antonio,,, - ITA,,Private Call,None
 ,2220238,IU3OIU,Tommaso,,, - ITA,,Private Call,None
@@ -10210,7 +10211,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2230381,IW8FFM,Alfonso,,, - ITA,,Private Call,None
 ,2230382,IV3ZYK,Giori,,, - ITA,,Private Call,None
 ,2230383,IV3YNF,Fabrizio,,, - ITA,,Private Call,None
-,2230384,IU7QCP,Giovanni Antonio,,, - ITA,,Private Call,None
+,2230384,IU7QCP,Giovanni,,, - ITA,,Private Call,None
 ,2230385,IZ0DIB,Bruno,,, - ITA,,Private Call,None
 ,2230386,IU4RQY,Gianclaudio,,, - ITA,,Private Call,None
 ,2230387,IU7PTZ,Antonio,,, - ITA,,Private Call,None
@@ -11918,4 +11919,15 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232098,IX1ABE,Renato,,, - ITA,,Private Call,None
 ,2232099,IU2CKD,Daniele,,, - ITA,,Private Call,None
 ,2232100,IW2CHR,Giorgio,,, - ITA,,Private Call,None
+,2232101,IU0AKU,Andrea,,, - ITA,,Private Call,None
+,2232102,IU3RHK,Marco,,, - ITA,,Private Call,None
+,2232103,IZ6RMR,Massimiliano,,, - ITA,,Private Call,None
+,2232104,IT9EWF,Gaetano,,, - ITA,,Private Call,None
+,2232105,IT9ECY,Nicolino,,, - ITA,,Private Call,None
+,2232106,IW2LOY,Roberto,,, - ITA,,Private Call,None
+,2232107,IK1VGG,Franco,,, - ITA,,Private Call,None
+,2232108,IV3KUU,Alessandro,,, - ITA,,Private Call,None
+,2232109,IU1THV,Renato,,, - ITA,,Private Call,None
+,2232110,IU2RPM,Francesco,,, - ITA,,Private Call,None
+,2232111,IU1USY,Nicola,,, - ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,, - ITA,,Private Call,None

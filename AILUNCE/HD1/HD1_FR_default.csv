@@ -910,6 +910,7 @@ Private Call,OO0O Rudy,,,BEL,2060783
 Private Call,ON3GB Dimitri,,,BEL,2060784
 Private Call,ON3KDS Jan,,,BEL,2060785
 Private Call,ON3RVS Ronny,,,BEL,2060786
+Private Call,ON1ATO Tony,,,BEL,2060787
 Private Call,ON8SVH Stijn,,,BEL,2061001
 Private Call,ON8SI Simon,,,BEL,2061002
 Private Call,ON5LUC Luc,,,BEL,2061003
@@ -3794,6 +3795,10 @@ Private Call,F4MHV Yann,,,FRA,2081880
 Private Call,F4WFN Riccardo,,,FRA,2081881
 Private Call,F4LRU Jean Michel,,,FRA,2081882
 Private Call,F4FEY Manceau,,,FRA,2081883
+Private Call,F1OUN Joel,,,FRA,2081884
+Private Call,F4LCQ Laurent,,,FRA,2081885
+Private Call,F5PON Michel,,,FRA,2081886
+Private Call,F4LLS Francis,,,FRA,2081887
 Private Call,F4FUL Cyril,,,FRA,2082001
 Private Call,F5VIN Heiko,,,FRA,2082002
 Private Call,F1AGU Charles Henri,,,FRA,2082003
@@ -5686,6 +5691,7 @@ Private Call,HB3XEK Ywan,,,CHE,2280430
 Private Call,HB3YNF Daniel,,,CHE,2280431
 Private Call,HB9EXK Stefan,,,CHE,2280432
 Private Call,HB9HDL Craig,,,CHE,2280433
+Private Call,HB9DSP Ferdy,,,CHE,2280434
 Private Call,HB3YNV Cedric,,,CHE,2281001
 Private Call,HB3YNV Cedric,,,CHE,2281002
 Private Call,HB3YNV Cedric,,,CHE,2281003
@@ -13601,6 +13607,15 @@ Private Call,VA7DVT Andrew,,,CAN,3026432
 Private Call,VE3MNA Mark,,,CAN,3026433
 Private Call,VE3ERC Elmira Radio Club,,,CAN,3026434
 Private Call,VA3ZJW William,,,CAN,3026435
+Private Call,VA7GMZ Glenn,,,CAN,3026436
+Private Call,VA3KWG Kenneth,,,CAN,3026437
+Private Call,VA2WUT Jade,,,CAN,3026438
+Private Call,VA3KUD Kurt,,,CAN,3026439
+Private Call,VA4PMA Patrick,,,CAN,3026440
+Private Call,VE2VFI Pierre,,,CAN,3026441
+Private Call,VE3LFE Robert,,,CAN,3026442
+Private Call,VE7SQR Squamish,,,CAN,3026443
+Private Call,VA3QAL Alain,,,CAN,3026444
 Private Call,VA7RGM Robert,,,CAN,3026912
 Private Call,VA6LTV Larry,,,CAN,3026913
 Private Call,VE3ZWX James Bradley,,,CAN,3026914
@@ -13818,7 +13833,7 @@ Private Call,VE7HXD Robert,,,CAN,3027212
 Private Call,VE7WCQ Walter,,,CAN,3027213
 Private Call,VE7ERP Ken,,,CAN,3027214
 Private Call,VE7BEU Alan,,,CAN,3027215
-Private Call,VE7VCC Westcoast,,,CAN,3027216
+Private Call,VE7VCC Westcoast Amateur Radio Association,,,CAN,3027216
 Private Call,VE7KH Alfred,,,CAN,3027217
 Private Call,VA7UN Carl,,,CAN,3027218
 Private Call,VE7LWS Larry,,,CAN,3027219
