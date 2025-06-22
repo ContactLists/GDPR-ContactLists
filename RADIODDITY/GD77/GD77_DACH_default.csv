@@ -432,6 +432,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280432,HB9EXK,Stefan,,,,CHE
 2280433,HB9HDL,Craig,,,,CHE
 2280434,HB9DSP,Ferdy,,,,CHE
+2280435,HB3YAW,Nicolas,,,,CHE
+2280436,HB3YNG,Adam,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -1308,7 +1310,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286048,HB3YNL,Davide,,,,CHE
 2286049,HB3YVN,Ennio,,,,CHE
 2286050,HB9FWB,Arti,,,,CHE
-2286051,HB9FBJ,Andy,,,,CHE
+2286051,HB9FBJ,Andrea,,,,CHE
 2286052,HB9HJJ,Thomas,,,,CHE
 2286053,HB9ODL,Danilo,,,,CHE
 2286054,HB9FWB,Arti,,,,CHE
@@ -2777,7 +2779,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320769,OE7SOG,Sophia,,,,AUT
 2320770,OE7TNW,Thomas,,,,AUT
 2320771,OE3UMB,Martin,,,,AUT
-2320772,OE1EBG,Erich,,,,AUT
+2320772,OE1EBG,Birngruber,,,,AUT
 2320773,OE6MEE,Michael,,,,AUT
 2320774,OE1MJY,Markus,,,,AUT
 2320775,OE1GCA,Gerhard,,,,AUT
@@ -2863,6 +2865,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320855,OE3TMP,Wolfgang,,,,AUT
 2320856,OE1SXM,Sebastian,,,,AUT
 2320857,OE1LPI,Philipp,,,,AUT
+2320858,OE9WRI,Richard,,,,AUT
+2320859,OE6RGX,Reinhard,,,,AUT
+2320860,OE8OYH,Gabriel,,,,AUT
+2320861,OE6CWD,Werner,,,,AUT
 2321001,OE1KBC,Kurt,,,,AUT
 2321002,OE1KBC,Kurt,,,,AUT
 2321003,OE1KBC,Kurt,,,,AUT
@@ -10937,7 +10943,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2626887,DL0VEL,Clubst.,,,,DEU
 2626888,DK0UM,Clubst.,,,,DEU
 2626889,DK0NOT,ClubSt.,,,,DEU
-2626890,DO5DAM,Dirk Alexander,,,,DEU
+2626890,DO5DAM,Dirk,,,,DEU
 2626891,DO4ARK,Andreas,,,,DEU
 2626892,DF3ZS,Mathias,,,,DEU
 2626893,DO5TB,Timotheus-Bernd,,,,DEU
@@ -10964,7 +10970,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2626916,DK3FD,Stefan,,,,DEU
 2626918,DM0ZAV,Relais,,,,DEU
 2626920,DM1SB,Stephan,,,,DEU
-2626921,DK0KF,Clubst.,,,,DEU
+2626921,DK0KF,ClubSt.,,,,DEU
 2626922,DD9FY,Bernd,,,,DEU
 2626923,DF7TW,Wolfgang,,,,DEU
 2626924,DL9FAH,Walter,,,,DEU
@@ -15334,7 +15340,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2631530,DL9PL,Tomasz,,,,DEU
 2631531,DM1MJ,Mario,,,,DEU
 2631532,DG1MJG,Thomas,,,,DEU
-2631533,DL1HWB,Hans-Willi,,,,DEU
+2631533,DL1HWB,Willi,,,,DEU
 2631534,DF0PC,ClubSt.,,,,DEU
 2631535,DO8TG,Tim,,,,DEU
 2631536,DL2LC,Heinz P,,,,DEU
@@ -15780,7 +15786,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2631981,DG0AM,Hilmar,,,,DEU
 2631982,DL8BC,Bayram,,,,DEU
 2631983,DL5JN,Joerg,,,,DEU
-2631984,DO3ET,Georg Sorin,,,,DEU
+2631984,DG3ET,Georg-Sorin,,,,DEU
 2631985,DO8CE,Christian,,,,DEU
 2631986,DO1LMI,Linus Maria,,,,DEU
 2631987,DO6ELA,Michaela,,,,DEU
@@ -15974,7 +15980,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2632175,DL2ATZ,Uwe,,,,DEU
 2632176,DG2EBK,Michael,,,,DEU
 2632177,DG8SJE,Sven,,,,DEU
-2632178,DO2LET,Patrick,,,,DEU
+2632178,DG1WSK,Patrick,,,,DEU
 2632179,DO1EKF,Carsten,,,,DEU
 2632180,DO2ARD,Andre',,,,DEU
 2632181,DH4HWK,Maximilian,,,,DEU
@@ -16184,7 +16190,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2632389,DN9ETS,Michael Johannes Josef,,,,DEU
 2632390,DL4FP,Franz,,,,DEU
 2632391,DO7GG,Thomas,,,,DEU
-2632392,DO2TX,Claudia,,,,DEU
+2632392,DL3TX,Claudia,,,,DEU
 2632393,DF2JK,Franz-Josef,,,,DEU
 2632394,DL1STA,Stefan,,,,DEU
 2632395,DN9WS,Wolfgang,,,,DEU
@@ -18766,6 +18772,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2635013,DN9SSB,Patrick,,,,DEU
 2635014,DL8CL,Christoph,,,,DEU
 2635015,DH5HAI,Burkhard,,,,DEU
+2635016,DN9BER,Artur,,,,DEU
+2635017,DC3XN,Dietrich,,,,DEU
+2635018,DA6MK,Marvin,,,,DEU
+2635019,DG4NBR,Sven,,,,DEU
+2635020,DM5TO,Torsten,,,,DEU
+2635021,DA6BK,Berthold,,,,DEU
+2635022,DA6BY,Bernd,,,,DEU
+2635023,DL4MFH,Alfons,,,,DEU
+2635024,DL5MKR,Marc,,,,DEU
+2635025,DL2SIM,Christoph,,,,DEU
+2635026,DK5DV,Gerd,,,,DEU
 2636001,DO8AE,Andreas,,,,DEU
 2636002,DL6AAO,Arthur,,,,DEU
 2636003,DL4FBW,Wolfgang,,,,DEU
@@ -19884,7 +19901,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2638572,DK8RU,Dieter,,,,DEU
 2638573,DH8MST,Stefan,,,,DEU
 2638574,DJ5UW,Ulrich Rudolf,,,,DEU
-2638575,DO1SFT,Sebastian Alexander Georg,,,,DEU
+2638575,DL5BIT,Sebastian,,,,DEU
 2638576,DL2AWR,Wolfgang Hubert Guenter,,,,DEU
 2638577,DL1GLC,Gerhard,,,,DEU
 2638578,DG8MGN,Michael,,,,DEU
