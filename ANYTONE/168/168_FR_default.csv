@@ -927,6 +927,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060800,ON5AI,Erik,,,BEL,,Private Call,None
 ,2060801,ON4GN,Noel,,,BEL,,Private Call,None
 ,2060802,ON3MET,Tijmen,,,BEL,,Private Call,None
+,2060803,ON3GLR,Wouter,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,,BEL,,Private Call,None
@@ -2845,7 +2846,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2080842,F4HOZ,Koechlin,,,FRA,,Private Call,None
 ,2080843,F4IDU,Francois,,,FRA,,Private Call,None
 ,2080844,F4VSW,Andrew,,,FRA,,Private Call,None
-,2080845,F4JCF,Jean Marie,,,FRA,,Private Call,None
+,2080845,F4JCF,Jean,,,FRA,,Private Call,None
 ,2080846,F4FKT,David,,,FRA,,Private Call,None
 ,2080847,F5LGB,Pascal,,,FRA,,Private Call,None
 ,2080848,F5TIB,Olivier,,,FRA,,Private Call,None
@@ -3838,6 +3839,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081907,F4LAR,Siyyid,,,FRA,,Private Call,None
 ,2081908,F4LVR,Herve,,,FRA,,Private Call,None
 ,2081909,F4JQS,Arnaud,,,FRA,,Private Call,None
+,2081910,F4IRW,Thibaut,,,FRA,,Private Call,None
+,2081911,F5TOL,Weiss,,,FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,,FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,,FRA,,Private Call,None
 ,2082003,F1AGU,Charles Henri,,,FRA,,Private Call,None
@@ -5125,7 +5128,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2089355,F1MEK,Philippe,,,FRA,,Private Call,None
 ,2089356,F5IDK,Dany,,,FRA,,Private Call,None
 ,2089357,F5NWL,Nicolas,,,FRA,,Private Call,None
-,2089358,F5NLU,Jean-Francois,,,FRA,,Private Call,None
+,2089358,F5NLU,Jean Francois,,,FRA,,Private Call,None
 ,2089359,F4GTP,Mickael,,,FRA,,Private Call,None
 ,2089360,F4DBA,Feliciano,,,FRA,,Private Call,None
 ,2089361,F4CKW,Thibault,,,FRA,,Private Call,None
@@ -5745,6 +5748,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280445,HB9IPG,Dimitri,,,CHE,,Private Call,None
 ,2280446,HB9IPD,Marc,,,CHE,,Private Call,None
 ,2280447,HB9FGV,Michael,,,CHE,,Private Call,None
+,2280448,HB9FRT,Raymond,,,CHE,,Private Call,None
+,2280449,HB9HWF,Frederic,,,CHE,,Private Call,None
+,2280450,HB9DVE,Claude,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -13111,7 +13117,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025883,VA7RPI,Mircea,,,CAN,,Private Call,None
 ,3025884,VE3HEO,Michael,,,CAN,,Private Call,None
 ,3025885,VA3SGG,Stuart,,,CAN,,Private Call,None
-,3025886,VA3PS,Michael,,,CAN,,Private Call,None
+,3025886,VE7IMC,Michael,,,CAN,,Private Call,None
 ,3025887,VA2XXY,Francois,,,CAN,,Private Call,None
 ,3025888,VE3MPG,Robert,,,CAN,,Private Call,None
 ,3025889,VE2SUN,Michel,,,CAN,,Private Call,None
@@ -13731,6 +13737,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026504,VE3LFB,William,,,CAN,,Private Call,None
 ,3026505,VA4ADM,Pavlo,,,CAN,,Private Call,None
 ,3026506,VE4CT,Charles,,,CAN,,Private Call,None
+,3026507,VE1AHF,Douglas,,,CAN,,Private Call,None
+,3026508,VE7TAQ,Terrence,,,CAN,,Private Call,None
+,3026509,VE3MDC,Jeffrey,,,CAN,,Private Call,None
+,3026510,VA7KYZ,Kenneth,,,CAN,,Private Call,None
+,3026511,VE3IFC,Paul,,,CAN,,Private Call,None
+,3026512,VE1SPQ,Holden,,,CAN,,Private Call,None
+,3026513,VE7DQY,Patryk,,,CAN,,Private Call,None
+,3026514,VE2IUS,Gary,,,CAN,,Private Call,None
 ,3026912,VA7RGM,Robert,,,CAN,,Private Call,None
 ,3026913,VA6LTV,Larry,,,CAN,,Private Call,None
 ,3026914,VE3ZWX,James Bradley,,,CAN,,Private Call,None
@@ -13743,6 +13757,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026921,VE2JUC,Jean,,,CAN,,Private Call,None
 ,3026922,VE3PTV,Achiel,,,CAN,,Private Call,None
 ,3026923,VE2PQX,Crapq,,,CAN,,Private Call,None
+,3026924,VE7DBS,Donald,,,CAN,,Private Call,None
+,3026925,VE3RAG,Barrie,,,CAN,,Private Call,None
+,3026926,VE7TPM,Adam,,,CAN,,Private Call,None
+,3026927,VE2IMQ,Carlo,,,CAN,,Private Call,None
+,3026928,VE2YYQ,Patrick,,,CAN,,Private Call,None
 ,3027001,VE7NWX,Emcomm,,,CAN,,Private Call,None
 ,3027002,VE7NWX,Emcomm,,,CAN,,Private Call,None
 ,3027003,VE7NWX,Emcomm,,,CAN,,Private Call,None
