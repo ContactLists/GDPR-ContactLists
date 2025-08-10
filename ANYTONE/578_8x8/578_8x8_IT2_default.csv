@@ -4714,7 +4714,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224817,IU2MYY,Luigi,,, - ITA,,Private Call,None
 ,2224818,IZ2LSQ,Walter,,, - ITA,,Private Call,None
 ,2224819,IV3XHF,Dario,,, - ITA,,Private Call,None
-,2224821,IV3OAL,Delta,,, - ITA,,Private Call,None
+,2224821,IV3OAL,Luciano,,, - ITA,,Private Call,None
 ,2224822,IK3ITZ,Emilio,,, - ITA,,Private Call,None
 ,2224823,IZ2IKB,Iz2ikbss,,, - ITA,,Private Call,None
 ,2224824,IZ3ENH,Stefano,,, - ITA,,Private Call,None
@@ -10416,7 +10416,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2230582,IW2OCY,Silvano,,, - ITA,,Private Call,None
 ,2230583,IU8QTW,Nicola,,, - ITA,,Private Call,None
 ,2230584,IK1HGE,Roberto,,, - ITA,,Private Call,None
-,2230585,IU2RKB,Panico,,, - ITA,,Private Call,None
+,2230585,IU2RKB,Felice,,, - ITA,,Private Call,None
 ,2230586,IW9FUT,Francesco Maria,,, - ITA,,Private Call,None
 ,2230587,IU1KEM,Vittorio,,, - ITA,,Private Call,None
 ,2230588,IU3QXV,Cesare,,, - ITA,,Private Call,None
@@ -12019,6 +12019,16 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232193,IU2SOE,Sergio,,, - ITA,,Private Call,None
 ,2232194,IW0HIQ,David,,, - ITA,,Private Call,None
 ,2232195,IU1TBO,Patrizio,,, - ITA,,Private Call,None
+,2232196,IV3JSO,Andrea,,, - ITA,,Private Call,None
+,2232197,IT9KYZ,Michele,,, - ITA,,Private Call,None
+,2232198,IK4YWL,Nicola,,, - ITA,,Private Call,None
+,2232199,IU3QYU,Sandro,,, - ITA,,Private Call,None
+,2232200,I2XIP,Maurizio,,, - ITA,,Private Call,None
+,2232201,IU0UZM,Alessandro,,, - ITA,,Private Call,None
+,2232202,IU0UZE,Emilio,,, - ITA,,Private Call,None
+,2232203,I5RAD,Roberto,,, - ITA,,Private Call,None
+,2232204,IU1MVZ,Gianluca,,, - ITA,,Private Call,None
+,2232205,IU2GQX,Antonino,,, - ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,, - ITA,,Private Call,None
 ,2280001,4U1ITU,International,,, - CHE,,Private Call,None
 ,2280002,HB3XWO,Kornel,,, - CHE,,Private Call,None
@@ -12470,6 +12480,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280448,HB9FRT,Raymond,,, - CHE,,Private Call,None
 ,2280449,HB9HWF,Frederic,,, - CHE,,Private Call,None
 ,2280450,HB9DVE,Claude,,, - CHE,,Private Call,None
+,2280451,HB9ILR,Vasileios,,, - CHE,,Private Call,None
+,2280452,HB9IOB,Claude,,, - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,, - CHE,,Private Call,None
