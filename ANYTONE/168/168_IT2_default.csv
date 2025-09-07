@@ -11891,7 +11891,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232065,IZ1JKP,Remo,,,ITA,,Private Call,None
 ,2232066,IN3JIG,Giorgio,,,ITA,,Private Call,None
 ,2232067,IU5DXB,Giuseppe,,,ITA,,Private Call,None
-,2232068,IT9RXQ,Maria,,,ITA,,Private Call,None
+,2232068,IT9RXQ,Mariagrazia,,,ITA,,Private Call,None
 ,2232069,IU1QAB,Alessandro,,,ITA,,Private Call,None
 ,2232070,IZ7FMP,Fabrizio,,,ITA,,Private Call,None
 ,2232071,IU5SID,Giulio,,,ITA,,Private Call,None
@@ -12043,8 +12043,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232217,IN3JYL,Marco,,,ITA,,Private Call,None
 ,2232218,IZ3ZWK,Roberto,,,ITA,,Private Call,None
 ,2232219,IU2TET,Giuliano,,,ITA,,Private Call,None
+,2232220,IU3UIL,Ermanno,,,ITA,,Private Call,None
 ,2232221,IU5TSM,Nicola,,,ITA,,Private Call,None
 ,2232222,IW8EYF,Stefano,,,ITA,,Private Call,None
+,2232223,IU0VAO,Daniele,,,ITA,,Private Call,None
 ,2232224,IT9ZSB,Salvatore,,,ITA,,Private Call,None
 ,2232225,IU2SVI,Riccardo,,,ITA,,Private Call,None
 ,2232226,IW0BYL,Michele,,,ITA,,Private Call,None
@@ -12058,6 +12060,15 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232234,IZ0JRO,Alessandro,,,ITA,,Private Call,None
 ,2232235,IT9KWV,Pietro,,,ITA,,Private Call,None
 ,2232237,IW2NEF,Flavio,,,ITA,,Private Call,None
+,2232238,IK0NNT,Sergio,,,ITA,,Private Call,None
+,2232239,IU0UZX,Gianluca,,,ITA,,Private Call,None
+,2232240,IU2UUA,Giovanni,,,ITA,,Private Call,None
+,2232241,IW2DZL,Claudio,,,ITA,,Private Call,None
+,2232242,IT9UOX,Raimondo,,,ITA,,Private Call,None
+,2232243,IW0ECV,Marco,,,ITA,,Private Call,None
+,2232244,IU0UTN,Enrico,,,ITA,,Private Call,None
+,2232245,IU6UYV,Emiliano,,,ITA,,Private Call,None
+,2232246,IU2UCD,Andrea,,,ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,,ITA,,Private Call,None
 ,2280001,4U1ITU,International,,,CHE,,Private Call,None
 ,2280002,HB3XWO,Kornel,,,CHE,,Private Call,None
@@ -12513,6 +12524,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280452,HB9IOB,Claude,,,CHE,,Private Call,None
 ,2280453,HB9TSQ,Moritz,,,CHE,,Private Call,None
 ,2280454,HB3YSY,Stephane,,,CHE,,Private Call,None
+,2280455,HB9ZAX,Victor,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
