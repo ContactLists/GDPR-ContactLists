@@ -1,6 +1,7 @@
 Call Type,Contacts Alias,City,Province,Country,Call ID
 Private Call,IK0YYY Luca,,,ITA,2220001
 Private Call,IK0YYY Luca,,,ITA,2220002
+Private Call,IU1ERC Alberto,,,ITA,2220003
 Private Call,IT9LRZ Giovanni,,,ITA,2220004
 Private Call,IZ0XBM Andrea,,,ITA,2220005
 Private Call,IK0RTA Antonio,,,ITA,2220006
@@ -19,6 +20,7 @@ Private Call,IZ0YHW Giuseppe,,,ITA,2220018
 Private Call,I0QI Leonello,,,ITA,2220019
 Private Call,IW0BNE Sandro,,,ITA,2220020
 Private Call,IK0YRP Roberto,,,ITA,2220021
+Private Call,IK0UGL Roberto,,,ITA,2220022
 Private Call,IW0BF Carlo,,,ITA,2220023
 Private Call,IZ0OSI Patrizio,,,ITA,2220024
 Private Call,IZ0EZM Salvatore,,,ITA,2220025
@@ -129,6 +131,7 @@ Private Call,IZ0ZGJ Simone,,,ITA,2220129
 Private Call,IZ0ROQ Claudio,,,ITA,2220130
 Private Call,IZ0FWB Alessandro,,,ITA,2220131
 Private Call,IW0CQL Maurizio,,,ITA,2220132
+Private Call,IU3OWY Matteo,,,ITA,2220133
 Private Call,IZ0AIQ Renato,,,ITA,2220134
 Private Call,IZ0RIM Roberto,,,ITA,2220135
 Private Call,IZ0GWI Augusto,,,ITA,2220136
@@ -190,7 +193,7 @@ Private Call,IU0FOA Rino,,,ITA,2220193
 Private Call,IZ0DRB Vincenzo,,,ITA,2220194
 Private Call,IW0FXN Paolo,,,ITA,2220195
 Private Call,IZ0WPQ Francesco,,,ITA,2220196
-Private Call,IZ0RRZ Giampiero,,,ITA,2220197
+Private Call,IZ0RRZ Giampjst,,,ITA,2220197
 Private Call,IZ0GEB Giovanni,,,ITA,2220198
 Private Call,IZ0OBR Ricciatti,,,ITA,2220199
 Private Call,I0KTE Stefano,,,ITA,2220200
@@ -362,7 +365,7 @@ Private Call,IZ0JBM Maurizio,,,ITA,2220381
 Private Call,IZ0RPS Marcello,,,ITA,2220382
 Private Call,IU0GIL Roberto,,,ITA,2220383
 Private Call,IK0JOS Roberto,,,ITA,2220384
-Private Call,IZ0HSR Giancarlo,,,ITA,2220385
+Private Call,IZ0HSR Gian,,,ITA,2220385
 Private Call,IZ0KAT Fabio,,,ITA,2220386
 Private Call,IU0AFP Riccardo,,,ITA,2220387
 Private Call,IU0BCN Paolo,,,ITA,2220388
@@ -507,7 +510,7 @@ Private Call,IZ0HQR Pietro,,,ITA,2220526
 Private Call,I0PCB Attilio,,,ITA,2220527
 Private Call,IZ0WNE Sandro,,,ITA,2220528
 Private Call,IZ0BTV Simone,,,ITA,2220529
-Private Call,IQ0CV Hamrc,,,ITA,2220530
+Private Call,IQ0CV Mariano,,,ITA,2220530
 Private Call,IZ0FYG Roberto,,,ITA,2220531
 Private Call,IW0EKS Fabrizio,,,ITA,2220532
 Private Call,IS0OZK Antonio,,,ITA,2220533
@@ -530,7 +533,7 @@ Private Call,I0YCB Bruno,,,ITA,2220550
 Private Call,IS0DSW Stefanino,,,ITA,2220551
 Private Call,IK0LFL Lorenzo,,,ITA,2220552
 Private Call,IZ0FKE Vincenzo,,,ITA,2220553
-Private Call,IU5DOC Andrea Romaldo,,,ITA,2220554
+Private Call,IU5DOC Farfaricchio,,,ITA,2220554
 Private Call,IZ0VAF Daniele,,,ITA,2220555
 Private Call,IK0QKN Claudio,,,ITA,2220556
 Private Call,IU0FBK Marco,,,ITA,2220557
@@ -612,10 +615,11 @@ Private Call,IU0CDM Paolo,,,ITA,2220632
 Private Call,IW0RHQ Filippo,,,ITA,2220633
 Private Call,IW0ENP David,,,ITA,2220634
 Private Call,IU0JKT Filippo,,,ITA,2220635
-Private Call,IU0SWS Fausto,,,ITA,2220636
+Private Call,IU0SWS Temperini,,,ITA,2220636
 Private Call,IZ0YBP Mario,,,ITA,2220637
+Private Call,IU2UEP Cristian,,,ITA,2220638
 Private Call,IU0JIW Daniele,,,ITA,2220639
-Private Call,IZ0YCD Rosario,,,ITA,2220640
+Private Call,IZ0YCD Gianluca,,,ITA,2220640
 Private Call,IU0JHY Paolo,,,ITA,2220641
 Private Call,IZ0RIV Francesco,,,ITA,2220642
 Private Call,IW0EAB Eugenio,,,ITA,2220643
@@ -716,7 +720,7 @@ Private Call,IZ0MIH Marco,,,ITA,2220737
 Private Call,IS0CAK Gianni,,,ITA,2220738
 Private Call,IU0KJE Stefano,,,ITA,2220739
 Private Call,IZ0MIY Marco,,,ITA,2220740
-Private Call,IZ0WXA Vincenzo,,,ITA,2220741
+Private Call,IZ0WXA Onofrio,,,ITA,2220741
 Private Call,IS0DFB Claudio,,,ITA,2220742
 Private Call,IU0HKO Paolo,,,ITA,2220743
 Private Call,IQ0TE Club,,,ITA,2220744
@@ -726,7 +730,7 @@ Private Call,IW0URG Siro,,,ITA,2220747
 Private Call,IU0FLG Giuliano,,,ITA,2220748
 Private Call,IU0HJR Michele,,,ITA,2220749
 Private Call,IU0CXO Paolo,,,ITA,2220750
-Private Call,IS0NBP Scalas,,,ITA,2220751
+Private Call,IS0NBP Giovanni,,,ITA,2220751
 Private Call,IW0HMS Domenico,,,ITA,2220752
 Private Call,IZ0ASK Mario,,,ITA,2220753
 Private Call,IW0GCW Federico,,,ITA,2220754
@@ -1095,7 +1099,7 @@ Private Call,IX1DSV Francesco,,,ITA,2221116
 Private Call,IW1RIM Carlo,,,ITA,2221117
 Private Call,IW1PRT Alberto,,,ITA,2221118
 Private Call,IZ1MLT Luca,,,ITA,2221119
-Private Call,IZ1MEU Sobrero,,,ITA,2221120
+Private Call,IZ1MEU Roberto,,,ITA,2221120
 Private Call,IZ1OAC Andrea,,,ITA,2221121
 Private Call,IZ1ZJV Alessandro,,,ITA,2221122
 Private Call,IK1MUA Vinicio,,,ITA,2221123
@@ -1125,7 +1129,7 @@ Private Call,IU1FIG Diego,,,ITA,2221146
 Private Call,IU1DVK Giovanni,,,ITA,2221147
 Private Call,IZ1AZS Gianfranco,,,ITA,2221148
 Private Call,IZ1YDR Alessandro,,,ITA,2221149
-Private Call,IK1YBM Marra,,,ITA,2221150
+Private Call,IK1YBM Corrado,,,ITA,2221150
 Private Call,IZ1XEK Marco,,,ITA,2221151
 Private Call,IZ1GXR Ernesto,,,ITA,2221152
 Private Call,IW1EAO Germano,,,ITA,2221153
@@ -1143,7 +1147,7 @@ Private Call,IU1GAS Alessandro,,,ITA,2221166
 Private Call,IZ1UQJ Giorgio,,,ITA,2221167
 Private Call,IZ1MLB Massimo,,,ITA,2221168
 Private Call,IZ1GMA Fulvio,,,ITA,2221169
-Private Call,IZ1XAL Vitale,,,ITA,2221170
+Private Call,IZ1XAL Enrico,,,ITA,2221170
 Private Call,IZ1YKQ Gabriele,,,ITA,2221173
 Private Call,IK1MVX Andrea,,,ITA,2221174
 Private Call,I1NOL Lucio,,,ITA,2221175
@@ -1184,6 +1188,7 @@ Private Call,IW1RLE Carlo,,,ITA,2221214
 Private Call,IW1BZG Fiorenzo,,,ITA,2221215
 Private Call,IZ1OQB Giuseppe,,,ITA,2221216
 Private Call,IZ1ZCJ Simone,,,ITA,2221217
+Private Call,IU1RZS Alessandro,,,ITA,2221218
 Private Call,IZ1UMP Fabio,,,ITA,2221219
 Private Call,IW1PPM Angelo,,,ITA,2221221
 Private Call,IZ1PAI Michele,,,ITA,2221222
@@ -1198,8 +1203,9 @@ Private Call,IZ1VMS Dario,,,ITA,2221230
 Private Call,IU1GPP Romualdo,,,ITA,2221231
 Private Call,IZ1TNJ Paolo,,,ITA,2221232
 Private Call,IW1GHU Ivan,,,ITA,2221233
+Private Call,IV3BVI Gianluca,,,ITA,2221234
 Private Call,IZ1PND Lucio,,,ITA,2221235
-Private Call,IZ1DFJ Maule,,,ITA,2221236
+Private Call,IZ1DFJ Giuseppe,,,ITA,2221236
 Private Call,I1KDO Lorenzo,,,ITA,2221237
 Private Call,IK1WHN Maurizio,,,ITA,2221238
 Private Call,IZ1JKF Angelo,,,ITA,2221239
@@ -1215,7 +1221,7 @@ Private Call,IU1HJL Christian,,,ITA,2221251
 Private Call,IU1HIH Simone,,,ITA,2221252
 Private Call,IX1FZK Giuseppe,,,ITA,2221253
 Private Call,IZ1PTT Diego,,,ITA,2221254
-Private Call,IZ1NEM Quolaschi,,,ITA,2221255
+Private Call,IZ1NEM Gianni,,,ITA,2221255
 Private Call,IW1GEU Audric,,,ITA,2221256
 Private Call,IK1ZYO Stefano,,,ITA,2221257
 Private Call,IW1RDZ Stefano,,,ITA,2221258
@@ -1269,7 +1275,7 @@ Private Call,IZ1HLU Sandro,,,ITA,2221307
 Private Call,IZ1UQG Alessandro,,,ITA,2221308
 Private Call,IZ1UKB Roberto,,,ITA,2221309
 Private Call,IZ1RFM Carlo,,,ITA,2221310
-Private Call,IK1JNS Pino,,,ITA,2221311
+Private Call,IK1JNS Giuseppe,,,ITA,2221311
 Private Call,I1GFV Giacomo,,,ITA,2221313
 Private Call,IK1VDI Giorgio,,,ITA,2221314
 Private Call,IZ1DRY Lorenzo,,,ITA,2221315
@@ -1322,7 +1328,7 @@ Private Call,IZ1GWN Daniele,,,ITA,2221361
 Private Call,IW1CMT Gianluca,,,ITA,2221362
 Private Call,IU1FKB Roberto,,,ITA,2221363
 Private Call,IX1VYM Sergio,,,ITA,2221364
-Private Call,IZ1YUJ Pudler,,,ITA,2221365
+Private Call,IZ1YUJ Loris,,,ITA,2221365
 Private Call,IW1AWD Salvatore,,,ITA,2221366
 Private Call,IK1JJG Barbara,,,ITA,2221367
 Private Call,IW1BNC Fulvio,,,ITA,2221368
@@ -1370,7 +1376,7 @@ Private Call,IZ1POT Marco,,,ITA,2221409
 Private Call,IK1WGZ Simone,,,ITA,2221410
 Private Call,IW1GFX Salvo,,,ITA,2221411
 Private Call,IZ1OSP Fabio,,,ITA,2221412
-Private Call,IZ1RJW Lai,,,ITA,2221413
+Private Call,IZ1RJW Sandro,,,ITA,2221413
 Private Call,IK1RIM Ezio,,,ITA,2221414
 Private Call,I1ZDW Pierluigi,,,ITA,2221415
 Private Call,I1XSG Gianfranco,,,ITA,2221416
@@ -1455,7 +1461,7 @@ Private Call,IK1ZOE Giuseppe,,,ITA,2221494
 Private Call,IZ1JZD Riccardo,,,ITA,2221495
 Private Call,IZ1WWV Claudio,,,ITA,2221496
 Private Call,IZ1PQL Gian,,,ITA,2221497
-Private Call,IU1EAE Torli,,,ITA,2221498
+Private Call,IU1EAE Oscar,,,ITA,2221498
 Private Call,IZ1YQM Riccardo,,,ITA,2221499
 Private Call,IK1TNR Roberto,,,ITA,2221500
 Private Call,IU1FLY Claudio,,,ITA,2221501
@@ -1482,7 +1488,7 @@ Private Call,IZ1JKC Domenico,,,ITA,2221521
 Private Call,IW1CDD Pierangelo,,,ITA,2221522
 Private Call,IZ1YSM Massimiliano,,,ITA,2221523
 Private Call,IW1BEZ Ettore,,,ITA,2221524
-Private Call,IW1ECY Gianfranco,,,ITA,2221525
+Private Call,IW1ECY Gian,,,ITA,2221525
 Private Call,IK1AQI Michele,,,ITA,2221526
 Private Call,IZ1RHY Marco,,,ITA,2221527
 Private Call,IU1IRV Salvatore,,,ITA,2221528
@@ -1579,7 +1585,7 @@ Private Call,IW1RG Alessandro,,,ITA,2221619
 Private Call,IZ1MLF Gabriele,,,ITA,2221620
 Private Call,IK1EVN Attilio,,,ITA,2221621
 Private Call,IU1FIY Massimiliano,,,ITA,2221622
-Private Call,IW1BBR Sergio-Condom.,,,ITA,2221623
+Private Call,IW1BBR Sergio,,,ITA,2221623
 Private Call,IU1KEU Federico,,,ITA,2221624
 Private Call,IZ1OST Mario,,,ITA,2221625
 Private Call,IZ1BWB Salvatore,,,ITA,2221626
@@ -1603,7 +1609,7 @@ Private Call,IU1JCZ Maurizio,,,ITA,2221643
 Private Call,IZ1ZIV Filippo,,,ITA,2221644
 Private Call,IU1KQE Flavio,,,ITA,2221645
 Private Call,IK1QBT Antonio,,,ITA,2221646
-Private Call,IU1FNA Bernardi,,,ITA,2221647
+Private Call,IU1FNA Maurizio,,,ITA,2221647
 Private Call,IZ1SBX Romano,,,ITA,2221648
 Private Call,IU1JQS Lucio,,,ITA,2221649
 Private Call,IU1CNG Aldo,,,ITA,2221650
@@ -1934,7 +1940,7 @@ Private Call,IU0NDT Mauro,,,ITA,2221976
 Private Call,IU1NEA Giuseppe,,,ITA,2221977
 Private Call,IW1DGI Diego,,,ITA,2221978
 Private Call,IZ1PJC Mauro,,,ITA,2221979
-Private Call,IW1CWY no_name,,,ITA,2221980
+Private Call,IW1CWY No_name,,,ITA,2221980
 Private Call,IU1NDA Pietro,,,ITA,2221981
 Private Call,IK0SWN Paolo,,,ITA,2221982
 Private Call,IW1PNW Gianluigi,,,ITA,2221983
@@ -1946,12 +1952,12 @@ Private Call,IU0DEO Davide,,,ITA,2221988
 Private Call,IZ0OVW Romolo,,,ITA,2221989
 Private Call,IW0DVK Giovanni,,,ITA,2221990
 Private Call,IU0NHL Alex,,,ITA,2221991
-Private Call,IU0EUC no_name,,,ITA,2221992
+Private Call,IU0EUC No_name,,,ITA,2221992
 Private Call,IS0IGT Andrea,,,ITA,2221993
 Private Call,IK0SMD Raffaele,,,ITA,2221994
 Private Call,IU1LAY Riccardo,,,ITA,2221995
 Private Call,IS0HYQ Raffaele,,,ITA,2221996
-Private Call,IW0HKX no_name,,,ITA,2221997
+Private Call,IW0HKX No_name,,,ITA,2221997
 Private Call,IQ1YY Clubst.,,,ITA,2221998
 Private Call,IZ1HVD Danilo,,,ITA,2221999
 Private Call,IK1SPR Flavio,,,ITA,2222000
@@ -2001,7 +2007,7 @@ Private Call,IW2ISR Paolo,,,ITA,2222044
 Private Call,IW2CWP Luigi,,,ITA,2222045
 Private Call,IZ2RML Luca,,,ITA,2222046
 Private Call,IW2GOB Maurizio,,,ITA,2222047
-Private Call,IQ2SI S.G.Milanes,,,ITA,2222048
+Private Call,IQ2SI Ass.Radioclub,,,ITA,2222048
 Private Call,IK2RXU Giovanni,,,ITA,2222049
 Private Call,IW2DPZ Fernando,,,ITA,2222050
 Private Call,IZ2OAV Alessandro,,,ITA,2222051
@@ -2017,7 +2023,7 @@ Private Call,IZ0CRQ Nicola,,,ITA,2222060
 Private Call,IZ2DDY Emilio,,,ITA,2222061
 Private Call,IZ2GAJ Paolo,,,ITA,2222062
 Private Call,IW2BCF Roberto,,,ITA,2222063
-Private Call,IZ2RML Miozzari,,,ITA,2222064
+Private Call,IZ2RML Luca,,,ITA,2222064
 Private Call,IW2NWV Vittorio,,,ITA,2222065
 Private Call,IW2NBW Andrea,,,ITA,2222066
 Private Call,IK2OVD Enrico,,,ITA,2222067
@@ -2201,7 +2207,7 @@ Private Call,IZ2FEB Gianvito,,,ITA,2222251
 Private Call,IK2UIZ Pericle,,,ITA,2222252
 Private Call,IW2AFC Giuseppe,,,ITA,2222253
 Private Call,IK2PCG Giuseppe,,,ITA,2222255
-Private Call,IQ2DP ARI,,,ITA,2222256
+Private Call,IQ2DP Sezione,,,ITA,2222256
 Private Call,IZ2WXW Dario,,,ITA,2222258
 Private Call,IU2GDE Aldo,,,ITA,2222259
 Private Call,IW2GUU Maurizio,,,ITA,2222261
@@ -2451,7 +2457,7 @@ Private Call,IW2GKU Mario,,,ITA,2222515
 Private Call,IW2MYH Mario,,,ITA,2222516
 Private Call,IW2FND Lucio,,,ITA,2222517
 Private Call,IU2HOU Luca,,,ITA,2222518
-Private Call,IU2GLK Andrea,,,ITA,2222519
+Private Call,IU2GLK Lombardia,,,ITA,2222519
 Private Call,IU2BZL Claudio,,,ITA,2222520
 Private Call,IW2GHZ Antonio,,,ITA,2222521
 Private Call,IU2GLS Davide,,,ITA,2222522
@@ -2512,7 +2518,7 @@ Private Call,IU2HGC Maurizio,,,ITA,2222577
 Private Call,IK2FYI Ugo,,,ITA,2222578
 Private Call,IZ2VBF Antonino,,,ITA,2222579
 Private Call,IZ2OAM Domenico,,,ITA,2222580
-Private Call,IU2UPZ Massimiliano,,,ITA,2222581
+Private Call,IU2UPZ Morgante,,,ITA,2222581
 Private Call,IZ2FNN Maurizio,,,ITA,2222582
 Private Call,IK2UJM Antonio,,,ITA,2222583
 Private Call,I2WXU Santino,,,ITA,2222584
@@ -2543,7 +2549,7 @@ Private Call,IU2FDM Pietro,,,ITA,2222609
 Private Call,IZ2WPO Giorgio,,,ITA,2222610
 Private Call,IU2HZE Giuseppe,,,ITA,2222611
 Private Call,I2LRQ Roberto,,,ITA,2222612
-Private Call,IZ2TEF Vinco,,,ITA,2222613
+Private Call,IZ2TEF Antonio,,,ITA,2222613
 Private Call,IW2EJJ Piero,,,ITA,2222614
 Private Call,IU2ACH Fabio,,,ITA,2222615
 Private Call,IW2BBT Stefano,,,ITA,2222616
@@ -2617,7 +2623,7 @@ Private Call,I2JWU Luigi,,,ITA,2222685
 Private Call,IZ2HTI Michele,,,ITA,2222686
 Private Call,IU2HCL Ferdinando,,,ITA,2222687
 Private Call,IW2EMD Donato,,,ITA,2222688
-Private Call,IW2GQE Pierfranco,,,ITA,2222689
+Private Call,IW2GQE Franco,,,ITA,2222689
 Private Call,IU2DWG Graziano,,,ITA,2222690
 Private Call,IU2GGC Marco,,,ITA,2222691
 Private Call,IZ2QPP Ermes,,,ITA,2222692
@@ -2766,7 +2772,7 @@ Private Call,IW2JKC Paolo,,,ITA,2222835
 Private Call,IU2JXL Jean,,,ITA,2222836
 Private Call,IU2HYD Simone,,,ITA,2222837
 Private Call,IU2JXN Giovanni,,,ITA,2222838
-Private Call,IZ2WQN Porri,,,ITA,2222839
+Private Call,IZ2WQN Domenico,,,ITA,2222839
 Private Call,IU2IHJ Maurizio,,,ITA,2222840
 Private Call,IU2IGX Daniel,,,ITA,2222841
 Private Call,IK2BWO Sandra,,,ITA,2222842
@@ -2777,7 +2783,7 @@ Private Call,IW2NZZ Luca,,,ITA,2222846
 Private Call,IU2IZX Mauro,,,ITA,2222847
 Private Call,IW2FHV Pietro,,,ITA,2222848
 Private Call,IW2HSM Bruno,,,ITA,2222849
-Private Call,IU2IIV Guarisco,,,ITA,2222850
+Private Call,IU2IIV Francesco,,,ITA,2222850
 Private Call,IU2JVW Luca,,,ITA,2222851
 Private Call,IK2VTJ Piero,,,ITA,2222852
 Private Call,IZ2FNS Onofrio,,,ITA,2222853
@@ -2798,8 +2804,8 @@ Private Call,IK2THS Norberto,,,ITA,2222869
 Private Call,IZ2OKC Luigi,,,ITA,2222870
 Private Call,IU2KDZ Carlo,,,ITA,2222871
 Private Call,IZ2PDR Paolo,,,ITA,2222872
-Private Call,IZ2WAC Antonio,,,ITA,2222873
-Private Call,IW2FPB Corriero,,,ITA,2222874
+Private Call,IZ2WAC Antonello,,,ITA,2222873
+Private Call,IW2FPB Gaetano,,,ITA,2222874
 Private Call,IK2FYK Roberto,,,ITA,2222875
 Private Call,IZ2RPJ Luigi,,,ITA,2222876
 Private Call,IW2NWT Marcello,,,ITA,2222877
@@ -2850,7 +2856,7 @@ Private Call,IZ2OAX Marco,,,ITA,2222922
 Private Call,IU2IFK Claudio,,,ITA,2222923
 Private Call,IU2JZR Alberto,,,ITA,2222924
 Private Call,IU2BZM Stefano,,,ITA,2222925
-Private Call,IU2KAW Gabiele,,,ITA,2222926
+Private Call,IU2KAW Gabriele,,,ITA,2222926
 Private Call,IU2KKT Ivan,,,ITA,2222927
 Private Call,IU2KEN Giovanni,,,ITA,2222928
 Private Call,IU2GHZ Fabrizio,,,ITA,2222929
@@ -2925,7 +2931,7 @@ Private Call,IU2KWN Sante,,,ITA,2222997
 Private Call,IU2HAH Andrea,,,ITA,2222998
 Private Call,IZ2WDX Gabriele,,,ITA,2222999
 Private Call,IZ2ESL Daniele,,,ITA,2223000
-Private Call,IW3SRH Dorso,,,ITA,2223001
+Private Call,IW3SRH Stefano,,,ITA,2223001
 Private Call,IV3DVE Corrado,,,ITA,2223002
 Private Call,IV3FHS Antonio,,,ITA,2223003
 Private Call,IZ3JZF Mauro,,,ITA,2223004
@@ -2933,7 +2939,7 @@ Private Call,IW3IBG Giorgio,,,ITA,2223005
 Private Call,IK3HHG Francesco,,,ITA,2223006
 Private Call,IW3FLF Alberto,,,ITA,2223007
 Private Call,IW3IBS Franco,,,ITA,2223008
-Private Call,IQ3ZB Sez.,,,ITA,2223009
+Private Call,IQ3ZB Cisar,,,ITA,2223009
 Private Call,IQ3TV Cisar,,,ITA,2223010
 Private Call,IZ3VBY Christian,,,ITA,2223011
 Private Call,IK3ITU Davide,,,ITA,2223012
@@ -2984,7 +2990,7 @@ Private Call,IW3ICV Manuel,,,ITA,2223056
 Private Call,IZ3SMN Angelo,,,ITA,2223057
 Private Call,IW3BTS Paolo,,,ITA,2223058
 Private Call,IN3HOQ Ezio,,,ITA,2223059
-Private Call,IW3BYL Ars-E,,,ITA,2223060
+Private Call,IW3BYL Christian,,,ITA,2223060
 Private Call,IK3DNT Sommavilla,,,ITA,2223061
 Private Call,IW3AHJ Martin,,,ITA,2223062
 Private Call,IZ3QBN Sergio,,,ITA,2223063
@@ -3156,7 +3162,7 @@ Private Call,IW3FEE Massimo,,,ITA,2223236
 Private Call,IZ3ZMC Luigi,,,ITA,2223237
 Private Call,IU3GMR Paolo,,,ITA,2223238
 Private Call,IN3GIN Harald,,,ITA,2223239
-Private Call,IQ3NY Dolomitesrc,,,ITA,2223240
+Private Call,IQ3NY Dolomites,,,ITA,2223240
 Private Call,IU3EHW Alessio,,,ITA,2223241
 Private Call,IW3GXH Nicola,,,ITA,2223242
 Private Call,IW3FLC Raffaele,,,ITA,2223244
@@ -3194,7 +3200,7 @@ Private Call,IZ3WTP Mattia,,,ITA,2223275
 Private Call,IZ3WZQ Roberto,,,ITA,2223276
 Private Call,IZ3VEL Franco,,,ITA,2223277
 Private Call,IZ3VDO Bruno,,,ITA,2223278
-Private Call,IW3IET Ballanti,,,ITA,2223279
+Private Call,IW3IET Francesco,,,ITA,2223279
 Private Call,IK3GHR Fortunato,,,ITA,2223280
 Private Call,IW3MYV Marco,,,ITA,2223281
 Private Call,IN3FPJ Ivan,,,ITA,2223282
@@ -3213,7 +3219,7 @@ Private Call,IW3BVS Stefano,,,ITA,2223294
 Private Call,IZ3SVI Adriano,,,ITA,2223295
 Private Call,IZ3CAO Armando,,,ITA,2223296
 Private Call,IV3FIF Giuseppe,,,ITA,2223297
-Private Call,IU3BRF Vairo,,,ITA,2223298
+Private Call,IU3BRF Enzo,,,ITA,2223298
 Private Call,IV3ISG Roberto,,,ITA,2223299
 Private Call,IW3HKL Paolo,,,ITA,2223300
 Private Call,IZ3WWG Claudio,,,ITA,2223301
@@ -3293,7 +3299,7 @@ Private Call,I3SGR Giancarlo,,,ITA,2223375
 Private Call,I3VQE Claudio,,,ITA,2223376
 Private Call,IN3PPH Sandro,,,ITA,2223377
 Private Call,IW3GNC Daniele,,,ITA,2223378
-Private Call,IV3DDN Cimarosti,,,ITA,2223379
+Private Call,IV3DDN Stefano,,,ITA,2223379
 Private Call,IU3HTV Stefano,,,ITA,2223380
 Private Call,IN3FZO Franco,,,ITA,2223381
 Private Call,IU3BRC Elvis,,,ITA,2223382
@@ -3301,7 +3307,7 @@ Private Call,IW3IMM Danilo,,,ITA,2223383
 Private Call,IW3EJH Pierluigi,,,ITA,2223384
 Private Call,IZ3PUR Hendrik,,,ITA,2223385
 Private Call,IZ3LWT Dario,,,ITA,2223386
-Private Call,IZ3XOJ Meglioli,,,ITA,2223387
+Private Call,IZ3XOJ Orlando,,,ITA,2223387
 Private Call,IW3IHY Marco,,,ITA,2223388
 Private Call,IW3QVF Flavio,,,ITA,2223389
 Private Call,IK3VZL Gianni,,,ITA,2223390
@@ -3330,7 +3336,7 @@ Private Call,IU3GQI Fabio,,,ITA,2223412
 Private Call,IZ3ZUC Antonello,,,ITA,2223413
 Private Call,IV3CEM Sergio,,,ITA,2223414
 Private Call,IU3EON Luigi,,,ITA,2223415
-Private Call,IN3ITA Alex,,,ITA,2223416
+Private Call,IN3ITA Alessandro,,,ITA,2223416
 Private Call,IN3EFP Manuel,,,ITA,2223417
 Private Call,IN3ETA Michele,,,ITA,2223418
 Private Call,IW3AZU Enzo,,,ITA,2223419
@@ -3472,7 +3478,7 @@ Private Call,IN3FQH Pierpaolo,,,ITA,2223554
 Private Call,IV3CTT Alessandro,,,ITA,2223555
 Private Call,IU3GQM Loretto,,,ITA,2223556
 Private Call,IV3AVQ Giol,,,ITA,2223557
-Private Call,IZ3NZK Sartori,,,ITA,2223558
+Private Call,IZ3NZK Oscar,,,ITA,2223558
 Private Call,IV3FGX Gianpaolo,,,ITA,2223559
 Private Call,IK3DQU Stefano,,,ITA,2223560
 Private Call,IU3ILN Luca,,,ITA,2223561
@@ -3552,7 +3558,7 @@ Private Call,IW3RQH Marco,,,ITA,2223635
 Private Call,IN3BCB Marco,,,ITA,2223636
 Private Call,IZ3SMF Andrea,,,ITA,2223637
 Private Call,IZ3TVL Davide,,,ITA,2223638
-Private Call,IW3GAF Bondani,,,ITA,2223639
+Private Call,IW3GAF Vittorio,,,ITA,2223639
 Private Call,IV3GTU Fabio,,,ITA,2223640
 Private Call,IU3FEN Ercole,,,ITA,2223641
 Private Call,IW3SQL Roberto,,,ITA,2223642
@@ -3606,7 +3612,7 @@ Private Call,IV3OAZ Bruno,,,ITA,2223690
 Private Call,IZ3ZMC Luigi,,,ITA,2223691
 Private Call,IU3GNS Adelberto,,,ITA,2223692
 Private Call,IZ3QTC Paolo,,,ITA,2223693
-Private Call,IZ3ZOY Passarelli,,,ITA,2223694
+Private Call,IZ3ZOY Umberto,,,ITA,2223694
 Private Call,IV3GCU Ferruccio,,,ITA,2223695
 Private Call,IV3NQS Riccardo,,,ITA,2223697
 Private Call,IV3SCP Mauro,,,ITA,2223698
@@ -3678,7 +3684,7 @@ Private Call,IU3JXJ Alberto,,,ITA,2223763
 Private Call,IV3KHC Sergio,,,ITA,2223764
 Private Call,IN3HAK Massimo,,,ITA,2223765
 Private Call,IU3GKL Alessandro,,,ITA,2223766
-Private Call,IV3DSF Giocomo,,,ITA,2223767
+Private Call,IV3DSF Giacomo,,,ITA,2223767
 Private Call,IZ3QFK Massimo,,,ITA,2223768
 Private Call,IW3IEM Ferruccio,,,ITA,2223769
 Private Call,IW3SRB Giorgio,,,ITA,2223770
@@ -4013,7 +4019,7 @@ Private Call,IU4GAZ Francesco,,,ITA,2224106
 Private Call,IU4AOS Maurizio,,,ITA,2224107
 Private Call,IK4ANJ Gianni,,,ITA,2224108
 Private Call,IU4FNR Fabrizio,,,ITA,2224109
-Private Call,IZ4JIR Reggiani,,,ITA,2224110
+Private Call,IZ4JIR Maurizio,,,ITA,2224110
 Private Call,IZ4YKR Roberto,,,ITA,2224111
 Private Call,IU4BIP Giorgio,,,ITA,2224112
 Private Call,IQ4FA Ari,,,ITA,2224113
@@ -4033,7 +4039,7 @@ Private Call,IZ4HBE Marco,,,ITA,2224128
 Private Call,IU4CZW Andrea,,,ITA,2224129
 Private Call,IA5KRO Alessandro,,,ITA,2224130
 Private Call,IW4EQO Alessandro,,,ITA,2224131
-Private Call,IU4FMW Cagnina,,,ITA,2224132
+Private Call,IU4FMW Giuseppe,,,ITA,2224132
 Private Call,IZ4FUA Fausto,,,ITA,2224133
 Private Call,IU4DKT Tiziano,,,ITA,2224134
 Private Call,IW4BSG Andrea,,,ITA,2224135
@@ -4135,7 +4141,7 @@ Private Call,IZ4XAI Francesco,,,ITA,2224230
 Private Call,IZ4RTB Mario,,,ITA,2224231
 Private Call,IZ4ISK Marco,,,ITA,2224232
 Private Call,IU4GBM Fabio,,,ITA,2224233
-Private Call,IU4FKO Reggianini,,,ITA,2224234
+Private Call,IU4FKO Fabrizio,,,ITA,2224234
 Private Call,IK4DCV Valerio,,,ITA,2224235
 Private Call,IU4FJG Erio,,,ITA,2224236
 Private Call,IU4BJC Stefano,,,ITA,2224238
@@ -4180,7 +4186,7 @@ Private Call,IZ4VSH Dino,,,ITA,2224276
 Private Call,IU4DTT Claudio,,,ITA,2224277
 Private Call,IZ4BEI Stefano,,,ITA,2224278
 Private Call,IZ4BOV Lamberto,,,ITA,2224279
-Private Call,IZ4SJB Massimilian,,,ITA,2224280
+Private Call,IZ4SJB Massimiliano,,,ITA,2224280
 Private Call,IK4RUI Giuseppe,,,ITA,2224281
 Private Call,IU4HMS Vasco,,,ITA,2224282
 Private Call,IZ4MUG Angelo,,,ITA,2224283
@@ -4506,7 +4512,7 @@ Private Call,IZ3XEN Piergiorgio,,,ITA,2224605
 Private Call,IZ2PIZ David,,,ITA,2224606
 Private Call,IW2NPQ Roger,,,ITA,2224607
 Private Call,IZ3VCM Giuseppe,,,ITA,2224608
-Private Call,IZ6OVE Nicola,,,ITA,2224609
+Private Call,IZ6OVE Bryan,,,ITA,2224609
 Private Call,IU3MHL Andrea,,,ITA,2224610
 Private Call,IU2LXJ Giuseppe,,,ITA,2224611
 Private Call,IN3HUS Achim,,,ITA,2224612
@@ -4563,7 +4569,7 @@ Private Call,IW3BXO Markus,,,ITA,2224662
 Private Call,IZ3DRO Giancarlo,,,ITA,2224663
 Private Call,IU3MDI Luca,,,ITA,2224664
 Private Call,IZ4NTC Mario,,,ITA,2224665
-Private Call,IU3EGM Masenelli,,,ITA,2224666
+Private Call,IU3EGM Andrea,,,ITA,2224666
 Private Call,IW3GHZ Dimitri,,,ITA,2224667
 Private Call,IW2NQM Michele,,,ITA,2224668
 Private Call,I3BQC Vittorino,,,ITA,2224669
@@ -4838,7 +4844,7 @@ Private Call,IW3BKX Michele,,,ITA,2224940
 Private Call,IU2NEZ Franco,,,ITA,2224941
 Private Call,IW2LTW Emanuele,,,ITA,2224942
 Private Call,IZ3WWO Massimo,,,ITA,2224943
-Private Call,IU2LYI no_name,,,ITA,2224944
+Private Call,IU2LYI No_name,,,ITA,2224944
 Private Call,IW2GPY Massimiliano,,,ITA,2224945
 Private Call,IK4YAZ Fabrizio,,,ITA,2224946
 Private Call,IW3FUA Valter,,,ITA,2224947
@@ -4850,7 +4856,7 @@ Private Call,IU3NJT Luca,,,ITA,2224952
 Private Call,IU2NKD Patrizio,,,ITA,2224953
 Private Call,IZ0DIA Vittorio,,,ITA,2224954
 Private Call,IU2JYN Angelo,,,ITA,2224955
-Private Call,IU0NMW no_name,,,ITA,2224956
+Private Call,IU0NMW No_name,,,ITA,2224956
 Private Call,IW1FWO Marco,,,ITA,2224957
 Private Call,IU1FZY Augusto,,,ITA,2224958
 Private Call,IU2JXK Matteo,,,ITA,2224959
@@ -5146,7 +5152,7 @@ Private Call,IU5JJU Giuseppe,,,ITA,2225249
 Private Call,IU5JJR Massimo,,,ITA,2225250
 Private Call,IU5JJV Adriano,,,ITA,2225251
 Private Call,IW5EJS Luca,,,ITA,2225252
-Private Call,IW5CGF Sergio,,,ITA,2225253
+Private Call,IW5CGF Nannucci,,,ITA,2225253
 Private Call,IU5JTI Mauro,,,ITA,2225254
 Private Call,IK5ZUN Marco,,,ITA,2225255
 Private Call,IZ5YDY Paolo,,,ITA,2225256
@@ -5171,7 +5177,7 @@ Private Call,IA5FYI Stefano,,,ITA,2225274
 Private Call,IK5PWO Mauro,,,ITA,2225275
 Private Call,IW5EJD Ezio,,,ITA,2225276
 Private Call,IZ5FDM Pietro,,,ITA,2225277
-Private Call,IW5EKI Bianchi,,,ITA,2225278
+Private Call,IW5EKI Gabriele,,,ITA,2225278
 Private Call,IZ5UXP Nicola,,,ITA,2225279
 Private Call,IA5GPY Rocco,,,ITA,2225280
 Private Call,IU5FFJ Graziano,,,ITA,2225281
@@ -5237,7 +5243,7 @@ Private Call,IA5ANR Fabio,,,ITA,2225340
 Private Call,IU5LBC Ross,,,ITA,2225341
 Private Call,IU5KZV Domenico,,,ITA,2225342
 Private Call,IU5JUR Claudio,,,ITA,2225343
-Private Call,IU5HXP Salvo,,,ITA,2225344
+Private Call,IU5HXP Salvarove,,,ITA,2225344
 Private Call,IU5BUR Andrea,,,ITA,2225345
 Private Call,IU5HLE Christian,,,ITA,2225346
 Private Call,IZ5HNI Maurizio,,,ITA,2225347
@@ -5250,7 +5256,7 @@ Private Call,IW5AOM Giorgio,,,ITA,2225353
 Private Call,IU5KZG Stefano,,,ITA,2225354
 Private Call,IW5CSJ Roberto,,,ITA,2225355
 Private Call,IW5EKE Luca,,,ITA,2225356
-Private Call,IK5JAM Valerio,,,ITA,2225357
+Private Call,IK5JAM Radiojam,,,ITA,2225357
 Private Call,IW5EAW Walter,,,ITA,2225358
 Private Call,IK5WWP Lorenzo,,,ITA,2225359
 Private Call,IU5DJV Stefano,,,ITA,2225360
@@ -5278,12 +5284,12 @@ Private Call,IZ5IYD David,,,ITA,2225381
 Private Call,IU5JJL Alberto,,,ITA,2225382
 Private Call,IU5KHP Nicola,,,ITA,2225383
 Private Call,IU5LBO Piero,,,ITA,2225384
-Private Call,IU5JJF Simone,,,ITA,2225385
+Private Call,IU5JJF Marchese,,,ITA,2225385
 Private Call,IU5IBA Maurizio,,,ITA,2225386
 Private Call,IZ5TIX Nunzio,,,ITA,2225387
 Private Call,I5ZQY Romano,,,ITA,2225388
 Private Call,IU5LAD Luca,,,ITA,2225389
-Private Call,IU5HXP Salvo,,,ITA,2225390
+Private Call,IU5HXP Salvarove,,,ITA,2225390
 Private Call,IA5HTC Carmine,,,ITA,2225391
 Private Call,IU5KZT Luigi,,,ITA,2225392
 Private Call,IU5JOP Carlo,,,ITA,2225393
@@ -5351,7 +5357,7 @@ Private Call,IU5KZP Samuele,,,ITA,2225454
 Private Call,IU5MRL Nello,,,ITA,2225455
 Private Call,IZ5VTE Paolo,,,ITA,2225456
 Private Call,IZ5IOT Claudio,,,ITA,2225457
-Private Call,IU5MPO Daniele,,,ITA,2225458
+Private Call,IU5MPO Tascapane,,,ITA,2225458
 Private Call,IU5MMN Luca,,,ITA,2225459
 Private Call,IZ5PIM Gabriele,,,ITA,2225460
 Private Call,IK5PWA Massimo,,,ITA,2225461
@@ -5380,7 +5386,7 @@ Private Call,IU5NFW Emanuele,,,ITA,2225483
 Private Call,IZ5AQX Andrea,,,ITA,2225484
 Private Call,IU5NGG Luciano,,,ITA,2225485
 Private Call,IK5ZQC Francesco,,,ITA,2225486
-Private Call,IW1ECT Pierfranco,,,ITA,2225487
+Private Call,IW1ECT Pier Franco,,,ITA,2225487
 Private Call,IZ5BBW Alessandro,,,ITA,2225488
 Private Call,IU5BLE Andrea,,,ITA,2225489
 Private Call,IZ5VTT Giuseppe,,,ITA,2225490
@@ -5392,7 +5398,7 @@ Private Call,IU1NHW Gianpy,,,ITA,2225495
 Private Call,IK1ZOE Giuseppe,,,ITA,2225496
 Private Call,IU2KWO Silvano,,,ITA,2225497
 Private Call,IU0MUR Roberto,,,ITA,2225498
-Private Call,IU8NIY Pasquale,,,ITA,2225499
+Private Call,IU8NIY No_name,,,ITA,2225499
 Private Call,IK2GAU Antonio,,,ITA,2225500
 Private Call,IS0ANZ Alessandro,,,ITA,2225501
 Private Call,IZ5MJL Mauro,,,ITA,2225502
@@ -5444,7 +5450,7 @@ Private Call,IU3NPG Renato,,,ITA,2225548
 Private Call,IT9IIJ Mario,,,ITA,2225549
 Private Call,IU3NPQ Andrea,,,ITA,2225550
 Private Call,IZ3OCW Giuseppe,,,ITA,2225551
-Private Call,IU2BZJ no_name,,,ITA,2225552
+Private Call,IU2BZJ No_name,,,ITA,2225552
 Private Call,IQ1KE Tortona,,,ITA,2225553
 Private Call,IK1IXG Roberto,,,ITA,2225554
 Private Call,IZ4QJG Gianni,,,ITA,2225556
@@ -5453,8 +5459,8 @@ Private Call,IZ7DCU Pasquale,,,ITA,2225558
 Private Call,IZ2SMR Alfio,,,ITA,2225559
 Private Call,IZ5VVO Andrea,,,ITA,2225560
 Private Call,IW8PKK Antonio,,,ITA,2225562
-Private Call,IZ0KIS Roberto,,,ITA,2225563
-Private Call,IU0NON no_name,,,ITA,2225564
+Private Call,IZ0KIS No_name,,,ITA,2225563
+Private Call,IU0NON No_name,,,ITA,2225564
 Private Call,IW6PWD Renato,,,ITA,2225565
 Private Call,IZ5EKW Sergio,,,ITA,2225566
 Private Call,IT9BZW Vincenzo,,,ITA,2225567
@@ -5489,7 +5495,7 @@ Private Call,IZ4MTH Andrea,,,ITA,2225595
 Private Call,IZ0YQH Angelo,,,ITA,2225596
 Private Call,IW2CMK Michele,,,ITA,2225597
 Private Call,IK7IZM Massimo,,,ITA,2225598
-Private Call,IU3NQR Rainieri,,,ITA,2225599
+Private Call,IU3NQR No_name,,,ITA,2225599
 Private Call,IU5CJP Massimiliano,,,ITA,2225600
 Private Call,IK4MGG Massimo,,,ITA,2225601
 Private Call,IZ2LUR Mirko,,,ITA,2225602
@@ -5526,7 +5532,7 @@ Private Call,IU6MEI Marcello,,,ITA,2225632
 Private Call,IU0JKU Gianpaolo,,,ITA,2225633
 Private Call,IW2GSC Marco,,,ITA,2225634
 Private Call,IU4MTR Stefania,,,ITA,2225635
-Private Call,IQ8JQ no_name,,,ITA,2225636
+Private Call,IQ8JQ No_name,,,ITA,2225636
 Private Call,IU3LGV Gasta,,,ITA,2225637
 Private Call,I7URN Maddalena,,,ITA,2225638
 Private Call,I7YEC Domenico,,,ITA,2225639
@@ -5554,7 +5560,7 @@ Private Call,IW2MMX Ennio,,,ITA,2225660
 Private Call,IZ4HBF Giancarlo,,,ITA,2225661
 Private Call,IZ8NNY Vito,,,ITA,2225662
 Private Call,IZ6RAF No_name,,,ITA,2225663
-Private Call,IU5MQM Massimo,,,ITA,2225664
+Private Call,IU5MQM No_name,,,ITA,2225664
 Private Call,IU7CMS Luigi,,,ITA,2225665
 Private Call,IZ2SXZ Nicol,,,ITA,2225666
 Private Call,IW5BUD Sergio,,,ITA,2225667
@@ -5563,7 +5569,7 @@ Private Call,IU1BGW Michele,,,ITA,2225669
 Private Call,IU8CDS Raffaele,,,ITA,2225670
 Private Call,IZ1MMM Sergio,,,ITA,2225671
 Private Call,IW2LPC Alessandro,,,ITA,2225672
-Private Call,IU0DSZ no_name,,,ITA,2225673
+Private Call,IU0DSZ No_name,,,ITA,2225673
 Private Call,IW6PIC Ivo,,,ITA,2225674
 Private Call,IU3MAQ Ivan,,,ITA,2225675
 Private Call,IK8WTK Salvatore,,,ITA,2225676
@@ -5619,7 +5625,7 @@ Private Call,IU5FGI Roberto,,,ITA,2225725
 Private Call,IV3SXI Massimo,,,ITA,2225726
 Private Call,IZ8EZB Vincenzo,,,ITA,2225727
 Private Call,IU2ABD Fabrizio,,,ITA,2225728
-Private Call,IU4NTK no_name,,,ITA,2225729
+Private Call,IU4NTK No_name,,,ITA,2225729
 Private Call,IU8IPU Giovanni,,,ITA,2225730
 Private Call,IZ6BYS Franco,,,ITA,2225731
 Private Call,IU5MSR Leonardo,,,ITA,2225732
@@ -5637,13 +5643,13 @@ Private Call,IW0BRD Gilberto,,,ITA,2225743
 Private Call,I4AWX Luigi,,,ITA,2225744
 Private Call,IW8RVX Basilio,,,ITA,2225745
 Private Call,IS0LIO Sergio,,,ITA,2225746
-Private Call,IW0CFZ no_name,,,ITA,2225747
+Private Call,IW0CFZ No_name,,,ITA,2225747
 Private Call,IU3NOZ Giovanni,,,ITA,2225748
 Private Call,IZ7ECR Cristiano,,,ITA,2225749
 Private Call,I8VLW Franco,,,ITA,2225750
 Private Call,IU1NPI Alessio,,,ITA,2225751
 Private Call,IZ8LLT Enzo,,,ITA,2225752
-Private Call,IZ8XLY Antonio,,,ITA,2225753
+Private Call,IZ8XLY Chiaro,,,ITA,2225753
 Private Call,IU7NKX Giuseppe,,,ITA,2225754
 Private Call,IZ0UHL Luca,,,ITA,2225755
 Private Call,IZ5FJS Wolfgang,,,ITA,2225756
@@ -5738,10 +5744,10 @@ Private Call,IW1DUS Mario,,,ITA,2225844
 Private Call,IW8QQL Antonio,,,ITA,2225845
 Private Call,IW5EDX Andrea,,,ITA,2225846
 Private Call,IT9APM Stefano,,,ITA,2225847
-Private Call,IK8YFU Alessandro,,,ITA,2225848
+Private Call,IK8YFU no_name,,,ITA,2225848
 Private Call,IZ7NSF Claudio,,,ITA,2225849
 Private Call,IK1WNN Carlo,,,ITA,2225850
-Private Call,IU1EML Giorgio,,,ITA,2225851
+Private Call,IU1EML no_name,,,ITA,2225851
 Private Call,IK8BPY Armando,,,ITA,2225852
 Private Call,IU3LWK Flavio,,,ITA,2225853
 Private Call,IU0MXX Luca,,,ITA,2225854
@@ -5760,20 +5766,20 @@ Private Call,IZ2YNN Francesco,,,ITA,2225866
 Private Call,IW9GFD Salvatore,,,ITA,2225867
 Private Call,IK7XIX Pietro,,,ITA,2225868
 Private Call,IW2FHE Franco,,,ITA,2225869
-Private Call,IK4ZHN Stefano,,,ITA,2225870
+Private Call,IK4ZHN no_name,,,ITA,2225870
 Private Call,IW2DQE Giancarlo,,,ITA,2225871
 Private Call,IW2ERH Sergio,,,ITA,2225872
 Private Call,IT9YBG Giuseppe,,,ITA,2225873
 Private Call,IU8LIM Pugliese,,,ITA,2225874
 Private Call,IW6BPB Remo,,,ITA,2225875
 Private Call,IN3YCV Gabriele,,,ITA,2225876
-Private Call,IK1MYV Edoantonio,,,ITA,2225877
-Private Call,IW1BAS Pierluigi,,,ITA,2225878
+Private Call,IK1MYV no_name,,,ITA,2225877
+Private Call,IW1BAS no_name,,,ITA,2225878
 Private Call,IT9CUD Renato,,,ITA,2225879
 Private Call,I1IME Emilio,,,ITA,2225880
-Private Call,IZ8FGO Domenico,,,ITA,2225881
+Private Call,IZ8FGO no_name,,,ITA,2225881
 Private Call,IW6DHQ Giorgio,,,ITA,2225882
-Private Call,IU2ILF Simone,,,ITA,2225883
+Private Call,IU2ILF no_name,,,ITA,2225883
 Private Call,IK4FMY Paolo,,,ITA,2225884
 Private Call,IU1ALQ Marco,,,ITA,2225885
 Private Call,IW8RC Salvatore,,,ITA,2225886
@@ -5806,7 +5812,7 @@ Private Call,IQ7KF Arm,,,ITA,2225912
 Private Call,IZ7PFU Massimiliano,,,ITA,2225913
 Private Call,I5EUS Sergio,,,ITA,2225914
 Private Call,IU7EPQ Loredana,,,ITA,2225915
-Private Call,IW2JRL Mauro,,,ITA,2225916
+Private Call,IW2JRL no_name,,,ITA,2225916
 Private Call,IW3GBZ Maurizio,,,ITA,2225917
 Private Call,IT9ACJ Roberto,,,ITA,2225918
 Private Call,IW3FXI Marco,,,ITA,2225919
@@ -5816,7 +5822,7 @@ Private Call,IU6BJT Marco,,,ITA,2225922
 Private Call,IK0IXO Enrico,,,ITA,2225923
 Private Call,IZ8GUA Andrea,,,ITA,2225924
 Private Call,IU8KDD Raffaele,,,ITA,2225925
-Private Call,IU2NWH Emanuele,,,ITA,2225926
+Private Call,IU2NWH No_name,,,ITA,2225926
 Private Call,IS0EQP Paolo,,,ITA,2225927
 Private Call,IW0ROX Alessandro,,,ITA,2225928
 Private Call,IS0MNR Valente,,,ITA,2225929
@@ -5855,7 +5861,7 @@ Private Call,IW6MR Guido,,,ITA,2225961
 Private Call,IW5CSQ Stefano,,,ITA,2225962
 Private Call,IZ2BKG Claudio,,,ITA,2225963
 Private Call,IZ2IZE Angelo,,,ITA,2225964
-Private Call,IZ2GGS Pierangelo,,,ITA,2225965
+Private Call,IZ2GGS no_name,,,ITA,2225965
 Private Call,IW8EWY Vincenzo,,,ITA,2225966
 Private Call,IZ2RPP Nicola,,,ITA,2225967
 Private Call,IU2NRH Francesco,,,ITA,2225968
@@ -5947,7 +5953,7 @@ Private Call,IQ6UF Cisar,,,ITA,2226055
 Private Call,IZ6IOC Gianluca,,,ITA,2226056
 Private Call,IW6MBC Roberto,,,ITA,2226057
 Private Call,I6IBE Ivo,,,ITA,2226058
-Private Call,IK6PUO Fillippo,,,ITA,2226061
+Private Call,IK6PUO Filippo,,,ITA,2226061
 Private Call,IW6PIC Ivo,,,ITA,2226062
 Private Call,IZ6WWZ Italo,,,ITA,2226064
 Private Call,IK6RCE Angelo,,,ITA,2226065
@@ -6194,7 +6200,7 @@ Private Call,IK6OCX Camillo,,,ITA,2226314
 Private Call,IU6EOV Mattia,,,ITA,2226315
 Private Call,IK6RRM Luciano,,,ITA,2226316
 Private Call,IU6CRP Massimiliano,,,ITA,2226317
-Private Call,IU6KLC Simmio,,,ITA,2226318
+Private Call,IU6KLC Massimo,,,ITA,2226318
 Private Call,IZ6GVC Camillo,,,ITA,2226319
 Private Call,IK6FVE Luigi,,,ITA,2226320
 Private Call,IW6BFH Alessandro,,,ITA,2226321
@@ -6284,7 +6290,7 @@ Private Call,IW6NAW Pier,,,ITA,2226405
 Private Call,IU0GJQ Marty,,,ITA,2226406
 Private Call,IZ2YAL Federico,,,ITA,2226407
 Private Call,IW1GLE Silvano,,,ITA,2226408
-Private Call,IZ2OBB Bruno,,,ITA,2226409
+Private Call,IZ2OBB No_name,,,ITA,2226409
 Private Call,IU5GBQ Andrea,,,ITA,2226410
 Private Call,IT9QAU Ferdinando,,,ITA,2226411
 Private Call,IT9CLX Mirko,,,ITA,2226412
@@ -6402,7 +6408,7 @@ Private Call,IW2KFK Sergio,,,ITA,2226523
 Private Call,IK3NWX Silvano,,,ITA,2226524
 Private Call,IZ6GGW Pacifico,,,ITA,2226525
 Private Call,IU7NYY Cosimo,,,ITA,2226526
-Private Call,IW0BUJ Masa,,,ITA,2226527
+Private Call,IW0BUJ no_name,,,ITA,2226527
 Private Call,IK7TAM Domenico,,,ITA,2226528
 Private Call,IU5MOT Alessio,,,ITA,2226529
 Private Call,IZ0THC Raffaele,,,ITA,2226530
@@ -6472,7 +6478,7 @@ Private Call,IK4POT Guido,,,ITA,2226593
 Private Call,IW3HMH Daniele,,,ITA,2226594
 Private Call,I3MKH Mirko,,,ITA,2226595
 Private Call,IU0LOL Michele,,,ITA,2226596
-Private Call,IU3EIU Fabio,,,ITA,2226597
+Private Call,IU3EIU no_name,,,ITA,2226597
 Private Call,IU6OBP Emanuele,,,ITA,2226598
 Private Call,IW9DJW Luca,,,ITA,2226599
 Private Call,IT9IEI Angelo,,,ITA,2226600
@@ -6480,7 +6486,7 @@ Private Call,IU8DSP Ivan,,,ITA,2226601
 Private Call,IW6PEO Elio,,,ITA,2226602
 Private Call,I5GVQ Giampietro,,,ITA,2226603
 Private Call,IT9OPR Pietro,,,ITA,2226604
-Private Call,IU3GNQ Breda,,,ITA,2226605
+Private Call,IU3GNQ Giancarlo,,,ITA,2226605
 Private Call,IU5LRH Daniele,,,ITA,2226606
 Private Call,IU3NPO Massimo,,,ITA,2226607
 Private Call,IU5DKW Marco,,,ITA,2226608
@@ -6508,7 +6514,7 @@ Private Call,IU4BJQ Massimiliano,,,ITA,2226629
 Private Call,IX1DSY Fabrizio,,,ITA,2226630
 Private Call,IT9HJH Diego,,,ITA,2226631
 Private Call,IK1XPK Claudio,,,ITA,2226632
-Private Call,IU2OFF Riccardo,,,ITA,2226633
+Private Call,IU2OFF No_name,,,ITA,2226633
 Private Call,IW6PLC Carmine,,,ITA,2226634
 Private Call,IU8CWN Vincenzo,,,ITA,2226635
 Private Call,IW4EMI Alessandro,,,ITA,2226636
@@ -6549,7 +6555,7 @@ Private Call,IW6MKH Antonio,,,ITA,2226670
 Private Call,IK6STP Pietro,,,ITA,2226671
 Private Call,IW7DNZ Angelo,,,ITA,2226672
 Private Call,IU8OGE Diego,,,ITA,2226673
-Private Call,IN3HKF Claudio,,,ITA,2226674
+Private Call,IN3HKF Carraro,,,ITA,2226674
 Private Call,IZ2ZQP Romano,,,ITA,2226675
 Private Call,IZ1MMV Pietro,,,ITA,2226676
 Private Call,IU3MOD Giuseppe,,,ITA,2226677
@@ -6652,7 +6658,7 @@ Private Call,IT9SCM Giuseppe,,,ITA,2226773
 Private Call,IZ4ISO Brina,,,ITA,2226774
 Private Call,IU8HOX Gianluca,,,ITA,2226775
 Private Call,IK7HTS Vito,,,ITA,2226776
-Private Call,IU8MJN Saverio,,,ITA,2226777
+Private Call,IU8MJN no_name,,,ITA,2226777
 Private Call,IU8ALI Tony,,,ITA,2226778
 Private Call,IZ5DQK Mariano,,,ITA,2226779
 Private Call,IZ0ZBD Francesco,,,ITA,2226780
@@ -6687,7 +6693,7 @@ Private Call,IK8SQQ Giuseppe,,,ITA,2226809
 Private Call,IK1YFC Gerardo,,,ITA,2226810
 Private Call,IZ1VGD Alessio,,,ITA,2226811
 Private Call,IU5OHC Fabio,,,ITA,2226812
-Private Call,IU0IAX Massimo,,,ITA,2226813
+Private Call,IU0IAX no_name,,,ITA,2226813
 Private Call,IW1BYB Franco,,,ITA,2226814
 Private Call,IK8ULF Alessandro,,,ITA,2226815
 Private Call,IZ5VYR Giulio,,,ITA,2226816
@@ -6964,7 +6970,7 @@ Private Call,IK7LVE Michele,,,ITA,2227089
 Private Call,IZ7UOR Angelo,,,ITA,2227090
 Private Call,IZ7JRR Nicola,,,ITA,2227092
 Private Call,IU7RKF Nicola,,,ITA,2227093
-Private Call,IZ7AUC Fornarelli,,,ITA,2227094
+Private Call,IZ7AUC Armando,,,ITA,2227094
 Private Call,IU7CYO Fabio,,,ITA,2227095
 Private Call,IW7DZB Vito,,,ITA,2227096
 Private Call,IU2NVK Marco,,,ITA,2227097
@@ -6990,7 +6996,7 @@ Private Call,I8WWH Giuseppe,,,ITA,2227116
 Private Call,IK7TAI Marcello,,,ITA,2227117
 Private Call,IK7DIJ Ettore,,,ITA,2227118
 Private Call,IZ7ZHZ Francesco,,,ITA,2227119
-Private Call,IZ7UVF Caragiulo,,,ITA,2227120
+Private Call,IZ7UVF Stefano,,,ITA,2227120
 Private Call,IW7EHF Michele,,,ITA,2227121
 Private Call,IK7SEC Alessandro,,,ITA,2227122
 Private Call,IU7GHD Pasquale,,,ITA,2227124
@@ -7035,7 +7041,7 @@ Private Call,I7JDL Aldo,,,ITA,2227162
 Private Call,IW7ECC Antonio,,,ITA,2227163
 Private Call,IW7DVM Giuseppe,,,ITA,2227164
 Private Call,IZ7QNH Vito,,,ITA,2227165
-Private Call,IZ7ZIT Laneve,,,ITA,2227166
+Private Call,IZ7ZIT Davide,,,ITA,2227166
 Private Call,IZ7NMD Paolo,,,ITA,2227167
 Private Call,IZ7DCU Pasquale,,,ITA,2227168
 Private Call,IK7LKD Francesco,,,ITA,2227169
@@ -7071,7 +7077,7 @@ Private Call,I7STE Eliseo,,,ITA,2227198
 Private Call,IZ7JXB Antonio,,,ITA,2227199
 Private Call,IZ7LDC Fabrizio,,,ITA,2227200
 Private Call,IK7XLH Antonio,,,ITA,2227201
-Private Call,IU7KEK Walter,,,ITA,2227202
+Private Call,IU7KEK no_name,,,ITA,2227202
 Private Call,IK7HTB Davide,,,ITA,2227203
 Private Call,IK7EJT Simplicio,,,ITA,2227204
 Private Call,IK7SUI Vito,,,ITA,2227205
@@ -7119,7 +7125,7 @@ Private Call,IW7EBB Gianluca,,,ITA,2227247
 Private Call,IZ7EDQ Leone,,,ITA,2227248
 Private Call,IZ7GIT Cristiano,,,ITA,2227249
 Private Call,IU7FLW Vincenzo,,,ITA,2227250
-Private Call,IZ2ACF Luigi,,,ITA,2227251
+Private Call,IZ2ACF no_name,,,ITA,2227251
 Private Call,IZ7DMT Vito,,,ITA,2227252
 Private Call,IK7EJT Simplicio,,,ITA,2227253
 Private Call,IU7EZF Giando,,,ITA,2227254
@@ -7170,7 +7176,7 @@ Private Call,IU7BPO Michele,,,ITA,2227298
 Private Call,IU7CNP Mos,,,ITA,2227299
 Private Call,IZ7DOQ Salvatore,,,ITA,2227301
 Private Call,IK7EJC Romolo,,,ITA,2227302
-Private Call,IU7FDV Lacivita,,,ITA,2227303
+Private Call,IU7FDV Vincenzo,,,ITA,2227303
 Private Call,IK7NXP Giovanni,,,ITA,2227304
 Private Call,IZ7BHB Giovanni,,,ITA,2227306
 Private Call,IU7HVR Massimo,,,ITA,2227307
@@ -7211,7 +7217,7 @@ Private Call,IU7KIW Enzo,,,ITA,2227341
 Private Call,IU7IGI Michele,,,ITA,2227342
 Private Call,IK7IMP Icilio,,,ITA,2227343
 Private Call,IU7KDY Nicola,,,ITA,2227344
-Private Call,IZ7YJW Ciro,,,ITA,2227345
+Private Call,IZ7YJW Gino,,,ITA,2227345
 Private Call,IZ8GTJ Rocco,,,ITA,2227347
 Private Call,IK7MCM Domenico,,,ITA,2227348
 Private Call,IU7EKL Nicola,,,ITA,2227349
@@ -7234,13 +7240,13 @@ Private Call,IU7GUW Mario,,,ITA,2227365
 Private Call,IZ7FMI Gioacchino,,,ITA,2227366
 Private Call,IU7IVX Pierpaolo,,,ITA,2227367
 Private Call,IZ7YEX Francesco,,,ITA,2227368
-Private Call,IZ7QEN Tommaso,,,ITA,2227369
+Private Call,IZ7QEN Tommy,,,ITA,2227369
 Private Call,IU7JDU Ruggiero,,,ITA,2227370
-Private Call,I7CCF Felice,,,ITA,2227371
+Private Call,I7CCF Felix,,,ITA,2227371
 Private Call,IZ7YVH Antonio,,,ITA,2227372
 Private Call,IK7WPI Domenico,,,ITA,2227373
 Private Call,IW7EFT Vincenzo,,,ITA,2227374
-Private Call,IZ7QEN Tommaso,,,ITA,2227375
+Private Call,IZ7QEN Tommy,,,ITA,2227375
 Private Call,IK7JBL Michele,,,ITA,2227376
 Private Call,IZ7EYG Luigi,,,ITA,2227377
 Private Call,IU7BPZ Francesco,,,ITA,2227378
@@ -7783,7 +7789,7 @@ Private Call,IQ8BB Clubst.,,,ITA,2227916
 Private Call,IZ1HJR Rosario,,,ITA,2227917
 Private Call,IT9HBX Corrado,,,ITA,2227918
 Private Call,IU4PJD Giuliano,,,ITA,2227919
-Private Call,IW7EHE Torzullo,,,ITA,2227920
+Private Call,IW7EHE Giuseppe,,,ITA,2227920
 Private Call,IW9GLA Sebastiano,,,ITA,2227921
 Private Call,IZ8OLX Luigi,,,ITA,2227922
 Private Call,IU1DWT Walter,,,ITA,2227923
@@ -7804,7 +7810,7 @@ Private Call,I2JWK Daniele,,,ITA,2227937
 Private Call,IU4NJV Riccardo,,,ITA,2227938
 Private Call,IU4PJP Fabio,,,ITA,2227939
 Private Call,IK0VCK Stefano,,,ITA,2227940
-Private Call,IW3IOS Andre,,,ITA,2227941
+Private Call,IW3IOS Andrea,,,ITA,2227941
 Private Call,IW1EVU Massimo,,,ITA,2227942
 Private Call,IU8OJT Marco,,,ITA,2227943
 Private Call,IT9HPP Raffaele,,,ITA,2227944
@@ -7937,7 +7943,7 @@ Private Call,IW8DGS Paolo,,,ITA,2228073
 Private Call,IK8WEQ Marco,,,ITA,2228074
 Private Call,IC8DAK Paolo,,,ITA,2228075
 Private Call,IU8ADN Giacomo,,,ITA,2228076
-Private Call,IZ8VGJ Meola,,,ITA,2228077
+Private Call,IZ8VGJ Ilenia,,,ITA,2228077
 Private Call,IU8DJI Angelo,,,ITA,2228078
 Private Call,IZ8FEX Vincenzo,,,ITA,2228079
 Private Call,IZ8QLH Bruno,,,ITA,2228081
@@ -8175,7 +8181,7 @@ Private Call,IZ8FWX Angelo,,,ITA,2228322
 Private Call,IW8RFH Antonio,,,ITA,2228323
 Private Call,IW8ROE Vincenzo,,,ITA,2228324
 Private Call,IZ8EDI Giuseppe,,,ITA,2228325
-Private Call,IZ8WMQ Arpicelli,,,ITA,2228326
+Private Call,IZ8WMQ Luigi,,,ITA,2228326
 Private Call,IW8BVN Antonio,,,ITA,2228327
 Private Call,IZ8EQA Antonino,,,ITA,2228328
 Private Call,IU8CEH Mario,,,ITA,2228329
@@ -8283,7 +8289,7 @@ Private Call,IZ8SFM Paolo,,,ITA,2228431
 Private Call,IU8JWC Nunzio,,,ITA,2228432
 Private Call,IU8JNZ Gianfranco,,,ITA,2228433
 Private Call,IZ8VMY Pasquale,,,ITA,2228434
-Private Call,IZ8QAH Leo,,,ITA,2228435
+Private Call,IZ8QAH Brandimarte,,,ITA,2228435
 Private Call,IK8TWU Giuseppe,,,ITA,2228436
 Private Call,IU8CDT Salvatore,,,ITA,2228437
 Private Call,IZ8SFJ Mauro,,,ITA,2228438
@@ -8499,7 +8505,7 @@ Private Call,IZ8GPB Franco,,,ITA,2228649
 Private Call,IZ8EWB Gianluigi,,,ITA,2228650
 Private Call,IZ8SZY Danilo,,,ITA,2228651
 Private Call,IW8EHK Alessandro,,,ITA,2228652
-Private Call,IU8FWT Rosa,,,ITA,2228653
+Private Call,IU8FWT Toty,,,ITA,2228653
 Private Call,IW8RSW Giuseppe,,,ITA,2228654
 Private Call,IZ8GEX Angelo,,,ITA,2228655
 Private Call,IW8RVY Francesco,,,ITA,2228657
@@ -8589,7 +8595,7 @@ Private Call,IZ8STO Josef,,,ITA,2228740
 Private Call,IK8OZV Vincenzo,,,ITA,2228741
 Private Call,IZ8DLJ Tommaso,,,ITA,2228742
 Private Call,IU8KDW Angelo,,,ITA,2228743
-Private Call,IW8EUJ Carmine,,,ITA,2228744
+Private Call,IW8EUJ Di,,,ITA,2228744
 Private Call,IK8UCZ Antonio,,,ITA,2228745
 Private Call,IW8AVD Franco,,,ITA,2228746
 Private Call,IK1YOC Antonio,,,ITA,2228747
@@ -8660,7 +8666,7 @@ Private Call,IU6EAO Serafino,,,ITA,2228812
 Private Call,IK4UXA Stefano,,,ITA,2228813
 Private Call,IW9FSY Maurizio,,,ITA,2228814
 Private Call,IU3POA Alberto,,,ITA,2228815
-Private Call,IZ6CUS Adelmo,,,ITA,2228816
+Private Call,IZ6CUS no_name,,,ITA,2228816
 Private Call,IU0HJY Renato,,,ITA,2228817
 Private Call,IU1HHC Marco,,,ITA,2228818
 Private Call,IU0PLI Alessio,,,ITA,2228819
@@ -8700,7 +8706,7 @@ Private Call,IZ3RVM Paolo,,,ITA,2228852
 Private Call,IW0DFE Claudio,,,ITA,2228853
 Private Call,I0SSK Stefano,,,ITA,2228854
 Private Call,IU3POK Andrea,,,ITA,2228855
-Private Call,IZ1JII Max,,,ITA,2228857
+Private Call,IZ1JII no_name,,,ITA,2228857
 Private Call,IK2OBC Daniele,,,ITA,2228858
 Private Call,IW0BIU Francesco Paolo,,,ITA,2228859
 Private Call,IZ8WDH Stefano,,,ITA,2228860
@@ -8858,7 +8864,7 @@ Private Call,IW9HFS Francesco,,,ITA,2229011
 Private Call,IT9CUX Antonio,,,ITA,2229012
 Private Call,IW9HOW Fabrizio,,,ITA,2229013
 Private Call,IT9AQM Tony,,,ITA,2229014
-Private Call,IT9UUT Santoro,,,ITA,2229015
+Private Call,IT9UUT Salvo,,,ITA,2229015
 Private Call,IK6UGD Claudio,,,ITA,2229016
 Private Call,IW9HIB Emanuele,,,ITA,2229017
 Private Call,IW9HES Giuseppe,,,ITA,2229018
@@ -8894,7 +8900,7 @@ Private Call,IT9SIF Attilio,,,ITA,2229048
 Private Call,IT9ELT Salvatore,,,ITA,2229049
 Private Call,IT9FTD Nunzio,,,ITA,2229050
 Private Call,IT9GOY Ciccio,,,ITA,2229051
-Private Call,IT9KZO Costa,,,ITA,2229052
+Private Call,IT9KZO Rosaria,,,ITA,2229052
 Private Call,IT9GFD Renato,,,ITA,2229053
 Private Call,IT9OAX Aldo,,,ITA,2229054
 Private Call,IT9FKZ Placido,,,ITA,2229055
@@ -9017,7 +9023,7 @@ Private Call,IT9DQP Leonardo,,,ITA,2229172
 Private Call,IT9FZB Francesca,,,ITA,2229173
 Private Call,IT9DMQ Salvatore,,,ITA,2229174
 Private Call,IT9BWE Carlo,,,ITA,2229175
-Private Call,IT9EWK Faraone,,,ITA,2229176
+Private Call,IT9EWK Pietro,,,ITA,2229176
 Private Call,IW9DLL Angelo,,,ITA,2229177
 Private Call,IW9GGN Ubaldo,,,ITA,2229178
 Private Call,IT9CEU Marcello,,,ITA,2229179
@@ -9025,7 +9031,7 @@ Private Call,IT9NUI Enzo,,,ITA,2229180
 Private Call,IT9ZOB Rocco,,,ITA,2229181
 Private Call,IW9HPF Gerlando,,,ITA,2229182
 Private Call,IT9RYJ Sebastiano,,,ITA,2229183
-Private Call,IT9AOO Vincenzo,,,ITA,2229184
+Private Call,IT9AOO Daniele,,,ITA,2229184
 Private Call,IT9XVU Antonino,,,ITA,2229185
 Private Call,IT9CLG Matteo,,,ITA,2229186
 Private Call,IT9XGU Salvatore,,,ITA,2229187
@@ -9045,7 +9051,7 @@ Private Call,IT9BMM Enzo,,,ITA,2229201
 Private Call,IT9EWA Francesco,,,ITA,2229202
 Private Call,IW9HRR Savino,,,ITA,2229203
 Private Call,IT9VKY Eugenio,,,ITA,2229204
-Private Call,IQ9GF Agrigento-Sez.Prov.Era,,,ITA,2229205
+Private Call,IQ9GF E.R.A.,,,ITA,2229205
 Private Call,IW9GMF Vincenzo,,,ITA,2229206
 Private Call,IT9JJE Fabrizio,,,ITA,2229207
 Private Call,IW9CHH Antonio,,,ITA,2229208
@@ -9103,7 +9109,7 @@ Private Call,IT9DNA Luigi,,,ITA,2229259
 Private Call,IT9AGZ Ignazio,,,ITA,2229260
 Private Call,IT9HDO Francesco,,,ITA,2229261
 Private Call,IT9HGQ Lillo,,,ITA,2229262
-Private Call,IT9HFG Salvo,,,ITA,2229263
+Private Call,IT9HFG Salvatore,,,ITA,2229263
 Private Call,IT9GNL Pasquale,,,ITA,2229264
 Private Call,IT9DPM Alberto,,,ITA,2229265
 Private Call,IT9HLA Salvatore,,,ITA,2229266
@@ -9978,7 +9984,7 @@ Private Call,IU2PYG Juri,,,ITA,2230137
 Private Call,IU0PNQ Luigi,,,ITA,2230138
 Private Call,IW4BSI Massimo,,,ITA,2230139
 Private Call,IU8RFW Vittorio,,,ITA,2230140
-Private Call,IW6PHZ Fani,,,ITA,2230141
+Private Call,IW6PHZ Romano,,,ITA,2230141
 Private Call,IU8JPQ Maurizio,,,ITA,2230142
 Private Call,IT9SMU Salvatore,,,ITA,2230143
 Private Call,IU4QSZ Davide,,,ITA,2230144
@@ -10000,7 +10006,7 @@ Private Call,IZ4AFE Luciano,,,ITA,2230159
 Private Call,IU8REM Gennaro,,,ITA,2230160
 Private Call,IU5RFQ Massimo,,,ITA,2230161
 Private Call,IS0JHV Marco,,,ITA,2230162
-Private Call,IU5ORS Nicolo',,,ITA,2230163
+Private Call,IU5ORS Maggioni,,,ITA,2230163
 Private Call,IU2QAV Stefano,,,ITA,2230164
 Private Call,IU0REZ Fabio,,,ITA,2230165
 Private Call,IU8CHB Franco,,,ITA,2230166
@@ -10042,12 +10048,12 @@ Private Call,IS0UWS Fernando,,,ITA,2230201
 Private Call,IU5HIU Simona,,,ITA,2230202
 Private Call,IU1QAN Roberto,,,ITA,2230203
 Private Call,IN3JIK Battista,,,ITA,2230204
-Private Call,IQ7LE Clubst.,,,ITA,2230205
+Private Call,IQ7LE E.R.A. Sez. Lecce,,,ITA,2230205
 Private Call,IK5ZRS Sandro,,,ITA,2230206
 Private Call,IZ1MLS Luigi,,,ITA,2230207
 Private Call,IZ0CXO Osvaldo,,,ITA,2230208
-Private Call,IU4NLB Vincenzo,,,ITA,2230209
-Private Call,IQ9TY Clubst.,,,ITA,2230210
+Private Call,IU4NLB Marino,,,ITA,2230209
+Private Call,IQ9TY no_name,,,ITA,2230210
 Private Call,IZ0EHS Paolo,,,ITA,2230211
 Private Call,IT9BOO Filippo,,,ITA,2230212
 Private Call,IT9HNZ Massimo,,,ITA,2230213
@@ -10121,7 +10127,7 @@ Private Call,IQ7OP Era,,,ITA,2230281
 Private Call,IU8JCD Pantaleo,,,ITA,2230282
 Private Call,IU2ROM Stefano,,,ITA,2230283
 Private Call,IW3BHG Gabriele,,,ITA,2230284
-Private Call,IU2PMD Christian,,,ITA,2230285
+Private Call,IU2PMD Giacomelli,,,ITA,2230285
 Private Call,IV3JFU Gabriele,,,ITA,2230286
 Private Call,IT9JHC Pietro,,,ITA,2230287
 Private Call,IU3RGW Roberto,,,ITA,2230288
@@ -10143,7 +10149,7 @@ Private Call,IU5HKX Daniele,,,ITA,2230304
 Private Call,IT9JCX Giuseppe,,,ITA,2230305
 Private Call,IW2NHE Alberto,,,ITA,2230306
 Private Call,IT9KEN Roberto,,,ITA,2230307
-Private Call,IQ5BL Radio Club,,,ITA,2230308
+Private Call,IQ5BL A.R.I. Scandicci,,,ITA,2230308
 Private Call,IU1OVT Francesco,,,ITA,2230309
 Private Call,IU2IYU Alessandro,,,ITA,2230310
 Private Call,IU1QEW Clara,,,ITA,2230311
@@ -10182,7 +10188,7 @@ Private Call,IU2RNU Michele,,,ITA,2230343
 Private Call,IT9KFC Roberto,,,ITA,2230344
 Private Call,IU2QDY Marco,,,ITA,2230345
 Private Call,IU1OLT Simone,,,ITA,2230346
-Private Call,IU2RPW Angelo,,,ITA,2230347
+Private Call,IU2RPW Moretti,,,ITA,2230347
 Private Call,IU0NEJ Fabrizio,,,ITA,2230348
 Private Call,IZ7YZE Savio,,,ITA,2230349
 Private Call,IU5RCP Alfio,,,ITA,2230350
@@ -10191,7 +10197,7 @@ Private Call,IU8GYR Giuseppe,,,ITA,2230352
 Private Call,IZ1BZS Marco,,,ITA,2230353
 Private Call,IV3ZAC Giuseppe,,,ITA,2230354
 Private Call,IU2ROV Stefano,,,ITA,2230355
-Private Call,IZ7KDX Antonio,,,ITA,2230356
+Private Call,IZ7KDX Miraglia,,,ITA,2230356
 Private Call,IU2MGI Raffaele,,,ITA,2230357
 Private Call,IT9JKW Alessio,,,ITA,2230358
 Private Call,IV3DWJ Alessio,,,ITA,2230359
@@ -10343,7 +10349,7 @@ Private Call,IU5RCF Stefano,,,ITA,2230505
 Private Call,IU1OLS Michele,,,ITA,2230506
 Private Call,IU8QRL Luigi,,,ITA,2230507
 Private Call,IV3JKA Davide Harpo,,,ITA,2230508
-Private Call,IZ3ALY Massimiliano,,,ITA,2230509
+Private Call,IZ3ALY Sorio,,,ITA,2230509
 Private Call,IU8RMX Vincenzo,,,ITA,2230510
 Private Call,IW0ROF Roberto,,,ITA,2230511
 Private Call,IZ4RCF Carlo,,,ITA,2230512
@@ -10389,12 +10395,12 @@ Private Call,IU2RPZ Paolo,,,ITA,2230551
 Private Call,I2PQW Fabio,,,ITA,2230552
 Private Call,IZ0TZN Lorenzo,,,ITA,2230553
 Private Call,IZ1WDF Giacomo,,,ITA,2230554
-Private Call,IU0OYC Giuseppe,,,ITA,2230555
+Private Call,IU0OYC Stancanelli,,,ITA,2230555
 Private Call,IT9JOM Giuseppe,,,ITA,2230556
 Private Call,IU0QVJ Davide,,,ITA,2230557
 Private Call,I1KKZ Marco,,,ITA,2230558
 Private Call,IU7JWJ Pietro,,,ITA,2230559
-Private Call,IZ8SIJ Giuseppe,,,ITA,2230560
+Private Call,IZ8SIJ Rao,,,ITA,2230560
 Private Call,IK2ANE Walter,,,ITA,2230561
 Private Call,IW3BTR Roberto,,,ITA,2230562
 Private Call,IU0QUY Giuseppe,,,ITA,2230563
@@ -10539,7 +10545,7 @@ Private Call,IW8PGR Antonio,,,ITA,2230701
 Private Call,IU4RYI Ferdinando,,,ITA,2230702
 Private Call,IW4CYH Luigi,,,ITA,2230703
 Private Call,IT9JUZ Francesco,,,ITA,2230704
-Private Call,IQ3UH A.R.I. Udine,,,ITA,2230705
+Private Call,IQ3UH Sede Alto Friuli,,,ITA,2230705
 Private Call,IU3QNZ Denis,,,ITA,2230706
 Private Call,IU4QSN Maurizio,,,ITA,2230707
 Private Call,IU4ONT Daniele,,,ITA,2230708
@@ -10557,7 +10563,7 @@ Private Call,IU8RYQ Claudio Pietro,,,ITA,2230719
 Private Call,IT9JDL Adriano Cosimo,,,ITA,2230720
 Private Call,IU1LCU Andrea,,,ITA,2230721
 Private Call,IU8RYV Luca,,,ITA,2230722
-Private Call,IV3NEP Rino,,,ITA,2230723
+Private Call,IV3NEP Fabbro,,,ITA,2230723
 Private Call,IK8NKR Lorenzo,,,ITA,2230724
 Private Call,IU6SAU Roberto,,,ITA,2230725
 Private Call,IX1BRW Sergio,,,ITA,2230726
@@ -10565,7 +10571,7 @@ Private Call,IU1QZS Alessandro,,,ITA,2230727
 Private Call,IW4BLZ Maurizio,,,ITA,2230728
 Private Call,IU4RXZ Giorgio,,,ITA,2230729
 Private Call,IK8HVK Francesco Saverio,,,ITA,2230730
-Private Call,IZ8OEK Giovanni,,,ITA,2230731
+Private Call,IZ8OEK Coppola,,,ITA,2230731
 Private Call,IU5IKK Giancarlo,,,ITA,2230732
 Private Call,IU3SAC Gianpietro,,,ITA,2230733
 Private Call,IW5DPF Stefano,,,ITA,2230734
@@ -10613,7 +10619,7 @@ Private Call,IZ2ADT Angelo,,,ITA,2230775
 Private Call,IU5SHI Filippo,,,ITA,2230776
 Private Call,IU5SGW Claudio,,,ITA,2230777
 Private Call,IS0AAO Claudio,,,ITA,2230778
-Private Call,IK0LWQ Enrico,,,ITA,2230779
+Private Call,IK0LWQ Di Barba,,,ITA,2230779
 Private Call,IW9AUR Antonio,,,ITA,2230780
 Private Call,IU5SGP Nicola,,,ITA,2230781
 Private Call,IU4SBK Gabriele,,,ITA,2230782
@@ -10650,7 +10656,7 @@ Private Call,IW3AMY Massimo,,,ITA,2230812
 Private Call,IU2BNL Mattia,,,ITA,2230813
 Private Call,IZ7NLN Dagostino,,,ITA,2230814
 Private Call,IU3SEM Claudio,,,ITA,2230815
-Private Call,IQ0XA G.R.E.L.,,,ITA,2230816
+Private Call,IQ0XA Gruppo Radiocomunicazioni In Emergenza Lazio,,,ITA,2230816
 Private Call,IU2QUF Alessandro,,,ITA,2230817
 Private Call,IU1QWZ Bolla,,,ITA,2230818
 Private Call,IU2QBF Francesco,,,ITA,2230819
@@ -10731,7 +10737,7 @@ Private Call,IU7SEE Giuseppe,,,ITA,2230894
 Private Call,IU6JJE Piero,,,ITA,2230895
 Private Call,IU0SPB Nonegiovanni,,,ITA,2230896
 Private Call,IU5SFJ Roberto,,,ITA,2230897
-Private Call,IU5GIH Arnaldo,,,ITA,2230898
+Private Call,IU5GIH Spigliantini,,,ITA,2230898
 Private Call,IV3JSH Alberto,,,ITA,2230899
 Private Call,IV3JWV Andrea,,,ITA,2230900
 Private Call,IV3JTC Paolo,,,ITA,2230901
@@ -10792,7 +10798,7 @@ Private Call,IV3IVO Maurizio,,,ITA,2230955
 Private Call,IU5SHM Pio,,,ITA,2230956
 Private Call,IT9JXD Antonio,,,ITA,2230957
 Private Call,IU2BZV Marco,,,ITA,2230958
-Private Call,IZ1ESB Emilio,,,ITA,2230959
+Private Call,IZ1ESB Poletti,,,ITA,2230959
 Private Call,IU2PKD Vincenzo,,,ITA,2230960
 Private Call,IU0QUW Emanuele,,,ITA,2230961
 Private Call,IT9JXF Giovanni,,,ITA,2230962
@@ -10849,12 +10855,12 @@ Private Call,IW2ECJ Pietro,,,ITA,2231012
 Private Call,IS0JRV Roberto,,,ITA,2231013
 Private Call,IT9IYJ Salvatore,,,ITA,2231014
 Private Call,IW2OGG Marco,,,ITA,2231015
-Private Call,IZ2AJE Andrea,,,ITA,2231016
+Private Call,IZ2AJE Pesenti,,,ITA,2231016
 Private Call,IK4MFQ Mauro,,,ITA,2231017
 Private Call,IT9JVR Santino,,,ITA,2231018
 Private Call,IU5IHB Giorgio,,,ITA,2231019
 Private Call,IZ2LVY Andrea,,,ITA,2231020
-Private Call,IT9BDM Carmelo,,,ITA,2231021
+Private Call,IT9BDM Bartolotta,,,ITA,2231021
 Private Call,IU2SOA Sergio,,,ITA,2231022
 Private Call,IT9KDE Alessio,,,ITA,2231023
 Private Call,IT9KBT Giovanni,,,ITA,2231024
@@ -10918,7 +10924,7 @@ Private Call,IW2HBA Vittorio,,,ITA,2231081
 Private Call,IU2RRD Maurizio,,,ITA,2231082
 Private Call,IZ1PQZ Stefano,,,ITA,2231083
 Private Call,IU4BCO Stefano,,,ITA,2231084
-Private Call,IQ2DT C.O.T.A. Gruppo Locale Brescia,,,ITA,2231085
+Private Call,IQ2DT Ass. Radioamatori Carabinieri Brescia,,,ITA,2231085
 Private Call,IZ4AKJ Claudio,,,ITA,2231086
 Private Call,IU3SSK Huber,,,ITA,2231087
 Private Call,IV3CDH Angelo,,,ITA,2231088
@@ -10926,7 +10932,7 @@ Private Call,IT9KAO Mimmo,,,ITA,2231089
 Private Call,IZ2ZZG Fabrizio,,,ITA,2231090
 Private Call,IU3EIE Moreno,,,ITA,2231091
 Private Call,IZ2TGL Pietro,,,ITA,2231092
-Private Call,IQ3JB Gruppo Locale Gorizia,,,ITA,2231093
+Private Call,IQ3JB Ass. Radioamatori Carabinieri Cota,,,ITA,2231093
 Private Call,IV3HSV Ezio,,,ITA,2231094
 Private Call,IV3DSI Renato,,,ITA,2231095
 Private Call,IZ0CVI Roberto,,,ITA,2231096
@@ -10940,7 +10946,7 @@ Private Call,IU3QFB Luciano,,,ITA,2231103
 Private Call,IT9JVS Maurizio,,,ITA,2231104
 Private Call,IT9JWM Stefano Maurizio,,,ITA,2231105
 Private Call,IV3OBE Camillo,,,ITA,2231106
-Private Call,IQ1VB A.R.I.,,,ITA,2231107
+Private Call,IQ1VB Sezione Di Verbania,,,ITA,2231107
 Private Call,IU8KRY Antonio,,,ITA,2231108
 Private Call,I2PZK Maurizio,,,ITA,2231109
 Private Call,IU4OQF Giancarlo,,,ITA,2231110
@@ -10961,7 +10967,7 @@ Private Call,IU2SML Oscar,,,ITA,2231124
 Private Call,IU6TAS Antonio,,,ITA,2231125
 Private Call,IT9KBK Carmelo,,,ITA,2231126
 Private Call,IU3TBS Andrea,,,ITA,2231127
-Private Call,IQ2VC A.R.I.,,,ITA,2231128
+Private Call,IQ2VC Sezione Di Vallecamonica,,,ITA,2231128
 Private Call,IU8QTM Emilio,,,ITA,2231129
 Private Call,IW2GEF Luigi,,,ITA,2231130
 Private Call,IK1CXR Massimo,,,ITA,2231131
@@ -11070,7 +11076,7 @@ Private Call,IT9CMZ Alex,,,ITA,2231233
 Private Call,IZ1HJU Roberto,,,ITA,2231234
 Private Call,IU2SLN Pecin,,,ITA,2231235
 Private Call,IU2RPU Luca,,,ITA,2231236
-Private Call,IQ9RG A.R.I.,,,ITA,2231237
+Private Call,IQ9RG Sezione Di Ragusa,,,ITA,2231237
 Private Call,I0MQV Maurizio,,,ITA,2231238
 Private Call,IN3KGS Lukas,,,ITA,2231239
 Private Call,IT9KKS Maria Rita,,,ITA,2231240
@@ -11120,7 +11126,7 @@ Private Call,IV3JJP Alfonso,,,ITA,2231283
 Private Call,IW2HAF Angelo,,,ITA,2231284
 Private Call,IW6DTM Alberto,,,ITA,2231285
 Private Call,IU5RCS Marco,,,ITA,2231286
-Private Call,IQ2SPT Clubst.,,,ITA,2231287
+Private Call,IQ2SPT Ari Gallarate - Rc Emergenza Lombardia,,,ITA,2231287
 Private Call,IT9DAZ Paolo,,,ITA,2231288
 Private Call,IU8QEJ Salvatore,,,ITA,2231289
 Private Call,IU2OMG Roberto,,,ITA,2231290
@@ -11168,7 +11174,7 @@ Private Call,IW2CLJ Fabio,,,ITA,2231331
 Private Call,IU2STM Pietro,,,ITA,2231332
 Private Call,IU1QQX Jacopo,,,ITA,2231333
 Private Call,IU2SAH Dani,,,ITA,2231334
-Private Call,IU0TGD Daniele,,,ITA,2231335
+Private Call,IU0TGD no_name,,,ITA,2231335
 Private Call,IV3JWT Fausto,,,ITA,2231336
 Private Call,IV3KDZ Walter,,,ITA,2231337
 Private Call,IW8RQA Domenico,,,ITA,2231338
@@ -11228,10 +11234,10 @@ Private Call,IU5AUF Leonardo,,,ITA,2231391
 Private Call,IU2SLM Massimo,,,ITA,2231392
 Private Call,IW1AKW Cerutti,,,ITA,2231393
 Private Call,IZ0UOO Gabriele,,,ITA,2231394
-Private Call,IQ0OS A.R.I.,,,ITA,2231395
+Private Call,IQ0OS Sezione Di Ostia,,,ITA,2231395
 Private Call,IZ2UST Massimiliano,,,ITA,2231396
 Private Call,IW2NEK Alberto,,,ITA,2231397
-Private Call,IZ0WPE Marcello,,,ITA,2231398
+Private Call,IZ0WPE Albanesi,,,ITA,2231398
 Private Call,IW2NLM Andrea,,,ITA,2231399
 Private Call,IT9KGX Giovanni,,,ITA,2231400
 Private Call,IZ2GJF Corpo Volontari Protezione Civile,,,ITA,2231401
@@ -11269,7 +11275,7 @@ Private Call,IU3QCG Luca,,,ITA,2231432
 Private Call,IS0AIT Ralph,,,ITA,2231433
 Private Call,IU8ALF Gianfranco,,,ITA,2231434
 Private Call,IZ3ECC Nicola,,,ITA,2231435
-Private Call,IQ3GDB Clubst.,,,ITA,2231436
+Private Call,IQ3GDB Cime Bianche,,,ITA,2231436
 Private Call,IU8SDP Domenico,,,ITA,2231437
 Private Call,IW2NDK Dario,,,ITA,2231438
 Private Call,IZ5QZX Gabriele,,,ITA,2231439
@@ -11330,11 +11336,11 @@ Private Call,IS0KNQ Luca,,,ITA,2231493
 Private Call,IU7EPS Salvatore,,,ITA,2231494
 Private Call,IU5RDK Cristian,,,ITA,2231495
 Private Call,IT9BAR Carmelo,,,ITA,2231496
-Private Call,IV3JGQ Flavio,,,ITA,2231497
+Private Call,IV3JGQ Nassivera,,,ITA,2231497
 Private Call,IS0KOA Francesco,,,ITA,2231498
 Private Call,IU3QIH Michele,,,ITA,2231499
 Private Call,IU3RHB Roberto,,,ITA,2231500
-Private Call,IU8RGG Luca,,,ITA,2231501
+Private Call,IU8RGG Annaccarato,,,ITA,2231501
 Private Call,IZ8FCA Michele,,,ITA,2231502
 Private Call,IW4BIC Cesare,,,ITA,2231503
 Private Call,IK1ACX Marco,,,ITA,2231504
@@ -11474,7 +11480,7 @@ Private Call,IW2GLW Marco,,,ITA,2231638
 Private Call,IT9KNL Eugenio,,,ITA,2231639
 Private Call,IV3KOY Enrico,,,ITA,2231640
 Private Call,IV3KQG Pierpaolo,,,ITA,2231641
-Private Call,IZ4OQZ Giovanni,,,ITA,2231642
+Private Call,IZ4OQZ Valente,,,ITA,2231642
 Private Call,IU1OKT Fabio,,,ITA,2231643
 Private Call,IU8TWF Agostino,,,ITA,2231644
 Private Call,IV3KPG Gianmarco,,,ITA,2231645
@@ -11660,7 +11666,7 @@ Private Call,IT9ISE Carmelo,,,ITA,2231825
 Private Call,IU6RJR William,,,ITA,2231826
 Private Call,IR1ZVO Marco,,,ITA,2231827
 Private Call,IX1KTM Fabrizio,,,ITA,2231828
-Private Call,IQ8CUM Clubst.,,,ITA,2231829
+Private Call,IQ8CUM Sezione Uri,,,ITA,2231829
 Private Call,IU2UKK Alessandro,,,ITA,2231830
 Private Call,IU8TOA Italia,,,ITA,2231831
 Private Call,IV3JSC Alessandro,,,ITA,2231832
@@ -11759,7 +11765,7 @@ Private Call,IU8OBM Francesco,,,ITA,2231924
 Private Call,IU7HDQ Massimiliano,,,ITA,2231925
 Private Call,IU7TXQ Emanuele,,,ITA,2231926
 Private Call,IU3UNG Andrea,,,ITA,2231927
-Private Call,IQ4AD Clubst.,,,ITA,2231928
+Private Call,IQ4AD Ari Sezione Di Parma,,,ITA,2231928
 Private Call,IK4QMP Mirco,,,ITA,2231929
 Private Call,IU3GRO Matteo,,,ITA,2231930
 Private Call,IU6PGX Massimo,,,ITA,2231931
@@ -11839,11 +11845,12 @@ Private Call,IS0KNO Pietro,,,ITA,2232005
 Private Call,IU4TUM Daniele,,,ITA,2232006
 Private Call,IC8FKB Domenico,,,ITA,2232007
 Private Call,IT9GBC Elio,,,ITA,2232008
-Private Call,IW4EOX Marco,,,ITA,2232009
+Private Call,IU4KOB no_name,,,ITA,2232009
 Private Call,IZ0MTN Patrizio,,,ITA,2232010
 Private Call,IU1PJO Francesco,,,ITA,2232011
 Private Call,IU3QMS Paolo,,,ITA,2232012
 Private Call,IU3FKD Otello,,,ITA,2232013
+Private Call,IQ4ULE Clubst.,,,ITA,2232015
 Private Call,IV3EVA Eddy,,,ITA,2232016
 Private Call,IU0OYT Antonino,,,ITA,2232017
 Private Call,IZ1NFG Attilio,,,ITA,2232018
@@ -11872,7 +11879,7 @@ Private Call,IU2RTL Enrico,,,ITA,2232040
 Private Call,IT9JLY Andrea,,,ITA,2232041
 Private Call,IU8DAW Antonio,,,ITA,2232042
 Private Call,IU3UNC Paolo,,,ITA,2232043
-Private Call,IQ3YCM Clubst.,,,ITA,2232044
+Private Call,IQ3YCM Ari Chioggia,,,ITA,2232044
 Private Call,IU2UPQ Prospero,,,ITA,2232045
 Private Call,IU0TOP Massimo,,,ITA,2232046
 Private Call,IW8XLD Salvatore,,,ITA,2232047
@@ -12098,4 +12105,23 @@ Private Call,IU1SBQ Fausto,,,ITA,2232269
 Private Call,IZ3WQO Angelo,,,ITA,2232270
 Private Call,IZ8VKD Federico,,,ITA,2232271
 Private Call,IU0UZP Alberto,,,ITA,2232272
+Private Call,IT9DLR Vincenzo,,,ITA,2232273
+Private Call,IZ0NKI Filippo,,,ITA,2232274
+Private Call,IT9KCY Luciano,,,ITA,2232275
+Private Call,IU2FDL Giancarlo,,,ITA,2232276
+Private Call,IZ4TQS Andrea,,,ITA,2232277
+Private Call,IW2MOV Casati,,,ITA,2232278
+Private Call,IK0ZME Gianfranco,,,ITA,2232279
+Private Call,IU0TZD Serenella,,,ITA,2232280
+Private Call,IW4EOP Luca,,,ITA,2232281
+Private Call,IU4UVW Antonio,,,ITA,2232282
+Private Call,IW0GLJ Giovanni,,,ITA,2232283
+Private Call,IZ0VXY Massimiliano,,,ITA,2232284
+Private Call,IT9KWL Francesco,,,ITA,2232285
+Private Call,IU5SES Teseo,,,ITA,2232286
+Private Call,IU0FVQ Corrado,,,ITA,2232287
+Private Call,IU3NQF Massimiliano,,,ITA,2232288
+Private Call,IU0DFZ Fabio,,,ITA,2232289
+Private Call,IZ2TED Andrea,,,ITA,2232290
+Private Call,IU2VGC Leonardo,,,ITA,2232291
 Private Call,IT9JFW Lorenzo,,,ITA,2242222
