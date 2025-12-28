@@ -10122,7 +10122,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2230232,IU2CVS,Fulvio,,, - ITA,,Private Call,None
 ,2230233,IK8HIU,Domenico,,, - ITA,,Private Call,None
 ,2230234,IU5JJI,Rebecca,,, - ITA,,Private Call,None
-,2230235,IX1DIV,Roberto,,, - ITA,,Private Call,None
+,2230235,IX1LBJ,Roberto,,, - ITA,,Private Call,None
 ,2230236,IU3RHA,Cristiano,,, - ITA,,Private Call,None
 ,2230237,IU1HJG,Gianmaria,,, - ITA,,Private Call,None
 ,2230238,IU1MRD,Giovanni,,, - ITA,,Private Call,None
@@ -12357,6 +12357,23 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232478,IU5VNO,Davide,,, - ITA,,Private Call,None
 ,2232479,IU2VQU,Paolo,,, - ITA,,Private Call,None
 ,2232480,IU4VRE,Marco,,, - ITA,,Private Call,None
+,2232481,IU1LLI,Stefano,,, - ITA,,Private Call,None
+,2232482,IU4VRF,Paola,,, - ITA,,Private Call,None
+,2232483,IU3UKV,Elia,,, - ITA,,Private Call,None
+,2232484,IZ8MEE,Leopoldo,,, - ITA,,Private Call,None
+,2232485,IT9LCF,Dario,,, - ITA,,Private Call,None
+,2232486,IQ3ME,Clubst.,,, - ITA,,Private Call,None
+,2232487,IT9LDA,Concetto,,, - ITA,,Private Call,None
+,2232488,IU2VQT,Massimo,,, - ITA,,Private Call,None
+,2232489,IU2VTP,Giorgio,,, - ITA,,Private Call,None
+,2232490,IU7VTO,Giovanni,,, - ITA,,Private Call,None
+,2232491,IU5VMJ,Mario,,, - ITA,,Private Call,None
+,2232492,IV3LAN,Matteo,,, - ITA,,Private Call,None
+,2232493,IK4ZIF,Gian Luigi,,, - ITA,,Private Call,None
+,2232494,IU5VNN,Federico,,, - ITA,,Private Call,None
+,2232495,IU2VQO,Alessandro,,, - ITA,,Private Call,None
+,2232496,IZ0HZQ,Maurizio,,, - ITA,,Private Call,None
+,2232497,IU2VRU,Ileana,,, - ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,, - ITA,,Private Call,None
 ,2280001,4U1ITU,International,,, - CHE,,Private Call,None
 ,2280002,HB3XWO,Kornel,,, - CHE,,Private Call,None
@@ -12840,6 +12857,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280480,HB9INA,Andre,,, - CHE,,Private Call,None
 ,2280481,HB3YQD,Colin,,, - CHE,,Private Call,None
 ,2280482,HB9GZU,Christian,,, - CHE,,Private Call,None
+,2280483,HB3YWG,Roger,,, - CHE,,Private Call,None
+,2280484,HB9IQH,Piotr,,, - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,, - CHE,,Private Call,None

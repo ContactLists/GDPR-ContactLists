@@ -960,6 +960,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060837,ON8RG,Johan,,, - BEL,,Private Call,None
 ,2060838,ON4DRH,Jos,,, - BEL,,Private Call,None
 ,2060839,ON7DE,Eddy,,, - BEL,,Private Call,None
+,2060840,ON7SSU,Jim,,, - BEL,,Private Call,None
+,2060841,ON3EF,Filip,,, - BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,, - BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,, - BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,, - BEL,,Private Call,None
@@ -3957,6 +3959,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081926,F1JZM,Thierry,,, - FRA,,Private Call,None
 ,2081927,F6HIW,Denis,,, - FRA,,Private Call,None
 ,2081928,F4MSM,Laurent,,, - FRA,,Private Call,None
+,2081929,F4ISC,Didier,,, - FRA,,Private Call,None
+,2081930,F5KIS,Codis 13,,, - FRA,,Private Call,None
+,2081931,F6IWW,Jean Cyrille,,, - FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,, - FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,, - FRA,,Private Call,None
 ,2082003,F1AGU,Charles Henri,,, - FRA,,Private Call,None
@@ -5899,6 +5904,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280480,HB9INA,Andre,,, - CHE,,Private Call,None
 ,2280481,HB3YQD,Colin,,, - CHE,,Private Call,None
 ,2280482,HB9GZU,Christian,,, - CHE,,Private Call,None
+,2280483,HB3YWG,Roger,,, - CHE,,Private Call,None
+,2280484,HB9IQH,Piotr,,, - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,, - CHE,,Private Call,None
@@ -14081,6 +14088,18 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026638,VA6DOA,Patrick,,, - CAN,,Private Call,None
 ,3026639,VA7PXZ,Patrick,,, - CAN,,Private Call,None
 ,3026640,VA7MBR,Mike,,, - CAN,,Private Call,None
+,3026641,VE3TKP,David,,, - CAN,,Private Call,None
+,3026642,VE2HJO,Helene,,, - CAN,,Private Call,None
+,3026643,VE9SMA,Steve,,, - CAN,,Private Call,None
+,3026644,VA2CTK,Celine,,, - CAN,,Private Call,None
+,3026645,VA4JHM,Jovito,,, - CAN,,Private Call,None
+,3026646,VE3RKR,Andy,,, - CAN,,Private Call,None
+,3026647,VE6AFR,Beth,,, - CAN,,Private Call,None
+,3026648,VE6AEO,Randall,,, - CAN,,Private Call,None
+,3026649,VA3WAK,Bradley,,, - CAN,,Private Call,None
+,3026650,VA3KDQ,Kelly,,, - CAN,,Private Call,None
+,3026651,VE9RK,Richard,,, - CAN,,Private Call,None
+,3026652,VA3PNL,Paul,,, - CAN,,Private Call,None
 ,3026912,VA7RGM,Robert,,, - CAN,,Private Call,None
 ,3026913,VA6LTV,Larry,,, - CAN,,Private Call,None
 ,3026914,VE3ZWX,James Bradley,,, - CAN,,Private Call,None
