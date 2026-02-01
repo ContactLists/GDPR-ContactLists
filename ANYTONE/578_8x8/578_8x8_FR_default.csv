@@ -522,7 +522,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060394,ON7RA,Renaat,,, - BEL,,Private Call,None
 ,2060395,ON3LPE,Peter,,, - BEL,,Private Call,None
 ,2060396,ON4NA,Michel,,, - BEL,,Private Call,None
-,2060397,ON6KHI,Hans,,, - BEL,,Private Call,None
 ,2060398,ON5RT,Paul,,, - BEL,,Private Call,None
 ,2060399,ON7AM,Alain,,, - BEL,,Private Call,None
 ,2060400,ON4ANV,Roger,,, - BEL,,Private Call,None
@@ -969,6 +968,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060849,ON3HML,Janphilips,,, - BEL,,Private Call,None
 ,2060850,ON3PVO,Pascal,,, - BEL,,Private Call,None
 ,2060851,ON4PRA,Club,,, - BEL,,Private Call,None
+,2060852,ON3KHZ,Masuy,,, - BEL,,Private Call,None
+,2060853,ON3WTF,Erlend,,, - BEL,,Private Call,None
+,2060854,ON6UHF,Philip,,, - BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,, - BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,, - BEL,,Private Call,None
 ,2061003,ON5LUC,Luc,,, - BEL,,Private Call,None
@@ -3985,6 +3987,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081945,F4EOC,Martial,,, - FRA,,Private Call,None
 ,2081946,F4IFW,Christian,,, - FRA,,Private Call,None
 ,2081947,F4MUQ,Hicham,,, - FRA,,Private Call,None
+,2081948,F4MRC,Jean Michel,,, - FRA,,Private Call,None
+,2081949,F4MXD,Cyrille,,, - FRA,,Private Call,None
+,2081950,F4MFK,Maxence,,, - FRA,,Private Call,None
+,2081951,F1AZJ,Bassenonville,,, - FRA,,Private Call,None
+,2081952,F4BFX,Clerc,,, - FRA,,Private Call,None
+,2081953,F1JIO,Sylvain,,, - FRA,,Private Call,None
+,2081954,F4MWG,David,,, - FRA,,Private Call,None
+,2081955,F1TMV,Feraudet,,, - FRA,,Private Call,None
 ,2082001,F4FUL,Cyril,,, - FRA,,Private Call,None
 ,2082002,F5VIN,Heiko,,, - FRA,,Private Call,None
 ,2082003,F1AGU,Charles Henri,,, - FRA,,Private Call,None
@@ -5935,6 +5945,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280488,HB3YQD,Colin,,, - CHE,,Private Call,None
 ,2280489,HB9VKL,Alain,,, - CHE,,Private Call,None
 ,2280490,HB3YQD,Colin,,, - CHE,,Private Call,None
+,2280491,HB9HWA,Roman,,, - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,, - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,, - CHE,,Private Call,None
@@ -12726,7 +12737,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3025246,VA3SFP,Preston,,, - CAN,,Private Call,None
 ,3025247,VE3VBR,Brian Frederick,,, - CAN,,Private Call,None
 ,3025248,VE2OSN,Patrick,,, - CAN,,Private Call,None
-,3025249,VE1WAN,Gary Harold,,, - CAN,,Private Call,None
+,3025249,VE1WAN,Gary,,, - CAN,,Private Call,None
 ,3025250,VE3SXY,David,,, - CAN,,Private Call,None
 ,3025251,VE3VNK,Dave,,, - CAN,,Private Call,None
 ,3025252,VA2HMD,David,,, - CAN,,Private Call,None
@@ -13523,6 +13534,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026044,VE6SMI,Robert,,, - CAN,,Private Call,None
 ,3026045,VE6BGZ,Dennis,,, - CAN,,Private Call,None
 ,3026046,VA6RC,Randy,,, - CAN,,Private Call,None
+,3026047,VA6DS,John,,, - CAN,,Private Call,None
 ,3026048,VE6ACR,Jim,,, - CAN,,Private Call,None
 ,3026049,VA2ESF,Simon,,, - CAN,,Private Call,None
 ,3026050,VE6CPK,Dale,,, - CAN,,Private Call,None
@@ -13592,7 +13604,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026114,VE6AFO,Kenneth,,, - CAN,,Private Call,None
 ,3026115,VE6DEV,Dave,,, - CAN,,Private Call,None
 ,3026116,VE6DEV,Dave,,, - CAN,,Private Call,None
-,3026117,VE5GKB,George Kenneth,,, - CAN,,Private Call,None
+,3026117,VE5GKB,George,,, - CAN,,Private Call,None
 ,3026118,VE6FAL,Falcon,,, - CAN,,Private Call,None
 ,3026119,VE6QLT,Gerry,,, - CAN,,Private Call,None
 ,3026120,VE6GCD,Geoffrey,,, - CAN,,Private Call,None
@@ -14176,6 +14188,17 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026698,VE3EYG,Paul,,, - CAN,,Private Call,None
 ,3026699,VA3SDP,Steven,,, - CAN,,Private Call,None
 ,3026700,VE7KSB,Kevin,,, - CAN,,Private Call,None
+,3026701,VE1PDL,Kenneth,,, - CAN,,Private Call,None
+,3026702,VE2TIK,Jonathan,,, - CAN,,Private Call,None
+,3026703,VE3VWF,Bert,,, - CAN,,Private Call,None
+,3026704,VE3DMC,Duncan,,, - CAN,,Private Call,None
+,3026705,VE7TZB,Brandon,,, - CAN,,Private Call,None
+,3026707,VE2CYH,Covey Hill,,, - CAN,,Private Call,None
+,3026708,VE7IXY,Tobias,,, - CAN,,Private Call,None
+,3026709,VE3FOW,Florence,,, - CAN,,Private Call,None
+,3026710,VA2DFK,David,,, - CAN,,Private Call,None
+,3026711,VE6WWV,Wayne,,, - CAN,,Private Call,None
+,3026712,VE5BDE,Jose,,, - CAN,,Private Call,None
 ,3026912,VA7RGM,Robert,,, - CAN,,Private Call,None
 ,3026913,VA6LTV,Larry,,, - CAN,,Private Call,None
 ,3026914,VE3ZWX,James Bradley,,, - CAN,,Private Call,None
@@ -14304,7 +14327,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3027086,VA7EBC,Ryan,,, - CAN,,Private Call,None
 ,3027087,VE7ZD,Kevin,,, - CAN,,Private Call,None
 ,3027088,VE6OHN,Olaf Herman,,, - CAN,,Private Call,None
-,3027089,VA6RJ,Robert Joshua,,, - CAN,,Private Call,None
+,3027089,VA6RJ,Robert,,, - CAN,,Private Call,None
 ,3027090,VA7CQ,Don,,, - CAN,,Private Call,None
 ,3027091,VA7DBI,Darcy,,, - CAN,,Private Call,None
 ,3027092,VE7VIB,Tadeusz,,, - CAN,,Private Call,None

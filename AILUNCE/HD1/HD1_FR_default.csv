@@ -522,7 +522,6 @@ Private Call,OO0Q Rudy,,,BEL,2060393
 Private Call,ON7RA Renaat,,,BEL,2060394
 Private Call,ON3LPE Peter,,,BEL,2060395
 Private Call,ON4NA Michel,,,BEL,2060396
-Private Call,ON6KHI Hans,,,BEL,2060397
 Private Call,ON5RT Paul,,,BEL,2060398
 Private Call,ON7AM Alain,,,BEL,2060399
 Private Call,ON4ANV Roger,,,BEL,2060400
@@ -969,6 +968,9 @@ Private Call,ON7ALD Loison,,,BEL,2060848
 Private Call,ON3HML Janphilips,,,BEL,2060849
 Private Call,ON3PVO Pascal,,,BEL,2060850
 Private Call,ON4PRA Club,,,BEL,2060851
+Private Call,ON3KHZ Masuy,,,BEL,2060852
+Private Call,ON3WTF Erlend,,,BEL,2060853
+Private Call,ON6UHF Philip,,,BEL,2060854
 Private Call,ON8SVH Stijn,,,BEL,2061001
 Private Call,ON8SI Simon,,,BEL,2061002
 Private Call,ON5LUC Luc,,,BEL,2061003
@@ -3985,6 +3987,14 @@ Private Call,F1AZW no_name,,,FRA,2081944
 Private Call,F4EOC Martial,,,FRA,2081945
 Private Call,F4IFW Christian,,,FRA,2081946
 Private Call,F4MUQ Hicham,,,FRA,2081947
+Private Call,F4MRC Jean Michel,,,FRA,2081948
+Private Call,F4MXD Cyrille,,,FRA,2081949
+Private Call,F4MFK Maxence,,,FRA,2081950
+Private Call,F1AZJ Bassenonville,,,FRA,2081951
+Private Call,F4BFX Clerc,,,FRA,2081952
+Private Call,F1JIO Sylvain,,,FRA,2081953
+Private Call,F4MWG David,,,FRA,2081954
+Private Call,F1TMV Feraudet,,,FRA,2081955
 Private Call,F4FUL Cyril,,,FRA,2082001
 Private Call,F5VIN Heiko,,,FRA,2082002
 Private Call,F1AGU Charles Henri,,,FRA,2082003
@@ -5935,6 +5945,7 @@ Private Call,HB9INL Yves,,,CHE,2280487
 Private Call,HB3YQD Colin,,,CHE,2280488
 Private Call,HB9VKL Alain,,,CHE,2280489
 Private Call,HB3YQD Colin,,,CHE,2280490
+Private Call,HB9HWA Roman,,,CHE,2280491
 Private Call,HB3YNV Cedric,,,CHE,2281001
 Private Call,HB3YNV Cedric,,,CHE,2281002
 Private Call,HB3YNV Cedric,,,CHE,2281003
@@ -12726,7 +12737,7 @@ Private Call,VA2PLY Patrick,,,CAN,3025245
 Private Call,VA3SFP Preston,,,CAN,3025246
 Private Call,VE3VBR Brian Frederick,,,CAN,3025247
 Private Call,VE2OSN Patrick,,,CAN,3025248
-Private Call,VE1WAN Gary Harold,,,CAN,3025249
+Private Call,VE1WAN Gary,,,CAN,3025249
 Private Call,VE3SXY David,,,CAN,3025250
 Private Call,VE3VNK Dave,,,CAN,3025251
 Private Call,VA2HMD David,,,CAN,3025252
@@ -13523,6 +13534,7 @@ Private Call,VE6DZ Gary,,,CAN,3026043
 Private Call,VE6SMI Robert,,,CAN,3026044
 Private Call,VE6BGZ Dennis,,,CAN,3026045
 Private Call,VA6RC Randy,,,CAN,3026046
+Private Call,VA6DS John,,,CAN,3026047
 Private Call,VE6ACR Jim,,,CAN,3026048
 Private Call,VA2ESF Simon,,,CAN,3026049
 Private Call,VE6CPK Dale,,,CAN,3026050
@@ -13592,7 +13604,7 @@ Private Call,VE6NDK David,,,CAN,3026113
 Private Call,VE6AFO Kenneth,,,CAN,3026114
 Private Call,VE6DEV Dave,,,CAN,3026115
 Private Call,VE6DEV Dave,,,CAN,3026116
-Private Call,VE5GKB George Kenneth,,,CAN,3026117
+Private Call,VE5GKB George,,,CAN,3026117
 Private Call,VE6FAL Falcon,,,CAN,3026118
 Private Call,VE6QLT Gerry,,,CAN,3026119
 Private Call,VE6GCD Geoffrey,,,CAN,3026120
@@ -14176,6 +14188,17 @@ Private Call,VE3BLM Barry,,,CAN,3026697
 Private Call,VE3EYG Paul,,,CAN,3026698
 Private Call,VA3SDP Steven,,,CAN,3026699
 Private Call,VE7KSB Kevin,,,CAN,3026700
+Private Call,VE1PDL Kenneth,,,CAN,3026701
+Private Call,VE2TIK Jonathan,,,CAN,3026702
+Private Call,VE3VWF Bert,,,CAN,3026703
+Private Call,VE3DMC Duncan,,,CAN,3026704
+Private Call,VE7TZB Brandon,,,CAN,3026705
+Private Call,VE2CYH Covey Hill,,,CAN,3026707
+Private Call,VE7IXY Tobias,,,CAN,3026708
+Private Call,VE3FOW Florence,,,CAN,3026709
+Private Call,VA2DFK David,,,CAN,3026710
+Private Call,VE6WWV Wayne,,,CAN,3026711
+Private Call,VE5BDE Jose,,,CAN,3026712
 Private Call,VA7RGM Robert,,,CAN,3026912
 Private Call,VA6LTV Larry,,,CAN,3026913
 Private Call,VE3ZWX James Bradley,,,CAN,3026914
@@ -14304,7 +14327,7 @@ Private Call,VE7ADO Donald,,,CAN,3027085
 Private Call,VA7EBC Ryan,,,CAN,3027086
 Private Call,VE7ZD Kevin,,,CAN,3027087
 Private Call,VE6OHN Olaf Herman,,,CAN,3027088
-Private Call,VA6RJ Robert Joshua,,,CAN,3027089
+Private Call,VA6RJ Robert,,,CAN,3027089
 Private Call,VA7CQ Don,,,CAN,3027090
 Private Call,VA7DBI Darcy,,,CAN,3027091
 Private Call,VE7VIB Tadeusz,,,CAN,3027092
