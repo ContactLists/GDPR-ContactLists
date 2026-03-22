@@ -4262,7 +4262,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224332,IZ4DPW,Fabio,,, - ITA,,Private Call,None
 ,2224333,IZ4TOD,Giuseppe,,, - ITA,,Private Call,None
 ,2224334,IZ4RVH,Marco,,, - ITA,,Private Call,None
-,2224335,IZ4YYB,Nicolo,,, - ITA,,Private Call,None
+,2224335,IZ4YYB,Nicolo',,, - ITA,,Private Call,None
 ,2224336,IZ4IRQ,Pierluigi,,, - ITA,,Private Call,None
 ,2224337,IK4RVJ,Gianni,,, - ITA,,Private Call,None
 ,2224338,IW4CAW,Vittorio,,, - ITA,,Private Call,None
@@ -12694,4 +12694,18 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232823,IU5TSY,Avio,,, - ITA,,Private Call,None
 ,2232824,IU2NYE,Ivan,,, - ITA,,Private Call,None
 ,2232825,IU2BXV,Domenico,,, - ITA,,Private Call,None
+,2232826,IU1NMX,Paolo,,, - ITA,,Private Call,None
+,2232827,IU0OCV,Francesco,,, - ITA,,Private Call,None
+,2232828,IU0TJD,Davide,,, - ITA,,Private Call,None
+,2232829,IU0UUN,Francesco,,, - ITA,,Private Call,None
+,2232830,IT9LJH,Antonio,,, - ITA,,Private Call,None
+,2232831,IK2ETZ,Gianluca,,, - ITA,,Private Call,None
+,2232832,IU1UIC,Giuseppe,,, - ITA,,Private Call,None
+,2232833,I7NTI,Nicola,,, - ITA,,Private Call,None
+,2232834,IT9KGI,Domenico,,, - ITA,,Private Call,None
+,2232835,IU0RWI,Stephen,,, - ITA,,Private Call,None
+,2232837,IW9FGI,Peter,,, - ITA,,Private Call,None
+,2232838,IU2UFS,Angelo,,, - ITA,,Private Call,None
+,2232839,IW2DGN,Claudio,,, - ITA,,Private Call,None
+,2232840,IZ1GCW,Massimiliano,,, - ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,, - ITA,,Private Call,None
