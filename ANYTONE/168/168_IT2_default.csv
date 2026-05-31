@@ -8772,7 +8772,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2228883,IU4MUB,Graziano,,,ITA,,Private Call,None
 ,2228884,IT9IOF,Pietro,,,ITA,,Private Call,None
 ,2228885,IZ5XYM,Marco,,,ITA,,Private Call,None
-,2228886,IW3BMW,Bosco,,,ITA,,Private Call,None
+,2228886,IW3BMW,Paolo,,,ITA,,Private Call,None
 ,2228887,IV3INV,Guido,,,ITA,,Private Call,None
 ,2228888,IU8POD,Costantino,,,ITA,,Private Call,None
 ,2228889,IU1PPN,Claudio,,,ITA,,Private Call,None
@@ -11099,7 +11099,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2231217,IN3JIJ,Mattia,,,ITA,,Private Call,None
 ,2231218,IT9KJD,Fabio,,,ITA,,Private Call,None
 ,2231219,IU1FJV,Saverio Piergiorgio,,,ITA,,Private Call,None
-,2231220,IT9KJT,Vincenzo,,,ITA,,Private Call,None
+,2231220,IT9KJT,Mauro,,,ITA,,Private Call,None
 ,2231221,IT9KKG,Salvatore,,,ITA,,Private Call,None
 ,2231222,IT9KIC,Francesco,,,ITA,,Private Call,None
 ,2231223,IU3RGS,Enrico,,,ITA,,Private Call,None
@@ -11625,7 +11625,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2231744,IK3BSM,Daniele,,,ITA,,Private Call,None
 ,2231745,IW2KEY,Roberto,,,ITA,,Private Call,None
 ,2231746,IU0TYH,Christian,,,ITA,,Private Call,None
-,2231747,IW2OHK,Oscar,,,ITA,,Private Call,None
 ,2231748,IK2YYM,Giuseppe,,,ITA,,Private Call,None
 ,2231749,IS0CBC,Vincenzo,,,ITA,,Private Call,None
 ,2231750,IU5TSW,Francesco,,,ITA,,Private Call,None
@@ -12849,6 +12848,17 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232983,IU7UTX,Giuseppe,,,ITA,,Private Call,None
 ,2232984,I1IOQ,Luca,,,ITA,,Private Call,None
 ,2232985,IU5PTP,Marco,,,ITA,,Private Call,None
+,2232986,IZ2WET,Alberto,,,ITA,,Private Call,None
+,2232987,IK3ZQU,Alberto,,,ITA,,Private Call,None
+,2232988,IW8PMS,Demetrio,,,ITA,,Private Call,None
+,2232989,IZ7DOK,Marco,,,ITA,,Private Call,None
+,2232990,IZ8EWD,Gianfranco,,,ITA,,Private Call,None
+,2232991,IR8ZXF,Romolo,,,ITA,,Private Call,None
+,2232992,IK0NKA,Luigi,,,ITA,,Private Call,None
+,2232993,IU2VUK,Devis,,,ITA,,Private Call,None
+,2232994,IU7VCJ,Pasquale,,,ITA,,Private Call,None
+,2232995,IU3VMF,Lorenzo,,,ITA,,Private Call,None
+,2232996,IT9MRX,Giuseppe,,,ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,,ITA,,Private Call,None
 ,2280001,4U1ITU,International,,,CHE,,Private Call,None
 ,2280002,HB3XWO,Kornel,,,CHE,,Private Call,None
@@ -13374,6 +13384,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280522,HB3YQX,David,,,CHE,,Private Call,None
 ,2280523,HB9WDG,Daniel,,,CHE,,Private Call,None
 ,2280524,HB3YQZ,Christophe,,,CHE,,Private Call,None
+,2280525,HB9HYD,Marty,,,CHE,,Private Call,None
+,2280527,HB9HKL,Raffaele,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -14841,6 +14853,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2288542,HB9ANF,Hans-Joerg,,,CHE,,Private Call,None
 ,2288822,HB9SDB,Rolf,,,CHE,,Private Call,None
 ,2288867,HB9BXQ,Renato,,,CHE,,Private Call,None
+,2288888,HB3YEA,Michael,,,CHE,,Private Call,None
 ,2289000,HB9SG,no_name,,,CHE,,Private Call,None
 ,2289001,HB9SOF,Charly,,,CHE,,Private Call,None
 ,2289002,HB9SWR,Werner,,,CHE,,Private Call,None
