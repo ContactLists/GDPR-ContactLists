@@ -5040,7 +5040,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225117,IZ5YGK,Gianluca,,,,ITA,DMR
 2225118,IZ5EKX,Moreno,,,,ITA,DMR
 2225119,IU5CNY,Marco,,,,ITA,DMR
-2225120,IZ5UFP,Massimiliano,,,,ITA,DMR
+2225120,IZ5UFP,Max,,,,ITA,DMR
 2225121,IZ5WVP,Pietro,,,,ITA,DMR
 2225122,IK5MEP,Alessandro,,,,ITA,DMR
 2225123,IZ5WTW,Alessio,,,,ITA,DMR
@@ -8648,7 +8648,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228762,I2OIM,Pietro,,,,ITA,DMR
 2228763,IU0PFN,Mario,,,,ITA,DMR
 2228764,IZ8FCR,Mittiga,,,,ITA,DMR
-2228765,IK1PMV,Marco,,,,ITA,DMR
 2228766,IZ6TGS,Adrio,,,,ITA,DMR
 2228767,IU8NBQ,Teodosio,,,,ITA,DMR
 2228768,IU1OOY,Angelo,,,,ITA,DMR
@@ -12615,6 +12614,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2232752,IU2VYJ,Michele,,,,ITA,DMR
 2232753,IU2SLI,Salvatore,,,,ITA,DMR
 2232754,IU1CQM,Damiano,,,,ITA,DMR
+2232755,IU2WIL,Nazareno,,,,ITA,DMR
 2232756,IU3UKM,Raniero,,,,ITA,DMR
 2232757,IT9EOZ,Antonino,,,,ITA,DMR
 2232758,IK1MTZ,Diego,,,,ITA,DMR
@@ -12695,7 +12695,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2232833,I7NTI,Nicola,,,,ITA,DMR
 2232834,IT9KGI,Domenico,,,,ITA,DMR
 2232835,IU0RWI,Stephen,,,,ITA,DMR
-2232837,IW9FGI,Peter,,,,ITA,DMR
+2232837,IW9FGI,Pietro,,,,ITA,DMR
 2232838,IU2UFS,Angelo,,,,ITA,DMR
 2232839,IW2DGN,Claudio,,,,ITA,DMR
 2232840,IZ1GCW,Massimiliano,,,,ITA,DMR
@@ -12857,6 +12857,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2233003,IW5AZR,Marco,,,,ITA,DMR
 2233004,IU2VVA,Angelo,,,,ITA,DMR
 2233005,IU0VQW,Andrea,,,,ITA,DMR
+2233006,IZ7DLB,Massimilia,,,,ITA,DMR
+2233007,IU2IGV,Fabrizio,,,,ITA,DMR
+2233008,IK4OLX,Massimo,,,,ITA,DMR
 2242222,IT9JFW,Lorenzo,,,,ITA,DMR
 2280001,4U1ITU,International,,,,CHE,DMR
 2280002,HB3XWO,Kornel,,,,CHE,DMR
@@ -13384,6 +13387,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280524,HB3YQZ,Christophe,,,,CHE,DMR
 2280525,HB9HYD,Albin,,,,CHE,DMR
 2280527,HB9HKL,Raffaele,,,,CHE,DMR
+2280528,HB9IJU,Daniel,,,,CHE,DMR
+2280529,HB9TNQ,Keith,,,,CHE,DMR
 2281001,HB3YNV,Cedric,,,,CHE,DMR
 2281002,HB3YNV,Cedric,,,,CHE,DMR
 2281003,HB3YNV,Cedric,,,,CHE,DMR
