@@ -533,6 +533,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280533,HB3YQS,Nogler,,,,CHE
 2280534,HB9HLH,Florian,,,,CHE
 2280535,HB9EWG,Surina,,,,CHE
+2280536,HB9FFR,Raddatz,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
@@ -3379,6 +3380,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321287,OE9SAJ,Stephan,,,,AUT
 2321288,OE2JHN,Hannes,,,,AUT
 2321289,OE7HLJ,Hermann,,,,AUT
+2321290,OE9TEV,Tobias,,,,AUT
+2321291,OE9TEV,Tobias,,,,AUT
+2321292,OE9TEV,Tobias,,,,AUT
+2321293,OE9TEV,Tobias,,,,AUT
+2321294,OE5HTL,Tina,,,,AUT
+2321295,OE3FET,Scharl,,,,AUT
 2321301,OE1BAD,Andreas,,,,AUT
 2321302,OE1PNS,Peter,,,,AUT
 2321303,OE1MCU,Michael,,,,AUT
@@ -4961,6 +4968,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620198,DO1PMK,Peter,,,,DEU
 2620199,DM2OOO,Peter,,,,DEU
 2620200,DL5BL,Bernhard,,,,DEU
+2620201,DO4THO,Thomas,,,,DEU
 2620202,DL1SWB,Dieter,,,,DEU
 2620203,DD1OC,Rainer,,,,DEU
 2620204,DC1RST,Ralf,,,,DEU
@@ -7819,7 +7827,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2623114,DO4BZ,Holger,,,,DEU
 2623115,DB5OG,Carsten,,,,DEU
 2623116,DC4OT,Lothar,,,,DEU
-2623117,DL5OBG,Lutz,,,,DEU
 2623118,DJ7OQ,Erik,,,,DEU
 2623119,DJ1WF,Wilfried,,,,DEU
 2623120,DO3NER,Sebastian,,,,DEU
@@ -9106,7 +9113,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2624447,DG5MS,Markus,,,,DEU
 2624448,DJ6ST,Thomas,,,,DEU
 2624449,DG7JX,Peter,,,,DEU
-2624450,DG4BH,Hans-Guenter,,,,DEU
+2624450,DG4BH,Hans,,,,DEU
 2624451,DO2JP,Jan,,,,DEU
 2624452,DH8CJ,Carsten,,,,DEU
 2624453,DH7HA,Holger,,,,DEU
@@ -13949,7 +13956,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629495,DL8EX,Ralf,,,,DEU
 2629496,DL1OFF,Sebastian,,,,DEU
 2629497,DG9MEE,Wolfgang,,,,DEU
-2629498,DL5OBG,Lutz,,,,DEU
 2629499,DL1BPM,Klaus Roland,,,,DEU
 2629500,DB9XP,Klaus,,,,DEU
 2629501,DL4SDA,Alexander,,,,DEU
@@ -13977,7 +13983,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629524,DK9BD,Daniel,,,,DEU
 2629525,DL1GPS,Peter,,,,DEU
 2629526,DL4RLF,Ralf,,,,DEU
-2629527,DG2SEP,Kai Uwe,,,,DEU
+2629527,DG2SEP,Kai,,,,DEU
 2629528,DL1JB,Hans-Juergen,,,,DEU
 2629529,DO2DLE,Dominik,,,,DEU
 2629530,DK1TCP,Peter,,,,DEU
@@ -15849,7 +15855,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2631483,DL5AWR,Wolfgang,,,,DEU
 2631484,DB7MI,Josef,,,,DEU
 2631485,DD1KT,Karsten,,,,DEU
-2631486,DO3CAT,Andreas,,,,DEU
+2631486,DL4CAT,Andreas,,,,DEU
 2631487,DO6PK,Peter,,,,DEU
 2631488,DD1MM,Matthias,,,,DEU
 2631489,DL2DKF,Dirk,,,,DEU
@@ -19549,7 +19555,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2635235,DN9DBA,Dennis,,,,DEU
 2635236,DN9JU,Juergen,,,,DEU
 2635237,DL9TJ,Thomas,,,,DEU
-2635238,DO7MAX,Maximilian,,,,DEU
+2635238,DK2MAX,Maximilian,,,,DEU
 2635239,DN9MKN,Michael,,,,DEU
 2635240,DA6MC,Bastian,,,,DEU
 2635241,DF1AI,Armin,,,,DEU
@@ -19993,7 +19999,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2635681,DN9TW,Thomas,,,,DEU
 2635682,DC1XX,Erik,,,,DEU
 2635683,DA1KE,Jerome,,,,DEU
-2635684,DO7DHA,Daniel,,,,DEU
+2635684,DG0OD,Daniel,,,,DEU
 2635685,DO5RJH,Rolf,,,,DEU
 2635686,DL1MPR,Robert,,,,DEU
 2635687,DG7SL,Olli,,,,DEU
@@ -20413,6 +20419,29 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2636364,DL1ZZ,Daniel,,,,DEU
 2636365,DN9KA,Michael,,,,DEU
 2636366,DB7LLG,Piotr,,,,DEU
+2636367,DM5LF,Felix,,,,DEU
+2636368,DO8GJ,Joerg,,,,DEU
+2636369,DN9RTW,Knut,,,,DEU
+2636370,DA6FK,Florian,,,,DEU
+2636371,DG5DBH,Holger,,,,DEU
+2636372,DB2PW,Peter,,,,DEU
+2636373,DN9OHO,Oliver,,,,DEU
+2636374,DL8YBQ,Hartmut,,,,DEU
+2636375,DO4KMN,Kai,,,,DEU
+2636376,DG3YJB,Jan,,,,DEU
+2636377,DC3ZX,Karl,,,,DEU
+2636378,DL6NF,Frank,,,,DEU
+2636379,DH1OL,Oliver,,,,DEU
+2636380,DN9DLE,Tim,,,,DEU
+2636381,DA6FA,Florian,,,,DEU
+2636382,DB2FT,Klaus,,,,DEU
+2636383,DO7MNG,Marco,,,,DEU
+2636384,DL1MST,Michael,,,,DEU
+2636385,DN9DEN,Oleh,,,,DEU
+2636386,DA1RGG,Ralf,,,,DEU
+2636387,DC0DED,Vitus Gerhard,,,,DEU
+2636388,DL1BSA,Andre',,,,DEU
+2636389,DL1STX,Alexander,,,,DEU
 2637001,DF6MP,Marcus,,,,DEU
 2637002,DO2STO,Matthias,,,,DEU
 2637003,DK7OJ,Klaus,,,,DEU
