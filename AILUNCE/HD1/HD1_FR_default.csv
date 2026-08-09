@@ -984,7 +984,7 @@ Private Call,ON4BCY Bastien,,,BEL,2060923
 Private Call,ON3MVC Christ,,,BEL,2060924
 Private Call,ON3FBO Filip,,,BEL,2060925
 Private Call,ON3JA no_name,,,BEL,2060926
-Private Call,ON3DGH Minne,,,BEL,2060927
+Private Call,ON3DGH Marc,,,BEL,2060927
 Private Call,ON7OB Pierre,,,BEL,2060928
 Private Call,ON3MDL Marc,,,BEL,2060929
 Private Call,ON3VB Bart,,,BEL,2060930
@@ -998,8 +998,12 @@ Private Call,ON3AMZ Johnny,,,BEL,2060937
 Private Call,ON3GRK Gorik,,,BEL,2060938
 Private Call,ON3VBM Marc,,,BEL,2060939
 Private Call,ON3PH Henri,,,BEL,2060940
+Private Call,ON3LRH Luc,,,BEL,2060941
 Private Call,ON5MGA Michel,,,BEL,2060942
 Private Call,ON5LU Eric,,,BEL,2060943
+Private Call,ON4FL Philippe,,,BEL,2060944
+Private Call,ON4DAY Jean Paul,,,BEL,2060945
+Private Call,ON4AI Sebastien,,,BEL,2060946
 Private Call,ON8SVH Stijn,,,BEL,2061001
 Private Call,ON8SI Simon,,,BEL,2061002
 Private Call,ON5LUC Luc,,,BEL,2061003
@@ -4387,6 +4391,12 @@ Private Call,F1VKI Antonio,,,FRA,2082316
 Private Call,F4MCS Matthieu,,,FRA,2082317
 Private Call,F4LSQ Piette,,,FRA,2082318
 Private Call,F4MVM Gerald,,,FRA,2082319
+Private Call,F4JHG Detroussel Christophe,,,FRA,2082320
+Private Call,F1NZM Eric,,,FRA,2082321
+Private Call,F4LPO Jacky,,,FRA,2082322
+Private Call,F4NBB Philippe,,,FRA,2082323
+Private Call,F4NNX Mickael,,,FRA,2082324
+Private Call,F4GYE Christophe,,,FRA,2082325
 Private Call,F1IZL Jean-Yves,,,FRA,2083001
 Private Call,F4GEM Arnaud,,,FRA,2083002
 Private Call,F1BBG Gerard,,,FRA,2083003
@@ -5323,7 +5333,7 @@ Private Call,F4DBC Demade,,,FRA,2089257
 Private Call,F4ETA Gerard,,,FRA,2089258
 Private Call,F4DZK Jacques,,,FRA,2089259
 Private Call,F4KJV Radio-Club,,,FRA,2089260
-Private Call,F4FHY Olivier,,,FRA,2089261
+Private Call,F4FHY Thevenot,,,FRA,2089261
 Private Call,F5PP Bernard,,,FRA,2089262
 Private Call,F5INJ Bernard,,,FRA,2089263
 Private Call,F1PKU Kiki,,,FRA,2089264
@@ -5962,7 +5972,7 @@ Private Call,HB3YTR Andre,,,CHE,2280366
 Private Call,HB3YIZ Pascal,,,CHE,2280367
 Private Call,HB3YIY Basil,,,CHE,2280368
 Private Call,HB9ZIH Mathias,,,CHE,2280369
-Private Call,HB3YJB Jasmine,,,CHE,2280370
+Private Call,HB9IUE Jasmine,,,CHE,2280370
 Private Call,HB3YJA David,,,CHE,2280371
 Private Call,HB9ILZ Maurice,,,CHE,2280372
 Private Call,HB9HYC Janosch,,,CHE,2280373
@@ -6094,7 +6104,7 @@ Private Call,HB9BIL Hanspeter,,,CHE,2280498
 Private Call,HB3XYQ Frank,,,CHE,2280499
 Private Call,HB3YQI Brian,,,CHE,2280500
 Private Call,HB3YNO Bernhard,,,CHE,2280501
-Private Call,HB3YPU Zawadzki,,,CHE,2280502
+Private Call,HB3YPU Christophe,,,CHE,2280502
 Private Call,HB9EYW Philipp,,,CHE,2280503
 Private Call,HB9ISZ Pengcheng,,,CHE,2280504
 Private Call,HB9DGL David,,,CHE,2280505
@@ -6140,6 +6150,9 @@ Private Call,HB3YQE Simone,,,CHE,2280545
 Private Call,HB9VJI Gavillet,,,CHE,2280546
 Private Call,HB9SKR Hanspeter,,,CHE,2280547
 Private Call,HB3YSV Daniel,,,CHE,2280548
+Private Call,HB3YJD Gion,,,CHE,2280549
+Private Call,HB9DJQ Pierre,,,CHE,2280550
+Private Call,HB9DHD Giger,,,CHE,2280551
 Private Call,HB3YNV Cedric,,,CHE,2281001
 Private Call,HB3YNV Cedric,,,CHE,2281002
 Private Call,HB3YNV Cedric,,,CHE,2281003
@@ -7910,6 +7923,7 @@ Private Call,VE3JK John,,,CAN,3020299
 Private Call,VE3MTO Maciej,,,CAN,3020303
 Private Call,VA2ESK Christian,,,CAN,3020304
 Private Call,VE5EA Jason,,,CAN,3020305
+Private Call,VA3JBI Jacques,,,CAN,3020306
 Private Call,VE3SGG Sylvain,,,CAN,3020309
 Private Call,VE3WKG Kevin,,,CAN,3020310
 Private Call,VE1HUL David,,,CAN,3020312
@@ -8272,6 +8286,7 @@ Private Call,VE7RAI Raj,,,CAN,3020753
 Private Call,VE3FNS Michael,,,CAN,3020754
 Private Call,VA7ULD Chuck,,,CAN,3020756
 Private Call,VE2CXA Guy,,,CAN,3020757
+Private Call,VE3WTN John,,,CAN,3020758
 Private Call,VE3FDV John,,,CAN,3020759
 Private Call,VO1TR Tolson,,,CAN,3020760
 Private Call,VE2OIM Jean Francois,,,CAN,3020761
@@ -8675,8 +8690,8 @@ Private Call,VE2OSK Jean,,,CAN,3021197
 Private Call,VE7LWK Lorne,,,CAN,3021198
 Private Call,VE9CDL Cindy,,,CAN,3021199
 Private Call,VE3LVV Ronald,,,CAN,3021200
-Private Call,VE3GSX Gregory,,,CAN,3021201
-Private Call,VE3GSX Gregory,,,CAN,3021202
+Private Call,VE3GSX Greg,,,CAN,3021201
+Private Call,VE3GSX Greg,,,CAN,3021202
 Private Call,VO1TWR Sheldon,,,CAN,3021203
 Private Call,VE3SEP Ronald,,,CAN,3021204
 Private Call,VE3YTB Thomas,,,CAN,3021205
@@ -8909,6 +8924,7 @@ Private Call,VO1INP Ian,,,CAN,3021432
 Private Call,VA3KEK Stephen,,,CAN,3021433
 Private Call,VE1FEZ Vincent,,,CAN,3021434
 Private Call,VE2NRE Rene,,,CAN,3021435
+Private Call,VE3GED George,,,CAN,3021436
 Private Call,VA7SOF Sylvain,,,CAN,3021437
 Private Call,VA2MN Mario,,,CAN,3021438
 Private Call,VE2GT Pierre,,,CAN,3021439
@@ -9478,6 +9494,7 @@ Private Call,VA7LOF Gianluca,,,CAN,3022012
 Private Call,VA2RK Tom,,,CAN,3022013
 Private Call,VA2DBJ Robert,,,CAN,3022017
 Private Call,VA2WE Alain,,,CAN,3022019
+Private Call,VE2QXP Stan,,,CAN,3022022
 Private Call,VA2DU Lucien,,,CAN,3022023
 Private Call,VA2DU Lucien,,,CAN,3022024
 Private Call,VE2TAX Stephane,,,CAN,3022025
@@ -9489,6 +9506,7 @@ Private Call,VA2NZ Bruce,,,CAN,3022036
 Private Call,VE2BHH Guenther,,,CAN,3022037
 Private Call,VE2BHH Guenther,,,CAN,3022038
 Private Call,VE2JBD Joel,,,CAN,3022039
+Private Call,VE2QXP Stan,,,CAN,3022047
 Private Call,VA2WE Alain,,,CAN,3022048
 Private Call,VA2HEB Martin,,,CAN,3022049
 Private Call,VE2AED Howard,,,CAN,3022050
@@ -9580,6 +9598,7 @@ Private Call,VA2KM Mario,,,CAN,3022199
 Private Call,VE2SLO Marc,,,CAN,3022201
 Private Call,VE2LMH Hubert,,,CAN,3022202
 Private Call,VE2VAG Guy,,,CAN,3022203
+Private Call,VE2ZBR Paul Emile,,,CAN,3022206
 Private Call,VE2AEE Denis,,,CAN,3022207
 Private Call,VE2SK Martin,,,CAN,3022208
 Private Call,VE2FJZ Luc,,,CAN,3022209
@@ -9716,6 +9735,7 @@ Private Call,VA2KLM Martin,,,CAN,3022418
 Private Call,VE2BJR Henry,,,CAN,3022419
 Private Call,VA2ZA Louis,,,CAN,3022420
 Private Call,VA2NA Guillaume,,,CAN,3022421
+Private Call,VE2ZWA Alain,,,CAN,3022423
 Private Call,VA2EFM Richard,,,CAN,3022427
 Private Call,VA2KV Sylvain,,,CAN,3022428
 Private Call,VE2SNB Eric,,,CAN,3022429
@@ -9858,6 +9878,7 @@ Private Call,VE2JVE Jean,,,CAN,3022646
 Private Call,VE3FZ no_name,,,CAN,3022647
 Private Call,VA6GAC Gregory,,,CAN,3022648
 Private Call,VE1KD Dan,,,CAN,3022649
+Private Call,VE2ICH Michel,,,CAN,3022650
 Private Call,VE2JTX Stephane,,,CAN,3022651
 Private Call,VE2AVA Pierre,,,CAN,3022652
 Private Call,VE2HPY Yohan,,,CAN,3022653
@@ -10188,6 +10209,7 @@ Private Call,VA3GVD Gordon,,,CAN,3023174
 Private Call,VA3URO Dan,,,CAN,3023177
 Private Call,VE3VOG Dan,,,CAN,3023182
 Private Call,VY1JN Daria,,,CAN,3023190
+Private Call,VA3YR Peter,,,CAN,3023194
 Private Call,VE3PK Peter,,,CAN,3023195
 Private Call,VA3RZS Richard,,,CAN,3023197
 Private Call,VE3AEP Domenic,,,CAN,3023200
@@ -10294,6 +10316,7 @@ Private Call,VA3MET Rob,,,CAN,3023360
 Private Call,VE3XLD Lawrence,,,CAN,3023362
 Private Call,VE3XLD Lawrence,,,CAN,3023363
 Private Call,VE3ISS Lenny,,,CAN,3023365
+Private Call,VE3JLC James,,,CAN,3023367
 Private Call,VA3TJS Timothy,,,CAN,3023372
 Private Call,VA3SII Simon,,,CAN,3023373
 Private Call,VE3ELB Vince,,,CAN,3023374
@@ -10521,6 +10544,7 @@ Private Call,VE3YCA Jason,,,CAN,3023713
 Private Call,VE3WOO Stephen,,,CAN,3023714
 Private Call,VA3GI Robert,,,CAN,3023716
 Private Call,VE3TMG Terry,,,CAN,3023718
+Private Call,VE3OKV George,,,CAN,3023719
 Private Call,VA3BVC Shan,,,CAN,3023720
 Private Call,VE3CWR Gerard,,,CAN,3023721
 Private Call,VE3GPB Paul,,,CAN,3023723
@@ -10537,6 +10561,7 @@ Private Call,VE3TRQ Ted,,,CAN,3023743
 Private Call,VA3SFA Syed,,,CAN,3023744
 Private Call,VE3RXW Rob,,,CAN,3023747
 Private Call,VE3RXW Rob,,,CAN,3023748
+Private Call,VE3OGP George,,,CAN,3023750
 Private Call,VE3FRJ Robert,,,CAN,3023751
 Private Call,VA3CQE Johannes,,,CAN,3023752
 Private Call,VE3HYE Normano,,,CAN,3023754
@@ -11440,7 +11465,7 @@ Private Call,VE2NUT Martin,,,CAN,3024756
 Private Call,VE9PHX Greg,,,CAN,3024757
 Private Call,VA3JIC James,,,CAN,3024758
 Private Call,VE1TWH Thomas,,,CAN,3024759
-Private Call,VE7UTV Christopher,,,CAN,3024760
+Private Call,VE7UTV Chris,,,CAN,3024760
 Private Call,VA2STB Ste Phane,,,CAN,3024761
 Private Call,VA3VRA Thomas,,,CAN,3024762
 Private Call,VO1DRD Derek,,,CAN,3024763
@@ -11830,7 +11855,7 @@ Private Call,VE2MIG Dominique,,,CAN,3025162
 Private Call,VE2WKO Lennox,,,CAN,3025163
 Private Call,VE2CZE Rene,,,CAN,3025164
 Private Call,VA2BBB Daniel,,,CAN,3025165
-Private Call,VE3HQR Brian Carswell,,,CAN,3025166
+Private Call,VE3HQR Brian,,,CAN,3025166
 Private Call,VA1NES Will,,,CAN,3025167
 Private Call,VE7IHE Ralf,,,CAN,3025168
 Private Call,VE3WXO David,,,CAN,3025169
@@ -13608,6 +13633,7 @@ Private Call,VE7OVY Kevin,,,CAN,3027069
 Private Call,VA7CQ Don,,,CAN,3027070
 Private Call,VE7ET David,,,CAN,3027071
 Private Call,VA7FTW Dave,,,CAN,3027072
+Private Call,VA7HL Jean,,,CAN,3027073
 Private Call,VE7LTD David,,,CAN,3027075
 Private Call,VA7MAD Micheal,,,CAN,3027076
 Private Call,VE7MKW Eric,,,CAN,3027078
@@ -13636,6 +13662,8 @@ Private Call,VA7EM Rick,,,CAN,3027115
 Private Call,VE7LMP Linda,,,CAN,3027116
 Private Call,VE7XMC Michael,,,CAN,3027117
 Private Call,VA7BC Greg,,,CAN,3027118
+Private Call,VA7HL Jean,,,CAN,3027119
+Private Call,VE7FXG Greg,,,CAN,3027120
 Private Call,VE7IRL Gordon,,,CAN,3027121
 Private Call,VA7WV Kevin,,,CAN,3027122
 Private Call,VA7HZ Ronald,,,CAN,3027123
@@ -13839,6 +13867,16 @@ Private Call,VE2JDS Jean,,,CAN,3027382
 Private Call,VE4CEL Cecilio,,,CAN,3027383
 Private Call,VE2POM Rock,,,CAN,3027384
 Private Call,VE3GW Michael,,,CAN,3027385
+Private Call,VE1DES Donald,,,CAN,3027386
+Private Call,VE6SD Don,,,CAN,3027387
+Private Call,VE2CJ Jean,,,CAN,3027388
+Private Call,VE9RMS Mike,,,CAN,3027389
+Private Call,VA3UCT Clifford,,,CAN,3027390
+Private Call,VE4CAR Caroline,,,CAN,3027391
+Private Call,VA3XSC Spencer,,,CAN,3027392
+Private Call,VA6KE Kevin,,,CAN,3027393
+Private Call,VE3RKS Roger,,,CAN,3027394
+Private Call,VA7DTV James,,,CAN,3027395
 Private Call,VE3YUL John,,,CAN,3028002
 Private Call,VE3GCT Gary,,,CAN,3028005
 Private Call,VY1BAT Wolf,,,CAN,3028010
@@ -13857,6 +13895,7 @@ Private Call,VE9XAB Tobie,,,CAN,3029011
 Private Call,VE9GFI Greg,,,CAN,3029012
 Private Call,VE9GFI Greg,,,CAN,3029013
 Private Call,VE9SM Stuart,,,CAN,3029016
+Private Call,VE9MDB Matthieu,,,CAN,3029017
 Private Call,VE9CEL Charles,,,CAN,3029018
 Private Call,VE9NW Gilles,,,CAN,3029021
 Private Call,VE9TX Guy,,,CAN,3029022
