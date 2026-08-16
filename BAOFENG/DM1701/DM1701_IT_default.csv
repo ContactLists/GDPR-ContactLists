@@ -1540,7 +1540,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2221575,IU1BLI,Luca,,,,ITA,DMR
 2221576,IU4FLB,Giovanni,,,,ITA,DMR
 2221577,IZ1YSE,Giovanni,,,,ITA,DMR
-2221578,IZ1JJA,Luciano,,,,ITA,DMR
 2221579,IU1EQV,Piotr,,,,ITA,DMR
 2221580,IU1KGS,Carlo,,,,ITA,DMR
 2221581,IU1INZ,Lorenzo,,,,ITA,DMR
@@ -3700,6 +3699,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2223766,IU3GKL,Alessandro,,,,ITA,DMR
 2223767,IV3DSF,Giacomo,,,,ITA,DMR
 2223768,IZ3QFK,Massimo,,,,ITA,DMR
+2223769,IW3IEM,Ferruccio,,,,ITA,DMR
 2223770,IW3SRB,Giorgio,,,,ITA,DMR
 2223771,IW3SQC,Emanuele,,,,ITA,DMR
 2223772,IU3INQ,Claudio,,,,ITA,DMR
@@ -5026,6 +5026,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225107,IU5BKD,Giovanni,,,,ITA,DMR
 2225108,IU5FFN,Mauro,,,,ITA,DMR
 2225109,IK5MIC,Alessandro,,,,ITA,DMR
+2225110,IK5SQS,Daniele,,,,ITA,DMR
 2225111,IU5ATN,Massimo,,,,ITA,DMR
 2225112,I5KBS,Grazio,,,,ITA,DMR
 2225113,IZ5IVU,Marcella,,,,ITA,DMR
@@ -5141,7 +5142,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225224,IZ5TID,Stefano,,,,ITA,DMR
 2225225,IZ5RKX,Filippo,,,,ITA,DMR
 2225226,IA5DIR,Michele,,,,ITA,DMR
-2225227,IU5JJO,Massi,,,,ITA,DMR
+2225227,IU5JJO,Massimo,,,,ITA,DMR
 2225228,IA5BPU,Stefano,,,,ITA,DMR
 2225229,IZ5TLP,Maurizio,,,,ITA,DMR
 2225230,IW5DBT,Davide,,,,ITA,DMR
@@ -5283,7 +5284,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225366,IU5LCC,Alessandro,,,,ITA,DMR
 2225367,IK5SLA,Carlo,,,,ITA,DMR
 2225368,IU5ICD,Stefano,,,,ITA,DMR
-2225369,IZ5DKI,Stefano,,,,ITA,DMR
 2225370,IZ5RKZ,Leo,,,,ITA,DMR
 2225371,IZ5ZCH,Gian,,,,ITA,DMR
 2225372,IU5DDS,Massimo,,,,ITA,DMR
@@ -9397,7 +9397,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229533,IW3IIM,Davide,,,,ITA,DMR
 2229534,IT9GSY,Salvatore,,,,ITA,DMR
 2229535,IZ5OPY,Maurizio,,,,ITA,DMR
-2229536,IQ1GP,Ari,,,,ITA,DMR
 2229537,IK7MXH,Michele,,,,ITA,DMR
 2229538,IU3NTX,Alberto,,,,ITA,DMR
 2229539,IS0IYM,Giuseppe,,,,ITA,DMR
@@ -10586,6 +10585,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2230735,IU8SAI,Raffaele,,,,ITA,DMR
 2230736,IZ5ZAB,Marcello,,,,ITA,DMR
 2230737,IW0RJR,Massimo,,,,ITA,DMR
+2230738,IV3JIX,Fabio,,,,ITA,DMR
 2230739,IK1YRC,Claudio,,,,ITA,DMR
 2230740,IV3JKE,Stefano,,,,ITA,DMR
 2230741,IU8SDW,Antonio,,,,ITA,DMR
@@ -11319,7 +11319,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231473,IN3HOH,Alessandro,,,,ITA,DMR
 2231474,IW1QNM,Angelo,,,,ITA,DMR
 2231475,IT9KMT,Mario,,,,ITA,DMR
-2231476,IU2SMH,Vercesi,,,,ITA,DMR
 2231477,IW1GJU,Massai,,,,ITA,DMR
 2231478,IU1TKJ,Marco,,,,ITA,DMR
 2231479,IT9JDE,Maurizio,,,,ITA,DMR
@@ -11371,7 +11370,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231525,IU7TVA,Antonio,,,,ITA,DMR
 2231526,IU5CYB,Massimiliano,,,,ITA,DMR
 2231527,IU4TPJ,Francesco,,,,ITA,DMR
-2231528,IK7XLW,Salvatore,,,,ITA,DMR
 2231530,IV3DMO,Andrea,,,,ITA,DMR
 2231531,IU8TRB,Francesco,,,,ITA,DMR
 2231532,IU6TOV,Andrea,,,,ITA,DMR
@@ -12975,4 +12973,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2233155,IZ0GKB,Emanuele,,,,ITA,DMR
 2233156,IU0WUK,Carmen,,,,ITA,DMR
 2233157,IU3WHL,Davide,,,,ITA,DMR
+2233158,IV3KOL,Sylvain,,,,ITA,DMR
+2233159,IT9KRX,Giuseppe,,,,ITA,DMR
+2233160,IK4RSO,Marco,,,,ITA,DMR
+2233161,IU0ERZ,Alessio,,,,ITA,DMR
+2233162,IT9AWY,Giuseppe,,,,ITA,DMR
+2233163,IK1GEN,Vincenzo,,,,ITA,DMR
+2233164,IK4PQO,Giannantonio,,,,ITA,DMR
+2233165,IU1WAO,Andrea,,,,ITA,DMR
+2233166,IK8BOQ,Renato,,,,ITA,DMR
+2233167,IQ1PCK,Clubst.,,,,ITA,DMR
+2233168,IZ1MDJ,Maurizio,,,,ITA,DMR
+2233169,IU8WRG,Angelo,,,,ITA,DMR
+2233170,IU1WVC,Mario,,,,ITA,DMR
 2242222,IT9JFW,Lorenzo,,,,ITA,DMR

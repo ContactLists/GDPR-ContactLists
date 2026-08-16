@@ -1540,7 +1540,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2221575,IU1BLI,Luca,,,,ITA
 2221576,IU4FLB,Giovanni,,,,ITA
 2221577,IZ1YSE,Giovanni,,,,ITA
-2221578,IZ1JJA,Luciano,,,,ITA
 2221579,IU1EQV,Piotr,,,,ITA
 2221580,IU1KGS,Carlo,,,,ITA
 2221581,IU1INZ,Lorenzo,,,,ITA
@@ -3700,6 +3699,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2223766,IU3GKL,Alessandro,,,,ITA
 2223767,IV3DSF,Giacomo,,,,ITA
 2223768,IZ3QFK,Massimo,,,,ITA
+2223769,IW3IEM,Ferruccio,,,,ITA
 2223770,IW3SRB,Giorgio,,,,ITA
 2223771,IW3SQC,Emanuele,,,,ITA
 2223772,IU3INQ,Claudio,,,,ITA
@@ -5026,6 +5026,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225107,IU5BKD,Giovanni,,,,ITA
 2225108,IU5FFN,Mauro,,,,ITA
 2225109,IK5MIC,Alessandro,,,,ITA
+2225110,IK5SQS,Daniele,,,,ITA
 2225111,IU5ATN,Massimo,,,,ITA
 2225112,I5KBS,Grazio,,,,ITA
 2225113,IZ5IVU,Marcella,,,,ITA
@@ -5141,7 +5142,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225224,IZ5TID,Stefano,,,,ITA
 2225225,IZ5RKX,Filippo,,,,ITA
 2225226,IA5DIR,Michele,,,,ITA
-2225227,IU5JJO,Massi,,,,ITA
+2225227,IU5JJO,Massimo,,,,ITA
 2225228,IA5BPU,Stefano,,,,ITA
 2225229,IZ5TLP,Maurizio,,,,ITA
 2225230,IW5DBT,Davide,,,,ITA
@@ -5283,7 +5284,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225366,IU5LCC,Alessandro,,,,ITA
 2225367,IK5SLA,Carlo,,,,ITA
 2225368,IU5ICD,Stefano,,,,ITA
-2225369,IZ5DKI,Stefano,,,,ITA
 2225370,IZ5RKZ,Leo,,,,ITA
 2225371,IZ5ZCH,Gian,,,,ITA
 2225372,IU5DDS,Massimo,,,,ITA
@@ -9397,7 +9397,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229533,IW3IIM,Davide,,,,ITA
 2229534,IT9GSY,Salvatore,,,,ITA
 2229535,IZ5OPY,Maurizio,,,,ITA
-2229536,IQ1GP,Ari,,,,ITA
 2229537,IK7MXH,Michele,,,,ITA
 2229538,IU3NTX,Alberto,,,,ITA
 2229539,IS0IYM,Giuseppe,,,,ITA
@@ -10586,6 +10585,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2230735,IU8SAI,Raffaele,,,,ITA
 2230736,IZ5ZAB,Marcello,,,,ITA
 2230737,IW0RJR,Massimo,,,,ITA
+2230738,IV3JIX,Fabio,,,,ITA
 2230739,IK1YRC,Claudio,,,,ITA
 2230740,IV3JKE,Stefano,,,,ITA
 2230741,IU8SDW,Antonio,,,,ITA
@@ -11319,7 +11319,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231473,IN3HOH,Alessandro,,,,ITA
 2231474,IW1QNM,Angelo,,,,ITA
 2231475,IT9KMT,Mario,,,,ITA
-2231476,IU2SMH,Vercesi,,,,ITA
 2231477,IW1GJU,Massai,,,,ITA
 2231478,IU1TKJ,Marco,,,,ITA
 2231479,IT9JDE,Maurizio,,,,ITA
@@ -11371,7 +11370,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2231525,IU7TVA,Antonio,,,,ITA
 2231526,IU5CYB,Massimiliano,,,,ITA
 2231527,IU4TPJ,Francesco,,,,ITA
-2231528,IK7XLW,Salvatore,,,,ITA
 2231530,IV3DMO,Andrea,,,,ITA
 2231531,IU8TRB,Francesco,,,,ITA
 2231532,IU6TOV,Andrea,,,,ITA
@@ -12975,6 +12973,19 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2233155,IZ0GKB,Emanuele,,,,ITA
 2233156,IU0WUK,Carmen,,,,ITA
 2233157,IU3WHL,Davide,,,,ITA
+2233158,IV3KOL,Sylvain,,,,ITA
+2233159,IT9KRX,Giuseppe,,,,ITA
+2233160,IK4RSO,Marco,,,,ITA
+2233161,IU0ERZ,Alessio,,,,ITA
+2233162,IT9AWY,Giuseppe,,,,ITA
+2233163,IK1GEN,Vincenzo,,,,ITA
+2233164,IK4PQO,Giannantonio,,,,ITA
+2233165,IU1WAO,Andrea,,,,ITA
+2233166,IK8BOQ,Renato,,,,ITA
+2233167,IQ1PCK,Clubst.,,,,ITA
+2233168,IZ1MDJ,Maurizio,,,,ITA
+2233169,IU8WRG,Angelo,,,,ITA
+2233170,IU1WVC,Mario,,,,ITA
 2242222,IT9JFW,Lorenzo,,,,ITA
 2280001,4U1ITU,International,,,,CHE
 2280002,HB3XWO,Kornel,,,,CHE
@@ -13526,6 +13537,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280549,HB3YJD,Gion,,,,CHE
 2280550,HB9DJQ,Pierre,,,,CHE
 2280551,HB9DHD,Giger,,,,CHE
+2280552,HB9HRA,Alessio,,,,CHE
+2280553,HB9IUT,Fabian,,,,CHE
+2280554,HB9IJN,Marc,,,,CHE
+2280555,HB9NBM,Marc,,,,CHE
 2281001,HB3YNV,Cedric,,,,CHE
 2281002,HB3YNV,Cedric,,,,CHE
 2281003,HB3YNV,Cedric,,,,CHE
