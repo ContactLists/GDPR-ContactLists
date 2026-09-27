@@ -13098,6 +13098,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2233266,I0KNQ,Paolo,,,ITA,,Private Call,None
 ,2233267,IZ5WSW,Gabriele,,,ITA,,Private Call,None
 ,2233268,I1WTM,Mauro,,,ITA,,Private Call,None
+,2233269,IU3PSR,Sofia,,,ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,,ITA,,Private Call,None
 ,2280001,4U1ITU,International,,,CHE,,Private Call,None
 ,2280002,HB3XWO,Kornel,,,CHE,,Private Call,None
@@ -14597,7 +14598,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2286103,HB9WAM,Norbert,,,CHE,,Private Call,None
 ,2286104,HB9JBU,Beat,,,CHE,,Private Call,None
 ,2286105,HB9DS,Reto,,,CHE,,Private Call,None
-,2286106,HB9FHO,Romano,,,CHE,,Private Call,None
+,2286106,HB9FHO,no_name,,,CHE,,Private Call,None
 ,2286107,HB9GFB,Marco,,,CHE,,Private Call,None
 ,2286108,HB9GFG,Alessandro,,,CHE,,Private Call,None
 ,2286109,HB9JBZ,Daniel,,,CHE,,Private Call,None

@@ -1497,7 +1497,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286103,HB9WAM,Norbert,,,CHE
 2286104,HB9JBU,Beat,,,CHE
 2286105,HB9DS,Reto,,,CHE
-2286106,HB9FHO,Romano,,,CHE
+2286106,HB9FHO,no_name,,,CHE
 2286107,HB9GFB,Marco,,,CHE
 2286108,HB9GFG,Alessandro,,,CHE
 2286109,HB9JBZ,Daniel,,,CHE
@@ -4411,6 +4411,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2327038,OE7TMJ,Martin,,,AUT
 2327039,OE7MMT,Martin,,,AUT
 2327040,OE7GHJ,Herbert,,,AUT
+2327041,OE7SBH,Stefan,,,AUT
 2327042,OE7JRT,Josef,,,AUT
 2327043,OE7XWI,ClubSt/Relais,,,AUT
 2327044,OE7MWH,Michael,,,AUT
@@ -4526,6 +4527,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2327160,OE7BFT,Franco,,,AUT
 2327161,OE7UTI,Ulf,,,AUT
 2327162,OE7SPI,Peter,,,AUT
+2327163,OE7SBH,Stefan,,,AUT
 2327164,OE7GWT,Guenther,,,AUT
 2327165,OE7BOE,Robert,,,AUT
 2327166,OE7CAI,Christian,,,AUT
@@ -20817,6 +20819,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2636719,DN9WUN,Mathias,,,DEU
 2636720,DO2JEG,Eric,,,DEU
 2636721,DN9NMM,Martin,,,DEU
+2636722,DO1NAU,Andre,,,DEU
+2636723,DO9WOL,Wolfgang,,,DEU
+2636724,DF3PL,Peter,,,DEU
 2637001,DF6MP,Marcus,,,DEU
 2637002,DO2STO,Matthias,,,DEU
 2637003,DK7OJ,Klaus,,,DEU

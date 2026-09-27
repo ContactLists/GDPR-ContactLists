@@ -1497,7 +1497,7 @@ Private Call,HB9FOB Frederick,,,CHE,2286102
 Private Call,HB9WAM Norbert,,,CHE,2286103
 Private Call,HB9JBU Beat,,,CHE,2286104
 Private Call,HB9DS Reto,,,CHE,2286105
-Private Call,HB9FHO Romano,,,CHE,2286106
+Private Call,HB9FHO no_name,,,CHE,2286106
 Private Call,HB9GFB Marco,,,CHE,2286107
 Private Call,HB9GFG Alessandro,,,CHE,2286108
 Private Call,HB9JBZ Daniel,,,CHE,2286109
@@ -4411,6 +4411,7 @@ Private Call,OE7RHH Robert,,,AUT,2327037
 Private Call,OE7TMJ Martin,,,AUT,2327038
 Private Call,OE7MMT Martin,,,AUT,2327039
 Private Call,OE7GHJ Herbert,,,AUT,2327040
+Private Call,OE7SBH Stefan,,,AUT,2327041
 Private Call,OE7JRT Josef,,,AUT,2327042
 Private Call,OE7XWI ClubSt/Relais,,,AUT,2327043
 Private Call,OE7MWH Michael,,,AUT,2327044
@@ -4526,6 +4527,7 @@ Private Call,OE7ECH Christian,,,AUT,2327158
 Private Call,OE7BFT Franco,,,AUT,2327160
 Private Call,OE7UTI Ulf,,,AUT,2327161
 Private Call,OE7SPI Peter,,,AUT,2327162
+Private Call,OE7SBH Stefan,,,AUT,2327163
 Private Call,OE7GWT Guenther,,,AUT,2327164
 Private Call,OE7BOE Robert,,,AUT,2327165
 Private Call,OE7CAI Christian,,,AUT,2327166
@@ -20817,6 +20819,9 @@ Private Call,DO3ANT Anthony,,,DEU,2636718
 Private Call,DN9WUN Mathias,,,DEU,2636719
 Private Call,DO2JEG Eric,,,DEU,2636720
 Private Call,DN9NMM Martin,,,DEU,2636721
+Private Call,DO1NAU Andre,,,DEU,2636722
+Private Call,DO9WOL Wolfgang,,,DEU,2636723
+Private Call,DF3PL Peter,,,DEU,2636724
 Private Call,DF6MP Marcus,,,DEU,2637001
 Private Call,DO2STO Matthias,,,DEU,2637002
 Private Call,DK7OJ Klaus,,,DEU,2637003
