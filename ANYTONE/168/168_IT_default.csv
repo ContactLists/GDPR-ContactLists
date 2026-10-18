@@ -746,7 +746,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2220767,IK0SPX,Piero,,,ITA,,Private Call,None
 ,2220768,IU0DVA,Fabio,,,ITA,,Private Call,None
 ,2220769,IS0GRB,Roberto,,,ITA,,Private Call,None
-,2220770,IZ0NLF,Massimiliano,,,ITA,,Private Call,None
+,2220770,IZ0NLF,Max,,,ITA,,Private Call,None
 ,2220771,IU0ICQ,Eduardo,,,ITA,,Private Call,None
 ,2220772,IS0UNG,Casimiro,,,ITA,,Private Call,None
 ,2220773,IZ0IMT,Bruno,,,ITA,,Private Call,None
@@ -786,7 +786,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2220807,IW0HCW,Daniele,,,ITA,,Private Call,None
 ,2220808,IZ0VWY,Ciani,,,ITA,,Private Call,None
 ,2220809,IU0KRR,Riccardo,,,ITA,,Private Call,None
-,2220810,IZ0LGL,Laqa,,,ITA,,Private Call,None
+,2220810,IZ0LGL,Pasquale,,,ITA,,Private Call,None
 ,2220811,IS0BRD,Alex,,,ITA,,Private Call,None
 ,2220812,IU0GYK,Alfredo,,,ITA,,Private Call,None
 ,2220813,IS0SEL,Alessio,,,ITA,,Private Call,None
@@ -1446,7 +1446,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2221479,IZ1UMH,Claudio,,,ITA,,Private Call,None
 ,2221480,IZ1GEA,Maurizio,,,ITA,,Private Call,None
 ,2221481,IU1CRV,Gian,,,ITA,,Private Call,None
-,2221482,IZ1DBU,Gian,,,ITA,,Private Call,None
+,2221482,IZ1DBU,Gianfranco,,,ITA,,Private Call,None
 ,2221483,IU1GJE,Marco,,,ITA,,Private Call,None
 ,2221484,IZ1RWF,Marcello,,,ITA,,Private Call,None
 ,2221485,IZ1JKE,Emanuela,,,ITA,,Private Call,None
@@ -7415,7 +7415,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227528,IU7BQE,Angelo,,,ITA,,Private Call,None
 ,2227529,IK7XXE,Anna,,,ITA,,Private Call,None
 ,2227530,IK7NCQ,Giuseppe,,,ITA,,Private Call,None
-,2227531,IU7NEH,Linus,,,ITA,,Private Call,None
+,2227531,IU7NEH,Vito,,,ITA,,Private Call,None
 ,2227532,IZ7NPL,Francesco,,,ITA,,Private Call,None
 ,2227533,IZ8JHM,Nicola,,,ITA,,Private Call,None
 ,2227534,IU7HAA,Francesco,,,ITA,,Private Call,None
@@ -12314,7 +12314,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2232472,IU0TYB,Roger,,,ITA,,Private Call,None
 ,2232473,IT9FYH,Giuseppe,,,ITA,,Private Call,None
 ,2232474,IU8TVG,Giovanni,,,ITA,,Private Call,None
-,2232475,IU5WKB,Gianni,,,ITA,,Private Call,None
+,2232475,IU5VKB,Gianni,,,ITA,,Private Call,None
 ,2232476,IU8VAS,Antonino,,,ITA,,Private Call,None
 ,2232477,IU3STL,Giovanni,,,ITA,,Private Call,None
 ,2232478,IU5VNO,Davide,,,ITA,,Private Call,None
@@ -13147,4 +13147,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2233315,IT9LPB,Giuseppe,,,ITA,,Private Call,None
 ,2233316,IU6WMX,Antonio,,,ITA,,Private Call,None
 ,2233317,IU8SYW,Giancarlo,,,ITA,,Private Call,None
+,2233318,IU3JHO,Davide,,,ITA,,Private Call,None
+,2233319,IU6WNO,Giuseppe,,,ITA,,Private Call,None
+,2233320,IT9KXG,Carmelo,,,ITA,,Private Call,None
+,2233321,IT9DBI,Mauro,,,ITA,,Private Call,None
+,2233322,IU1WXA,Massimo,,,ITA,,Private Call,None
+,2233323,IU3UJX,Mattia,,,ITA,,Private Call,None
+,2233324,IU0WTN,Marcello,,,ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,,ITA,,Private Call,None
