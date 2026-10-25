@@ -3513,7 +3513,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2223575,IV3GFJ,Comune,,,ITA,,Private Call,None
 ,2223576,IV3KTQ,Andrea,,,ITA,,Private Call,None
 ,2223578,IN3JOZ,Claudio,,,ITA,,Private Call,None
-,2223579,IQ3AZ,A.R.I.,,,ITA,,Private Call,None
+,2223579,IQ3AZ,Clubst.,,,ITA,,Private Call,None
 ,2223580,IZ3QWB,Daniele,,,ITA,,Private Call,None
 ,2223581,IU3AHD,Luca,,,ITA,,Private Call,None
 ,2223582,IU3EES,Matteo,,,ITA,,Private Call,None
@@ -3583,6 +3583,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2223646,IV3WJP,Gregor,,,ITA,,Private Call,None
 ,2223647,IU3IKH,Nicola,,,ITA,,Private Call,None
 ,2223648,IW3HVZ,Giuseppe,,,ITA,,Private Call,None
+,2223649,IV3NDV,Maurizio,,,ITA,,Private Call,None
 ,2223650,IN3NSJ,Enzo,,,ITA,,Private Call,None
 ,2223651,IK3XKO,Vincenzo,,,ITA,,Private Call,None
 ,2223652,IZ3XKO,Vincenzo,,,ITA,,Private Call,None
@@ -7684,7 +7685,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227799,IZ1MMA,Giovanni,,,ITA,,Private Call,None
 ,2227800,IU7OTK,Daniele,,,ITA,,Private Call,None
 ,2227801,IW2MCE,Paolo,,,ITA,,Private Call,None
-,2227802,IR3ZYQ,Clubst.,,,ITA,,Private Call,None
 ,2227803,IS0GFU,Carlo,,,ITA,,Private Call,None
 ,2227804,IU5PEP,Alessio,,,ITA,,Private Call,None
 ,2227805,IZ5MOI,Francesco,,,ITA,,Private Call,None
@@ -8781,7 +8781,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2228909,IU8PNS,Enrico,,,ITA,,Private Call,None
 ,2228910,IU0PPT,Domenico,,,ITA,,Private Call,None
 ,2228911,IT9WBN,Salvatore,,,ITA,,Private Call,None
-,2228912,IQ3GO,Ari,,,ITA,,Private Call,None
+,2228912,IQ3GO,Clubst.,,,ITA,,Private Call,None
 ,2228913,IK8DOE,Arturo,,,ITA,,Private Call,None
 ,2228914,IU3IED,Gabriele,,,ITA,,Private Call,None
 ,2228915,IZ0GVZ,Luca,,,ITA,,Private Call,None
@@ -13154,4 +13154,19 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2233322,IU1WXA,Massimo,,,ITA,,Private Call,None
 ,2233323,IU3UJX,Mattia,,,ITA,,Private Call,None
 ,2233324,IU0WTN,Marcello,,,ITA,,Private Call,None
+,2233325,IU2WMZ,Gianpaolo,,,ITA,,Private Call,None
+,2233326,IU6OTJ,Francesco,,,ITA,,Private Call,None
+,2233327,IU3WZH,Mirco,,,ITA,,Private Call,None
+,2233328,IS0NGI,Enrico,,,ITA,,Private Call,None
+,2233329,IU4UWO,Emilio,,,ITA,,Private Call,None
+,2233330,IU0WTC,Enzo,,,ITA,,Private Call,None
+,2233331,IQ3VO,Clubst.,,,ITA,,Private Call,None
+,2233332,IQ9MK,Clubst.,,,ITA,,Private Call,None
+,2233333,IU1WVJ,Maurizio,,,ITA,,Private Call,None
+,2233334,IU4LEU,Massimo,,,ITA,,Private Call,None
+,2233335,IU2QCS,Massimo,,,ITA,,Private Call,None
+,2233336,IW3HRW,Angelo,,,ITA,,Private Call,None
+,2233337,IQ3VV,Clubst.,,,ITA,,Private Call,None
+,2233338,IT9KTZ,Ignazio,,,ITA,,Private Call,None
+,2233339,IU7VMB,Claudio,,,ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,,ITA,,Private Call,None
