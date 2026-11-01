@@ -213,7 +213,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1106181,KE6AHV,Nicolas,,,USA,,Private Call,None
 ,1106182,W6QM,Ronald,,,USA,,Private Call,None
 ,1106184,N6XTL,Mark,,,USA,,Private Call,None
-,1106185,KM6FKJ,Joseph,,,USA,,Private Call,None
 ,1106186,KK6TLK,Kay,,,USA,,Private Call,None
 ,1106187,AA6RM,Roger,,,USA,,Private Call,None
 ,1106188,W6TCD,Ben,,,USA,,Private Call,None
@@ -366,13 +365,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1106395,K6GRH,Gwendolyn,,,USA,,Private Call,None
 ,1106397,KK6GSI,Joseph,,,USA,,Private Call,None
 ,1106399,KW5X,Hugh,,,USA,,Private Call,None
-,1106400,KM6AR,Ruben,,,USA,,Private Call,None
+,1106400,AK7AR,Ruben,,,USA,,Private Call,None
 ,1106401,KM6JOP,Hiva,,,USA,,Private Call,None
 ,1106402,W6KGB,Matt,,,USA,,Private Call,None
 ,1106404,K6JTA,Ronald,,,USA,,Private Call,None
 ,1106405,KK6WGY,Edward,,,USA,,Private Call,None
 ,1106406,K6LYM,Yiming,,,USA,,Private Call,None
 ,1106407,K6LYM,Yiming,,,USA,,Private Call,None
+,1106408,KM6FZX,Louis,,,USA,,Private Call,None
 ,1106409,KM6BNY,Robert,,,USA,,Private Call,None
 ,1106410,WW6E,Sardxcc,,,USA,,Private Call,None
 ,1106411,KZ6S,Garrett,,,USA,,Private Call,None
@@ -489,7 +489,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1106574,KN6OE,David,,,USA,,Private Call,None
 ,1106575,AF6VT,Michael,,,USA,,Private Call,None
 ,1106576,KJ6KDJ,Robert,,,USA,,Private Call,None
-,1106577,AA3RD,Jose,,,USA,,Private Call,None
 ,1106578,N6NAV,Robert,,,USA,,Private Call,None
 ,1106579,N6BIH,Senad,,,USA,,Private Call,None
 ,1106580,KI6ZAC,Stefen,,,USA,,Private Call,None
@@ -1044,7 +1043,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1107405,W6CAW,Craig,,,USA,,Private Call,None
 ,1107406,KA6TGI,Vicente,,,USA,,Private Call,None
 ,1107407,K6DDR,Diosdado,,,USA,,Private Call,None
-,1107409,W6TRW,Club,,,USA,,Private Call,None
 ,1107410,KG6SQN,Gregory,,,USA,,Private Call,None
 ,1107413,K7ANQ,Jerry,,,USA,,Private Call,None
 ,1107416,K6MNY,Marianito,,,USA,,Private Call,None
@@ -1538,11 +1536,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1108104,W5WCA,Wendell,,,USA,,Private Call,None
 ,1108105,KE0BBB,David,,,USA,,Private Call,None
 ,1108107,KC0CNI,Patrick,,,USA,,Private Call,None
-,1108108,KA0Z,Anthony,,,USA,,Private Call,None
 ,1108109,KB0OCA,James,,,USA,,Private Call,None
 ,1108110,KE0JBF,Antonio,,,USA,,Private Call,None
 ,1108111,KE0KPP,Joseph,,,USA,,Private Call,None
-,1108112,W0QO,Jeffrey,,,USA,,Private Call,None
+,1108112,W0QO,Jeff,,,USA,,Private Call,None
 ,1108114,KD0JOF,Paul,,,USA,,Private Call,None
 ,1108116,KO3PER,Seumas,,,USA,,Private Call,None
 ,1108117,WX5AB,Aaron,,,USA,,Private Call,None
@@ -2108,7 +2105,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1112308,AA4PN,Peter,,,USA,,Private Call,None
 ,1112309,KC1TN,Harry,,,USA,,Private Call,None
 ,1112310,N4KGT,Alan,,,USA,,Private Call,None
-,1112312,KE4UOP,Louis,,,USA,,Private Call,None
 ,1112313,KK4RDB,Ronald,,,USA,,Private Call,None
 ,1112314,N4TIA,Alexander,,,USA,,Private Call,None
 ,1112315,K2VYD,Julian,,,USA,,Private Call,None
@@ -2127,7 +2123,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1112337,KM4WMK,Christopher,,,USA,,Private Call,None
 ,1112338,KM4YJF,Kevin,,,USA,,Private Call,None
 ,1112339,N1FM,Thomas,,,USA,,Private Call,None
-,1112340,K4ZAS,Dennis,,,USA,,Private Call,None
 ,1112342,N4SAR,James,,,USA,,Private Call,None
 ,1112343,AB4U,Joel,,,USA,,Private Call,None
 ,1112344,K9TUT,M,,,USA,,Private Call,None
@@ -2168,7 +2163,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1112396,W1AVV,Frank,,,USA,,Private Call,None
 ,1112397,W2JKD,James,,,USA,,Private Call,None
 ,1112398,WA2V,Jeff,,,USA,,Private Call,None
-,1112399,N9PSG,Patrick,,,USA,,Private Call,None
 ,1112400,KM4UQT,Thomas,,,USA,,Private Call,None
 ,1112401,KM4YGL,Andre,,,USA,,Private Call,None
 ,1112402,KM4MCK,John,,,USA,,Private Call,None
@@ -2222,7 +2216,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1112463,K9USF,Joseph,,,USA,,Private Call,None
 ,1112464,KI4FMJ,Brian,,,USA,,Private Call,None
 ,1112465,KK4TOI,Joseph,,,USA,,Private Call,None
-,1112467,KM2R,Donald,,,USA,,Private Call,None
 ,1112468,KM4HKK,William,,,USA,,Private Call,None
 ,1112469,KW4QK,Patrick,,,USA,,Private Call,None
 ,1112470,KJ4UFX,Derek,,,USA,,Private Call,None
@@ -2469,7 +2462,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1112821,K4ETD,Lawrence,,,USA,,Private Call,None
 ,1112822,KJ4FPA,Steven,,,USA,,Private Call,None
 ,1112823,WB2TQE,Howard,,,USA,,Private Call,None
-,1112824,KV4TN,Jerry,,,USA,,Private Call,None
 ,1112825,KN4AKK,Michael,,,USA,,Private Call,None
 ,1112826,KK4ZMZ,David,,,USA,,Private Call,None
 ,1112827,KX4U,Craig,,,USA,,Private Call,None
@@ -2616,7 +2608,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1117026,WD9CIR,Stephen,,,USA,,Private Call,None
 ,1117028,NF9D,William,,,USA,,Private Call,None
 ,1117029,KC9TWR,Mike,,,USA,,Private Call,None
-,1117030,NR9Q,Christopher,,,USA,,Private Call,None
+,1117030,NR9Q,Chris,,,USA,,Private Call,None
 ,1117031,NF9T,Tuck,,,USA,,Private Call,None
 ,1117033,K9KUZ,James,,,USA,,Private Call,None
 ,1117034,W9VFW,Vermilion County War Museum,,,USA,,Private Call,None
@@ -2802,7 +2794,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1117299,KC9UFB,James,,,USA,,Private Call,None
 ,1117300,N9IVM,James,,,USA,,Private Call,None
 ,1117301,KD9JKG,David,,,USA,,Private Call,None
-,1117302,WX9CTA,Weather,,,USA,,Private Call,None
 ,1117305,WA6TMJ,Clinton,,,USA,,Private Call,None
 ,1117306,NE9A,Melvyn,,,USA,,Private Call,None
 ,1117307,NE9A,Melvyn,,,USA,,Private Call,None
@@ -3028,7 +3019,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1118114,KC9ZYE,John,,,USA,,Private Call,None
 ,1118117,W4RCP,Robert,,,USA,,Private Call,None
 ,1118118,N1AAE,Curtis,,,USA,,Private Call,None
-,1118119,KD9HAX,John,,,USA,,Private Call,None
 ,1118121,KD9JJL,Bryan,,,USA,,Private Call,None
 ,1118122,KD9JJL,Bryan,,,USA,,Private Call,None
 ,1118123,KD9IZT,Steve,,,USA,,Private Call,None
@@ -3045,7 +3035,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1118141,KC9CAU,Christopher,,,USA,,Private Call,None
 ,1118142,N9CRT,Jason,,,USA,,Private Call,None
 ,1118143,KC9JBR,John,,,USA,,Private Call,None
-,1118144,KD9HLG,Robert,,,USA,,Private Call,None
 ,1118145,KC9RTI,Jeff,,,USA,,Private Call,None
 ,1118146,KD9AJN,Derrick,,,USA,,Private Call,None
 ,1118147,KI4WDL,Shawn,,,USA,,Private Call,None
@@ -3511,7 +3500,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1126458,KD8PWN,Angela,,,USA,,Private Call,None
 ,1126459,KD8IWQ,Jimmy,,,USA,,Private Call,None
 ,1126460,K8BAY,Bay Area Amateur Radio Club,,,USA,,Private Call,None
-,1126461,KE8FCJ,Michael,,,USA,,Private Call,None
 ,1126462,AC8DG,James,,,USA,,Private Call,None
 ,1126464,N8BNA,Frank,,,USA,,Private Call,None
 ,1126465,N8QGC,John,,,USA,,Private Call,None
@@ -3867,12 +3855,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1136198,KC2EUN,Jose,,,USA,,Private Call,None
 ,1136200,KD2MKX,Juan,,,USA,,Private Call,None
 ,1136201,N2YBB,Mike,,,USA,,Private Call,None
+,1136202,KD2MDG,Joshua,,,USA,,Private Call,None
 ,1136204,KD2DGF,Albert,,,USA,,Private Call,None
 ,1136206,W6LIT,Emmanuel,,,USA,,Private Call,None
 ,1136207,KD2KIE,Alex,,,USA,,Private Call,None
 ,1136208,K2FIN,Jarkko,,,USA,,Private Call,None
 ,1136209,KC2YEL,Eddy,,,USA,,Private Call,None
 ,1136210,KC2LAL,Randy,,,USA,,Private Call,None
+,1136211,KD2MDP,Brian,,,USA,,Private Call,None
 ,1136213,WA2HKT,Michael,,,USA,,Private Call,None
 ,1136214,KA2RWA,Richard,,,USA,,Private Call,None
 ,1136215,KB2HAP,Daniel,,,USA,,Private Call,None
@@ -4045,7 +4035,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1136444,KE2SR,Kenneth,,,USA,,Private Call,None
 ,1136445,WA2OUZ,John,,,USA,,Private Call,None
 ,1136446,W2TMD,Vincent,,,USA,,Private Call,None
-,1136447,KB2AQW,Michael,,,USA,,Private Call,None
 ,1136449,KD2EWM,Paul,,,USA,,Private Call,None
 ,1136450,KD2ESY,Andrew,,,USA,,Private Call,None
 ,1136451,WN7R,Alan,,,USA,,Private Call,None
@@ -4300,7 +4289,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1136840,KD2KOW,Darlene,,,USA,,Private Call,None
 ,1136841,W2CST,Corey,,,USA,,Private Call,None
 ,1136842,KD2OVW,Christopher,,,USA,,Private Call,None
-,1136843,K0WXR,Guy,,,USA,,Private Call,None
 ,1136845,WA2HBW,Michael,,,USA,,Private Call,None
 ,1136846,N2RES,Dean,,,USA,,Private Call,None
 ,1136847,KD2ALW,Derrick,,,USA,,Private Call,None
@@ -4342,7 +4330,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1136901,AA2XX,John,,,USA,,Private Call,None
 ,1136902,W2CPS,Christopher,,,USA,,Private Call,None
 ,1136904,N2YXW,Bill,,,USA,,Private Call,None
-,1136905,AC2UQ,Paul,,,USA,,Private Call,None
 ,1136906,KD2CYZ,Glenn,,,USA,,Private Call,None
 ,1136909,KD2CDC,Reno,,,USA,,Private Call,None
 ,1136910,W2MEK,Michael,,,USA,,Private Call,None
@@ -4435,13 +4422,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1137027,W3ENK,Pete,,,USA,,Private Call,None
 ,1137028,W4EWH,Ernest,,,USA,,Private Call,None
 ,1137029,AJ4MJ,Justin,,,USA,,Private Call,None
-,1137030,K4ML,Ron,,,USA,,Private Call,None
 ,1137031,W4EWH,Ernest,,,USA,,Private Call,None
 ,1137032,K4TRP,Terence,,,USA,,Private Call,None
 ,1137035,NC1NC,Wally,,,USA,,Private Call,None
 ,1137036,KM4ENB,Leeman,,,USA,,Private Call,None
 ,1137037,N4IOH,Larry,,,USA,,Private Call,None
-,1137038,AC4JG,Joshua,,,USA,,Private Call,None
 ,1137040,W4GRD,Gary,,,USA,,Private Call,None
 ,1137042,KE4QZC,Ryan,,,USA,,Private Call,None
 ,1137043,K3BTF,Adam,,,USA,,Private Call,None
@@ -4641,7 +4626,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1137303,W4UBQ,Danny,,,USA,,Private Call,None
 ,1137304,NC4JA,John,,,USA,,Private Call,None
 ,1137305,KE4VCS,Peyton,,,USA,,Private Call,None
-,1137307,KF4BSA,Troop,,,USA,,Private Call,None
 ,1137309,KW4PD,David,,,USA,,Private Call,None
 ,1137310,KB4DRQ,Donald,,,USA,,Private Call,None
 ,1137311,KI4RAZ,Jesse,,,USA,,Private Call,None
@@ -5280,10 +5264,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1139159,W8CWG,Christopher,,,USA,,Private Call,None
 ,1139160,WB8EVI,Michael,,,USA,,Private Call,None
 ,1139162,KZ8RLD,Robert,,,USA,,Private Call,None
-,1139165,KE8FBT,Todd,,,USA,,Private Call,None
 ,1139166,KD8WPC,Louis,,,USA,,Private Call,None
 ,1139167,N8FGR,Wayne,,,USA,,Private Call,None
-,1139169,N8IHU,Dana,,,USA,,Private Call,None
 ,1139170,KD8WPE,John,,,USA,,Private Call,None
 ,1139171,WA8TJC,Charles,,,USA,,Private Call,None
 ,1139173,N8SUZ,Samuel,,,USA,,Private Call,None
@@ -5436,8 +5418,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1139365,N8SPY,Gary,,,USA,,Private Call,None
 ,1139366,W8UQZ,James,,,USA,,Private Call,None
 ,1139368,KB8WNO,Clifford,,,USA,,Private Call,None
-,1139369,K8IIT,Baji,,,USA,,Private Call,None
-,1139370,K2KSU,Amy,,,USA,,Private Call,None
 ,1139371,KD8UJG,Troy,,,USA,,Private Call,None
 ,1139374,KE8BJA,Ben,,,USA,,Private Call,None
 ,1139376,K1MDM,Mark,,,USA,,Private Call,None
@@ -5688,7 +5668,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1139714,KA8FGE,John,,,USA,,Private Call,None
 ,1139715,K8AOK,Donn,,,USA,,Private Call,None
 ,1139716,K8HTC,Lawrence,,,USA,,Private Call,None
-,1139717,N8CT,Coburn,,,USA,,Private Call,None
 ,1139718,KD8WMI,Shane,,,USA,,Private Call,None
 ,1139719,KD8CT,Stephen,,,USA,,Private Call,None
 ,1139722,KE8BHR,Nicholas,,,USA,,Private Call,None
@@ -5797,7 +5776,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1139866,KA8ZTW,Steven,,,USA,,Private Call,None
 ,1139867,W8NRO,Jack,,,USA,,Private Call,None
 ,1139868,KA8ZTW,Steven,,,USA,,Private Call,None
-,1139869,KD8EIK,Douglas,,,USA,,Private Call,None
 ,1139870,KC8OQI,Jeffry,,,USA,,Private Call,None
 ,1139871,KC8WEB,David,,,USA,,Private Call,None
 ,1139872,K8PEX,Jeff,,,USA,,Private Call,None
@@ -6004,7 +5982,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1142161,N3CNC,Dewey,,,USA,,Private Call,None
 ,1142163,KB3SKD,Stephen,,,USA,,Private Call,None
 ,1142164,N3CNC,Dewey,,,USA,,Private Call,None
-,1142165,KE3AAR,Education,,,USA,,Private Call,None
 ,1142167,KE3RT,Keith,,,USA,,Private Call,None
 ,1142168,K3HLJ,Harold,,,USA,,Private Call,None
 ,1142171,NV3C,Michael,,,USA,,Private Call,None
@@ -6172,7 +6149,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1148031,KG5KBP,James,,,USA,,Private Call,None
 ,1148032,W5MIX,Matthew,,,USA,,Private Call,None
 ,1148035,K1RKH,Richard,,,USA,,Private Call,None
-,1148036,W5DKD,William,,,USA,,Private Call,None
 ,1148037,KG5FAS,Jonathan,,,USA,,Private Call,None
 ,1148038,K5ETZ,James,,,USA,,Private Call,None
 ,1148040,KB5JTJ,Dexter,,,USA,,Private Call,None
@@ -6251,7 +6227,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1148134,K5RBC,Richard,,,USA,,Private Call,None
 ,1148135,KB5ZVP,Scott,,,USA,,Private Call,None
 ,1148136,KB5ZVP,Scott,,,USA,,Private Call,None
-,1148137,KE5KPC,Chris,,,USA,,Private Call,None
 ,1148138,KF5ODM,Larry,,,USA,,Private Call,None
 ,1148139,KG5JKC,Samuel,,,USA,,Private Call,None
 ,1148141,N5DAR,Mike,,,USA,,Private Call,None
@@ -6466,7 +6441,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1148433,KG5ORL,Jayhilton,,,USA,,Private Call,None
 ,1148434,W5CXP,Ryan,,,USA,,Private Call,None
 ,1148435,W5RPO,Bradley,,,USA,,Private Call,None
-,1148436,W5LOB,Karl,,,USA,,Private Call,None
 ,1148437,KG5ACL,Juan,,,USA,,Private Call,None
 ,1148438,W5CXP,Ryan,,,USA,,Private Call,None
 ,1148440,N5XDI,Conan,,,USA,,Private Call,None
@@ -6549,7 +6523,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1148553,KF5GGS,Linda,,,USA,,Private Call,None
 ,1148554,KE5NCI,Cory,,,USA,,Private Call,None
 ,1148556,K5SVV,Steve,,,USA,,Private Call,None
-,1148557,W1ZOT,Philip,,,USA,,Private Call,None
 ,1148559,WM5U,Charles,,,USA,,Private Call,None
 ,1148560,KF5GGS,Linda,,,USA,,Private Call,None
 ,1148563,KD5VMF,Adam,,,USA,,Private Call,None
@@ -6974,7 +6947,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,1151156,K0KMR,Kevin,,,USA,,Private Call,None
 ,1151157,N3HD,Robert,,,USA,,Private Call,None
 ,1151158,W4CLK,Timothy,,,USA,,Private Call,None
-,1151160,N4BC,Richard,,,USA,,Private Call,None
 ,1151161,KM4HZF,Ross,,,USA,,Private Call,None
 ,1151162,KK4MJB,Bruce,,,USA,,Private Call,None
 ,1151163,N4PDY,Michael,,,USA,,Private Call,None
@@ -11141,6 +11113,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2041657,PE1LIU,Andy,,,NLD,,Private Call,None
 ,2041658,PD0JRN,Jeroen,,,NLD,,Private Call,None
 ,2041659,PD2CAP,Martijn,,,NLD,,Private Call,None
+,2041660,PA2AZ,Alex,,,NLD,,Private Call,None
+,2041661,PD2GK,Gerard,,,NLD,,Private Call,None
+,2041662,PD4WAC,Ron,,,NLD,,Private Call,None
 ,2042001,PA0HTW,Henk,,,NLD,,Private Call,None
 ,2042002,PA0HTW,Henk,,,NLD,,Private Call,None
 ,2042003,PA3DFN,Philip,,,NLD,,Private Call,None
@@ -13992,6 +13967,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060970,ON4WX,Stephan,,,BEL,,Private Call,None
 ,2060971,ON3VZ,Kristof,,,BEL,,Private Call,None
 ,2060972,ON3JLS,Jean,,,BEL,,Private Call,None
+,2060973,ON3SPM,Jan,,,BEL,,Private Call,None
+,2060974,ON3RDY,Rudy,,,BEL,,Private Call,None
 ,2061000,ON3EF,Phil,,,BEL,,Private Call,None
 ,2061001,ON8SVH,Stijn,,,BEL,,Private Call,None
 ,2061002,ON8SI,Simon,,,BEL,,Private Call,None
@@ -16835,7 +16812,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2081771,F4LTX,Christian,,,FRA,,Private Call,None
 ,2081772,F6GPG,Bernard,,,FRA,,Private Call,None
 ,2081773,F4MVQ,Bertrand,,,FRA,,Private Call,None
-,2081774,F4MHQ,Jean Claude,,,FRA,,Private Call,None
+,2081774,F4MHQ,David,,,FRA,,Private Call,None
 ,2081775,F5VBU,Malcolm,,,FRA,,Private Call,None
 ,2081776,F4JVS,Patrice,,,FRA,,Private Call,None
 ,2081777,F4JBM,Francois,,,FRA,,Private Call,None
@@ -17441,6 +17418,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2082381,F5OSV,Teisseyre,,,FRA,,Private Call,None
 ,2082382,F4NRM,Kapela,,,FRA,,Private Call,None
 ,2082383,F4NED,Jeremy,,,FRA,,Private Call,None
+,2082384,F1HUJ,Raynier,,,FRA,,Private Call,None
+,2082385,F4JWM,Laurent,,,FRA,,Private Call,None
+,2082386,F4NRX,David,,,FRA,,Private Call,None
+,2082387,F4NRN,Nino,,,FRA,,Private Call,None
+,2082388,F6BLU,Guihard,,,FRA,,Private Call,None
+,2082389,F4NOI,Herve,,,FRA,,Private Call,None
 ,2083001,F1IZL,Jean-Yves,,,FRA,,Private Call,None
 ,2083002,F4GEM,Arnaud,,,FRA,,Private Call,None
 ,2083003,F1BBG,Gerard,,,FRA,,Private Call,None
@@ -22664,7 +22647,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2144003,EA4AAE,Javier,,,ESP,,Private Call,None
 ,2144004,EB4CXL,Cristina,,,ESP,,Private Call,None
 ,2144005,EA4GKQ,Angel,,,ESP,,Private Call,None
-,2144006,EA4BT,Jose,,,ESP,,Private Call,None
+,2144006,EA4BT,Spike,,,ESP,,Private Call,None
 ,2144007,EA4MM,David,,,ESP,,Private Call,None
 ,2144008,EA4GEL,Jose,,,ESP,,Private Call,None
 ,2144009,EA4FHQ,Juan,,,ESP,,Private Call,None
@@ -23683,7 +23666,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2145028,EA5GOY,Jose,,,ESP,,Private Call,None
 ,2145029,EA5IQP,Jose,,,ESP,,Private Call,None
 ,2145030,EA5GTH,Ramon,,,ESP,,Private Call,None
-,2145031,EA5AWB,Jose,,,ESP,,Private Call,None
+,2145031,EA5AWB,Jose Manuel,,,ESP,,Private Call,None
 ,2145032,EA5FWX,Jesus,,,ESP,,Private Call,None
 ,2145033,EA5ASY,Joaquin,,,ESP,,Private Call,None
 ,2145034,EA4FVB,Pablo,,,ESP,,Private Call,None
@@ -25523,7 +25506,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2146882,EA2FBY,Borja,,,ESP,,Private Call,None
 ,2146883,EA3ITI,Victor,,,ESP,,Private Call,None
 ,2146884,EA1CLN,Felix,,,ESP,,Private Call,None
-,2146885,EA4MN,Sanchez Mateos Gonzalez,,,ESP,,Private Call,None
+,2146885,EA4MN,Raul,,,ESP,,Private Call,None
 ,2146886,EA7JPV,Francisco,,,ESP,,Private Call,None
 ,2146887,EA5OZ,Francisco,,,ESP,,Private Call,None
 ,2146888,EA1FTM,Iban,,,ESP,,Private Call,None
@@ -25563,7 +25546,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2146922,EA5JKB,Jose Maria,,,ESP,,Private Call,None
 ,2146923,EA1XL,Trapero,,,ESP,,Private Call,None
 ,2146924,EA5JMZ,Pablo,,,ESP,,Private Call,None
-,2146925,EA5JOF,Francisco Miguel,,,ESP,,Private Call,None
+,2146925,EA5JOF,Francisco,,,ESP,,Private Call,None
 ,2146926,EA1FTZ,Roberto,,,ESP,,Private Call,None
 ,2146927,EA4IAH,Francisco,,,ESP,,Private Call,None
 ,2146928,EA5CFI,Antonio,,,ESP,,Private Call,None
@@ -29204,7 +29187,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2150583,EA1KEX,Carlos,,,ESP,,Private Call,None
 ,2150584,EA5KAW,Andres,,,ESP,,Private Call,None
 ,2150585,EA5KIH,Lucas,,,ESP,,Private Call,None
-,2150586,EA3CYZ,Llopart,,,ESP,,Private Call,None
+,2150586,EA3CYZ,Emili,,,ESP,,Private Call,None
 ,2150587,EA7LLA,Francisco,,,ESP,,Private Call,None
 ,2150588,EA4GKM,Ismael,,,ESP,,Private Call,None
 ,2150589,EA3JLW,Ivan,,,ESP,,Private Call,None
@@ -29250,6 +29233,21 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2150629,EA4FEU,Enrique,,,ESP,,Private Call,None
 ,2150630,EA1KET,Francisco,,,ESP,,Private Call,None
 ,2150631,EA5KCM,David,,,ESP,,Private Call,None
+,2150632,EA1KFG,Jose,,,ESP,,Private Call,None
+,2150633,EB8BKZ,Carlos,,,ESP,,Private Call,None
+,2150634,EA4JBJ,Javier,,,ESP,,Private Call,None
+,2150635,EA1KDX,Javier,,,ESP,,Private Call,None
+,2150636,EA4IZA,Ricardo,,,ESP,,Private Call,None
+,2150637,EA7LUR,Jose,,,ESP,,Private Call,None
+,2150638,EB7ABJ,Manuel,,,ESP,,Private Call,None
+,2150639,EA3JIA,Xavier,,,ESP,,Private Call,None
+,2150640,EB2XA,Julian,,,ESP,,Private Call,None
+,2150641,EC4CRE,Fernando,,,ESP,,Private Call,None
+,2150642,EA3BPT,Juan,,,ESP,,Private Call,None
+,2150643,EA4JEX,Ricardo,,,ESP,,Private Call,None
+,2150644,EA5KIA,Daniel,,,ESP,,Private Call,None
+,2150645,EA4JAG,Mario,,,ESP,,Private Call,None
+,2150646,EB1XG,Juan Andres,,,ESP,,Private Call,None
 ,2157000,EA7IYR,Juan Carlos,,,ESP,,Private Call,None
 ,2160001,HA8DJ,Sandor,,,HUN,,Private Call,None
 ,2160002,HA4XA,Istvan,,,HUN,,Private Call,None
@@ -29664,6 +29662,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2160415,HA8MN,Mate,,,HUN,,Private Call,None
 ,2160416,HG8OVI,Imre,,,HUN,,Private Call,None
 ,2160417,HG7TE,Alexa,,,HUN,,Private Call,None
+,2160418,HA9TA,Tibor,,,HUN,,Private Call,None
 ,2161001,HA2TO,Arpad,,,HUN,,Private Call,None
 ,2161002,HA4XA,Istvan,,,HUN,,Private Call,None
 ,2161003,HA9MDP,Peter,,,HUN,,Private Call,None
@@ -29804,7 +29803,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2163053,HA8LHT,Tamas,,,HUN,,Private Call,None
 ,2163054,HA3PE,Istvan,,,HUN,,Private Call,None
 ,2163055,HA3JK,Dezso,,,HUN,,Private Call,None
-,2163056,HA3JD,Nagy,,,HUN,,Private Call,None
+,2163056,HA3JD,Janos,,,HUN,,Private Call,None
 ,2163057,HA5SI,Gyula,,,HUN,,Private Call,None
 ,2163058,HA3FIC,Gyorgy,,,HUN,,Private Call,None
 ,2163059,HG3FEL,Imre,,,HUN,,Private Call,None
@@ -30771,6 +30770,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2190025,9A7PHR,Robert,,,HRV,,Private Call,None
 ,2190026,9A5DAT,Antun,,,HRV,,Private Call,None
 ,2190027,9A7KTF,Sergio,,,HRV,,Private Call,None
+,2190028,9A3FBM,Martin,,,HRV,,Private Call,None
 ,2190029,9A3FIK,Davide,,,HRV,,Private Call,None
 ,2190030,9A6APS,Raf,,,HRV,,Private Call,None
 ,2190031,9A3DAC,Jure,,,HRV,,Private Call,None
@@ -30972,7 +30972,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2190227,9A9DD,Marko,,,HRV,,Private Call,None
 ,2190228,9A3GIB,Igor,,,HRV,,Private Call,None
 ,2190229,9A3ADF,Fera,,,HRV,,Private Call,None
-,2190230,9A5CB,Zvonimir,,,HRV,,Private Call,None
 ,2190231,9A3DZL,Nebojsa,,,HRV,,Private Call,None
 ,2190232,9A5C,Kruno,,,HRV,,Private Call,None
 ,2190233,9A7BBP,Miro,,,HRV,,Private Call,None
@@ -31482,6 +31481,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2190741,9A3CYH,Dragan,,,HRV,,Private Call,None
 ,2190742,9A5AIF,Zdenko,,,HRV,,Private Call,None
 ,2190743,9A6FEJ,Boris,,,HRV,,Private Call,None
+,2190744,9A3VAT,Josip,,,HRV,,Private Call,None
 ,2200001,YT2CQ,Miloslav,,,SRB,,Private Call,None
 ,2200002,YU1VI,Slobodan,,,SRB,,Private Call,None
 ,2200003,YU5JZ,Jonca,,,SRB,,Private Call,None
@@ -31777,7 +31777,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2200300,YU1GJ,Aleksandar,,,SRB,,Private Call,None
 ,2200301,YT5AKO,Aleksa,,,SRB,,Private Call,None
 ,2200302,YT1JB,Boban,,,SRB,,Private Call,None
-,2200303,YU5MMA,no_name,,,SRB,,Private Call,None
+,2200303,YU5MMA,Sinsa,,,SRB,,Private Call,None
 ,2200304,YU4TDK,Nenad,,,SRB,,Private Call,None
 ,2200305,YU2EBI,Ilic,,,SRB,,Private Call,None
 ,2200306,YU4AWW,Nikola,,,SRB,,Private Call,None
@@ -32331,6 +32331,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2200862,YT1FQM,Milos,,,SRB,,Private Call,None
 ,2200863,YT2PIA,Vladimir,,,SRB,,Private Call,None
 ,2200864,YT3KIR,Ivan,,,SRB,,Private Call,None
+,2200865,YU2PC,Dimitrije,,,SRB,,Private Call,None
+,2200866,YT3BEE,Ivana,,,SRB,,Private Call,None
+,2200867,YU2FAR,Milos,,,SRB,,Private Call,None
 ,2200999,YT3VD,Dejan,,,SRB,,Private Call,None
 ,2201000,YU4RIS,Ivan,,,SRB,,Private Call,None
 ,2202222,YT5HOK,Marko,,,SRB,,Private Call,None
@@ -33736,7 +33739,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2221430,IW1GIF,Renzo,,,ITA,,Private Call,None
 ,2221431,IU1HSA,Emanuele,,,ITA,,Private Call,None
 ,2221432,IW1RMY,Maurizio,,,ITA,,Private Call,None
-,2221433,IU1FNE,Livio,,,ITA,,Private Call,None
 ,2221434,IZ1PKI,Alessandro,,,ITA,,Private Call,None
 ,2221435,IZ1REU,Alessandro,,,ITA,,Private Call,None
 ,2221436,IZ1OXY,Danilo,,,ITA,,Private Call,None
@@ -38082,7 +38084,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2225825,IZ3FJW,Alessandro,,,ITA,,Private Call,None
 ,2225826,IW2DMP,Giacomo,,,ITA,,Private Call,None
 ,2225827,IU8GUN,Elia,,,ITA,,Private Call,None
-,2225828,IU0CLS,Giovanni,,,ITA,,Private Call,None
 ,2225829,IZ2SKL,Dario,,,ITA,,Private Call,None
 ,2225830,IU0DZS,Carlo,,,ITA,,Private Call,None
 ,2225831,IS0HMZ,Luca,,,ITA,,Private Call,None
@@ -39769,7 +39770,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227542,IU7NKT,Gabriele,,,ITA,,Private Call,None
 ,2227543,IK7IJS,Giuseppe,,,ITA,,Private Call,None
 ,2227544,IT9DHI,Maurizio,,,ITA,,Private Call,None
-,2227545,IV3PRC,Sala,,,ITA,,Private Call,None
+,2227545,IV3PRC,Clubst.,,,ITA,,Private Call,None
 ,2227546,IW0FRR,Cesare,,,ITA,,Private Call,None
 ,2227547,IS0IQK,Marco,,,ITA,,Private Call,None
 ,2227548,IK2XRL,Mauro,,,ITA,,Private Call,None
@@ -41708,7 +41709,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2229501,I4ZDX,Francesco,,,ITA,,Private Call,None
 ,2229502,IT9AEQ,Giuseppe,,,ITA,,Private Call,None
 ,2229503,IN3ADG,Ignazio,,,ITA,,Private Call,None
-,2229504,IU8ODB,Pierluigi,,,ITA,,Private Call,None
+,2229504,IU8ODB,Pier Luigi,,,ITA,,Private Call,None
 ,2229505,IU4PSV,Roberto,,,ITA,,Private Call,None
 ,2229506,IZ0TTE,Antonio,,,ITA,,Private Call,None
 ,2229507,IV3HAO,Michele,,,ITA,,Private Call,None
@@ -45508,6 +45509,15 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2233337,IQ3VV,Clubst.,,,ITA,,Private Call,None
 ,2233338,IT9KTZ,Ignazio,,,ITA,,Private Call,None
 ,2233339,IU7VMB,Claudio,,,ITA,,Private Call,None
+,2233340,IU1XBM,Cristiano,,,ITA,,Private Call,None
+,2233341,IT9LLI,Giovanni,,,ITA,,Private Call,None
+,2233342,IU3UXI,Alessandro,,,ITA,,Private Call,None
+,2233343,IZ8UYP,Giuseppe,,,ITA,,Private Call,None
+,2233344,IQ4JHE,Clubst.,,,ITA,,Private Call,None
+,2233345,IV3APH,Gianluca,,,ITA,,Private Call,None
+,2233346,I3ZXM,Marco,,,ITA,,Private Call,None
+,2233347,IU7EPB,Girolamo,,,ITA,,Private Call,None
+,2233348,IZ0UIP,Sante,,,ITA,,Private Call,None
 ,2242222,IT9JFW,Lorenzo,,,ITA,,Private Call,None
 ,2260001,YO3DSG,Daniel,,,ROU,,Private Call,None
 ,2260002,YO6YLJ,Nico,,,ROU,,Private Call,None
@@ -45987,7 +45997,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2260488,YO9ARA,Catalin,,,ROU,,Private Call,None
 ,2260489,YO6PO,Zoli,,,ROU,,Private Call,None
 ,2260490,YO9MDV,Valenin,,,ROU,,Private Call,None
-,2260491,YO6YAY,Mircea,,,ROU,,Private Call,None
+,2260491,YO6OK,Mircea,,,ROU,,Private Call,None
 ,2260492,YO3DSL,Daniel,,,ROU,,Private Call,None
 ,2260493,YO2JOY,Nicole,,,ROU,,Private Call,None
 ,2260494,YO3DSE,Eugen,,,ROU,,Private Call,None
@@ -46169,7 +46179,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2260679,YO3IRE,Ema,,,ROU,,Private Call,None
 ,2260680,YO3IRA,Radu,,,ROU,,Private Call,None
 ,2260681,YO3IRA,Radu,,,ROU,,Private Call,None
-,2260682,YO6YAY,Mircea,,,ROU,,Private Call,None
+,2260682,YO6OK,Mircea,,,ROU,,Private Call,None
 ,2260683,YO7ANY,Ancuta,,,ROU,,Private Call,None
 ,2260684,YO7ANY,Ancuta,,,ROU,,Private Call,None
 ,2260685,YO7ANY,Ancuta,,,ROU,,Private Call,None
@@ -46272,6 +46282,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2260783,YO3HUI,Mihai,,,ROU,,Private Call,None
 ,2260784,YO3HUI,Mihai,,,ROU,,Private Call,None
 ,2260785,YO3HUI,Mihai,,,ROU,,Private Call,None
+,2260786,YO3VDI,Iulian,,,ROU,,Private Call,None
+,2260787,YO3SRJ,Sergiu,,,ROU,,Private Call,None
 ,2261000,YO5MDA,Dumi,,,ROU,,Private Call,None
 ,2261001,YO3GTS,Dan,,,ROU,,Private Call,None
 ,2261111,YO3IHG,Vlad,,,ROU,,Private Call,None
@@ -47353,6 +47365,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280572,HB9PLM,Peter,,,CHE,,Private Call,None
 ,2280573,HB3YUF,Gregor,,,CHE,,Private Call,None
 ,2280574,HB9FZT,Daniel,,,CHE,,Private Call,None
+,2280575,HB9ETH,Markus,,,CHE,,Private Call,None
+,2280576,HB9FZB,Stephan,,,CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,,,CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,,,CHE,,Private Call,None
@@ -49471,6 +49485,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2300547,OK1ZMU,Zdenek,,,CZE,,Private Call,None
 ,2300548,OK9BAT,Miroslava,,,CZE,,Private Call,None
 ,2300549,OK6DJ,David,,,CZE,,Private Call,None
+,2300550,OK1ZMB,Zdenek,,,CZE,,Private Call,None
+,2300551,OK2BAW,Jaroslav,,,CZE,,Private Call,None
 ,2301001,OK9DTZ,David,,,CZE,,Private Call,None
 ,2301002,OK3ZB,Zdenek,,,CZE,,Private Call,None
 ,2301003,OK1MX,Milan,,,CZE,,Private Call,None
@@ -49815,7 +49831,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2306016,OK2JKO,Jan,,,CZE,,Private Call,None
 ,2306017,OK1JP,Jan,,,CZE,,Private Call,None
 ,2306018,OK1TE,Jan,,,CZE,,Private Call,None
-,2306019,OK2XLU,Lubomr,,,CZE,,Private Call,None
+,2306019,OK2XLU,Lubomir,,,CZE,,Private Call,None
 ,2306020,OK2AW,Zdenek,,,CZE,,Private Call,None
 ,2306021,OK2MO,Marcel,,,CZE,,Private Call,None
 ,2306022,OK2VQO,Kamil,,,CZE,,Private Call,None
@@ -50024,7 +50040,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2310079,OM4AEI,Peter,,,SVK,,Private Call,None
 ,2310080,OM3TFO,Tibor,,,SVK,,Private Call,None
 ,2310081,OM5ATE,Jan,,,SVK,,Private Call,None
-,2310082,OM0AVT,no_name,,,SVK,,Private Call,None
+,2310082,OM0AVT,Jan,,,SVK,,Private Call,None
 ,2310083,OM1EAT,Matej,,,SVK,,Private Call,None
 ,2310084,OM1HAT,Jozef,,,SVK,,Private Call,None
 ,2310085,OM1ALX,Alex,,,SVK,,Private Call,None
@@ -50053,7 +50069,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2310108,OM7JKZ,Jakub,,,SVK,,Private Call,None
 ,2310109,OM7WRS,no_name,,,SVK,,Private Call,None
 ,2310110,OM3WRS,Mikulas,,,SVK,,Private Call,None
-,2310111,OM5HAM,Miro,,,SVK,,Private Call,None
+,2310111,OM5HAM,Miroslav,,,SVK,,Private Call,None
 ,2310112,OM1AI,Filip,,,SVK,,Private Call,None
 ,2310113,OM1AJZ,Jozef,,,SVK,,Private Call,None
 ,2310114,OM1ARH,Ronald,,,SVK,,Private Call,None
@@ -50090,7 +50106,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2310146,OM5GU,Imrich,,,SVK,,Private Call,None
 ,2310147,OM3TSA,Alexander,,,SVK,,Private Call,None
 ,2310148,OM5TA,Julius,,,SVK,,Private Call,None
-,2310149,OM0ABA,Rastislav,,,SVK,,Private Call,None
+,2310149,OM0BA,Rastislav,,,SVK,,Private Call,None
 ,2310150,OM1ISR,Vaclav,,,SVK,,Private Call,None
 ,2310151,OM0BED,Peter,,,SVK,,Private Call,None
 ,2310152,OM1DLC,Matus,,,SVK,,Private Call,None
@@ -51602,6 +51618,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2321332,OE2DFM,Franz,,,AUT,,Private Call,None
 ,2321333,OE1TRB,Thomas,,,AUT,,Private Call,None
 ,2321334,OE3RHP,Peter,,,AUT,,Private Call,None
+,2321335,OE3GRW,Walter,,,AUT,,Private Call,None
 ,2322001,OE2AIP,Philipp,,,AUT,,Private Call,None
 ,2322002,OE2WAO,Michael Alexander,,,AUT,,Private Call,None
 ,2322003,OE2KLM,Herwig,,,AUT,,Private Call,None
@@ -53639,7 +53656,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2340661,2E0H2ECT,Peter,,,GBR,,Private Call,None
 ,2340662,2E0TXT,Paul,,,GBR,,Private Call,None
 ,2340663,MM1AUF,Catherine,,,GBR,,Private Call,None
-,2340664,M7PJD,Patrick,,,GBR,,Private Call,None
+,2340664,M9PJD,Patrick,,,GBR,,Private Call,None
 ,2340665,M0KMY,Alberto,,,GBR,,Private Call,None
 ,2340666,M7LCW,Lee,,,GBR,,Private Call,None
 ,2340667,MB6YR,Ian,,,GBR,,Private Call,None
@@ -53985,7 +54002,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2341024,2E0TSI,Steve,,,GBR,,Private Call,None
 ,2341025,M1CJT,Tony,,,GBR,,Private Call,None
 ,2341026,2E1MDD,Mark,,,GBR,,Private Call,None
-,2341027,M0JZT,Martin,,,GBR,,Private Call,None
+,2341027,G1MJH,Martin,,,GBR,,Private Call,None
 ,2341028,G6IZA,Ian,,,GBR,,Private Call,None
 ,2341029,G1KOD,John,,,GBR,,Private Call,None
 ,2341030,G7ALG,Stuart,,,GBR,,Private Call,None
@@ -54066,7 +54083,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2341105,2E0MEX,Robert,,,GBR,,Private Call,None
 ,2341106,G4VWG,Roy,,,GBR,,Private Call,None
 ,2341107,M7KOG,Rob,,,GBR,,Private Call,None
-,2341108,2E0UOJ,Kevin,,,GBR,,Private Call,None
+,2341108,M8UOJ,Kevin,,,GBR,,Private Call,None
 ,2341109,2E0RAG,Allan,,,GBR,,Private Call,None
 ,2341110,2E1GDM,Mark,,,GBR,,Private Call,None
 ,2341111,G1WKK,Jim,,,GBR,,Private Call,None
@@ -59017,7 +59034,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2346179,G1FSH,Gary,,,GBR,,Private Call,None
 ,2346180,M7JPL,James,,,GBR,,Private Call,None
 ,2346181,G1WGM,Keith,,,GBR,,Private Call,None
-,2346182,G6ZYF,Barrie,,,GBR,,Private Call,None
 ,2346183,2E0FRT,Daniel,,,GBR,,Private Call,None
 ,2346184,M1AKL,Vincent,,,GBR,,Private Call,None
 ,2346185,M6JSA,Alan,,,GBR,,Private Call,None
@@ -60098,7 +60114,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2347266,M7DDE,Stevekirby,,,GBR,,Private Call,None
 ,2347267,M7BDB,Davide,,,GBR,,Private Call,None
 ,2347268,2E0TQX,Matt,,,GBR,,Private Call,None
-,2347269,M0TRI,Andrewfield,,,GBR,,Private Call,None
+,2347269,M0TRI,Andrew,,,GBR,,Private Call,None
 ,2347270,M0TUM,Richard,,,GBR,,Private Call,None
 ,2347271,2E0ESZ,Ian,,,GBR,,Private Call,None
 ,2347272,M7FMJ,Frankie,,,GBR,,Private Call,None
@@ -61247,7 +61263,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2348424,MM0JSI,Damien,,,GBR,,Private Call,None
 ,2348425,M7WMW,Wayne,,,GBR,,Private Call,None
 ,2348426,M6MWD,Martin,,,GBR,,Private Call,None
-,2348427,G1IAL,no_name,,,GBR,,Private Call,None
+,2348427,G1IAL,Andrew,,,GBR,,Private Call,None
 ,2348428,M7GHS,Adyjurd,,,GBR,,Private Call,None
 ,2348429,M0TJN,Tim,,,GBR,,Private Call,None
 ,2348430,M0XNW,Nwradiouk,,,GBR,,Private Call,None
@@ -62798,7 +62814,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2349985,2E0YCA,Elliott,,,GBR,,Private Call,None
 ,2349986,M7JSK,John,,,GBR,,Private Call,None
 ,2349987,M3PKR,Barry,,,GBR,,Private Call,None
-,2349988,G1BDU,Alan,,,GBR,,Private Call,None
+,2349988,G1BDU,no_name,,,GBR,,Private Call,None
 ,2349989,M0WDF,David,,,GBR,,Private Call,None
 ,2349990,M7JIY,Toby,,,GBR,,Private Call,None
 ,2349991,2E1WSR,Robert,,,GBR,,Private Call,None
@@ -63004,7 +63020,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2350193,G6TTW,Andrew,,,GBR,,Private Call,None
 ,2350194,MI7RIF,Philip,,,GBR,,Private Call,None
 ,2350195,M0WZY,Jon,,,GBR,,Private Call,None
-,2350196,2E0YLP,Rupert,,,GBR,,Private Call,None
+,2350196,M9YLP,Rupert,,,GBR,,Private Call,None
 ,2350197,2E1TAP,Andy,,,GBR,,Private Call,None
 ,2350198,M7CUC,Paul,,,GBR,,Private Call,None
 ,2350199,M7CAX,Chris,,,GBR,,Private Call,None
@@ -65689,7 +65705,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2352907,M6MQZ,Jon,,,GBR,,Private Call,None
 ,2352908,M1MVX,Tony,,,GBR,,Private Call,None
 ,2352909,2E0MRW,Scott,,,GBR,,Private Call,None
-,2352910,G6GOS,Michael,,,GBR,,Private Call,None
+,2352910,G4KYQ,Michael,,,GBR,,Private Call,None
 ,2352911,2E0VBM,Alan,,,GBR,,Private Call,None
 ,2352912,M0WER,Peter,,,GBR,,Private Call,None
 ,2352913,M6RWW,John,,,GBR,,Private Call,None
@@ -66810,7 +66826,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2354041,GM4GZW,Ellis,,,GBR,,Private Call,None
 ,2354042,GM1RCP,Peter,,,GBR,,Private Call,None
 ,2354043,GM7TYY,Ben,,,GBR,,Private Call,None
-,2354044,GM0MZB,William,,,GBR,,Private Call,None
+,2354044,GM0MZB,Wullie,,,GBR,,Private Call,None
 ,2354045,MM0PRB,Paul,,,GBR,,Private Call,None
 ,2354046,GM4SVM,Gordon,,,GBR,,Private Call,None
 ,2354047,MM0THL,Thomas,,,GBR,,Private Call,None
@@ -66985,7 +67001,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2354217,2M0EQQ,Allan,,,GBR,,Private Call,None
 ,2354218,2M0EEQ,Allan,,,GBR,,Private Call,None
 ,2354219,GM0ELP,Douglas,,,GBR,,Private Call,None
-,2354220,GM0MZB,William,,,GBR,,Private Call,None
+,2354220,GM0MZB,Wullie,,,GBR,,Private Call,None
 ,2354221,GM8MJV,Tom,,,GBR,,Private Call,None
 ,2354223,GM0LVK,Les,,,GBR,,Private Call,None
 ,2354224,GM4MCV,Alan,,,GBR,,Private Call,None
@@ -67697,7 +67713,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2354944,G7GSF,Blandford,,,GBR,,Private Call,None
 ,2354945,MM7BMN,Marshall,,,GBR,,Private Call,None
 ,2354946,2M0ODE,Dempster,,,GBR,,Private Call,None
-,2354947,M7SYR,Politis,,,GBR,,Private Call,None
+,2354947,M7SYR,Thanasis,,,GBR,,Private Call,None
 ,2354948,2E0VEI,Buisseret,,,GBR,,Private Call,None
 ,2354949,G0PIB,Simmonds,,,GBR,,Private Call,None
 ,2354950,M1BNK,Wood,,,GBR,,Private Call,None
@@ -68844,7 +68860,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2356109,2W0FXF,Paul,,,GBR,,Private Call,None
 ,2356110,MW7EZI,Timothy,,,GBR,,Private Call,None
 ,2356111,M3SYW,Craig,,,GBR,,Private Call,None
-,2356112,M7SKR,Joshua,,,GBR,,Private Call,None
+,2356112,M7SKR,Elara,,,GBR,,Private Call,None
 ,2356113,GW3NKB,John,,,GBR,,Private Call,None
 ,2356114,2M0JRI,James,,,GBR,,Private Call,None
 ,2356115,M7GWI,Geoff,,,GBR,,Private Call,None
@@ -69588,7 +69604,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2356867,2E0GJD,Graham,,,GBR,,Private Call,None
 ,2356868,MW0KUA,Kevin,,,GBR,,Private Call,None
 ,2356869,2E0UKR,Richard,,,GBR,,Private Call,None
-,2356870,MJ9JSY,Thierry,,,GBR,,Private Call,None
+,2356870,MJ9JSY,Tel,,,GBR,,Private Call,None
 ,2356871,M7HGG,Sian,,,GBR,,Private Call,None
 ,2356872,2E0OUK,Ivan Adam,,,GBR,,Private Call,None
 ,2356873,2E0LPJ,Andrew,,,GBR,,Private Call,None
@@ -70000,7 +70016,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2357281,2E0UMK,Ken,,,GBR,,Private Call,None
 ,2357282,MW7KID,Barry,,,GBR,,Private Call,None
 ,2357283,M7HLB,Nicholas,,,GBR,,Private Call,None
-,2357284,GB25YOTA,Uk Yota,,,GBR,,Private Call,None
 ,2357285,G6IET,Steve,,,GBR,,Private Call,None
 ,2357286,GW6XYE,Ellett,,,GBR,,Private Call,None
 ,2357287,GM8CZU,Iain,,,GBR,,Private Call,None
@@ -70370,7 +70385,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2357654,MM7SVR,Willie,,,GBR,,Private Call,None
 ,2357655,G4JXZ,Ian,,,GBR,,Private Call,None
 ,2357656,M6YBL,Allan,,,GBR,,Private Call,None
-,2357657,2E0KNL,Glenn,,,GBR,,Private Call,None
+,2357657,M8KNL,Glenn,,,GBR,,Private Call,None
 ,2357658,M7MGF,Tim,,,GBR,,Private Call,None
 ,2357659,M7SFJ,Sam,,,GBR,,Private Call,None
 ,2357660,G6PMN,Mark,,,GBR,,Private Call,None
@@ -70678,8 +70693,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2357963,M0KZI,David,,,GBR,,Private Call,None
 ,2357964,M7IIY,Chris,,,GBR,,Private Call,None
 ,2357965,M7IJQ,Jerome,,,GBR,,Private Call,None
-,2357966,GM0MZB,William,,,GBR,,Private Call,None
-,2357967,GM0MZB,William,,,GBR,,Private Call,None
+,2357966,GM0MZB,Wullie,,,GBR,,Private Call,None
+,2357967,GM0MZB,Wullie,,,GBR,,Private Call,None
 ,2357968,G1PML,Colin,,,GBR,,Private Call,None
 ,2357969,MI1NTC,Neil,,,GBR,,Private Call,None
 ,2357970,M7AUO,Douglas,,,GBR,,Private Call,None
@@ -71276,7 +71291,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2358565,M7LKN,Guy,,,GBR,,Private Call,None
 ,2358566,M7XEI,Kevin,,,GBR,,Private Call,None
 ,2358567,M7KXX,Sam,,,GBR,,Private Call,None
-,2358568,MW7WPY,Paul,,,GBR,,Private Call,None
+,2358568,MW8WPY,Paul,,,GBR,,Private Call,None
 ,2358569,M3LEE,Lee,,,GBR,,Private Call,None
 ,2358570,G8XRD,Ken,,,GBR,,Private Call,None
 ,2358571,M6REF,Chris,,,GBR,,Private Call,None
@@ -71954,7 +71969,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2359287,M9NWW,Eric,,,GBR,,Private Call,None
 ,2359288,M7XME,Michael,,,GBR,,Private Call,None
 ,2359289,M7XKC,Kyle,,,GBR,,Private Call,None
-,2359290,M1SJX,Steve,,,GBR,,Private Call,None
 ,2359291,M7FIP,Mark,,,GBR,,Private Call,None
 ,2359292,M9MRX,Mark,,,GBR,,Private Call,None
 ,2359293,M7QNF,Cameron,,,GBR,,Private Call,None
@@ -72061,7 +72075,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2359394,G7GHU,Steven,,,GBR,,Private Call,None
 ,2359395,MM7VTW,Craig,,,GBR,,Private Call,None
 ,2359396,M7OAQ,Michael,,,GBR,,Private Call,None
-,2359398,M7WQD,Edward,,,GBR,,Private Call,None
+,2359398,M8EDY,Edward,,,GBR,,Private Call,None
 ,2359399,M7AAB,Abdullah,,,GBR,,Private Call,None
 ,2359400,2E0GEU,Stephen,,,GBR,,Private Call,None
 ,2359401,M9SVO,James,,,GBR,,Private Call,None
@@ -72084,6 +72098,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2359418,M0KYP,Lima Charlie Dx Radio Club,,,GBR,,Private Call,None
 ,2359419,M7EFV,Neil,,,GBR,,Private Call,None
 ,2359420,M7OHB,Philip,,,GBR,,Private Call,None
+,2359421,GB9HHS,Hampton,,,GBR,,Private Call,None
 ,2359422,M7NZN,Edward,,,GBR,,Private Call,None
 ,2359423,M7OFY,Robert,,,GBR,,Private Call,None
 ,2359424,M7OWF,Mark,,,GBR,,Private Call,None
@@ -72092,6 +72107,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2359427,M3BAY,John,,,GBR,,Private Call,None
 ,2359428,M6CAW,Clive,,,GBR,,Private Call,None
 ,2359429,MW3YEF,Luke,,,GBR,,Private Call,None
+,2359430,MI7ABU,David,,,GBR,,Private Call,None
 ,2359431,M0GLR,Daniel,,,GBR,,Private Call,None
 ,2359432,G0PLS,Ian,,,GBR,,Private Call,None
 ,2359433,2E0FKP,Colin,,,GBR,,Private Call,None
@@ -72125,6 +72141,20 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2359462,M7PGT,Neil,,,GBR,,Private Call,None
 ,2359463,G4KMP,Glen,,,GBR,,Private Call,None
 ,2359465,M7KIU,Ben,,,GBR,,Private Call,None
+,2359466,M0PHC,Craig,,,GBR,,Private Call,None
+,2359467,G7MIZ,John,,,GBR,,Private Call,None
+,2359468,M7MUY,Rhiannon,,,GBR,,Private Call,None
+,2359469,M9RFH,Paul,,,GBR,,Private Call,None
+,2359470,GM3IRG,John,,,GBR,,Private Call,None
+,2359471,M0MGO,Patrick,,,GBR,,Private Call,None
+,2359472,M8RSM,Martyn,,,GBR,,Private Call,None
+,2359473,M7MIV,Samuel,,,GBR,,Private Call,None
+,2359474,M3KEN,Paul,,,GBR,,Private Call,None
+,2359475,M7VHP,Darren,,,GBR,,Private Call,None
+,2359476,M6TSV,no_name,,,GBR,,Private Call,None
+,2359477,ME7EYB,Sean,,,GBR,,Private Call,None
+,2359478,G6IDD,Richard,,,GBR,,Private Call,None
+,2359479,M6MQQ,Mike,,,GBR,,Private Call,None
 ,2360000,M0NOA,Anthony,,,GBR,,Private Call,None
 ,2360001,M1HAC,Alex,,,GBR,,Private Call,None
 ,2360002,M1HAC,Alex,,,GBR,,Private Call,None
@@ -72523,6 +72553,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2380386,OZ5WC,no_name,,,DNK,,Private Call,None
 ,2380387,OZ2KKS,Kresten,,,DNK,,Private Call,None
 ,2380388,OZ1CHO,Joergen,,,DNK,,Private Call,None
+,2380389,OZ0XB,Morten,,,DNK,,Private Call,None
+,2380390,OZ1LPC,Martin,,,DNK,,Private Call,None
+,2380391,OZ9RO,Henrik,,,DNK,,Private Call,None
 ,2380822,OZ8ADK,Anders Dam,,,DNK,,Private Call,None
 ,2380823,5P4L,Matt,,,DNK,,Private Call,None
 ,2380824,OV4SB,Sana,,,DNK,,Private Call,None
@@ -75163,6 +75196,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2401257,SA6HFM,Chris,,,SWE,,Private Call,None
 ,2401258,SA4DDG,Dan,,,SWE,,Private Call,None
 ,2401259,SA0IMS,Jacek,,,SWE,,Private Call,None
+,2401260,SA0PAS,Patrick,,,SWE,,Private Call,None
+,2401261,SM6NPR,Jonas,,,SWE,,Private Call,None
 ,2402001,SA2CMY,Tomas,,,SWE,,Private Call,None
 ,2402002,SA2BNO,Peter,,,SWE,,Private Call,None
 ,2402003,SA2CJG,Mikael,,,SWE,,Private Call,None
@@ -77199,6 +77234,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2420678,LA6BOA,Svein,,,NOR,,Private Call,None
 ,2420679,LA6ELA,Sigurd,,,NOR,,Private Call,None
 ,2420680,LB9QG,Trygg,,,NOR,,Private Call,None
+,2420681,LA1TOA,Inge,,,NOR,,Private Call,None
+,2420682,LA6YIA,Rune,,,NOR,,Private Call,None
 ,2421001,LA6VMA,Tommy,,,NOR,,Private Call,None
 ,2421002,LA7ZKA,Arve,,,NOR,,Private Call,None
 ,2421003,LA2YUA,Robin,,,NOR,,Private Call,None
@@ -78869,6 +78906,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2441871,OH5DZV,Antti,,,FIN,,Private Call,None
 ,2441872,OH8DXC,Jyrki,,,FIN,,Private Call,None
 ,2441873,OH6FYC,Tapio,,,FIN,,Private Call,None
+,2441874,OH2LQF,Pertti,,,FIN,,Private Call,None
+,2441875,OH6TNI,Tero,,,FIN,,Private Call,None
 ,2442001,OH2LAK,Erik,,,FIN,,Private Call,None
 ,2442002,OH2LAK,Erik,,,FIN,,Private Call,None
 ,2442003,OH2LAK,Erik,,,FIN,,Private Call,None
@@ -79820,6 +79859,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2460183,LY9MP,Algis,,,LTU,,Private Call,None
 ,2460184,LY5DAN,Danas,,,LTU,,Private Call,None
 ,2460185,LY3FAB,Audrius,,,LTU,,Private Call,None
+,2460777,LY7AP,Andrew,,,LTU,,Private Call,None
 ,2461111,LY1EU,Ramojus,,,LTU,,Private Call,None
 ,2464444,LY1XP,Modestas,,,LTU,,Private Call,None
 ,2470001,YL3JE,Juergen,,,LVA,,Private Call,None
@@ -80621,7 +80661,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2500571,R2DMH,Aleksandr,,,RUS,,Private Call,None
 ,2500573,R6YBT,Sergey,,,RUS,,Private Call,None
 ,2500574,UB3AYH,Evgeny,,,RUS,,Private Call,None
-,2500575,UB3UBV,no_name,,,RUS,,Private Call,None
+,2500575,UB3UBV,Aleksandr,,,RUS,,Private Call,None
 ,2500576,R6UAC,Sergey,,,RUS,,Private Call,None
 ,2500577,R6DPY,Alexander,,,RUS,,Private Call,None
 ,2500578,RX9CIM,Georgy,,,RUS,,Private Call,None
@@ -82846,7 +82886,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2502985,RA9MLJ,Pavel,,,RUS,,Private Call,None
 ,2502986,R3VAM,Andrey,,,RUS,,Private Call,None
 ,2502987,R1BSF,Sergey,,,RUS,,Private Call,None
-,2502988,UB9WPD,Ilgiz,,,RUS,,Private Call,None
+,2502988,R9WLH,Ilgiz,,,RUS,,Private Call,None
 ,2502989,R3DPN,Alexey,,,RUS,,Private Call,None
 ,2502990,UB8LBE,Mars,,,RUS,,Private Call,None
 ,2502991,R5GJPA,Maxim,,,RUS,,Private Call,None
@@ -83259,6 +83299,22 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2503628,R3DPJ,Maksim,,,RUS,,Private Call,None
 ,2503629,UB3ZOC,Oleg,,,RUS,,Private Call,None
 ,2503630,R0LBB,Aleksandr,,,RUS,,Private Call,None
+,2503631,RA6LS,Valery,,,RUS,,Private Call,None
+,2503632,R3TBC,Aleksandr,,,RUS,,Private Call,None
+,2503633,R4HNW,Andrey,,,RUS,,Private Call,None
+,2503634,UB1IAN,Alisher,,,RUS,,Private Call,None
+,2503635,R3DKY,Aleksandr,,,RUS,,Private Call,None
+,2503636,UB1AZC,Aleksandr,,,RUS,,Private Call,None
+,2503637,R8LCZ,Serge,,,RUS,,Private Call,None
+,2503638,UB3BJP,Maksim,,,RUS,,Private Call,None
+,2503639,R3YCV,Nikolai,,,RUS,,Private Call,None
+,2503640,RW4RW,Misha,,,RUS,,Private Call,None
+,2503641,UB3ZOE,Andrey,,,RUS,,Private Call,None
+,2503642,UB1AZI,Boris,,,RUS,,Private Call,None
+,2503643,R3ZEN,Andrej,,,RUS,,Private Call,None
+,2503644,R9FFT,Vladimir,,,RUS,,Private Call,None
+,2503645,R1CFB,Aleksandr,,,RUS,,Private Call,None
+,2503646,R6ZAQ,Denis,,,RUS,,Private Call,None
 ,2504002,UD4NAD,Sergey,,,RUS,,Private Call,None
 ,2504003,RA4NHY,Anton,,,RUS,,Private Call,None
 ,2504011,R4WBI,Aleksandr,,,RUS,,Private Call,None
@@ -84641,6 +84697,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2551004,UR5CAF,Volodymyr,,,UKR,,Private Call,None
 ,2551005,UR4EWG,Oleh,,,UKR,,Private Call,None
 ,2551006,UR6LUQ,Dmytro,,,UKR,,Private Call,None
+,2551007,UR5YVM,Volodymyr,,,UKR,,Private Call,None
+,2551008,US0NZ,Alexander,,,UKR,,Private Call,None
+,2551009,UR5SDE,Andrii,,,UKR,,Private Call,None
 ,2552552,UW5ENW,Den,,,UKR,,Private Call,None
 ,2555552,UT3USQ,Mykola,,,UKR,,Private Call,None
 ,2555555,UR5SSB,Yaroslav,,,UKR,,Private Call,None
@@ -87480,7 +87539,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2602721,SQ6OS,Oskar,,,POL,,Private Call,None
 ,2602722,SQ6CZA,Andrzej,,,POL,,Private Call,None
 ,2602723,SP9UXV,Wojciech,,,POL,,Private Call,None
-,2602724,SP4CZK,Cezary,,,POL,,Private Call,None
 ,2602725,SP3BUS,Rafal,,,POL,,Private Call,None
 ,2602726,SP3VBV,Grzegorz,,,POL,,Private Call,None
 ,2602727,SQ5FNF,Ryszard,,,POL,,Private Call,None
@@ -89272,6 +89330,22 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2604579,SP5MIL,Zbigniew,,,POL,,Private Call,None
 ,2604580,SP9BPW,Piotr,,,POL,,Private Call,None
 ,2604581,SQ6KK,Krzysztof,,,POL,,Private Call,None
+,2604582,SP9TAZA,Tadeusz,,,POL,,Private Call,None
+,2604583,SP0MEK,Pawel,,,POL,,Private Call,None
+,2604584,SP5KPR,Dawid,,,POL,,Private Call,None
+,2604585,SQ3POS,Pawel,,,POL,,Private Call,None
+,2604586,SQ1WA,Arkadiusz,,,POL,,Private Call,None
+,2604587,SP8MJZ,Tomasz,,,POL,,Private Call,None
+,2604588,SQ9MTT,Mateusz,,,POL,,Private Call,None
+,2604589,SQ9RST,Dawid,,,POL,,Private Call,None
+,2604590,SP0AP,Andrzej,,,POL,,Private Call,None
+,2604591,SP9LX,Patryk,,,POL,,Private Call,None
+,2604592,SQ5AF,Antoni,,,POL,,Private Call,None
+,2604593,SQ5ZAW,Jakub,,,POL,,Private Call,None
+,2604594,SP5SG,Szymon,,,POL,,Private Call,None
+,2604595,SP5KAM,Kamil,,,POL,,Private Call,None
+,2604596,SQ5EN,Kosma,,,POL,,Private Call,None
+,2604597,SP4KR,Karol,,,POL,,Private Call,None
 ,2605001,SP5GDM,Jan,,,POL,,Private Call,None
 ,2605002,SP5GDM,Jan,,,POL,,Private Call,None
 ,2605003,SP5GDM,Jan,,,POL,,Private Call,None
@@ -94744,7 +94818,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2624210,DL8YBL,Josef,,,DEU,,Private Call,None
 ,2624211,DJ0PW,Oliver,,,DEU,,Private Call,None
 ,2624212,DJ3CW,Wolfgang,,,DEU,,Private Call,None
-,2624213,DD1DU,Wolfgang,,,DEU,,Private Call,None
 ,2624214,DF7DD,Rainer,,,DEU,,Private Call,None
 ,2624215,DM1FL,Florian,,,DEU,,Private Call,None
 ,2624216,DH6YHO,Harald,,,DEU,,Private Call,None
@@ -99993,7 +100066,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2629693,DL1VE,Volker,,,DEU,,Private Call,None
 ,2629694,DG4BAD,Martin,,,DEU,,Private Call,None
 ,2629695,DO1ALB,Andy,,,DEU,,Private Call,None
-,2629696,DD9PX,Karl-Heinz,,,DEU,,Private Call,None
+,2629696,DD9PX,Karl Heinz,,,DEU,,Private Call,None
 ,2629698,DC1HQ,Bernd,,,DEU,,Private Call,None
 ,2629699,DL5SG,Gunter,,,DEU,,Private Call,None
 ,2629700,DH5ABH,Michael,,,DEU,,Private Call,None
@@ -102480,7 +102553,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2632264,DO3RZ,Ralf,,,DEU,,Private Call,None
 ,2632265,DA1JO,Joachim,,,DEU,,Private Call,None
 ,2632266,DL8NW,Nils,,,DEU,,Private Call,None
-,2632267,DO1JOG,Jonas,,,DEU,,Private Call,None
+,2632267,DL1JOG,Jonas,,,DEU,,Private Call,None
 ,2632268,DA6EQ,Richard,,,DEU,,Private Call,None
 ,2632269,DF8AM,Peter,,,DEU,,Private Call,None
 ,2632270,DL8AAJ,Uwe,,,DEU,,Private Call,None
@@ -102630,7 +102703,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2632415,DA6HA,Harald,,,DEU,,Private Call,None
 ,2632416,DA6CE,Christiane,,,DEU,,Private Call,None
 ,2632417,DK5AD,Aurelio,,,DEU,,Private Call,None
-,2632418,DO2DK,Jochen,,,DEU,,Private Call,None
+,2632418,DG2DK,Jochen,,,DEU,,Private Call,None
 ,2632419,DM4PM,Michael,,,DEU,,Private Call,None
 ,2632420,DO2JM,Juergen,,,DEU,,Private Call,None
 ,2632421,DG9BDX,Bernd,,,DEU,,Private Call,None
@@ -105743,7 +105816,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2635579,DL7BS,Bernd,,,DEU,,Private Call,None
 ,2635580,DL1NCH,Jacek,,,DEU,,Private Call,None
 ,2635581,DO3LY,Sandra,,,DEU,,Private Call,None
-,2635582,DO1VR,Marco,,,DEU,,Private Call,None
+,2635582,DL2VR,Marco,,,DEU,,Private Call,None
 ,2635583,DA6DU,Martin,,,DEU,,Private Call,None
 ,2635584,DK3CR,Christian,,,DEU,,Private Call,None
 ,2635585,DO5NC,Tobias,,,DEU,,Private Call,None
@@ -105926,7 +105999,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2635764,DO9YM,Peer,,,DEU,,Private Call,None
 ,2635765,DO6DC,Detlef,,,DEU,,Private Call,None
 ,2635766,DO9TK,Thomas,,,DEU,,Private Call,None
-,2635767,DO7HZ,Heiko,,,DEU,,Private Call,None
+,2635767,DD7HZ,Heiko,,,DEU,,Private Call,None
 ,2635768,DN9BLM,Sebastian,,,DEU,,Private Call,None
 ,2635769,DJ6GH,Gerhard,,,DEU,,Private Call,None
 ,2635770,DA6MN,Nils,,,DEU,,Private Call,None
@@ -106021,7 +106094,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2635860,DN9STB,Stephan,,,DEU,,Private Call,None
 ,2635861,DO1MCC,Christian,,,DEU,,Private Call,None
 ,2635862,DG3RV,Josef,,,DEU,,Private Call,None
-,2635863,DO1NM,Norbert,,,DEU,,Private Call,None
+,2635863,DL1XZ,Norbert,,,DEU,,Private Call,None
 ,2635864,DN9OK,Oliver,,,DEU,,Private Call,None
 ,2635865,DB2AD,Jens,,,DEU,,Private Call,None
 ,2635866,DN9MZ,Daniel,,,DEU,,Private Call,None
@@ -106195,7 +106268,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2636294,DL9MG,Markus,,,DEU,,Private Call,None
 ,2636295,DB1BJ,Jens,,,DEU,,Private Call,None
 ,2636296,DN9FS,Felix,,,DEU,,Private Call,None
-,2636297,DA6PLS,Stefan,,,DEU,,Private Call,None
+,2636297,DL9PLS,Stefan,,,DEU,,Private Call,None
 ,2636298,DO1KWW,Siegbert,,,DEU,,Private Call,None
 ,2636299,DL1DMC,Markus,,,DEU,,Private Call,None
 ,2636300,DN9OPA,Mario,,,DEU,,Private Call,None
@@ -106680,7 +106753,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2636780,DO9BEN,Benedikt,,,DEU,,Private Call,None
 ,2636781,DB6DA,Dennis,,,DEU,,Private Call,None
 ,2636782,DA2RN,Renat,,,DEU,,Private Call,None
-,2636783,DB2VZ,Hans,,,DEU,,Private Call,None
+,2636783,DB2VZ,Wolfgang,,,DEU,,Private Call,None
 ,2636784,DL4FDG,Yusuf,,,DEU,,Private Call,None
 ,2636785,DN9CH,Christoph,,,DEU,,Private Call,None
 ,2636786,DO2FMB,Ralf,,,DEU,,Private Call,None
@@ -106769,6 +106842,30 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2636869,DN9DRG,Marlin,,,DEU,,Private Call,None
 ,2636870,DD5GG,Viktor,,,DEU,,Private Call,None
 ,2636871,DO5CE,Christian,,,DEU,,Private Call,None
+,2636872,DL2HER,Heiko,,,DEU,,Private Call,None
+,2636873,DL4WC,Wolfgang,,,DEU,,Private Call,None
+,2636874,DO5NEP,Pepe,,,DEU,,Private Call,None
+,2636875,DA6KU,Werner,,,DEU,,Private Call,None
+,2636876,DG5JK,Johannes,,,DEU,,Private Call,None
+,2636877,DA1EA,Andreas,,,DEU,,Private Call,None
+,2636878,DN9TPS,Tobias,,,DEU,,Private Call,None
+,2636879,DO1WMP,Markus,,,DEU,,Private Call,None
+,2636880,DN9HOT,Tobias,,,DEU,,Private Call,None
+,2636881,DN9AHG,Axel,,,DEU,,Private Call,None
+,2636882,DN9WW,Michael,,,DEU,,Private Call,None
+,2636883,DO2BO,Rolf,,,DEU,,Private Call,None
+,2636884,DG1MF,Frank,,,DEU,,Private Call,None
+,2636885,DN9SAL,Robin,,,DEU,,Private Call,None
+,2636886,DD9ENT,Alexander,,,DEU,,Private Call,None
+,2636887,DN9WOJ,Wojciech,,,DEU,,Private Call,None
+,2636888,DN9ARN,Arno,,,DEU,,Private Call,None
+,2636889,DN9GR,Grzegorz,,,DEU,,Private Call,None
+,2636890,DG1IY,Roland,,,DEU,,Private Call,None
+,2636891,DN9LKX,Luca,,,DEU,,Private Call,None
+,2636892,DL4CJ,Johannes,,,DEU,,Private Call,None
+,2636893,DA1SKA,Karsten,,,DEU,,Private Call,None
+,2636894,DO8KHU,Klaus,,,DEU,,Private Call,None
+,2636895,DC2MA,Martin,,,DEU,,Private Call,None
 ,2637001,DF6MP,Marcus,,,DEU,,Private Call,None
 ,2637002,DO2STO,Matthias,,,DEU,,Private Call,None
 ,2637003,DK7OJ,Klaus,,,DEU,,Private Call,None
@@ -109215,7 +109312,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2680205,CT3CD,Carlos Alberto,,,PRT,,Private Call,None
 ,2680206,CT3NW,Mauricio,,,PRT,,Private Call,None
 ,2680207,CT7ADM,Armindo,,,PRT,,Private Call,None
-,2680208,CT1BLY,Jero Nimo,,,PRT,,Private Call,None
+,2680208,CT1BLY,Jeronimo,,,PRT,,Private Call,None
 ,2680209,CS7BAR,Ivo,,,PRT,,Private Call,None
 ,2680210,CS7BCM,Nuno,,,PRT,,Private Call,None
 ,2680211,CT5IVA,Julio,,,PRT,,Private Call,None
@@ -109451,7 +109548,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2680445,CT7BJR,Alfredo,,,PRT,,Private Call,None
 ,2680446,CT5GRH,Nuno David,,,PRT,,Private Call,None
 ,2680447,CS7BCP,Adriano,,,PRT,,Private Call,None
-,2680448,CT1AGU,Reinaldo,,,PRT,,Private Call,None
 ,2680449,CT2GGQ,Jose Augusto,,,PRT,,Private Call,None
 ,2680450,CT7BLP,Haim,,,PRT,,Private Call,None
 ,2680451,CT1EIH,Albano,,,PRT,,Private Call,None
@@ -109610,7 +109706,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2680605,CT1FVJ,Jose,,,PRT,,Private Call,None
 ,2680606,CT4KQ,Serafim,,,PRT,,Private Call,None
 ,2680607,CT5GSI,Nuno,,,PRT,,Private Call,None
-,2680608,CS7BSC,Micael,,,PRT,,Private Call,None
+,2680608,CT7BSC,Micael,,,PRT,,Private Call,None
 ,2680610,CR7BSF,Francisco,,,PRT,,Private Call,None
 ,2680612,CT2HWM,Ramiro,,,PRT,,Private Call,None
 ,2680613,CT1FHE,Pedro,,,PRT,,Private Call,None
@@ -109656,7 +109752,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2680653,CR7BUX,Joao,,,PRT,,Private Call,None
 ,2680654,CR7BVJ,Guilherme,,,PRT,,Private Call,None
 ,2680655,CR7BUZ,Goncalo,,,PRT,,Private Call,None
-,2680656,CR7BTC,Mario,,,PRT,,Private Call,None
+,2680656,CT7BTC,Mario,,,PRT,,Private Call,None
 ,2680657,CR7BGT,Jorge,,,PRT,,Private Call,None
 ,2680658,CT7BCK,Paulo,,,PRT,,Private Call,None
 ,2680659,CS5ARAM,Aram,,,PRT,,Private Call,None
@@ -109686,7 +109782,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2680683,CR7BWY,Nuno,,,PRT,,Private Call,None
 ,2680684,CR7BWX,Guilherme,,,PRT,,Private Call,None
 ,2680685,CT2IFE,Rogerio,,,PRT,,Private Call,None
-,2680686,CS7BXA,Eduardo,,,PRT,,Private Call,None
+,2680686,CT7BXA,Eduardo,,,PRT,,Private Call,None
 ,2680687,CR7BPX,Ricardo,,,PRT,,Private Call,None
 ,2680688,CT5IOQ,Emidio,,,PRT,,Private Call,None
 ,2680689,CR7BWM,Francisco,,,PRT,,Private Call,None
@@ -109781,7 +109877,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2680798,CT2IUJ,Daniel,,,PRT,,Private Call,None
 ,2680799,CR7CDU,Daniel,,,PRT,,Private Call,None
 ,2680800,CR7CDG,Vitor,,,PRT,,Private Call,None
-,2680801,CR7BXB,Miguel,,,PRT,,Private Call,None
+,2680801,CS7BXB,Miguel,,,PRT,,Private Call,None
 ,2680802,CR7CBJ,Joaquim,,,PRT,,Private Call,None
 ,2680803,CR7BXJ,Tiago,,,PRT,,Private Call,None
 ,2680804,CR7BSE,Jose,,,PRT,,Private Call,None
@@ -109871,6 +109967,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2680888,CR7CHJ,Fabio,,,PRT,,Private Call,None
 ,2680889,CR7CIV,Filipe,,,PRT,,Private Call,None
 ,2680890,CT7BFX,Jose,,,PRT,,Private Call,None
+,2680891,CT5JLR,Nelson,,,PRT,,Private Call,None
+,2680892,CR7CIQ,Antonio,,,PRT,,Private Call,None
+,2680893,CR7CIY,Emanuel,,,PRT,,Private Call,None
+,2680894,CR7BMT,Rodrigues,,,PRT,,Private Call,None
+,2680895,CR8ADY,Paulo,,,PRT,,Private Call,None
+,2680896,CR7CBA,Vera,,,PRT,,Private Call,None
+,2680897,CT7CDV,Frank,,,PRT,,Private Call,None
 ,2681001,CT2HMR,Manuel,,,PRT,,Private Call,None
 ,2681002,CT1DQV,Eduardo,,,PRT,,Private Call,None
 ,2681003,CT2GSW,Rui,,,PRT,,Private Call,None
@@ -110557,7 +110660,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2683362,CT7AVH,Capeleiro,,,PRT,,Private Call,None
 ,2683363,CT1FCF,Asilva,,,PRT,,Private Call,None
 ,2683364,CT1DRB,Davidquental,,,PRT,,Private Call,None
-,2683365,CT2GJZ,Carlos,,,PRT,,Private Call,None
+,2683365,CT7CIZ,Carlos,,,PRT,,Private Call,None
 ,2683366,CT7AXA,Brunorosa,,,PRT,,Private Call,None
 ,2683367,CT1FNO,Fernandorobalo,,,PRT,,Private Call,None
 ,2683368,CT1BSD,Filipe_silva,,,PRT,,Private Call,None
@@ -111045,6 +111148,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2720069,EI8HEB,Sean,,,IRL,,Private Call,None
 ,2720071,EI2GP,Thomas,,,IRL,,Private Call,None
 ,2720072,EI4CN,Michael,,,IRL,,Private Call,None
+,2720073,EI3HIB,David,,,IRL,,Private Call,None
 ,2720074,EI7BR,David,,,IRL,,Private Call,None
 ,2720076,EI7FHB,Patrick,,,IRL,,Private Call,None
 ,2720077,EI4BZ,David,,,IRL,,Private Call,None
@@ -111441,6 +111545,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2720474,EI3KVB,Mariusz,,,IRL,,Private Call,None
 ,2720475,EI7JOTA,John,,,IRL,,Private Call,None
 ,2720476,EI7JIB,Daniel,,,IRL,,Private Call,None
+,2720477,EI5HQB,Alan,,,IRL,,Private Call,None
 ,2740001,TF1PA,Pier,,,ISL,,Private Call,None
 ,2740002,TF8KP,Krzysztof,,,ISL,,Private Call,None
 ,2740003,TF8KP,Krzysztof,,,ISL,,Private Call,None
@@ -112564,6 +112669,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2840879,LZ1NHN,Nikolay,,,BGR,,Private Call,None
 ,2840880,LZ1ERD,Emil,,,BGR,,Private Call,None
 ,2840881,LZ1PME,Ilian,,,BGR,,Private Call,None
+,2840882,LZ2EGN,Evgeniy,,,BGR,,Private Call,None
+,2840883,LZ2IWN,Ivan,,,BGR,,Private Call,None
 ,2843333,LZ3OM,Kiril,,,BGR,,Private Call,None
 ,2847777,LZ7DJ,Kiril,,,BGR,,Private Call,None
 ,2849998,LZ1JPK,Jordan,,,BGR,,Private Call,None
@@ -114886,7 +114993,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2862333,TA3ICM,Murat,,,TUR,,Private Call,None
 ,2862334,TA2TR,Rasim,,,TUR,,Private Call,None
 ,2862335,TA2UVA,Ardaercetin,,,TUR,,Private Call,None
-,2862336,TA3RAB,Enis,,,TUR,,Private Call,None
 ,2862337,TA2AVJ,Emre,,,TUR,,Private Call,None
 ,2862338,TA3NSR,Sercan,,,TUR,,Private Call,None
 ,2862339,TA3GR,Murat,,,TUR,,Private Call,None
@@ -116368,7 +116474,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2863880,TB2PNH,Metin,,,TUR,,Private Call,None
 ,2863881,TA2VH,Huseyin,,,TUR,,Private Call,None
 ,2863882,TA2CTR,Ural,,,TUR,,Private Call,None
-,2863883,TA6AIA,Gokhan,,,TUR,,Private Call,None
+,2863883,TA6BG,Gokhan,,,TUR,,Private Call,None
 ,2863884,TA2LGD,no_name,,,TUR,,Private Call,None
 ,2863885,TA2AJO,Mesut,,,TUR,,Private Call,None
 ,2863886,TA3HZ,Mustafa,,,TUR,,Private Call,None
@@ -117527,7 +117633,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2865074,TA2BER,Mustafa,,,TUR,,Private Call,None
 ,2865075,TA3SSC,Semih,,,TUR,,Private Call,None
 ,2865076,TA7CAM,Ibrahim,,,TUR,,Private Call,None
-,2865077,TA1SSD,Yusuf Bilal,,,TUR,,Private Call,None
+,2865077,TA1SSD,Yusufbilal,,,TUR,,Private Call,None
 ,2865078,TB8ASP,no_name,,,TUR,,Private Call,None
 ,2865079,TA3CAF,Turgay,,,TUR,,Private Call,None
 ,2865080,TA5MKY,Mehmet Kaan,,,TUR,,Private Call,None
@@ -117840,7 +117946,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2865395,TB1ERM,Erman,,,TUR,,Private Call,None
 ,2865396,TA3CBB,Cengiz,,,TUR,,Private Call,None
 ,2865397,TA1CLP,Metin,,,TUR,,Private Call,None
-,2865398,TB2UNA,Tuna Murat,,,TUR,,Private Call,None
+,2865398,TB2UNA,Tuna,,,TUR,,Private Call,None
 ,2865399,TB1FRX,Ferit,,,TUR,,Private Call,None
 ,2865400,TA8MHD,no_name,,,TUR,,Private Call,None
 ,2865401,TA5IAM,Mahmut,,,TUR,,Private Call,None
@@ -119789,6 +119895,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2867364,TB4ASO,Ahmet,,,TUR,,Private Call,None
 ,2867365,TB1SBE,Salih,,,TUR,,Private Call,None
 ,2867366,TA1KRG,Kutay,,,TUR,,Private Call,None
+,2867367,TB5MCO,Cumali,,,TUR,,Private Call,None
 ,2867368,TA2MNN,Metin,,,TUR,,Private Call,None
 ,2867369,TB3DBR,Talha,,,TUR,,Private Call,None
 ,2867370,TA2DGB,Efe,,,TUR,,Private Call,None
@@ -121040,7 +121147,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2868635,TA8MLS,Hakan,,,TUR,,Private Call,None
 ,2868636,TA6WLF,Ardic,,,TUR,,Private Call,None
 ,2868637,TA3CMN,Hasan,,,TUR,,Private Call,None
-,2868638,TA2XLF,Orcun,,,TUR,,Private Call,None
 ,2868639,TA2FJ,Yetis,,,TUR,,Private Call,None
 ,2868640,TA2HAQ,Mehmet,,,TUR,,Private Call,None
 ,2868641,TA3EEL,Osman,,,TUR,,Private Call,None
@@ -121095,6 +121201,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2868690,TA4MAN,Mustafa,,,TUR,,Private Call,None
 ,2868691,TB2ZMC,Mustafa,,,TUR,,Private Call,None
 ,2868692,TA3KEF,Kerem,,,TUR,,Private Call,None
+,2868693,TB2VLY,Tamer,,,TUR,,Private Call,None
 ,2868694,TA8DD,Suleyman,,,TUR,,Private Call,None
 ,2868695,TB3KBB,Ekrem,,,TUR,,Private Call,None
 ,2868696,TA8KL,Yusuf,,,TUR,,Private Call,None
@@ -121145,6 +121252,29 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2868741,TA2SDF,Sina,,,TUR,,Private Call,None
 ,2868742,TA7AJH,Kerem,,,TUR,,Private Call,None
 ,2868743,TA7KSC,Kemalsametcot,,,TUR,,Private Call,None
+,2868744,TA1AWY,Yusuf,,,TUR,,Private Call,None
+,2868745,TA1CYY,Yucel,,,TUR,,Private Call,None
+,2868746,TB2ERJ,Halil,,,TUR,,Private Call,None
+,2868747,TA6AHN,Cinar,,,TUR,,Private Call,None
+,2868748,TA7AKA,Murat,,,TUR,,Private Call,None
+,2868749,TA3TST,Tolga,,,TUR,,Private Call,None
+,2868750,TA2GPU,Beykan,,,TUR,,Private Call,None
+,2868751,TA2ZDB,Hasan,,,TUR,,Private Call,None
+,2868752,TA3CCW,Mustafa,,,TUR,,Private Call,None
+,2868753,TB7ASK,Ahmet,,,TUR,,Private Call,None
+,2868754,TB8HSK,Hasan,,,TUR,,Private Call,None
+,2868755,TA2SAW,Emir,,,TUR,,Private Call,None
+,2868756,TA2YZL,Anil,,,TUR,,Private Call,None
+,2868757,TA8EMF,Mehmet,,,TUR,,Private Call,None
+,2868758,TB3MLA,Erkan,,,TUR,,Private Call,None
+,2868759,YM1KSR,Sariyer,,,TUR,,Private Call,None
+,2868760,TA8GZT,Iskender,,,TUR,,Private Call,None
+,2868761,TB1TTD,Ates,,,TUR,,Private Call,None
+,2868762,TA2TYC,Yasin,,,TUR,,Private Call,None
+,2868763,TA2BVW,Izzet,,,TUR,,Private Call,None
+,2868764,TA7AEE,Hasan,,,TUR,,Private Call,None
+,2868765,TA4LEO,Fatih,,,TUR,,Private Call,None
+,2868766,TA1FNC,Selcuk,,,TUR,,Private Call,None
 ,2868888,TA1QQ,Erol,,,TUR,,Private Call,None
 ,2880001,OY8W,Steffen,,,FRO,,Private Call,None
 ,2880002,OY1DZ,Karstin,,,FRO,,Private Call,None
@@ -121972,6 +122102,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2930804,S50MH,Holcar,,,SVN,,Private Call,None
 ,2930805,S50BSO,Soko,,,SVN,,Private Call,None
 ,2930806,S57SO,Okorn,,,SVN,,Private Call,None
+,2930807,S50EB,Mirsad,,,SVN,,Private Call,None
 ,2930808,S56MAT,Buselic,,,SVN,,Private Call,None
 ,2930809,S56LKP,Rus,,,SVN,,Private Call,None
 ,2930810,S57BUC,Matej,,,SVN,,Private Call,None
@@ -122277,6 +122408,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2931118,S54K,Rk Malgaj,,,SVN,,Private Call,None
 ,2931119,S59PMR,Cb Rk Obala,,,SVN,,Private Call,None
 ,2931120,S54ECS,Rudi,,,SVN,,Private Call,None
+,2931121,S56PZU,Andrej,,,SVN,,Private Call,None
 ,2940001,Z36AEC,Herolind,,,MKD,,Private Call,None
 ,2940002,Z32IT,Dragan,,,MKD,,Private Call,None
 ,2940003,Z32IT,Dragan,,,MKD,,Private Call,None
@@ -123087,7 +123219,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3020783,VE2PEL,Martin,,,CAN,,Private Call,None
 ,3020784,VA3OL,William,,,CAN,,Private Call,None
 ,3020785,VA2CHQ,Christian,,,CAN,,Private Call,None
-,3020786,VE1NB,Bruce,,,CAN,,Private Call,None
 ,3020788,VE7GIE,Jeff,,,CAN,,Private Call,None
 ,3020789,VA3CMM,Cory,,,CAN,,Private Call,None
 ,3020790,VA7LET,Hiroshi,,,CAN,,Private Call,None
@@ -125170,10 +125301,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3023444,VE3WVA,Rusty,,,CAN,,Private Call,None
 ,3023446,VA3BVH,Bryan,,,CAN,,Private Call,None
 ,3023450,VA3CB,Rick,,,CAN,,Private Call,None
+,3023451,VA3TPS,Steve,,,CAN,,Private Call,None
 ,3023452,VE3OR,Hans,,,CAN,,Private Call,None
 ,3023453,VE3HHZ,Charles,,,CAN,,Private Call,None
 ,3023454,VA3OMP,Gregory,,,CAN,,Private Call,None
 ,3023455,VA3FTC,Thomas,,,CAN,,Private Call,None
+,3023457,VA3TPS,Steve,,,CAN,,Private Call,None
 ,3023459,VA3YC,Keith,,,CAN,,Private Call,None
 ,3023460,VE3UME,Brant,,,CAN,,Private Call,None
 ,3023461,VA3SPM,Steven,,,CAN,,Private Call,None
@@ -126170,7 +126303,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3024649,VA3GCB,George,,,CAN,,Private Call,None
 ,3024650,VA3GCB,George,,,CAN,,Private Call,None
 ,3024651,VA7DUX,Conrad,,,CAN,,Private Call,None
-,3024652,VE5DEZ,Josh,,,CAN,,Private Call,None
+,3024652,VE5DE,Josh,,,CAN,,Private Call,None
 ,3024653,VA3IHG,Andrew,,,CAN,,Private Call,None
 ,3024654,VE1WAB,Adam,,,CAN,,Private Call,None
 ,3024655,VE7BUL,Gilbert,,,CAN,,Private Call,None
@@ -127570,6 +127703,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3026122,VA6GE,Geoffrey,,,CAN,,Private Call,None
 ,3026123,VE6HBD,Bryan,,,CAN,,Private Call,None
 ,3026124,VE6TDK,Thomas,,,CAN,,Private Call,None
+,3026125,VE6MHD,Kelly,,,CAN,,Private Call,None
 ,3026126,VE6LFS,Roland,,,CAN,,Private Call,None
 ,3026127,VE6LFS,Roland,,,CAN,,Private Call,None
 ,3026129,VE6EDF,Edward,,,CAN,,Private Call,None
@@ -128811,6 +128945,28 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3027506,VA3PMI,James,,,CAN,,Private Call,None
 ,3027507,VE3UAM,Alison,,,CAN,,Private Call,None
 ,3027508,VA7GLT,Gary,,,CAN,,Private Call,None
+,3027509,VA3RKC,Randal,,,CAN,,Private Call,None
+,3027510,VE2ZKW,Christian,,,CAN,,Private Call,None
+,3027511,VE3QTJ,Timothy,,,CAN,,Private Call,None
+,3027512,VA7SME,Titulaire,,,CAN,,Private Call,None
+,3027513,VE7MDN,David,,,CAN,,Private Call,None
+,3027514,VE9TBM,Stephen,,,CAN,,Private Call,None
+,3027515,VE1YO,Dartmouth Amateur Radio Club,,,CAN,,Private Call,None
+,3027516,VE2NZL,Graham,,,CAN,,Private Call,None
+,3027517,VE3UJR,Judith,,,CAN,,Private Call,None
+,3027518,VE7RNX,David,,,CAN,,Private Call,None
+,3027519,VE3YPC,Kevin,,,CAN,,Private Call,None
+,3027520,VA3TTP,Randy,,,CAN,,Private Call,None
+,3027521,VE6AGW,Frederick,,,CAN,,Private Call,None
+,3027522,VE1LKM,Laura,,,CAN,,Private Call,None
+,3027523,VE5VK,Robert,,,CAN,,Private Call,None
+,3027524,VE3TZH,Tony,,,CAN,,Private Call,None
+,3027525,VA3DFX,Daniel,,,CAN,,Private Call,None
+,3027526,VE9SBO,Simon,,,CAN,,Private Call,None
+,3027527,VA3BPF,Junqiang,,,CAN,,Private Call,None
+,3027528,VE6WOO,Robert,,,CAN,,Private Call,None
+,3027529,VA3GCM,Guy,,,CAN,,Private Call,None
+,3027530,VA4RAM,Radio Amateurs Of Manitoba,,,CAN,,Private Call,None
 ,3028002,VE3YUL,John,,,CAN,,Private Call,None
 ,3028005,VE3GCT,Gary,,,CAN,,Private Call,None
 ,3028006,VE3YCX,Sean,,,CAN,,Private Call,None
@@ -129375,7 +129531,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3100538,KN4FLF,Frank,,,USA,,Private Call,None
 ,3100539,KF0VHI,Becky,,,USA,,Private Call,None
 ,3100540,KE6TE,George,,,USA,,Private Call,None
-,3100541,KJ5MYI,Keith,,,USA,,Private Call,None
+,3100541,KG5EGL,Keith,,,USA,,Private Call,None
 ,3100542,WB6NJA,James,,,USA,,Private Call,None
 ,3100543,KA4JON,John,,,USA,,Private Call,None
 ,3100544,N9LYA,Jerome,,,USA,,Private Call,None
@@ -129483,7 +129639,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3100650,KK5OB,Martin,,,USA,,Private Call,None
 ,3100651,KC6YFA,Charles,,,USA,,Private Call,None
 ,3100652,KI7VAF,David,,,USA,,Private Call,None
-,3100653,W2GMI,Brian,,,USA,,Private Call,None
 ,3100654,KM4MCI,David,,,USA,,Private Call,None
 ,3100655,K3TEL,Arnold,,,USA,,Private Call,None
 ,3100656,KC1YFS,Kevin,,,USA,,Private Call,None
@@ -129521,7 +129676,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3100688,WB5SOT,Bill,,,USA,,Private Call,None
 ,3100689,W4OA,Shelly,,,USA,,Private Call,None
 ,3100690,KF8AQG,Mark,,,USA,,Private Call,None
-,3100691,W2GMI,Brian,,,USA,,Private Call,None
 ,3100692,KD0SUW,William,,,USA,,Private Call,None
 ,3100693,KB9QG,Jeffrey,,,USA,,Private Call,None
 ,3100694,KM6LYW,Richard,,,USA,,Private Call,None
@@ -129785,6 +129939,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3100968,WW0KRP,Jeff,,,USA,,Private Call,None
 ,3100969,KD8AUJ,Ted,,,USA,,Private Call,None
 ,3100970,WD6STR,Ed,,,USA,,Private Call,None
+,3100971,N6NKO,Richard,,,USA,,Private Call,None
 ,3100972,KS4MX,William,,,USA,,Private Call,None
 ,3100973,KB1FON,Christopher,,,USA,,Private Call,None
 ,3100974,KR4GUQ,Don,,,USA,,Private Call,None
@@ -130004,7 +130159,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3101199,WA4BPS,James,,,USA,,Private Call,None
 ,3101201,KF4CHK,Kristen,,,USA,,Private Call,None
 ,3101202,K4TTZ,Wayne,,,USA,,Private Call,None
-,3101203,KE4ORP,Eric,,,USA,,Private Call,None
 ,3101204,KK4DPN,Robert,,,USA,,Private Call,None
 ,3101205,KD4JPY,Charles,,,USA,,Private Call,None
 ,3101206,KI4JGK,Nathaniel,,,USA,,Private Call,None
@@ -130079,7 +130233,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3101281,WB3JFR,Kenneth,,,USA,,Private Call,None
 ,3101282,KM4KUK,Jerry,,,USA,,Private Call,None
 ,3101283,KM4JAQ,Dustin,,,USA,,Private Call,None
-,3101284,W4CVS,Danny,,,USA,,Private Call,None
 ,3101285,N4RT,Ron,,,USA,,Private Call,None
 ,3101286,W4GPS,Patrick,,,USA,,Private Call,None
 ,3101287,N4NR,Dennis,,,USA,,Private Call,None
@@ -131073,7 +131226,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3102308,N8AQA,Brian,,,USA,,Private Call,None
 ,3102309,N5QLA,Miguel,,,USA,,Private Call,None
 ,3102310,AA0YX,Denis,,,USA,,Private Call,None
-,3102311,KA9MNT,Larry,,,USA,,Private Call,None
 ,3102312,KB5SRJ,Douglas,,,USA,,Private Call,None
 ,3102313,WX2UA,Joseph,,,USA,,Private Call,None
 ,3102314,WK8N,Ronald,,,USA,,Private Call,None
@@ -131467,14 +131619,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3102722,AG5JD,Robert,,,USA,,Private Call,None
 ,3102723,N2LKA,Patrick,,,USA,,Private Call,None
 ,3102724,N4BIZ,Robert,,,USA,,Private Call,None
-,3102725,N8JCK,Jeffrey,,,USA,,Private Call,None
 ,3102726,KI7HPM,Brian,,,USA,,Private Call,None
 ,3102727,KE8IME,Harold,,,USA,,Private Call,None
 ,3102728,KQ6TO,Ray,,,USA,,Private Call,None
 ,3102729,KA2OGO,Arthur,,,USA,,Private Call,None
 ,3102730,N1IEX,Ronald,,,USA,,Private Call,None
 ,3102731,KE4HJV,Kevin,,,USA,,Private Call,None
-,3102732,N8JCK,Jeffrey,,,USA,,Private Call,None
 ,3102733,WB8L,Thomas,,,USA,,Private Call,None
 ,3102734,KD8AZC,Scott,,,USA,,Private Call,None
 ,3102735,KB9AVO,Paul,,,USA,,Private Call,None
@@ -132689,7 +132839,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3103987,K2KGF,Martin,,,USA,,Private Call,None
 ,3103988,K5RFL,Caleb,,,USA,,Private Call,None
 ,3103989,N5JJH,Jesse,,,USA,,Private Call,None
-,3103990,KF0VHZ,Donald,,,USA,,Private Call,None
 ,3103991,KZ4JK,Phillip,,,USA,,Private Call,None
 ,3103992,KJ4TDM,Brian,,,USA,,Private Call,None
 ,3103994,K1RHH,Kenneth,,,USA,,Private Call,None
@@ -132894,7 +133043,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3104223,WB7VNF,Everett,,,USA,,Private Call,None
 ,3104225,N7INK,Robert,,,USA,,Private Call,None
 ,3104226,AD7C,Richard,,,USA,,Private Call,None
-,3104227,W1JTS,Jon,,,USA,,Private Call,None
 ,3104228,W7DNC,Wayne,,,USA,,Private Call,None
 ,3104229,W7RDH,Jon,,,USA,,Private Call,None
 ,3104230,K7SBG,Scott,,,USA,,Private Call,None
@@ -133817,7 +133965,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3105191,KC5GLP,Margaret,,,USA,,Private Call,None
 ,3105192,K5FGQ,Curtis,,,USA,,Private Call,None
 ,3105193,WA7ERY,Frederick,,,USA,,Private Call,None
-,3105194,W5STO,Brad,,,USA,,Private Call,None
 ,3105195,KG6UFN,Kim,,,USA,,Private Call,None
 ,3105196,KG5PEB,Thomas,,,USA,,Private Call,None
 ,3105197,N5QS,Roger,,,USA,,Private Call,None
@@ -134370,7 +134517,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3105769,KF4PRR,Hoyt,,,USA,,Private Call,None
 ,3105770,WB8MWG,David,,,USA,,Private Call,None
 ,3105771,WB8MWG,David,,,USA,,Private Call,None
-,3105772,W5STO,Brad,,,USA,,Private Call,None
 ,3105773,AG7QI,Eric,,,USA,,Private Call,None
 ,3105774,KF5URA,Ralph,,,USA,,Private Call,None
 ,3105775,KF5URA,Ralph,,,USA,,Private Call,None
@@ -134619,8 +134765,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3106026,W6ELL,Jim,,,USA,,Private Call,None
 ,3106027,W6ELL,Jim,,,USA,,Private Call,None
 ,3106028,N6DSP,Duane,,,USA,,Private Call,None
-,3106029,W6TRW,Club,,,USA,,Private Call,None
-,3106030,W6TRW,Club,,,USA,,Private Call,None
 ,3106031,NI8H,Kevin,,,USA,,Private Call,None
 ,3106032,KF6ZII,Alicia,,,USA,,Private Call,None
 ,3106033,KA8TTI,Laura,,,USA,,Private Call,None
@@ -134825,7 +134969,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3106237,K6DEW,Dave,,,USA,,Private Call,None
 ,3106239,N6RCD,John,,,USA,,Private Call,None
 ,3106240,K6RGK,Barry,,,USA,,Private Call,None
-,3106242,K6MAP,Mark,,,USA,,Private Call,None
 ,3106243,KB6UDA,Ted,,,USA,,Private Call,None
 ,3106244,K6FAA,Troy,,,USA,,Private Call,None
 ,3106245,WB6ZEI,Ron,,,USA,,Private Call,None
@@ -136397,7 +136540,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3107862,W6OGR,Roy,,,USA,,Private Call,None
 ,3107864,N6DEN,Donald,,,USA,,Private Call,None
 ,3107865,N3BKV,David,,,USA,,Private Call,None
-,3107866,KM6FOH,Micheline,,,USA,,Private Call,None
 ,3107867,NN6AA,Edward,,,USA,,Private Call,None
 ,3107868,WC6Q,Ryan,,,USA,,Private Call,None
 ,3107869,KK6TIG,Alberto,,,USA,,Private Call,None
@@ -136452,7 +136594,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3107921,KC3BQL,James,,,USA,,Private Call,None
 ,3107922,N6AYF,Steven,,,USA,,Private Call,None
 ,3107923,N6HEW,Glen,,,USA,,Private Call,None
-,3107924,AE6GM,Richard,,,USA,,Private Call,None
 ,3107927,KK6WAR,Thomas,,,USA,,Private Call,None
 ,3107928,KK6WAR,Thomas,,,USA,,Private Call,None
 ,3107930,KM6BOA,Michael,,,USA,,Private Call,None
@@ -136657,7 +136798,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3108137,K0GUR,Michael,,,USA,,Private Call,None
 ,3108138,KD0SIY,Scott,,,USA,,Private Call,None
 ,3108139,K2AD,Doug,,,USA,,Private Call,None
-,3108140,AJ7R,Aaron,,,USA,,Private Call,None
 ,3108141,WA1JHK,Dave,,,USA,,Private Call,None
 ,3108142,WW8L,Tim,,,USA,,Private Call,None
 ,3108143,N6NYC,Larry,,,USA,,Private Call,None
@@ -136943,7 +137083,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3108429,AA0RX,Gary,,,USA,,Private Call,None
 ,3108430,AA0RX,Gary,,,USA,,Private Call,None
 ,3108431,KB9TYY,Joan,,,USA,,Private Call,None
-,3108432,W9OFA,David,,,USA,,Private Call,None
 ,3108433,W9SL,Don,,,USA,,Private Call,None
 ,3108434,N0OBA,Scott,,,USA,,Private Call,None
 ,3108435,N0OWY,Scott,,,USA,,Private Call,None
@@ -137352,7 +137491,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3108844,W9RIK,Frederick,,,USA,,Private Call,None
 ,3108845,N6VCI,Michael,,,USA,,Private Call,None
 ,3108846,KD0SQA,Gary,,,USA,,Private Call,None
-,3108847,KI0EP,Alan,,,USA,,Private Call,None
 ,3108848,KF6AAR,John,,,USA,,Private Call,None
 ,3108849,N0MEU,Jay,,,USA,,Private Call,None
 ,3108850,KD0QLV,Keith,,,USA,,Private Call,None
@@ -137913,7 +138051,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3109422,KC1EOJ,William,,,USA,,Private Call,None
 ,3109423,KB1KGX,Richard,,,USA,,Private Call,None
 ,3109424,KC1PWH,Peter,,,USA,,Private Call,None
-,3109425,K1VG,Jeffery,,,USA,,Private Call,None
+,3109425,K1VG,Jeff,,,USA,,Private Call,None
 ,3109426,W1BIQ,Freddy,,,USA,,Private Call,None
 ,3109427,KB1O,Jean,,,USA,,Private Call,None
 ,3109428,N7PRD,Jason,,,USA,,Private Call,None
@@ -137974,7 +138112,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3109483,K1FUG,Kenneth,,,USA,,Private Call,None
 ,3109484,KC1ERO,Jason,,,USA,,Private Call,None
 ,3109485,KB1YPD,Nicholas,,,USA,,Private Call,None
-,3109486,W1FEB,Edward,,,USA,,Private Call,None
 ,3109487,N1KHW,Billy,,,USA,,Private Call,None
 ,3109489,W1MDJ,Matt,,,USA,,Private Call,None
 ,3109490,N1JBS,Bill,,,USA,,Private Call,None
@@ -138821,7 +138958,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3110377,W0RCT,Ross,,,USA,,Private Call,None
 ,3110379,N4TRG,Timothy,,,USA,,Private Call,None
 ,3110380,W5NYV,Michelle,,,USA,,Private Call,None
-,3110382,K9TEC,Thomas,,,USA,,Private Call,None
+,3110382,K9TEC,Tommy,,,USA,,Private Call,None
 ,3110383,K4LWJ,Ray,,,USA,,Private Call,None
 ,3110384,KE8BGA,Lowell,,,USA,,Private Call,None
 ,3110385,KB2YJK,James,,,USA,,Private Call,None
@@ -139320,7 +139457,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3110903,KM6TRZ,Donald,,,USA,,Private Call,None
 ,3110904,KK5MR,Mark,,,USA,,Private Call,None
 ,3110905,WS7EOC,Jim,,,USA,,Private Call,None
-,3110906,W8UCO,Union,,,USA,,Private Call,None
 ,3110907,KB3JBQ,Marvin,,,USA,,Private Call,None
 ,3110908,N5KZW,Edwin,,,USA,,Private Call,None
 ,3110909,KG5HNY,Chase,,,USA,,Private Call,None
@@ -140389,7 +140525,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3112001,KC2SKU,Walter,,,USA,,Private Call,None
 ,3112002,K4XF,Rich,,,USA,,Private Call,None
 ,3112003,N4PL,Wald,,,USA,,Private Call,None
-,3112004,W4ROA,Chuck,,,USA,,Private Call,None
 ,3112005,KD4HKR,Charlie,,,USA,,Private Call,None
 ,3112006,WB4CDH,Charles,,,USA,,Private Call,None
 ,3112007,KJ4WYG,Matt,,,USA,,Private Call,None
@@ -140929,7 +141064,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3112552,AE4WG,Warren,,,USA,,Private Call,None
 ,3112553,KB4T,Frank,,,USA,,Private Call,None
 ,3112554,W1DSL,David,,,USA,,Private Call,None
-,3112555,W4FZM,Duane,,,USA,,Private Call,None
 ,3112556,N4ZZN,Gregory,,,USA,,Private Call,None
 ,3112557,W4RBW,Frank,,,USA,,Private Call,None
 ,3112558,KB4LSL,Joseph,,,USA,,Private Call,None
@@ -141174,7 +141308,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3112802,KD4MOJ,Douglas,,,USA,,Private Call,None
 ,3112803,KK4VRP,Tony,,,USA,,Private Call,None
 ,3112804,WB2SNN,Charles,,,USA,,Private Call,None
-,3112805,AA1FF,Steven,,,USA,,Private Call,None
+,3112805,WA4SG,Steven,,,USA,,Private Call,None
 ,3112807,W4OZ,Dennis,,,USA,,Private Call,None
 ,3112808,N4RGW,Gregg,,,USA,,Private Call,None
 ,3112809,KG4ZOW,John,,,USA,,Private Call,None
@@ -142344,7 +142478,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3114020,KI7QAM,Bernard,,,USA,,Private Call,None
 ,3114021,KG5WU,Wayne,,,USA,,Private Call,None
 ,3114022,WB4TGK,George,,,USA,,Private Call,None
-,3114023,AA1FF,Steven,,,USA,,Private Call,None
+,3114023,WA4SG,Steven,,,USA,,Private Call,None
 ,3114024,KI5SF,Carl,,,USA,,Private Call,None
 ,3114025,K9AGR,Jim,,,USA,,Private Call,None
 ,3114026,N4ULF,Anita,,,USA,,Private Call,None
@@ -142863,7 +142997,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3114554,KC8LEL,Robert,,,USA,,Private Call,None
 ,3114555,WA5PWA,Benard,,,USA,,Private Call,None
 ,3114556,WA4YNE,Gerald,,,USA,,Private Call,None
-,3114557,W8IMS,Lindsay,,,USA,,Private Call,None
 ,3114558,KC9OIZ,Brian,,,USA,,Private Call,None
 ,3114559,K8RWB,Florian,,,USA,,Private Call,None
 ,3114560,KE0CGB,Larren,,,USA,,Private Call,None
@@ -142875,6 +143008,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3114567,W6CM,David,,,USA,,Private Call,None
 ,3114568,N0GW,Gary,,,USA,,Private Call,None
 ,3114569,KE0QDA,Charles,,,USA,,Private Call,None
+,3114570,KD2MDP,Brian,,,USA,,Private Call,None
 ,3114571,KR4ESF,Shawn,,,USA,,Private Call,None
 ,3114572,KR4CWS,Kody,,,USA,,Private Call,None
 ,3114573,KF0THP,Phillip,,,USA,,Private Call,None
@@ -143220,7 +143354,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3114924,AF5RZ,Andrew,,,USA,,Private Call,None
 ,3114925,KG5STF,Richie,,,USA,,Private Call,None
 ,3114926,WA9KZS,Harold,,,USA,,Private Call,None
-,3114927,KG5TAA,Dale,,,USA,,Private Call,None
 ,3114928,W2AJG,Andrew,,,USA,,Private Call,None
 ,3114929,KA6ETE,James,,,USA,,Private Call,None
 ,3114930,N9QIW,Alexander,,,USA,,Private Call,None
@@ -143233,7 +143366,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3114937,W1KJ,James,,,USA,,Private Call,None
 ,3114938,AC0UD,Kris,,,USA,,Private Call,None
 ,3114939,KJ5NAQ,John,,,USA,,Private Call,None
-,3114940,AI6XN,Amlan,,,USA,,Private Call,None
 ,3114941,KB3CVS,Thomas,,,USA,,Private Call,None
 ,3114942,KM4NCS,Lawrence,,,USA,,Private Call,None
 ,3114943,KB5TJI,Marvin,,,USA,,Private Call,None
@@ -143873,7 +144005,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3115606,K2GMP,Gary,,,USA,,Private Call,None
 ,3115607,N4GRW,John,,,USA,,Private Call,None
 ,3115608,AH7RF,Heather,,,USA,,Private Call,None
-,3115609,KD2LYD,Dean,,,USA,,Private Call,None
 ,3115610,KO4TMB,Miguel,,,USA,,Private Call,None
 ,3115611,K1MGB,Michael,,,USA,,Private Call,None
 ,3115612,KD8TIF,Tiffany,,,USA,,Private Call,None
@@ -143979,6 +144110,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3115715,N2WJR,Walt,,,USA,,Private Call,None
 ,3115716,NA6F,Rich,,,USA,,Private Call,None
 ,3115717,N3CGM,Christopher,,,USA,,Private Call,None
+,3115718,KK6WLI,John,,,USA,,Private Call,None
 ,3115719,WN4REP,Robert,,,USA,,Private Call,None
 ,3115720,AA0BS,Lorraine,,,USA,,Private Call,None
 ,3115721,KM6VKR,Jeffrey,,,USA,,Private Call,None
@@ -143992,7 +144124,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3115729,N2PLL,Bryan,,,USA,,Private Call,None
 ,3115730,KE8DQX,William,,,USA,,Private Call,None
 ,3115731,KA0BBQ,Barry,,,USA,,Private Call,None
-,3115732,KI7HFI,Darren,,,USA,,Private Call,None
 ,3115733,KJ5NAR,Caitlin,,,USA,,Private Call,None
 ,3115734,KM6VFY,Ryan,,,USA,,Private Call,None
 ,3115735,WN2V,Rosalinda,,,USA,,Private Call,None
@@ -144063,7 +144194,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3115805,W6UHF,Paul,,,USA,,Private Call,None
 ,3115806,KG7PTC,Lynn,,,USA,,Private Call,None
 ,3115807,N7DND,Gary,,,USA,,Private Call,None
-,3115808,KD4KXI,Daniel,,,USA,,Private Call,None
 ,3115809,KD6IWL,Errol,,,USA,,Private Call,None
 ,3115810,NY5D,Derrick,,,USA,,Private Call,None
 ,3115811,KI6BKR,John,,,USA,,Private Call,None
@@ -146956,7 +147086,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3118800,KD9HEO,Christopher,,,USA,,Private Call,None
 ,3118801,WD8ARZ,William,,,USA,,Private Call,None
 ,3118802,KF9ZA,Steven,,,USA,,Private Call,None
-,3118803,KA9YKN,William,,,USA,,Private Call,None
 ,3118804,KC9EZP,Frederick,,,USA,,Private Call,None
 ,3118805,N9OZ,Mark,,,USA,,Private Call,None
 ,3118806,N9PKK,Robert,,,USA,,Private Call,None
@@ -146985,7 +147114,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3118832,N9SMD,Annette,,,USA,,Private Call,None
 ,3118833,N9NPN,Marcellus,,,USA,,Private Call,None
 ,3118834,N1MIS,Michael,,,USA,,Private Call,None
-,3118836,KA9YKN,William,,,USA,,Private Call,None
 ,3118837,AC9KY,Michael,,,USA,,Private Call,None
 ,3118838,N9EXM,Hobart,,,USA,,Private Call,None
 ,3118839,KC9GLR,Kyle,,,USA,,Private Call,None
@@ -147004,7 +147132,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3118852,KD9EJE,Shad,,,USA,,Private Call,None
 ,3118853,N9NYO,Mark,,,USA,,Private Call,None
 ,3118854,KC9MEC,Gene,,,USA,,Private Call,None
-,3118855,KD9HAV,Norman,,,USA,,Private Call,None
 ,3118858,W9TLS,Mark,,,USA,,Private Call,None
 ,3118859,KB9YDX,David,,,USA,,Private Call,None
 ,3118860,KC9PNI,Stephen,,,USA,,Private Call,None
@@ -147025,12 +147152,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3118876,KD9HGY,Kimberly,,,USA,,Private Call,None
 ,3118877,W9DES,Douglas,,,USA,,Private Call,None
 ,3118878,N9KBD,Ricky,,,USA,,Private Call,None
+,3118879,KC9KCM,Jacob,,,USA,,Private Call,None
 ,3118880,N9KBD,Ricky,,,USA,,Private Call,None
 ,3118881,WA9M,Robert,,,USA,,Private Call,None
 ,3118882,N9QVQ,Leonard,,,USA,,Private Call,None
 ,3118883,KD9EOF,Robert,,,USA,,Private Call,None
 ,3118884,NI9Y,Dan,,,USA,,Private Call,None
-,3118885,N3BKO,Michael,,,USA,,Private Call,None
 ,3118886,KD9BIP,Ross,,,USA,,Private Call,None
 ,3118887,KD9EOF,Robert,,,USA,,Private Call,None
 ,3118888,KD9GAR,Jordan,,,USA,,Private Call,None
@@ -147433,7 +147560,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3119300,KE0CWX,Kevin,,,USA,,Private Call,None
 ,3119301,NU0I,Kent,,,USA,,Private Call,None
 ,3119302,NU0Q,William,,,USA,,Private Call,None
-,3119303,KE0KLG,Emily,,,USA,,Private Call,None
 ,3119304,KA0VWV,Dave,,,USA,,Private Call,None
 ,3119305,K0ELJ,Ernie,,,USA,,Private Call,None
 ,3119306,N0CDE,Forrest,,,USA,,Private Call,None
@@ -147969,7 +148095,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3119853,W2JTF,Jeffrey,,,USA,,Private Call,None
 ,3119854,K0MSP,Midwest,,,USA,,Private Call,None
 ,3119855,KC3MEV,Curtis,,,USA,,Private Call,None
-,3119857,KM4YAH,Michael,,,USA,,Private Call,None
 ,3119858,KN4PVV,Bryan,,,USA,,Private Call,None
 ,3119859,KD2MFJ,Richard,,,USA,,Private Call,None
 ,3119860,KW7DTM,David,,,USA,,Private Call,None
@@ -148105,7 +148230,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3119994,WB2AYE,Howard,,,USA,,Private Call,None
 ,3119995,K3FLH,Rance,,,USA,,Private Call,None
 ,3119996,N1JWP,Mark,,,USA,,Private Call,None
-,3119997,W2KH,Anthony,,,USA,,Private Call,None
 ,3119998,K8IWV,Edward,,,USA,,Private Call,None
 ,3119999,K1NUW,Nicholas,,,USA,,Private Call,None
 ,3120000,N2NYS,Dave,,,USA,,Private Call,None
@@ -148422,7 +148546,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3120320,KA0EGE,Jeffrey,,,USA,,Private Call,None
 ,3120321,K0RCJ,Richard,,,USA,,Private Call,None
 ,3120322,N7FFT,Gary,,,USA,,Private Call,None
-,3120323,KB8TR,Merlin,,,USA,,Private Call,None
 ,3120324,N0WJU,James,,,USA,,Private Call,None
 ,3120325,KB0PPQ,Cary,,,USA,,Private Call,None
 ,3120326,KS1USA,Fred,,,USA,,Private Call,None
@@ -149127,7 +149250,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3121051,KM4KMT,David,,,USA,,Private Call,None
 ,3121052,WB4IVB,Henry,,,USA,,Private Call,None
 ,3121053,KB4DCG,Edward,,,USA,,Private Call,None
-,3121054,N4KWT,Ronald,,,USA,,Private Call,None
 ,3121055,KI4HAM,Matthew,,,USA,,Private Call,None
 ,3121056,KK4WH,Tim,,,USA,,Private Call,None
 ,3121057,KG4WXN,Ruffy,,,USA,,Private Call,None
@@ -149312,8 +149434,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3121250,KM4IY,Michael,,,USA,,Private Call,None
 ,3121251,W1ORO,Judy,,,USA,,Private Call,None
 ,3121252,K1BJP,Ben,,,USA,,Private Call,None
-,3121253,W2JDG,James,,,USA,,Private Call,None
-,3121254,W2JDG,James,,,USA,,Private Call,None
 ,3121255,KS4IN,Spencer,,,USA,,Private Call,None
 ,3121257,N8NVC,Patrick,,,USA,,Private Call,None
 ,3121258,N8NVC,Patrick,,,USA,,Private Call,None
@@ -149394,7 +149514,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3121336,KM4IXP,William,,,USA,,Private Call,None
 ,3121337,KM4QCB,Steven,,,USA,,Private Call,None
 ,3121338,NG0O,Marvin,,,USA,,Private Call,None
-,3121339,WA4CMO,Robert,,,USA,,Private Call,None
 ,3121340,KY4SS,Sharon,,,USA,,Private Call,None
 ,3121341,K4CO,Nkarc,,,USA,,Private Call,None
 ,3121342,KY7ET,Kd7arc,,,USA,,Private Call,None
@@ -150238,6 +150357,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3122205,KB5QAT,Theodore,,,USA,,Private Call,None
 ,3122206,KE5FHQ,Stacy,,,USA,,Private Call,None
 ,3122207,N5XES,Tyrone,,,USA,,Private Call,None
+,3122208,KE5ILU,Joe,,,USA,,Private Call,None
 ,3122209,KB5AVY,Roberto,,,USA,,Private Call,None
 ,3122210,N5YHQ,Charles,,,USA,,Private Call,None
 ,3122211,K5KZX,Joel,,,USA,,Private Call,None
@@ -150411,7 +150531,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3122386,KG5YZD,Roderick,,,USA,,Private Call,None
 ,3122387,N0GLM,Preston,,,USA,,Private Call,None
 ,3122388,KM4WRQ,Joseph,,,USA,,Private Call,None
-,3122389,W7CLA,Cc,,,USA,,Private Call,None
 ,3122390,KD8RSA,Keith,,,USA,,Private Call,None
 ,3122391,KN4QLZ,Saad,,,USA,,Private Call,None
 ,3122392,WH6FUS,Sidik,,,USA,,Private Call,None
@@ -151300,7 +151419,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3123307,KA1WAL,Donald,,,USA,,Private Call,None
 ,3123308,N1YIV,Greg,,,USA,,Private Call,None
 ,3123309,N1YDP,Kenneth,,,USA,,Private Call,None
-,3123310,KC1GIW,Daniel,,,USA,,Private Call,None
 ,3123311,AC5MG,Christopher,,,USA,,Private Call,None
 ,3123313,KC1HJL,Jeffrey,,,USA,,Private Call,None
 ,3123314,N1SNP,Mark,,,USA,,Private Call,None
@@ -151796,7 +151914,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3123816,KC3MOV,Ioannis,,,USA,,Private Call,None
 ,3123817,KN4RCO,Mark,,,USA,,Private Call,None
 ,3123818,KD9LOX,Johnathon,,,USA,,Private Call,None
-,3123819,AF4AI,James,,,USA,,Private Call,None
+,3123819,AF4AI,Jim,,,USA,,Private Call,None
 ,3123820,WA7ER,Carlos,,,USA,,Private Call,None
 ,3123821,KM6WWC,Alexander,,,USA,,Private Call,None
 ,3123822,N7KWD,Dale,,,USA,,Private Call,None
@@ -153303,7 +153421,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3125366,N1PMA,Craig,,,USA,,Private Call,None
 ,3125367,W1ATF,Philip,,,USA,,Private Call,None
 ,3125368,KC1DBH,Andrew,,,USA,,Private Call,None
-,3125369,W1KJL,Kevin,,,USA,,Private Call,None
 ,3125370,KB1GTG,Jorge,,,USA,,Private Call,None
 ,3125371,WA1DRQ,Robert,,,USA,,Private Call,None
 ,3125372,KB1YAP,Art,,,USA,,Private Call,None
@@ -154729,7 +154846,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3126840,KE8EAN,Cody,,,USA,,Private Call,None
 ,3126841,K9ZOG,Leo,,,USA,,Private Call,None
 ,3126842,N8RDZ,Brooks,,,USA,,Private Call,None
-,3126843,K8DJB,Daniel,,,USA,,Private Call,None
 ,3126844,WS8EOC,Mi-State-Eoc,,,USA,,Private Call,None
 ,3126845,N8KQP,Timothy,,,USA,,Private Call,None
 ,3126846,K8JBW,Jeremy,,,USA,,Private Call,None
@@ -154817,6 +154933,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3126939,AB8JR,James,,,USA,,Private Call,None
 ,3126940,KB8VUC,James,,,USA,,Private Call,None
 ,3126943,KD8ATK,Michael,,,USA,,Private Call,None
+,3126944,K8TLH,Thomas,,,USA,,Private Call,None
 ,3126945,W8TIN,Dennis,,,USA,,Private Call,None
 ,3126946,WG8A,Daniel,,,USA,,Private Call,None
 ,3126947,KE8FCR,Michael,,,USA,,Private Call,None
@@ -155191,6 +155308,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3127334,KE0LMX,Timothy,,,USA,,Private Call,None
 ,3127335,KE0KXY,Erik,,,USA,,Private Call,None
 ,3127336,KE0DAU,Alan,,,USA,,Private Call,None
+,3127337,KE0N,Eliot,,,USA,,Private Call,None
 ,3127338,K0UEQ,Raymond,,,USA,,Private Call,None
 ,3127339,K0UEQ,Raymond,,,USA,,Private Call,None
 ,3127340,W0NY,Nicholas,,,USA,,Private Call,None
@@ -156132,7 +156250,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3128300,KF5SFE,Leslie,,,USA,,Private Call,None
 ,3128301,K3TFM,William,,,USA,,Private Call,None
 ,3128302,K0OE,Bruce,,,USA,,Private Call,None
-,3128303,WB4OQL,Ron,,,USA,,Private Call,None
 ,3128304,KB0QNW,James,,,USA,,Private Call,None
 ,3128306,N5WMT,John,,,USA,,Private Call,None
 ,3128307,WB2TSL,Kenneth,,,USA,,Private Call,None
@@ -156330,9 +156447,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3128505,W1RTB,David,,,USA,,Private Call,None
 ,3128506,AB0TX,Michael,,,USA,,Private Call,None
 ,3128507,KF5VKY,Ryan,,,USA,,Private Call,None
-,3128508,N1DKB,Gary,,,USA,,Private Call,None
 ,3128509,WA3TD,Jeffrey,,,USA,,Private Call,None
-,3128510,N1DKB,Gary,,,USA,,Private Call,None
 ,3128511,KB8HYB,Carole,,,USA,,Private Call,None
 ,3128512,W4ACS,Pinellas,,,USA,,Private Call,None
 ,3128513,KN4IAB,Elizabeth,,,USA,,Private Call,None
@@ -156408,7 +156523,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3128585,NX4JP,Juan,,,USA,,Private Call,None
 ,3128586,K5XL,John,,,USA,,Private Call,None
 ,3128587,KB3QKN,Patrick,,,USA,,Private Call,None
-,3128588,KG5PMN,James,,,USA,,Private Call,None
 ,3128589,KC3EYM,Nicholas,,,USA,,Private Call,None
 ,3128590,WU2V,Matthew,,,USA,,Private Call,None
 ,3128591,N0TNC,Tom,,,USA,,Private Call,None
@@ -156544,7 +156658,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3128726,KK6RLT,Patrick,,,USA,,Private Call,None
 ,3128727,W0WMG,William,,,USA,,Private Call,None
 ,3128728,KW2JE,John,,,USA,,Private Call,None
-,3128729,K7MAJ,Michael,,,USA,,Private Call,None
 ,3128730,N6TSE,Antonio,,,USA,,Private Call,None
 ,3128731,KM6YVR,Mathew,,,USA,,Private Call,None
 ,3128732,N8BA,Paul,,,USA,,Private Call,None
@@ -156716,7 +156829,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3128905,KJ6LHT,Michael,,,USA,,Private Call,None
 ,3128906,N0JVW,Bernard,,,USA,,Private Call,None
 ,3128907,KI4UJJ,Alfred,,,USA,,Private Call,None
-,3128908,KM4WZK,Pablo,,,USA,,Private Call,None
 ,3128909,KE0TTE,Christopher,,,USA,,Private Call,None
 ,3128910,WB8ZRY,Robert,,,USA,,Private Call,None
 ,3128911,KD9CRN,Jeremiah,,,USA,,Private Call,None
@@ -157255,7 +157367,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3129468,KB0BFD,Brad,,,USA,,Private Call,None
 ,3129469,N3PDT,Paul,,,USA,,Private Call,None
 ,3129470,KC9FFC,Mark,,,USA,,Private Call,None
-,3129471,KE0KMD,Thomas,,,USA,,Private Call,None
 ,3129472,KM4PMV,Gaylon,,,USA,,Private Call,None
 ,3129473,KD0RZJ,Jeremy,,,USA,,Private Call,None
 ,3129474,KE0DJR,Brian,,,USA,,Private Call,None
@@ -157377,7 +157488,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3129593,K9AAL,George,,,USA,,Private Call,None
 ,3129594,N0LAM,Terry,,,USA,,Private Call,None
 ,3129595,KE0HYJ,Thomas,,,USA,,Private Call,None
-,3129596,KE0KLS,Andrew,,,USA,,Private Call,None
 ,3129597,N0JRO,Janet,,,USA,,Private Call,None
 ,3129598,N0ITR,Ted,,,USA,,Private Call,None
 ,3129599,AA0RN,Aaron,,,USA,,Private Call,None
@@ -158276,7 +158386,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3130530,N9IQ,Stephen,,,USA,,Private Call,None
 ,3130532,W3NKA,Douglas,,,USA,,Private Call,None
 ,3130533,KB2NQT,John,,,USA,,Private Call,None
-,3130534,KM4WZP,Luis,,,USA,,Private Call,None
 ,3130535,KD9LSZ,Jeffrey,,,USA,,Private Call,None
 ,3130536,KD8LYX,Larry,,,USA,,Private Call,None
 ,3130537,KC1JUA,Jim,,,USA,,Private Call,None
@@ -158688,7 +158797,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3130953,KN4SCU,Daniel,,,USA,,Private Call,None
 ,3130954,AB3VZ,Vijay,,,USA,,Private Call,None
 ,3130955,K9LUC,Bradley,,,USA,,Private Call,None
-,3130956,WA6URS,Barbara,,,USA,,Private Call,None
 ,3130957,N8LWX,Stephen,,,USA,,Private Call,None
 ,3130958,KC9UMR,Kenneth,,,USA,,Private Call,None
 ,3130959,AG6FA,Tempark,,,USA,,Private Call,None
@@ -158851,7 +158959,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3131121,N0JOB,Jason,,,USA,,Private Call,None
 ,3131122,KE0KIO,Marvin,,,USA,,Private Call,None
 ,3131123,N0HMW,Dwight,,,USA,,Private Call,None
-,3131124,KZ0MLF,Marvin,,,USA,,Private Call,None
 ,3131125,WB0WXS,David,,,USA,,Private Call,None
 ,3131126,N0HA,Henry,,,USA,,Private Call,None
 ,3131127,WH6BUL,Wayne,,,USA,,Private Call,None
@@ -158923,7 +159030,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3131198,NG0M,Myron,,,USA,,Private Call,None
 ,3131199,KR4HBA,Donnie,,,USA,,Private Call,None
 ,3131200,AA0VA,Richard,,,USA,,Private Call,None
-,3131201,K0TIK,Tom,,,USA,,Private Call,None
 ,3131202,KB0DYY,James,,,USA,,Private Call,None
 ,3131203,NO0A,Douglas,,,USA,,Private Call,None
 ,3131204,WG0FT,Jason,,,USA,,Private Call,None
@@ -159070,7 +159176,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3131350,KC3MVN,Joseph,,,USA,,Private Call,None
 ,3131351,N8SFJ,Dan,,,USA,,Private Call,None
 ,3131352,KN4MHV,Adam,,,USA,,Private Call,None
-,3131353,KI7RMU,Jack,,,USA,,Private Call,None
 ,3131354,KN4MHV,Adam,,,USA,,Private Call,None
 ,3131355,NZ2O,Casey,,,USA,,Private Call,None
 ,3131357,NO9D,Edgardo,,,USA,,Private Call,None
@@ -159781,7 +159886,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3132074,N7TND,Ralph,,,USA,,Private Call,None
 ,3132075,KD7QDT,Don,,,USA,,Private Call,None
 ,3132076,K7SJW,Steve,,,USA,,Private Call,None
-,3132077,KC7STV,Scott,,,USA,,Private Call,None
 ,3132078,N7TYE,Henry,,,USA,,Private Call,None
 ,3132080,N7ROJ,John,,,USA,,Private Call,None
 ,3132081,AE7OX,Bill,,,USA,,Private Call,None
@@ -159978,7 +160082,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3132278,K7BMG,Kevin,,,USA,,Private Call,None
 ,3132279,W7XM,Anthony,,,USA,,Private Call,None
 ,3132280,KK7ZB,Charles,,,USA,,Private Call,None
-,3132281,W7WSC,Carroll,,,USA,,Private Call,None
 ,3132282,W7ZMA,Zahra,,,USA,,Private Call,None
 ,3132283,WT8K,Jay,,,USA,,Private Call,None
 ,3132284,KE7KLV,Jeffrey,,,USA,,Private Call,None
@@ -160626,7 +160729,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3132949,KI7ZBA,Daniel,,,USA,,Private Call,None
 ,3132950,WE2CAT,John,,,USA,,Private Call,None
 ,3132951,KI6NUF,George,,,USA,,Private Call,None
-,3132952,KM4YAY,Joseph,,,USA,,Private Call,None
 ,3132953,KD9KCK,William,,,USA,,Private Call,None
 ,3132954,W5HI,Korey,,,USA,,Private Call,None
 ,3132955,N5FCB,Richard,,,USA,,Private Call,None
@@ -161161,7 +161263,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3133509,N5SLD,Shawn,,,USA,,Private Call,None
 ,3133510,AA5XO,Stan,,,USA,,Private Call,None
 ,3133511,N3RSY,Michael,,,USA,,Private Call,None
-,3133512,KG5PNI,Ronald,,,USA,,Private Call,None
 ,3133513,W9DKH,Bob,,,USA,,Private Call,None
 ,3133514,W4KST,Kennesaw,,,USA,,Private Call,None
 ,3133515,KB3RUN,Hemanth,,,USA,,Private Call,None
@@ -161200,7 +161301,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3133548,KG7HVR,Bram,,,USA,,Private Call,None
 ,3133549,KC8TSZ,Christopher,,,USA,,Private Call,None
 ,3133550,KE4DNU,Kenneth,,,USA,,Private Call,None
-,3133551,N9XRM,Robert,,,USA,,Private Call,None
 ,3133552,WX4WSD,William,,,USA,,Private Call,None
 ,3133553,KN4SYD,Michael,,,USA,,Private Call,None
 ,3133554,AA2G,Charles,,,USA,,Private Call,None
@@ -161499,7 +161599,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3133857,KD8JBX,Christopher,,,USA,,Private Call,None
 ,3133858,WA1TCC,Robert,,,USA,,Private Call,None
 ,3133859,N9FJB,Frank,,,USA,,Private Call,None
-,3133860,KF6GNH,Phillip,,,USA,,Private Call,None
 ,3133861,KK6IDV,Riley,,,USA,,Private Call,None
 ,3133862,KE0RJT,Nicholaus,,,USA,,Private Call,None
 ,3133863,KN6AEV,Carl,,,USA,,Private Call,None
@@ -161732,6 +161831,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3134096,K2MCI,William,,,USA,,Private Call,None
 ,3134097,W2TH,Thomas,,,USA,,Private Call,None
 ,3134098,N2FVV,George,,,USA,,Private Call,None
+,3134099,AA2JC,Jay,,,USA,,Private Call,None
 ,3134100,N3WRX,Joshua,,,USA,,Private Call,None
 ,3134101,W2YQ,Rich,,,USA,,Private Call,None
 ,3134102,AC2KU,Robert,,,USA,,Private Call,None
@@ -161923,6 +162023,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3134292,N2KPV,Ben,,,USA,,Private Call,None
 ,3134293,N2WH,William,,,USA,,Private Call,None
 ,3134294,K2XE,James,,,USA,,Private Call,None
+,3134295,AA2JC,Jay,,,USA,,Private Call,None
 ,3134296,KC2ORX,Robert,,,USA,,Private Call,None
 ,3134297,WA2KKG,Kenneth,,,USA,,Private Call,None
 ,3134298,KD2EIB,Chuck,,,USA,,Private Call,None
@@ -162051,9 +162152,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3134424,N2OAD,Joseph,,,USA,,Private Call,None
 ,3134425,AC2DW,Christopher,,,USA,,Private Call,None
 ,3134426,KB2RPQ,Stanley,,,USA,,Private Call,None
+,3134427,KB2ZVR,Tom,,,USA,,Private Call,None
 ,3134428,KC2IXI,Allan,,,USA,,Private Call,None
-,3134429,N2PHI,Richard,,,USA,,Private Call,None
-,3134430,N2PHI,Richard,,,USA,,Private Call,None
 ,3134431,KC2SDP,Frank,,,USA,,Private Call,None
 ,3134432,AC2DW,Christopher,,,USA,,Private Call,None
 ,3134433,KD2HCR,Alphonse,,,USA,,Private Call,None
@@ -162842,7 +162942,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3135264,KB4CXQ,Melanie,,,USA,,Private Call,None
 ,3135265,KI7LDQ,Jay,,,USA,,Private Call,None
 ,3135266,KD0PAK,Kevin,,,USA,,Private Call,None
-,3135267,KD9HBC,Jasen,,,USA,,Private Call,None
 ,3135268,KK7BVH,Raymond,,,USA,,Private Call,None
 ,3135269,KD9MEK,Bobby,,,USA,,Private Call,None
 ,3135270,W5KLF,Keith,,,USA,,Private Call,None
@@ -163078,7 +163177,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3135505,W3NJT,Roland,,,USA,,Private Call,None
 ,3135506,N1REG,Charles,,,USA,,Private Call,None
 ,3135507,K1UOP,Robert,,,USA,,Private Call,None
-,3135508,W4BKP,Brandon,,,USA,,Private Call,None
 ,3135509,KD9IGT,Justin,,,USA,,Private Call,None
 ,3135510,KE0VCX,Ray,,,USA,,Private Call,None
 ,3135511,N2TPJ,Raymond,,,USA,,Private Call,None
@@ -163330,7 +163428,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3135763,KI6KZD,Michael,,,USA,,Private Call,None
 ,3135764,KB9VQB,Nicholas,,,USA,,Private Call,None
 ,3135765,KF5PWN,Gaye,,,USA,,Private Call,None
-,3135766,KM6FNT,Sheldon,,,USA,,Private Call,None
 ,3135767,KN4BOE,Thomas,,,USA,,Private Call,None
 ,3135768,KN4TMG,Andrew,,,USA,,Private Call,None
 ,3135769,KD9AUY,Stanley,,,USA,,Private Call,None
@@ -163386,7 +163483,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3135819,KC3ALX,Rob,,,USA,,Private Call,None
 ,3135820,KC9LVU,Nathan,,,USA,,Private Call,None
 ,3135821,K9WOQ,Billy,,,USA,,Private Call,None
-,3135822,KF6GNH,Phillip,,,USA,,Private Call,None
 ,3135823,KM6ZPO,Mark,,,USA,,Private Call,None
 ,3135824,KC8JSU,Joshua,,,USA,,Private Call,None
 ,3135825,N3KF,Kenneth,,,USA,,Private Call,None
@@ -164190,6 +164286,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3136657,KM7DBI,Daniel,,,USA,,Private Call,None
 ,3136658,N2JBJ,David,,,USA,,Private Call,None
 ,3136659,KD2JUU,James,,,USA,,Private Call,None
+,3136660,KL7TJZ,Randy,,,USA,,Private Call,None
 ,3136661,WA2CNV,Larry,,,USA,,Private Call,None
 ,3136662,WB2RXF,David,,,USA,,Private Call,None
 ,3136663,K2EFG,Yigal,,,USA,,Private Call,None
@@ -165178,7 +165275,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3137676,N4DTR,Todd,,,USA,,Private Call,None
 ,3137677,K4EIT,Joseph,,,USA,,Private Call,None
 ,3137678,KE4TZN,John,,,USA,,Private Call,None
-,3137679,K4JAJ,Jesica,,,USA,,Private Call,None
 ,3137680,KC4SIT,Ernest,,,USA,,Private Call,None
 ,3137681,KG4QAB,David,,,USA,,Private Call,None
 ,3137682,KM4NSI,Eugene,,,USA,,Private Call,None
@@ -166669,8 +166765,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3139204,N8WAC,Tony,,,USA,,Private Call,None
 ,3139205,K8IGU,Brian,,,USA,,Private Call,None
 ,3139206,K8IGU,Brian,,,USA,,Private Call,None
-,3139207,W8JDA,Justin,,,USA,,Private Call,None
-,3139208,W8JDA,Justin,,,USA,,Private Call,None
 ,3139209,KD8CHP,Jesse,,,USA,,Private Call,None
 ,3139210,NC8A,Michael,,,USA,,Private Call,None
 ,3139211,NC8A,Michael,,,USA,,Private Call,None
@@ -167423,7 +167517,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3139987,N8LRD,Joseph,,,USA,,Private Call,None
 ,3139988,N8OOG,James,,,USA,,Private Call,None
 ,3139989,KC8BUJ,Michael,,,USA,,Private Call,None
-,3139990,KE8FSA,Perry,,,USA,,Private Call,None
 ,3139991,KC8DGB,David,,,USA,,Private Call,None
 ,3139992,N8SSN,Patricia,,,USA,,Private Call,None
 ,3139993,KD8SPV,Robert,,,USA,,Private Call,None
@@ -167534,7 +167627,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3140103,KD5SDZ,Jordan,,,USA,,Private Call,None
 ,3140104,KB5LSB,John,,,USA,,Private Call,None
 ,3140105,W9UQ,Dan,,,USA,,Private Call,None
-,3140106,W5VL,David,,,USA,,Private Call,None
 ,3140107,KD5NJR,Scott,,,USA,,Private Call,None
 ,3140108,AE5QL,Michael,,,USA,,Private Call,None
 ,3140109,KD5DDD,Dennis,,,USA,,Private Call,None
@@ -167558,7 +167650,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3140128,WB5JJA,Ray,,,USA,,Private Call,None
 ,3140129,K5ZQR,Stephen,,,USA,,Private Call,None
 ,3140130,KA9MLL,Steven,,,USA,,Private Call,None
-,3140131,W5VL,David,,,USA,,Private Call,None
 ,3140132,W5GDL,Steve,,,USA,,Private Call,None
 ,3140133,K5LAD,Jim,,,USA,,Private Call,None
 ,3140134,K5OHM,Tom,,,USA,,Private Call,None
@@ -167619,7 +167710,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3140190,W3RXO,Daniel,,,USA,,Private Call,None
 ,3140191,N5PJ,Perry,,,USA,,Private Call,None
 ,3140192,KG5C,Jerry,,,USA,,Private Call,None
-,3140193,KE5KQL,Frankie,,,USA,,Private Call,None
 ,3140194,KF5VXR,Dustin,,,USA,,Private Call,None
 ,3140195,N5TEX,Gorkos,,,USA,,Private Call,None
 ,3140196,W5AQT,Glen,,,USA,,Private Call,None
@@ -167844,7 +167934,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3140430,KF5YAP,Michael,,,USA,,Private Call,None
 ,3140431,KD5WPU,Ronald,,,USA,,Private Call,None
 ,3140432,KD5WPU,Ronald,,,USA,,Private Call,None
-,3140433,K5KBA,James,,,USA,,Private Call,None
 ,3140435,N1LLK,Wayne,,,USA,,Private Call,None
 ,3140436,W5TJO,Theodore,,,USA,,Private Call,None
 ,3140437,W5BM,Daniel,,,USA,,Private Call,None
@@ -167991,7 +168080,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3140584,KF5APA,Diane,,,USA,,Private Call,None
 ,3140585,KF5APA,Diane,,,USA,,Private Call,None
 ,3140586,KE5LEY,John,,,USA,,Private Call,None
-,3140587,N5DJH,David,,,USA,,Private Call,None
 ,3140588,KG5COX,Kari,,,USA,,Private Call,None
 ,3140589,KM5H,Thomas,,,USA,,Private Call,None
 ,3140590,K0WHN,William,,,USA,,Private Call,None
@@ -168169,7 +168257,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3140767,NQ5M,Kyle,,,USA,,Private Call,None
 ,3140768,AA5CJ,Collin,,,USA,,Private Call,None
 ,3140769,KG5VLN,Robert,,,USA,,Private Call,None
-,3140770,KG5PPK,Michael,,,USA,,Private Call,None
 ,3140771,KG5UIS,Andy,,,USA,,Private Call,None
 ,3140772,KG5UIS,Andy,,,USA,,Private Call,None
 ,3140773,KB9NXE,Daniel,,,USA,,Private Call,None
@@ -168324,7 +168411,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3140923,NA6LA,Robert,,,USA,,Private Call,None
 ,3140924,K7ZVZ,Randell,,,USA,,Private Call,None
 ,3140925,KN6AUS,Joel,,,USA,,Private Call,None
-,3140926,N4OS,Joshua,,,USA,,Private Call,None
 ,3140927,W7JSV,Kevin,,,USA,,Private Call,None
 ,3140928,KN4BEM,Daniel,,,USA,,Private Call,None
 ,3140929,N4NYY,Vincenzo,,,USA,,Private Call,None
@@ -169012,7 +169098,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3141629,AE5KS,Paul,,,USA,,Private Call,None
 ,3141631,KD0TUS,James,,,USA,,Private Call,None
 ,3141632,W2BA,Melanio,,,USA,,Private Call,None
-,3141633,KH6GKR,Ronald,,,USA,,Private Call,None
 ,3141634,N0AMW,Aaron,,,USA,,Private Call,None
 ,3141635,KD2RBV,Carsten,,,USA,,Private Call,None
 ,3141636,AA2CO,Howard,,,USA,,Private Call,None
@@ -169416,7 +169501,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3142045,N3BCY,Robert,,,USA,,Private Call,None
 ,3142046,K3JEG,Jon,,,USA,,Private Call,None
 ,3142048,WA3EZT,John,,,USA,,Private Call,None
-,3142049,WA3ADI,Vincent,,,USA,,Private Call,None
+,3142049,WA3ADI,Vince,,,USA,,Private Call,None
 ,3142051,K3YV,Ellwood,,,USA,,Private Call,None
 ,3142052,WB0YLE,Bryan,,,USA,,Private Call,None
 ,3142053,N3HTZ,Cully,,,USA,,Private Call,None
@@ -171394,7 +171479,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3144080,K1JST,Jeremy,,,USA,,Private Call,None
 ,3144081,KB1TIA,Mike,,,USA,,Private Call,None
 ,3144082,W1GRI,Henry,,,USA,,Private Call,None
-,3144083,W1QL,Jeffrey,,,USA,,Private Call,None
+,3144083,W1QL,Jeff,,,USA,,Private Call,None
 ,3144084,KY1AK,Oearc,,,USA,,Private Call,None
 ,3144085,AA1PQ,Steven,,,USA,,Private Call,None
 ,3144086,W1BFB,John,,,USA,,Private Call,None
@@ -172136,7 +172221,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3144842,KF7LTS,Tim,,,USA,,Private Call,None
 ,3144843,WJ4T,Randy,,,USA,,Private Call,None
 ,3144844,KJ7GLB,Jason,,,USA,,Private Call,None
-,3144845,K4KKP,James,,,USA,,Private Call,None
 ,3144846,KY2MMM,Kymm,,,USA,,Private Call,None
 ,3144847,AD8CV,Michael,,,USA,,Private Call,None
 ,3144848,K2WH,William,,,USA,,Private Call,None
@@ -172947,7 +173031,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3145690,KI4KRV,Arnold,,,USA,,Private Call,None
 ,3145691,W4GAS,Stephen,,,USA,,Private Call,None
 ,3145692,W3FHT,David,,,USA,,Private Call,None
-,3145693,KM4ZXD,Parker,,,USA,,Private Call,None
 ,3145694,W4JLS,Jared,,,USA,,Private Call,None
 ,3145695,N4AHO,Douglas,,,USA,,Private Call,None
 ,3145696,KG4YTP,Joshua,,,USA,,Private Call,None
@@ -173537,7 +173620,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3146306,WB6FOX,Dylan,,,USA,,Private Call,None
 ,3146307,N7SNR,Steve,,,USA,,Private Call,None
 ,3146308,KG4FVM,Kent,,,USA,,Private Call,None
-,3146309,N5EKR,Marvin,,,USA,,Private Call,None
 ,3146311,KG5INE,Steve,,,USA,,Private Call,None
 ,3146312,N9LYI,John,,,USA,,Private Call,None
 ,3146313,KC8MSU,Robert,,,USA,,Private Call,None
@@ -173928,7 +174010,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3146705,KF6IWW,Kevin,,,USA,,Private Call,None
 ,3146706,KE3UF,Michael,,,USA,,Private Call,None
 ,3146707,KN6DFW,Lydia,,,USA,,Private Call,None
-,3146708,W5ARV,Andrew,,,USA,,Private Call,None
+,3146708,W5ARV,Andy,,,USA,,Private Call,None
 ,3146709,N1AMP,William,,,USA,,Private Call,None
 ,3146710,WB3END,Michael,,,USA,,Private Call,None
 ,3146711,KN4KTM,Joseph,,,USA,,Private Call,None
@@ -174353,7 +174435,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3147135,K4HSM,Greg,,,USA,,Private Call,None
 ,3147136,WX4TX,Tyler,,,USA,,Private Call,None
 ,3147137,KV4OT,Douglas,,,USA,,Private Call,None
-,3147138,KE4HX,Jim,,,USA,,Private Call,None
 ,3147139,KK4LZF,Perry,,,USA,,Private Call,None
 ,3147140,K6QS,Richard,,,USA,,Private Call,None
 ,3147141,W1GLE,Gerald,,,USA,,Private Call,None
@@ -174526,7 +174607,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3147310,KE4AXW,Mark,,,USA,,Private Call,None
 ,3147311,KG4UZK,Jeannette,,,USA,,Private Call,None
 ,3147312,KI4GYW,Chris,,,USA,,Private Call,None
-,3147313,AF4TF,Bobby,,,USA,,Private Call,None
 ,3147314,KE4ITE,Derek,,,USA,,Private Call,None
 ,3147315,KI4NHJ,Joshua,,,USA,,Private Call,None
 ,3147316,KI4NHJ,Joshua,,,USA,,Private Call,None
@@ -174689,7 +174769,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3147477,KM5GT,Greg,,,USA,,Private Call,None
 ,3147478,K4HOS,Norman,,,USA,,Private Call,None
 ,3147480,KB4NK,Bobby,,,USA,,Private Call,None
-,3147481,KM4WYE,Shawn,,,USA,,Private Call,None
 ,3147482,KK4PKT,Timmie,,,USA,,Private Call,None
 ,3147483,KB4NK,Bobby,,,USA,,Private Call,None
 ,3147484,N4CPU,Steve,,,USA,,Private Call,None
@@ -174908,7 +174987,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3147714,K4WYC,Dakota,,,USA,,Private Call,None
 ,3147715,K4QX,Maurice,,,USA,,Private Call,None
 ,3147716,KJ4VKF,Steven,,,USA,,Private Call,None
-,3147717,N4WBC,William,,,USA,,Private Call,None
 ,3147718,KG4FUM,Timothy,,,USA,,Private Call,None
 ,3147720,W4JBJ,John,,,USA,,Private Call,None
 ,3147721,K4DXU,William,,,USA,,Private Call,None
@@ -175159,14 +175237,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3147974,KN4KRS,Britton,,,USA,,Private Call,None
 ,3147975,AJ4VF,Michael,,,USA,,Private Call,None
 ,3147976,KK4TDH,David,,,USA,,Private Call,None
-,3147977,KY4TN,Areca,,,USA,,Private Call,None
-,3147978,KY4TN,Areca,,,USA,,Private Call,None
-,3147980,KY4TN,Areca,,,USA,,Private Call,None
+,3147977,KY4TN,Amateur Radio Emergency Communication Association,,,USA,,Private Call,None
+,3147978,KY4TN,Amateur Radio Emergency Communication Association,,,USA,,Private Call,None
+,3147980,KY4TN,Amateur Radio Emergency Communication Association,,,USA,,Private Call,None
 ,3147981,KN4BHU,Steven,,,USA,,Private Call,None
 ,3147982,KN4BHU,Steven,,,USA,,Private Call,None
-,3147983,KY4TN,Areca,,,USA,,Private Call,None
+,3147983,KY4TN,Amateur Radio Emergency Communication Association,,,USA,,Private Call,None
 ,3147984,W4BWW,Bobby,,,USA,,Private Call,None
-,3147985,KY4TN,Areca,,,USA,,Private Call,None
+,3147985,KY4TN,Amateur Radio Emergency Communication Association,,,USA,,Private Call,None
 ,3147986,KR4EL,Ronald,,,USA,,Private Call,None
 ,3147987,KC9GWE,Joseph,,,USA,,Private Call,None
 ,3147988,KI4UHK,Chris,,,USA,,Private Call,None
@@ -175675,7 +175753,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3148507,K5TGF,Gregory,,,USA,,Private Call,None
 ,3148508,W5FOS,Asa,,,USA,,Private Call,None
 ,3148509,K5PAC,Christopher,,,USA,,Private Call,None
-,3148510,KE5KPC,Chris,,,USA,,Private Call,None
 ,3148511,N0NOP,Nopadol,,,USA,,Private Call,None
 ,3148512,KE5DI,Richard,,,USA,,Private Call,None
 ,3148513,KC5BAL,Willie,,,USA,,Private Call,None
@@ -176007,7 +176084,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3148855,KF5WGF,Michael,,,USA,,Private Call,None
 ,3148857,KF5WGJ,Paul,,,USA,,Private Call,None
 ,3148858,W5WBC,William,,,USA,,Private Call,None
-,3148859,KG5PNC,Mark,,,USA,,Private Call,None
 ,3148860,KJ5NL,Mitchell,,,USA,,Private Call,None
 ,3148861,WH6L,Ed,,,USA,,Private Call,None
 ,3148862,N1NEC,Anthony,,,USA,,Private Call,None
@@ -176017,7 +176093,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3148866,K5IMO,Larry,,,USA,,Private Call,None
 ,3148867,N5TP,Travis,,,USA,,Private Call,None
 ,3148868,KE5KTV,Christopher,,,USA,,Private Call,None
+,3148869,KF5LOG,Daniel,,,USA,,Private Call,None
 ,3148870,N5TP,Travis,,,USA,,Private Call,None
+,3148871,KF5LOG,Daniel,,,USA,,Private Call,None
 ,3148872,W8OV,David,,,USA,,Private Call,None
 ,3148873,KA1MZY,Joe,,,USA,,Private Call,None
 ,3148874,KD2KW,Kenneth,,,USA,,Private Call,None
@@ -176047,7 +176125,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3148898,KC5MOL,Javier,,,USA,,Private Call,None
 ,3148899,KF5SEL,Bianca,,,USA,,Private Call,None
 ,3148901,KC5MOL,Javier,,,USA,,Private Call,None
-,3148902,KF5RVR,Steven,,,USA,,Private Call,None
 ,3148903,K5MSZ,Matthew,,,USA,,Private Call,None
 ,3148904,W1ZOT,Philip,,,USA,,Private Call,None
 ,3148905,AB5JK,Jimi,,,USA,,Private Call,None
@@ -176896,7 +176973,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3149776,KI5EYB,Williams,,,USA,,Private Call,None
 ,3149777,KC0SJU,Emiela,,,USA,,Private Call,None
 ,3149778,NA6IA,Jeffreyd,,,USA,,Private Call,None
-,3149779,N4CZ,Douglasb,,,USA,,Private Call,None
+,3149779,N4CZ,Douglas,,,USA,,Private Call,None
 ,3149780,N2WXP,Darshanj,,,USA,,Private Call,None
 ,3149781,KI4WHF,Alfred,,,USA,,Private Call,None
 ,3149782,WA4VGZ,James,,,USA,,Private Call,None
@@ -177052,7 +177129,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3149934,AG4HC,Hubertc,,,USA,,Private Call,None
 ,3149935,KI5GCC,Steven,,,USA,,Private Call,None
 ,3149937,N5DDW,Danield,,,USA,,Private Call,None
-,3149938,KI7ICL,Stevem,,,USA,,Private Call,None
+,3149938,KI7ICL,Steve,,,USA,,Private Call,None
 ,3149939,KE8KDF,Michaelp,,,USA,,Private Call,None
 ,3149940,KE0OEH,Curtisr,,,USA,,Private Call,None
 ,3149941,KG5ZDB,Andrewj,,,USA,,Private Call,None
@@ -178644,7 +178721,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3151593,K8LIN,Bradley,,,USA,,Private Call,None
 ,3151594,AD4JF,Joseph,,,USA,,Private Call,None
 ,3151595,K8LIN,Bradley,,,USA,,Private Call,None
-,3151596,N4EG,William,,,USA,,Private Call,None
 ,3151597,WR4VT,John,,,USA,,Private Call,None
 ,3151598,N4LRA,Wilbert,,,USA,,Private Call,None
 ,3151599,N4ASX,Richard,,,USA,,Private Call,None
@@ -179924,7 +180000,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3152901,W5TKO,Torence,,,USA,,Private Call,None
 ,3152902,N5BIL,William,,,USA,,Private Call,None
 ,3152903,K5FQ,Albert,,,USA,,Private Call,None
-,3152904,N0HQG,Harry,,,USA,,Private Call,None
 ,3152905,N1EP,Philip,,,USA,,Private Call,None
 ,3152906,KI5BZO,Eric,,,USA,,Private Call,None
 ,3152907,KC4YNB,James,,,USA,,Private Call,None
@@ -180260,7 +180335,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3153245,AE7GQ,Michael,,,USA,,Private Call,None
 ,3153247,WB6URD,David,,,USA,,Private Call,None
 ,3153248,N7KUW,Carl,,,USA,,Private Call,None
-,3153249,N7RYY,Jeremy,,,USA,,Private Call,None
 ,3153250,KF6NFW,Chris,,,USA,,Private Call,None
 ,3153251,KD7KFN,Elizabeth,,,USA,,Private Call,None
 ,3153252,NT4H,Paul,,,USA,,Private Call,None
@@ -180285,7 +180359,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3153273,N7AHE,Gregory,,,USA,,Private Call,None
 ,3153274,KG7THL,Brian,,,USA,,Private Call,None
 ,3153275,W7FAQ,Mary,,,USA,,Private Call,None
-,3153276,W7QA,Robert,,,USA,,Private Call,None
 ,3153277,KE7GBT,Brian,,,USA,,Private Call,None
 ,3153278,KN0WN,Brian,,,USA,,Private Call,None
 ,3153279,W1LSD,Jason,,,USA,,Private Call,None
@@ -181232,7 +181305,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3154254,KE8DCL,James,,,USA,,Private Call,None
 ,3154255,K2WWC,Raymond,,,USA,,Private Call,None
 ,3154256,K8MAN,Maurice,,,USA,,Private Call,None
-,3154257,KE8FHQ,Oliver,,,USA,,Private Call,None
 ,3154258,K2KJ,Lloyd,,,USA,,Private Call,None
 ,3154259,K8ELS,William,,,USA,,Private Call,None
 ,3154260,KD8CRW,Paul,,,USA,,Private Call,None
@@ -181416,7 +181488,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3154445,N6RXT,Doug,,,USA,,Private Call,None
 ,3154446,K8RAR,Robert,,,USA,,Private Call,None
 ,3154447,N1LYC,Davidc,,,USA,,Private Call,None
-,3154448,W1JPI,Johna,,,USA,,Private Call,None
+,3154448,W1JPI,John,,,USA,,Private Call,None
 ,3154449,K4YBN,Phillipm,,,USA,,Private Call,None
 ,3154450,KD8MEE,Bretta,,,USA,,Private Call,None
 ,3154451,K4ZRE,Ralph,,,USA,,Private Call,None
@@ -181758,7 +181830,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3154795,KN4UTY,David,,,USA,,Private Call,None
 ,3154796,WX1D,Bj,,,USA,,Private Call,None
 ,3154797,KC4LXM,Richardl,,,USA,,Private Call,None
-,3154798,N1XXI,Wayned,,,USA,,Private Call,None
 ,3154800,K9AAR,Aaron,,,USA,,Private Call,None
 ,3154801,N3QPG,Reyn,,,USA,,Private Call,None
 ,3154802,KD9NYP,Ernestj,,,USA,,Private Call,None
@@ -182010,7 +182081,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3155053,WX9KVH,Kyle,,,USA,,Private Call,None
 ,3155054,KD9AEZ,Matthew,,,USA,,Private Call,None
 ,3155055,KC9UHI,Matthew,,,USA,,Private Call,None
-,3155056,K9AYL,Bert,,,USA,,Private Call,None
+,3155056,K9AYL,Albert,,,USA,,Private Call,None
 ,3155057,KP3JOS,Jose,,,USA,,Private Call,None
 ,3155058,N9NRA,Andrew,,,USA,,Private Call,None
 ,3155059,N9OIG,Kevin,,,USA,,Private Call,None
@@ -182163,7 +182234,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3155211,N9LKF,Robert,,,USA,,Private Call,None
 ,3155212,N0EEM,Edward,,,USA,,Private Call,None
 ,3155213,N4UCM,Douglas,,,USA,,Private Call,None
-,3155214,K9AYL,Bert,,,USA,,Private Call,None
+,3155214,K9AYL,Albert,,,USA,,Private Call,None
 ,3155215,KD9ANT,Ryan,,,USA,,Private Call,None
 ,3155216,W9JOL,Chris,,,USA,,Private Call,None
 ,3155217,KD9HDR,Blake,,,USA,,Private Call,None
@@ -182242,7 +182313,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3155294,W9BLS,Barry,,,USA,,Private Call,None
 ,3155295,WI9RAC,Racine,,,USA,,Private Call,None
 ,3155296,K9KPO,David,,,USA,,Private Call,None
-,3155297,KD9HAE,Joseph,,,USA,,Private Call,None
 ,3155298,N9JNQ,David,,,USA,,Private Call,None
 ,3155299,W9AUA,Richard,,,USA,,Private Call,None
 ,3155300,KC9O,Paul,,,USA,,Private Call,None
@@ -182362,7 +182432,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3155418,KD9IZL,Janine,,,USA,,Private Call,None
 ,3155419,KD9IZM,Paul,,,USA,,Private Call,None
 ,3155420,N8RXZ,Thomas,,,USA,,Private Call,None
-,3155421,KD9HAE,Joseph,,,USA,,Private Call,None
 ,3155422,KC9VXV,Bowen,,,USA,,Private Call,None
 ,3155423,W1MHC,Michael,,,USA,,Private Call,None
 ,3155424,KC9RF,Robert,,,USA,,Private Call,None
@@ -185082,7 +185151,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3158200,KF5ZWY,Charles,,,USA,,Private Call,None
 ,3158201,KG5UZZ,Lynn,,,USA,,Private Call,None
 ,3158202,K1TM,Todd,,,USA,,Private Call,None
-,3158203,KG5PLS,Jayme,,,USA,,Private Call,None
 ,3158204,K1TM,Todd,,,USA,,Private Call,None
 ,3158205,K5JLI,Donal,,,USA,,Private Call,None
 ,3158206,KD5HRE,James,,,USA,,Private Call,None
@@ -185143,7 +185211,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3158263,KD5UGH,Matthew,,,USA,,Private Call,None
 ,3158264,N5NRU,Charles,,,USA,,Private Call,None
 ,3158265,KG5JAH,Chris,,,USA,,Private Call,None
-,3158266,K5PET,Donna,,,USA,,Private Call,None
 ,3158267,KI6MLK,Corey,,,USA,,Private Call,None
 ,3158268,N5FWB,Gerald,,,USA,,Private Call,None
 ,3158269,KD2ETJ,Craigm,,,USA,,Private Call,None
@@ -185754,7 +185821,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3158883,KD7PUB,Robin,,,USA,,Private Call,None
 ,3158884,W4XML,John,,,USA,,Private Call,None
 ,3158885,K7ET,Richard,,,USA,,Private Call,None
-,3158886,N7WRA,Terriem,,,USA,,Private Call,None
+,3158886,N7WRA,Terrie,,,USA,,Private Call,None
 ,3158887,W7DJS,Daniel,,,USA,,Private Call,None
 ,3158888,K2URT,Kurtw,,,USA,,Private Call,None
 ,3158889,KN4OOM,Bradleyt,,,USA,,Private Call,None
@@ -186138,7 +186205,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3159275,KN4ZQM,Maryanne,,,USA,,Private Call,None
 ,3159277,WD5CMP,Wayne,,,USA,,Private Call,None
 ,3159278,W5TPK,Tyler,,,USA,,Private Call,None
-,3159279,N7JFH,Johnf,,,USA,,Private Call,None
+,3159279,N7JFH,John,,,USA,,Private Call,None
 ,3159280,KI5JDR,Jessied,,,USA,,Private Call,None
 ,3159281,KD6ELU,Harlanh,,,USA,,Private Call,None
 ,3159282,N0YEP,Cameron,,,USA,,Private Call,None
@@ -186193,6 +186260,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3159332,KG5HDL,Mike,,,USA,,Private Call,None
 ,3159333,KM4QHK,Jonathan,,,USA,,Private Call,None
 ,3159334,K7BXQ,Brandonj,,,USA,,Private Call,None
+,3159335,KK7BQ,Thomas,,,USA,,Private Call,None
 ,3159336,KJ7EFL,Andrew,,,USA,,Private Call,None
 ,3159337,KL4VB,Josefe,,,USA,,Private Call,None
 ,3159338,KI5BEZ,Williamt,,,USA,,Private Call,None
@@ -186211,7 +186279,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3159351,KF7RSI,Frank,,,USA,,Private Call,None
 ,3159352,N6ACL,Annette,,,USA,,Private Call,None
 ,3159353,WD0GPS,Michael,,,USA,,Private Call,None
-,3159354,W1MME,Marke,,,USA,,Private Call,None
+,3159354,W1MME,Mark,,,USA,,Private Call,None
 ,3159355,N5HYX,Jonathanm,,,USA,,Private Call,None
 ,3159356,KJ7ELB,Rosemary,,,USA,,Private Call,None
 ,3159357,KF5ETZ,Edwardt,,,USA,,Private Call,None
@@ -186266,7 +186334,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3159406,N7VR,James,,,USA,,Private Call,None
 ,3159407,K4PTY,Saavedra,,,USA,,Private Call,None
 ,3159408,W6SYS,Peterw,,,USA,,Private Call,None
-,3159409,K9PTF,Pault,,,USA,,Private Call,None
+,3159409,K9PTF,Paul,,,USA,,Private Call,None
 ,3159410,KN7TAZ,Lynn,,,USA,,Private Call,None
 ,3159411,KN6BDR,Adam,,,USA,,Private Call,None
 ,3159412,AE5OX,Willie,,,USA,,Private Call,None
@@ -186315,8 +186383,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3159456,N5DN,Jeff,,,USA,,Private Call,None
 ,3159457,KE0SJQ,Dannyg,,,USA,,Private Call,None
 ,3159458,KE0VES,Tern,,,USA,,Private Call,None
-,3159459,KG4LTT,Phillipb,,,USA,,Private Call,None
-,3159460,KG4LTT,Phillipb,,,USA,,Private Call,None
+,3159459,KG4LTT,Phillip,,,USA,,Private Call,None
+,3159460,KG4LTT,Phillip,,,USA,,Private Call,None
 ,3159461,W9SK,Stephen,,,USA,,Private Call,None
 ,3159462,K1WAZ,Ryanl,,,USA,,Private Call,None
 ,3159463,KD7MG,Mike,,,USA,,Private Call,None
@@ -186564,7 +186632,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3159708,KD2TCK,Michael,,,USA,,Private Call,None
 ,3159709,W9BBW,Curtis,,,USA,,Private Call,None
 ,3159710,W3AKP,Allen,,,USA,,Private Call,None
-,3159711,WA3JFM,Scott,,,USA,,Private Call,None
 ,3159712,KE0YWW,Ricky,,,USA,,Private Call,None
 ,3159713,KE6DNI,Eugene,,,USA,,Private Call,None
 ,3159714,N5PRA,Phillip,,,USA,,Private Call,None
@@ -186788,7 +186855,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3159938,KG7UHS,Shawn,,,USA,,Private Call,None
 ,3159939,N5SGK,James,,,USA,,Private Call,None
 ,3159940,W4MGR,Julian,,,USA,,Private Call,None
-,3159941,W4QXR,Julian,,,USA,,Private Call,None
 ,3159942,KD2TCI,Thomas,,,USA,,Private Call,None
 ,3159943,W8DGN,Bellbrook,,,USA,,Private Call,None
 ,3159944,KD2ISR,Merrick,,,USA,,Private Call,None
@@ -187287,7 +187353,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3160452,KK4YJV,Richard,,,USA,,Private Call,None
 ,3160453,KO4BAW,William,,,USA,,Private Call,None
 ,3160454,KI5CPT,Daniel,,,USA,,Private Call,None
-,3160455,AK6TB,Travis,,,USA,,Private Call,None
+,3160455,AF6I,Travis,,,USA,,Private Call,None
 ,3160456,K1AMK,David,,,USA,,Private Call,None
 ,3160457,KI5HVI,Daniel,,,USA,,Private Call,None
 ,3160458,K9MCA,Alexandra,,,USA,,Private Call,None
@@ -188338,7 +188404,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3161528,KJ7REB,Ron,,,USA,,Private Call,None
 ,3161529,KD9OVD,Cody,,,USA,,Private Call,None
 ,3161530,N4POD,Jeffrey,,,USA,,Private Call,None
-,3161531,KI7HER,Kenneth,,,USA,,Private Call,None
 ,3161532,KI7DCX,Timothy,,,USA,,Private Call,None
 ,3161533,KD9IRA,Matt,,,USA,,Private Call,None
 ,3161534,KJ7MKX,Shawn,,,USA,,Private Call,None
@@ -192109,7 +192174,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3165364,K6EXY,Edwin,,,USA,,Private Call,None
 ,3165365,KC7MIC,Michael,,,USA,,Private Call,None
 ,3165366,N8IT,David,,,USA,,Private Call,None
-,3165367,WB4RLM,Robert,,,USA,,Private Call,None
 ,3165368,W2BQE,Cesar,,,USA,,Private Call,None
 ,3165369,N9INO,Roy,,,USA,,Private Call,None
 ,3165370,KO4DEX,Robert,,,USA,,Private Call,None
@@ -193424,7 +193488,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3166705,AB3YY,William,,,USA,,Private Call,None
 ,3166706,KF0AVF,Anthony,,,USA,,Private Call,None
 ,3166707,W1LEE,John,,,USA,,Private Call,None
-,3166708,WA6FUL,David,,,USA,,Private Call,None
 ,3166709,KK4MBS,Christian,,,USA,,Private Call,None
 ,3166710,NB6K,Dx,,,USA,,Private Call,None
 ,3166711,KJ4KFJ,David,,,USA,,Private Call,None
@@ -193547,7 +193610,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3166830,N3TFM,Todd,,,USA,,Private Call,None
 ,3166831,KG7NQO,Kelly,,,USA,,Private Call,None
 ,3166832,KF7ROS,Jeremy,,,USA,,Private Call,None
-,3166833,N9ZUT,Jeffrey,,,USA,,Private Call,None
+,3166833,N9ZUT,Jeff,,,USA,,Private Call,None
 ,3166834,WD9SEF,Larry,,,USA,,Private Call,None
 ,3166835,KJ7OJI,George,,,USA,,Private Call,None
 ,3166836,KE0NVA,Jaden,,,USA,,Private Call,None
@@ -193870,6 +193933,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3167159,N5SPJ,Donald,,,USA,,Private Call,None
 ,3167160,KJ6FOB,Frank,,,USA,,Private Call,None
 ,3167161,K6RQ,Darryl,,,USA,,Private Call,None
+,3167162,KG5ODZ,James,,,USA,,Private Call,None
 ,3167163,KK4LZX,John,,,USA,,Private Call,None
 ,3167164,WN6NW,Steve,,,USA,,Private Call,None
 ,3167165,N1DPH,Clifford,,,USA,,Private Call,None
@@ -194118,7 +194182,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3167411,KM6PNS,Karl,,,USA,,Private Call,None
 ,3167412,KG4TUQ,Jayson,,,USA,,Private Call,None
 ,3167413,KN6IVE,Pierpaolo,,,USA,,Private Call,None
-,3167414,N2RCQ,Anthony,,,USA,,Private Call,None
 ,3167415,KD2UCU,Billy,,,USA,,Private Call,None
 ,3167416,AC9JZ,Michael,,,USA,,Private Call,None
 ,3167417,KX4DAN,Dan,,,USA,,Private Call,None
@@ -194554,6 +194617,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3167849,K6IRX,James,,,USA,,Private Call,None
 ,3167850,NB3F,Jonathan,,,USA,,Private Call,None
 ,3167851,W3JFS,John,,,USA,,Private Call,None
+,3167852,KC3HSQ,Paul,,,USA,,Private Call,None
 ,3167853,N5WSV,George,,,USA,,Private Call,None
 ,3167854,KB3HEO,Wayne,,,USA,,Private Call,None
 ,3167855,KD0ODG,Gregory,,,USA,,Private Call,None
@@ -196292,7 +196356,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3169614,KD4MNM,James,,,USA,,Private Call,None
 ,3169615,KG6NTE,Robert,,,USA,,Private Call,None
 ,3169616,KK4RYS,Nathan,,,USA,,Private Call,None
-,3169617,K3DIO,Bob,,,USA,,Private Call,None
 ,3169618,KE4CJQ,Kenneth,,,USA,,Private Call,None
 ,3169619,KC1NJN,Leo,,,USA,,Private Call,None
 ,3169620,W5VV,James,,,USA,,Private Call,None
@@ -197013,6 +197076,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3170345,KI5KUN,John,,,USA,,Private Call,None
 ,3170346,KJ7PJN,William,,,USA,,Private Call,None
 ,3170347,N2TPA,Jason,,,USA,,Private Call,None
+,3170348,N9FKL,Christopher,,,USA,,Private Call,None
 ,3170349,KC9LRD,Lisa,,,USA,,Private Call,None
 ,3170350,KK6ZZO,James,,,USA,,Private Call,None
 ,3170351,KJ7PRI,Joshua,,,USA,,Private Call,None
@@ -198939,7 +199003,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3172302,KI5LUT,David,,,USA,,Private Call,None
 ,3172303,KB1DSR,Janet,,,USA,,Private Call,None
 ,3172304,AB8RU,Mark,,,USA,,Private Call,None
-,3172305,AA6BZ,Brenton,,,USA,,Private Call,None
 ,3172306,W3ETB,Eddie,,,USA,,Private Call,None
 ,3172307,KE0WTR,Tyler,,,USA,,Private Call,None
 ,3172308,KF4THL,Barry,,,USA,,Private Call,None
@@ -200301,7 +200364,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3173687,W4PRX,Clint,,,USA,,Private Call,None
 ,3173688,N1BMC,Terry,,,USA,,Private Call,None
 ,3173689,KN6BHK,Thomas,,,USA,,Private Call,None
-,3173690,KI5MIT,Stacy,,,USA,,Private Call,None
+,3173690,KD5SP,Stacy,,,USA,,Private Call,None
 ,3173691,KJ7SSD,Miguel,,,USA,,Private Call,None
 ,3173692,W9GOU,Jerold,,,USA,,Private Call,None
 ,3173694,WT0Z,Martin,,,USA,,Private Call,None
@@ -200798,6 +200861,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3174191,W1AGS,John,,,USA,,Private Call,None
 ,3174192,KJ7SBF,Nathaniel,,,USA,,Private Call,None
 ,3174193,K5LZX,Robert,,,USA,,Private Call,None
+,3174194,KB0UPW,Rcemhs,,,USA,,Private Call,None
 ,3174195,KD9RFD,Isaac,,,USA,,Private Call,None
 ,3174196,KF0CVE,Gerald,,,USA,,Private Call,None
 ,3174197,KC1AXL,Michael,,,USA,,Private Call,None
@@ -200819,6 +200883,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3174213,K9PDW,Keith,,,USA,,Private Call,None
 ,3174214,WD9DVM,Denver,,,USA,,Private Call,None
 ,3174215,W4USA,David,,,USA,,Private Call,None
+,3174216,KB0UPW,Rcemhs,,,USA,,Private Call,None
 ,3174217,K9BO,William,,,USA,,Private Call,None
 ,3174218,KM6ARC,Jonsiri,,,USA,,Private Call,None
 ,3174219,KD2HJW,Paul,,,USA,,Private Call,None
@@ -201417,6 +201482,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3174816,KC1NIK,Mark,,,USA,,Private Call,None
 ,3174817,K0JNP,Justin,,,USA,,Private Call,None
 ,3174818,KI6BL,Thomas,,,USA,,Private Call,None
+,3174819,KG5NYE,Reggie,,,USA,,Private Call,None
 ,3174820,K4DHB,Doug,,,USA,,Private Call,None
 ,3174821,KI5AXU,Karen,,,USA,,Private Call,None
 ,3174822,KX7H,Douglas,,,USA,,Private Call,None
@@ -202622,7 +202688,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3176037,KN6NAF,Joseph,,,USA,,Private Call,None
 ,3176038,KO4LFF,Denver,,,USA,,Private Call,None
 ,3176039,K3MEB,Marcus,,,USA,,Private Call,None
-,3176040,KI4QES,Timothy,,,USA,,Private Call,None
 ,3176041,KF0APV,Andrew,,,USA,,Private Call,None
 ,3176042,K2FIQ,Brandon,,,USA,,Private Call,None
 ,3176043,WD6SAR,Jason,,,USA,,Private Call,None
@@ -203423,7 +203488,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3176844,W9ATM,Michael,,,USA,,Private Call,None
 ,3176845,KO4KSN,Dana,,,USA,,Private Call,None
 ,3176846,KN6NJO,Wayne,,,USA,,Private Call,None
-,3176847,K3WNS,Dixon,,,USA,,Private Call,None
 ,3176848,KD9RRY,Paul,,,USA,,Private Call,None
 ,3176849,KN6NAZ,Volodymyr,,,USA,,Private Call,None
 ,3176850,KE8QWO,William,,,USA,,Private Call,None
@@ -206366,7 +206430,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3179827,KG7LAH,Jared,,,USA,,Private Call,None
 ,3179828,KF7EA,Eric,,,USA,,Private Call,None
 ,3179829,KI5MPX,David,,,USA,,Private Call,None
-,3179830,KG5PMK,Donald,,,USA,,Private Call,None
 ,3179831,KC2VWB,Ulric,,,USA,,Private Call,None
 ,3179832,KD9WLS,Daniel,,,USA,,Private Call,None
 ,3179833,N9GA,Gary,,,USA,,Private Call,None
@@ -208651,7 +208714,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3182157,KN6CKG,Lester,,,USA,,Private Call,None
 ,3182158,W4GHT,Richard,,,USA,,Private Call,None
 ,3182159,KN6GXQ,Edwin,,,USA,,Private Call,None
-,3182160,W6VLN,En-Ling,,,USA,,Private Call,None
+,3182160,W6VLN,En Ling,,,USA,,Private Call,None
 ,3182161,AI5EN,Matt,,,USA,,Private Call,None
 ,3182162,KD2USM,Andrew,,,USA,,Private Call,None
 ,3182163,AD5AR,James,,,USA,,Private Call,None
@@ -210325,7 +210388,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3183856,N1CSU,Jimmy,,,USA,,Private Call,None
 ,3183857,KB8QYJ,Robert,,,USA,,Private Call,None
 ,3183858,K9TBA,Chad,,,USA,,Private Call,None
-,3183859,N4FCO,Sue,,,USA,,Private Call,None
 ,3183860,N1HN,Dustin,,,USA,,Private Call,None
 ,3183861,KF7HBV,Cory,,,USA,,Private Call,None
 ,3183862,KC8UJP,Robert,,,USA,,Private Call,None
@@ -211961,7 +212023,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3185523,KB4RU,Craig,,,USA,,Private Call,None
 ,3185524,KK7BMF,Stephen,,,USA,,Private Call,None
 ,3185525,W9BTM,Michael,,,USA,,Private Call,None
-,3185526,KK1CLF,Charles,,,USA,,Private Call,None
 ,3185527,K0ARK,Allen,,,USA,,Private Call,None
 ,3185528,WP4PJE,Rene,,,USA,,Private Call,None
 ,3185529,NS7DD,Radik,,,USA,,Private Call,None
@@ -213498,7 +213559,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3187081,N5CKE,Jared,,,USA,,Private Call,None
 ,3187082,KI5KRP,Christopher,,,USA,,Private Call,None
 ,3187083,KE4BFS,William,,,USA,,Private Call,None
-,3187084,KI7HGC,Thomas,,,USA,,Private Call,None
 ,3187085,KD8UFV,Scott,,,USA,,Private Call,None
 ,3187086,KF5CIB,Michael,,,USA,,Private Call,None
 ,3187088,KP4ABR,Amado,,,USA,,Private Call,None
@@ -216104,7 +216164,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3189722,K8KSW,Kerry,,,USA,,Private Call,None
 ,3189723,KE0VCI,Nathaniel,,,USA,,Private Call,None
 ,3189724,KI5RGU,Robert,,,USA,,Private Call,None
-,3189725,KI5UCO,Sean,,,USA,,Private Call,None
+,3189725,K5UCO,Sean,,,USA,,Private Call,None
 ,3189726,KE0CSL,Troy,,,USA,,Private Call,None
 ,3189727,KD2YJX,Anthony,,,USA,,Private Call,None
 ,3189728,KM4RMR,Thomas,,,USA,,Private Call,None
@@ -216149,7 +216209,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3189767,N2MMS,John,,,USA,,Private Call,None
 ,3189768,KN6QML,Dennis,,,USA,,Private Call,None
 ,3189769,KO4WSB,Charles,,,USA,,Private Call,None
-,3189770,KI4RBC,Michael,,,USA,,Private Call,None
 ,3189771,KN6PJU,Denis,,,USA,,Private Call,None
 ,3189772,KG6QOY,Evan,,,USA,,Private Call,None
 ,3189773,KE0VCD,Steven,,,USA,,Private Call,None
@@ -216421,7 +216480,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3190044,K3JDG,James,,,USA,,Private Call,None
 ,3190045,KN4MSN,William,,,USA,,Private Call,None
 ,3190046,KJ5BYU,Scott,,,USA,,Private Call,None
-,3190047,KB1JGI,Frederick,,,USA,,Private Call,None
+,3190047,N6FAR,Frederick,,,USA,,Private Call,None
 ,3190048,KG5QWR,Guy,,,USA,,Private Call,None
 ,3190049,KG4RPU,Manuel,,,USA,,Private Call,None
 ,3190050,KN4WYY,Fan,,,USA,,Private Call,None
@@ -216536,7 +216595,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3190160,W5SMB,Shawn,,,USA,,Private Call,None
 ,3190161,KF0IIM,Christopher,,,USA,,Private Call,None
 ,3190162,K5RAV,David,,,USA,,Private Call,None
-,3190163,KA1PGS,Paul,,,USA,,Private Call,None
 ,3190164,K4BKC,Robert,,,USA,,Private Call,None
 ,3190165,W6DOZ,Matt,,,USA,,Private Call,None
 ,3190166,KI7IRC,Richard,,,USA,,Private Call,None
@@ -217175,7 +217233,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3190809,K9GSM,Gabriel,,,USA,,Private Call,None
 ,3190810,WB7ELD,Robert,,,USA,,Private Call,None
 ,3190811,N3EJR,Edwin,,,USA,,Private Call,None
-,3190812,KD2LYE,James,,,USA,,Private Call,None
 ,3190813,KK6QCV,Brad,,,USA,,Private Call,None
 ,3190814,KI5UWL,Mike,,,USA,,Private Call,None
 ,3190815,KJ0J,Jack,,,USA,,Private Call,None
@@ -218572,7 +218629,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3192224,N4COR,Randall,,,USA,,Private Call,None
 ,3192225,W2LS,Liam,,,USA,,Private Call,None
 ,3192226,W0LZB,Lowell,,,USA,,Private Call,None
-,3192227,KG5POD,Carl,,,USA,,Private Call,None
 ,3192228,KI5VHC,Mike,,,USA,,Private Call,None
 ,3192229,KK5BS,Thomas,,,USA,,Private Call,None
 ,3192230,KN4SHO,Jose,,,USA,,Private Call,None
@@ -220882,7 +220938,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3194562,KC4EEL,Bentley,,,USA,,Private Call,None
 ,3194563,W0HG,William,,,USA,,Private Call,None
 ,3194564,KO4BXE,Michael,,,USA,,Private Call,None
-,3194565,KF0JZW,Sean,,,USA,,Private Call,None
+,3194565,W1BRC,Sean,,,USA,,Private Call,None
 ,3194566,KF0FWE,Randy,,,USA,,Private Call,None
 ,3194567,AB5JN,Richard,,,USA,,Private Call,None
 ,3194568,WA9OJD,Leonard,,,USA,,Private Call,None
@@ -222235,7 +222291,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3195935,KJ4BCF,John,,,USA,,Private Call,None
 ,3195936,KB5ZDT,Thomas,,,USA,,Private Call,None
 ,3195937,KC3NXC,Paul,,,USA,,Private Call,None
-,3195938,KG5PNN,Dan,,,USA,,Private Call,None
 ,3195939,WZ5ZZ,Robert,,,USA,,Private Call,None
 ,3195940,K9UV,Anthony,,,USA,,Private Call,None
 ,3195941,KJ7PAN,Richard,,,USA,,Private Call,None
@@ -222793,7 +222848,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3196496,KM4THL,Steven,,,USA,,Private Call,None
 ,3196497,KD9UEQ,Patricia,,,USA,,Private Call,None
 ,3196498,KK7CTV,Paul,,,USA,,Private Call,None
-,3196499,KT4FAB,Fabiano,,,USA,,Private Call,None
 ,3196500,K0DAD,Jacobus,,,USA,,Private Call,None
 ,3196501,KQ4EOJ,Jason,,,USA,,Private Call,None
 ,3196502,K7OFG,Stephan,,,USA,,Private Call,None
@@ -223022,7 +223076,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3196726,KQ4ELK,Carlton,,,USA,,Private Call,None
 ,3196727,KC4OS,Robert,,,USA,,Private Call,None
 ,3196728,KE8QFP,Bruce,,,USA,,Private Call,None
-,3196730,K7ICU,James,,,USA,,Private Call,None
 ,3196731,K9AEI,John,,,USA,,Private Call,None
 ,3196732,N2FRA,Raymond,,,USA,,Private Call,None
 ,3196733,KN6YBP,Martin,,,USA,,Private Call,None
@@ -228386,7 +228439,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3202162,KB9MLJ,Michael,,,USA,,Private Call,None
 ,3202163,K1DNH,David,,,USA,,Private Call,None
 ,3202164,N1BTA,Hunter,,,USA,,Private Call,None
-,3202165,KM4WRS,Dan,,,USA,,Private Call,None
 ,3202166,KB1FUN,James,,,USA,,Private Call,None
 ,3202167,KK7MNT,Seth,,,USA,,Private Call,None
 ,3202168,KQ4DKD,Kenneth,,,USA,,Private Call,None
@@ -229689,7 +229741,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3203482,KC1TEV,Mark,,,USA,,Private Call,None
 ,3203483,KD2ORJ,John,,,USA,,Private Call,None
 ,3203484,KC3WWW,Sean,,,USA,,Private Call,None
-,3203485,KF0NNQ,William,,,USA,,Private Call,None
+,3203485,WU0Y,William,,,USA,,Private Call,None
 ,3203486,KF0OCS,Richard,,,USA,,Private Call,None
 ,3203487,KM6ONQ,Larry,,,USA,,Private Call,None
 ,3203488,KC8EOQ,Greg,,,USA,,Private Call,None
@@ -231453,7 +231505,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3205265,K4CFT,Cesar,,,USA,,Private Call,None
 ,3205266,W6COR,Jorge,,,USA,,Private Call,None
 ,3205267,K5DRG,Michael,,,USA,,Private Call,None
-,3205268,KQ4NVJ,Eric,,,USA,,Private Call,None
+,3205268,KY4EJH,Eric,,,USA,,Private Call,None
 ,3205269,N4UKW,Edwin,,,USA,,Private Call,None
 ,3205270,N9VYV,John,,,USA,,Private Call,None
 ,3205271,KE2BRG,Mitchell,,,USA,,Private Call,None
@@ -234751,7 +234803,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3208599,KE0VUM,Thomas,,,USA,,Private Call,None
 ,3208600,KF0QLS,Bryce,,,USA,,Private Call,None
 ,3208601,KM6TCO,Herbert,,,USA,,Private Call,None
-,3208602,KM4WYJ,Robert,,,USA,,Private Call,None
 ,3208603,K6NCR,Brien,,,USA,,Private Call,None
 ,3208604,KC7BIV,Kenneth,,,USA,,Private Call,None
 ,3208605,KE8NPH,Daniel,,,USA,,Private Call,None
@@ -235819,6 +235870,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3209674,K4LAB,Andy,,,USA,,Private Call,None
 ,3209675,KF8BAT,Allen,,,USA,,Private Call,None
 ,3209676,KJ7SVK,Emmanuel,,,USA,,Private Call,None
+,3209677,N8INF,Todd,,,USA,,Private Call,None
 ,3209678,KN6FYM,Gary,,,USA,,Private Call,None
 ,3209679,W4BNM,Brian,,,USA,,Private Call,None
 ,3209680,KQ4QCJ,Caleb,,,USA,,Private Call,None
@@ -236575,7 +236627,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3210438,KM4IBC,James,,,USA,,Private Call,None
 ,3210439,KB4NWJ,Christopher,,,USA,,Private Call,None
 ,3210440,KF8CDH,Landon,,,USA,,Private Call,None
-,3210441,KO6AFU,Tony,,,USA,,Private Call,None
+,3210441,KC6L,Tony,,,USA,,Private Call,None
 ,3210442,KO6BZI,Rob,,,USA,,Private Call,None
 ,3210443,KC1UNQ,John,,,USA,,Private Call,None
 ,3210444,KC9PJR,Jay,,,USA,,Private Call,None
@@ -238931,7 +238983,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3212814,KK7UHC,Christopher,,,USA,,Private Call,None
 ,3212815,N6HYI,Donald,,,USA,,Private Call,None
 ,3212816,KQ4ZXI,Garrett,,,USA,,Private Call,None
-,3212817,KI7HDZ,Michael,,,USA,,Private Call,None
 ,3212818,KF7NUE,Steven,,,USA,,Private Call,None
 ,3212819,K7EZQ,John,,,USA,,Private Call,None
 ,3212820,K6LBL,Linda,,,USA,,Private Call,None
@@ -239021,7 +239072,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3212904,KJ5IQJ,John,,,USA,,Private Call,None
 ,3212906,KG6ETI,Scott,,,USA,,Private Call,None
 ,3212907,W4PSF,Roland,,,USA,,Private Call,None
-,3212908,KM6FIV,Cornelius,,,USA,,Private Call,None
 ,3212909,KK4ELM,Daniel,,,USA,,Private Call,None
 ,3212910,K0RYU,Dominique,,,USA,,Private Call,None
 ,3212911,KQ4ZMZ,Charles,,,USA,,Private Call,None
@@ -241089,7 +241139,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3214998,W4SKW,Christopher,,,USA,,Private Call,None
 ,3214999,AB3SU,Howard,,,USA,,Private Call,None
 ,3215000,W5MF,Marty,,,USA,,Private Call,None
-,3215001,KM4ONK,Stephen,,,USA,,Private Call,None
+,3215001,KM4ONK,Steve,,,USA,,Private Call,None
 ,3215002,KE8IJV,Richard,,,USA,,Private Call,None
 ,3215003,NA0TC,285 Tech Connect Radio Club,,,USA,,Private Call,None
 ,3215004,K5GAC,Gail,,,USA,,Private Call,None
@@ -243066,7 +243116,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3216990,KR4AJP,Austin,,,USA,,Private Call,None
 ,3216991,W9CCT,Mark,,,USA,,Private Call,None
 ,3216992,KR4ECT,Gregory,,,USA,,Private Call,None
-,3216993,W6EL,Elliott,,,USA,,Private Call,None
 ,3216994,KE9CAS,Gregg,,,USA,,Private Call,None
 ,3216995,KJ5LFD,Donna,,,USA,,Private Call,None
 ,3216996,KR4DFA,Maxwell,,,USA,,Private Call,None
@@ -244875,6 +244924,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3218814,N6HIX,Andrew,,,USA,,Private Call,None
 ,3218815,KJ5IRI,Michael,,,USA,,Private Call,None
 ,3218816,KB5GL,Jose,,,USA,,Private Call,None
+,3218817,KM4VIQ,Western Piedmont Amateur Radio Club,,,USA,,Private Call,None
 ,3218818,N2QFT,Joanna,,,USA,,Private Call,None
 ,3218819,KE4WFD,Anthony,,,USA,,Private Call,None
 ,3218820,KJ5MJA,Samuel,,,USA,,Private Call,None
@@ -246296,7 +246346,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3220247,KF7AZV,Alec,,,USA,,Private Call,None
 ,3220248,WA3MCA,John,,,USA,,Private Call,None
 ,3220249,WR1L,Charles,,,USA,,Private Call,None
-,3220250,KF4DBV,Christopher,,,USA,,Private Call,None
+,3220250,N4NII,Christopher,,,USA,,Private Call,None
 ,3220251,AC1VQ,Lauren,,,USA,,Private Call,None
 ,3220252,KA9WYK,Carl,,,USA,,Private Call,None
 ,3220253,KM7CEM,Samuel,,,USA,,Private Call,None
@@ -246698,7 +246748,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3220653,KC1YTR,Jeremy,,,USA,,Private Call,None
 ,3220654,KJ4DXH,Randall,,,USA,,Private Call,None
 ,3220655,N3VWD,Maurice,,,USA,,Private Call,None
-,3220656,KG5HIT,Mark,,,USA,,Private Call,None
+,3220656,K9HIT,Mark,,,USA,,Private Call,None
 ,3220657,W4GRZ,Jeffrey,,,USA,,Private Call,None
 ,3220658,AJ4TN,Tonya,,,USA,,Private Call,None
 ,3220659,N6XTN,Christian,,,USA,,Private Call,None
@@ -248420,7 +248470,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3222408,K8ATW,Jason,,,USA,,Private Call,None
 ,3222409,KJ5MBV,Zach,,,USA,,Private Call,None
 ,3222410,KQ4RKQ,Jonathan,,,USA,,Private Call,None
-,3222411,K1IAN,Ian,,,USA,,Private Call,None
 ,3222412,NW5NM,Nwnmemcomm,,,USA,,Private Call,None
 ,3222413,KN6PGV,Marc,,,USA,,Private Call,None
 ,3222414,KD3CRA,Nicholas,,,USA,,Private Call,None
@@ -249207,7 +249256,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3223204,KF0MTK,Carl,,,USA,,Private Call,None
 ,3223205,W4AZY,Randy,,,USA,,Private Call,None
 ,3223206,KA1HTW,Edward,,,USA,,Private Call,None
-,3223207,KC1GML,Emilio,,,USA,,Private Call,None
 ,3223208,KJ5FOI,Tyler,,,USA,,Private Call,None
 ,3223209,KD3CSK,Steven,,,USA,,Private Call,None
 ,3223210,KF8GAQ,Michael,,,USA,,Private Call,None
@@ -249425,7 +249473,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3223424,K8YGH,Jeremy,,,USA,,Private Call,None
 ,3223425,N6SDR,Steven,,,USA,,Private Call,None
 ,3223426,KI5YIG,Don,,,USA,,Private Call,None
-,3223427,KO6NAH,Bob,,,USA,,Private Call,None
+,3223427,N2WTF,Bob,,,USA,,Private Call,None
 ,3223428,AJ5CN,Jason,,,USA,,Private Call,None
 ,3223429,N1SJ,Nuno,,,USA,,Private Call,None
 ,3223430,KR4LAI,Thomas,,,USA,,Private Call,None
@@ -251001,7 +251049,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3225063,KD2GPR,Veronica,,,USA,,Private Call,None
 ,3225064,KO4AZJ,Robert,,,USA,,Private Call,None
 ,3225065,KE9FOS,Karly,,,USA,,Private Call,None
-,3225066,KR4KXC,Thomas,,,USA,,Private Call,None
+,3225066,KR5TEM,Thomas,,,USA,,Private Call,None
 ,3225067,KR4CNZ,Ross,,,USA,,Private Call,None
 ,3225068,KE9FOV,Michael,,,USA,,Private Call,None
 ,3225069,KJ5PWT,Bruce,,,USA,,Private Call,None
@@ -252027,7 +252075,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3226093,KF0ZBN,Francesco,,,USA,,Private Call,None
 ,3226094,WD6AKX,Craig,,,USA,,Private Call,None
 ,3226095,KJ7WNT,Lathrop,,,USA,,Private Call,None
-,3226096,KD3DKY,Joshua,,,USA,,Private Call,None
+,3226096,W8LSW,Joshua,,,USA,,Private Call,None
 ,3226097,N6ERP,Phillip,,,USA,,Private Call,None
 ,3226098,N0TDL,John,,,USA,,Private Call,None
 ,3226099,KR4MTG,Jeffrey,,,USA,,Private Call,None
@@ -252345,7 +252393,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3226413,W5TAB,Daniel,,,USA,,Private Call,None
 ,3226414,KO6NWA,Henry,,,USA,,Private Call,None
 ,3226415,KG4DOQ,Scotty,,,USA,,Private Call,None
-,3226416,KZ4JZ,Adam,,,USA,,Private Call,None
+,3226416,N5ADM,Adam,,,USA,,Private Call,None
 ,3226417,KG4GVK,Margaret,,,USA,,Private Call,None
 ,3226418,KR4LZZ,Farleigh,,,USA,,Private Call,None
 ,3226419,NE9MA,Communications Unit,,,USA,,Private Call,None
@@ -252969,6 +253017,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3227039,WA6WAG,Pablo,,,USA,,Private Call,None
 ,3227040,KC1ZDJ,Jon,,,USA,,Private Call,None
 ,3227041,KR4NLP,William,,,USA,,Private Call,None
+,3227042,KB3NZV,Richard,,,USA,,Private Call,None
 ,3227043,N9TPL,Mark,,,USA,,Private Call,None
 ,3227044,KQ4NFC,Thomas,,,USA,,Private Call,None
 ,3227045,K0RIB,Mark,,,USA,,Private Call,None
@@ -253154,7 +253203,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3227225,KE4YMF,Jeffrey,,,USA,,Private Call,None
 ,3227226,KR4IQR,Landon,,,USA,,Private Call,None
 ,3227227,WB5BAM,Murry,,,USA,,Private Call,None
-,3227228,WT1CB,Thomas,,,USA,,Private Call,None
+,3227228,WT1CB,Tom,,,USA,,Private Call,None
 ,3227229,NZ1VA,Adam,,,USA,,Private Call,None
 ,3227230,KR4FHH,Benjamin,,,USA,,Private Call,None
 ,3227231,KE9GDP,Reed,,,USA,,Private Call,None
@@ -253196,7 +253245,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3227267,KE8FWS,Timothy,,,USA,,Private Call,None
 ,3227268,W7AEW,Aaron,,,USA,,Private Call,None
 ,3227269,AD9JK,Dan,,,USA,,Private Call,None
-,3227270,KM7HFC,Michael,,,USA,,Private Call,None
+,3227270,KV1U,Michael,,,USA,,Private Call,None
 ,3227271,KF0NPU,Michael,,,USA,,Private Call,None
 ,3227272,KA2ZBB,John,,,USA,,Private Call,None
 ,3227273,KR4OMS,Jeffrey,,,USA,,Private Call,None
@@ -253825,7 +253874,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3227898,N8UH,Timothy,,,USA,,Private Call,None
 ,3227899,KA7ZLE,Lehaman,,,USA,,Private Call,None
 ,3227900,KR4JVN,Andrew,,,USA,,Private Call,None
-,3227901,KR4OUU,Terrell,,,USA,,Private Call,None
+,3227901,W0CVT,Terrell,,,USA,,Private Call,None
 ,3227902,KD5WWZ,Kevin,,,USA,,Private Call,None
 ,3227903,KK7YIW,Harley,,,USA,,Private Call,None
 ,3227904,W4MED,Raul,,,USA,,Private Call,None
@@ -253957,7 +254006,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3228032,KE4VUP,Karen,,,USA,,Private Call,None
 ,3228033,NA4BE,Leland,,,USA,,Private Call,None
 ,3228034,KE4UBM,Jeffrey,,,USA,,Private Call,None
-,3228035,KR4OYQ,Peter,,,USA,,Private Call,None
+,3228035,K4ZDG,Peter,,,USA,,Private Call,None
 ,3228036,KJ5RSJ,Carson,,,USA,,Private Call,None
 ,3228037,KK7IHV,Albert,,,USA,,Private Call,None
 ,3228038,KC1EKB,Wayne,,,USA,,Private Call,None
@@ -254023,7 +254072,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3228099,KR4OYP,Kholby,,,USA,,Private Call,None
 ,3228100,N0FXG,Scott,,,USA,,Private Call,None
 ,3228101,KD3DRY,Scott,,,USA,,Private Call,None
-,3228102,KR4PCR,Michael,,,USA,,Private Call,None
 ,3228103,KE2JFU,Paul,,,USA,,Private Call,None
 ,3228104,KR4PDQ,Jonathan,,,USA,,Private Call,None
 ,3228105,KD1ADY,Meadow,,,USA,,Private Call,None
@@ -254451,7 +254499,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3228527,KC2TON,Richard,,,USA,,Private Call,None
 ,3228528,W9AAB,Erik,,,USA,,Private Call,None
 ,3228529,KR4OLE,Jacob,,,USA,,Private Call,None
-,3228530,KJ5RQX,Seongdae,,,USA,,Private Call,None
+,3228530,AJ5DK,Seongdae,,,USA,,Private Call,None
 ,3228531,KF4CUS,Bryan,,,USA,,Private Call,None
 ,3228532,KM7BED,Aaron,,,USA,,Private Call,None
 ,3228533,KR4PLX,Roberto,,,USA,,Private Call,None
@@ -254521,6 +254569,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3228597,KO6PFT,David,,,USA,,Private Call,None
 ,3228598,KJ5RZH,Ricky,,,USA,,Private Call,None
 ,3228599,AB7RG,Roy,,,USA,,Private Call,None
+,3228600,KC3EYN,Christop,,,USA,,Private Call,None
 ,3228601,WX4ADX,Joseph,,,USA,,Private Call,None
 ,3228602,WE8BIT,Jason,,,USA,,Private Call,None
 ,3228603,KE9GJC,Pablo,,,USA,,Private Call,None
@@ -254599,7 +254648,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3228676,KC1PEF,Braydon,,,USA,,Private Call,None
 ,3228677,N6PAA,Ronald,,,USA,,Private Call,None
 ,3228678,W5JZS,Jonathon,,,USA,,Private Call,None
-,3228679,KF0ZVW,Wyatt,,,USA,,Private Call,None
+,3228679,W0YAT,Wyatt,,,USA,,Private Call,None
 ,3228680,N4NCE,Lee,,,USA,,Private Call,None
 ,3228681,KG5GVB,Jimmy,,,USA,,Private Call,None
 ,3228682,WN4NCE,Angela,,,USA,,Private Call,None
@@ -254625,12 +254674,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3228702,KO4PMC,Harley,,,USA,,Private Call,None
 ,3228703,AB0YT,Andrew,,,USA,,Private Call,None
 ,3228704,KM7CPB,Parker,,,USA,,Private Call,None
-,3228705,KD3DEE,Hazel,,,USA,,Private Call,None
+,3228705,K3XRX,Hazel,,,USA,,Private Call,None
 ,3228706,KE9DXF,Alexander,,,USA,,Private Call,None
 ,3228707,KF5QMA,Brandon,,,USA,,Private Call,None
 ,3228708,KK7FSC,Nathaniel,,,USA,,Private Call,None
 ,3228709,KB5MAT,William,,,USA,,Private Call,None
-,3228710,KI0ANN,Constantin,,,USA,,Private Call,None
+,3228710,KI0ANN,Constantinos,,,USA,,Private Call,None
 ,3228711,KR4POH,James,,,USA,,Private Call,None
 ,3228712,KR4POZ,Chris,,,USA,,Private Call,None
 ,3228713,KR4OLA,Floyd,,,USA,,Private Call,None
@@ -254652,7 +254701,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3228729,KR4OTW,Chad,,,USA,,Private Call,None
 ,3228730,W0STG,Scott,,,USA,,Private Call,None
 ,3228731,KE2JIW,Jeffrey,,,USA,,Private Call,None
-,3228732,KM7HUR,Ilyoung,,,USA,,Private Call,None
+,3228732,AJ7NC,Ilyoung,,,USA,,Private Call,None
 ,3228733,KD2DNY,William,,,USA,,Private Call,None
 ,3228734,KF0LDO,Matthew,,,USA,,Private Call,None
 ,3228735,W0JMF,Jim,,,USA,,Private Call,None
@@ -254774,7 +254823,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3228851,AC1TH,Landon,,,USA,,Private Call,None
 ,3228852,KE5KNX,Benjamin,,,USA,,Private Call,None
 ,3228853,KF8HFY,Jerry,,,USA,,Private Call,None
-,3228854,KM7ICW,Robert,,,USA,,Private Call,None
+,3228854,KM7ICW,Gregg,,,USA,,Private Call,None
 ,3228855,N5RVJ,Robert,,,USA,,Private Call,None
 ,3228856,K0PDM,Randall,,,USA,,Private Call,None
 ,3228857,KO6IVR,Alvaro,,,USA,,Private Call,None
@@ -254932,9 +254981,221 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3229011,N5YJ,Mark,,,USA,,Private Call,None
 ,3229012,KJ5SDB,Zechariah,,,USA,,Private Call,None
 ,3229013,KI5DOV,Shannon,,,USA,,Private Call,None
+,3229014,KQ4IQD,Robin,,,USA,,Private Call,None
+,3229015,KD3DZL,Robert,,,USA,,Private Call,None
+,3229016,KJ5RZB,Richard,,,USA,,Private Call,None
+,3229017,KD6RYJ,Steven,,,USA,,Private Call,None
+,3229018,KC0SNB,Gregory,,,USA,,Private Call,None
+,3229019,KI4IRU,Brian,,,USA,,Private Call,None
+,3229020,KI7ODI,Jerad,,,USA,,Private Call,None
+,3229021,KL5WB,Kristen,,,USA,,Private Call,None
+,3229022,AK6UN,Zane,,,USA,,Private Call,None
+,3229023,N4RDW,Roger,,,USA,,Private Call,None
+,3229024,KF0YXM,Matthew,,,USA,,Private Call,None
+,3229025,KR4PWN,Mark,,,USA,,Private Call,None
+,3229026,KR4LVT,Tyler,,,USA,,Private Call,None
+,3229027,KB0RHA,Richard,,,USA,,Private Call,None
+,3229028,KO6FNL,Thomas,,,USA,,Private Call,None
+,3229029,KF0PGK,Jon,,,USA,,Private Call,None
+,3229030,N5JHL,Jesus,,,USA,,Private Call,None
+,3229031,KK7UMO,Micah,,,USA,,Private Call,None
+,3229032,KR4PQB,Brandon,,,USA,,Private Call,None
+,3229033,KM4YHR,John,,,USA,,Private Call,None
+,3229034,KF8BOG,James,,,USA,,Private Call,None
+,3229035,N2CEX,Joseph,,,USA,,Private Call,None
+,3229036,KJ5D,Guy,,,USA,,Private Call,None
+,3229037,KM7IED,Nicholas,,,USA,,Private Call,None
+,3229038,KJ5FZP,Christopher,,,USA,,Private Call,None
+,3229039,K9YIP,Therionet,,,USA,,Private Call,None
+,3229040,KC7ODK,Brian,,,USA,,Private Call,None
+,3229041,KJ5ECZ,Thomas,,,USA,,Private Call,None
+,3229042,KM4GZT,Jeffrey,,,USA,,Private Call,None
+,3229043,KF5MCN,Richard,,,USA,,Private Call,None
+,3229044,KF0ZMF,Zachary,,,USA,,Private Call,None
+,3229045,KR4PRA,Edward,,,USA,,Private Call,None
+,3229046,KB9TMP,William,,,USA,,Private Call,None
+,3229047,KC1WVU,Robert,,,USA,,Private Call,None
+,3229048,K1SDG,Scott,,,USA,,Private Call,None
+,3229049,KI7PSO,Tony,,,USA,,Private Call,None
+,3229050,KJ5BEP,Nathaniel,,,USA,,Private Call,None
+,3229051,KD3DTS,Joshua,,,USA,,Private Call,None
+,3229052,N3DRV,Wayne,,,USA,,Private Call,None
+,3229053,KR4PJQ,Jamison,,,USA,,Private Call,None
+,3229054,KE9EWZ,Tyler,,,USA,,Private Call,None
+,3229055,KJ5POK,Jenny,,,USA,,Private Call,None
+,3229056,KE8CVM,Charles,,,USA,,Private Call,None
+,3229057,K3KP,Gilbert,,,USA,,Private Call,None
+,3229058,W2GDW,John,,,USA,,Private Call,None
+,3229059,KF8FNO,Bennie,,,USA,,Private Call,None
+,3229060,KD1AHY,Robert,,,USA,,Private Call,None
+,3229061,KR4PHC,Ryan,,,USA,,Private Call,None
+,3229062,W5DML,Madison,,,USA,,Private Call,None
+,3229063,NA4GS,Richard,,,USA,,Private Call,None
+,3229064,N2ZK,Douglas,,,USA,,Private Call,None
+,3229065,KM4HNK,Charles,,,USA,,Private Call,None
+,3229066,AD2OG,Andrew,,,USA,,Private Call,None
+,3229067,KT4GAM,Guillermo,,,USA,,Private Call,None
+,3229068,KF0ZZA,Robert,,,USA,,Private Call,None
+,3229069,KO6PRS,Philip,,,USA,,Private Call,None
+,3229070,KR4MRL,Eric,,,USA,,Private Call,None
+,3229071,KO6PRU,Andrew,,,USA,,Private Call,None
+,3229072,KR4PFZ,Patrick,,,USA,,Private Call,None
+,3229073,KB9MVX,Todd,,,USA,,Private Call,None
+,3229074,KF8GAH,Timothy,,,USA,,Private Call,None
+,3229075,KB5AW,Steven,,,USA,,Private Call,None
+,3229076,AC3SF,David,,,USA,,Private Call,None
+,3229077,W5DKD,William,,,USA,,Private Call,None
+,3229078,N4DDZ,George,,,USA,,Private Call,None
+,3229079,W9GSM,Gregory,,,USA,,Private Call,None
+,3229080,KF8AZR,Ryan,,,USA,,Private Call,None
+,3229081,KI6FBV,Brad,,,USA,,Private Call,None
+,3229082,K6ZOO,Christopher,,,USA,,Private Call,None
+,3229083,K9GJD,Garrett,,,USA,,Private Call,None
+,3229084,AE0YQ,Daniel,,,USA,,Private Call,None
+,3229085,KI5EWF,Jerry,,,USA,,Private Call,None
+,3229086,KC3WXC,Adam,,,USA,,Private Call,None
+,3229087,KK6WLI,John,,,USA,,Private Call,None
+,3229088,KF0QGE,Daniel,,,USA,,Private Call,None
+,3229089,KC0KLP,Jeremy,,,USA,,Private Call,None
+,3229090,N4LLY,Chris,,,USA,,Private Call,None
+,3229091,KR4PBR,Larry,,,USA,,Private Call,None
+,3229092,KO6PPC,Shantanu,,,USA,,Private Call,None
+,3229093,AJ5DG,Matthew,,,USA,,Private Call,None
+,3229094,WA9POW,Bill,,,USA,,Private Call,None
+,3229095,KO6MWO,Alex,,,USA,,Private Call,None
+,3229096,KK4RSV,Joshua,,,USA,,Private Call,None
+,3229097,KE9DYU,Collin,,,USA,,Private Call,None
+,3229098,KC3KHD,Cameron,,,USA,,Private Call,None
+,3229099,W7PPP,Jeremy,,,USA,,Private Call,None
+,3229100,KB2DY,Peter,,,USA,,Private Call,None
+,3229101,KF0WHC,Gabriel,,,USA,,Private Call,None
+,3229102,KE9ARB,Nathaniel,,,USA,,Private Call,None
+,3229103,KF8APP,Zackaria,,,USA,,Private Call,None
+,3229104,KF8HOJ,William,,,USA,,Private Call,None
+,3229105,KM7IHB,Grace,,,USA,,Private Call,None
+,3229106,KO6POW,Jim,,,USA,,Private Call,None
+,3229107,KN4LPJ,James,,,USA,,Private Call,None
+,3229108,KA2WMS,Stuart,,,USA,,Private Call,None
+,3229109,KJ5SFG,Jim,,,USA,,Private Call,None
+,3229110,KE3IF,Karl,,,USA,,Private Call,None
+,3229111,KI7GEE,John,,,USA,,Private Call,None
+,3229112,KF8HPN,Amber,,,USA,,Private Call,None
+,3229113,KR4KMP,Joseph,,,USA,,Private Call,None
+,3229114,N8ZCX,Robert,,,USA,,Private Call,None
+,3229115,KC1YDA,Ashley,,,USA,,Private Call,None
+,3229116,KI7QBY,Andrew,,,USA,,Private Call,None
+,3229117,KS4MV,Eric,,,USA,,Private Call,None
+,3229118,KQ4RUW,Peter,,,USA,,Private Call,None
+,3229119,KI5LTC,Andrew,,,USA,,Private Call,None
+,3229120,KE2EWD,Andrew,,,USA,,Private Call,None
+,3229121,W6PCI,Randall,,,USA,,Private Call,None
+,3229122,KF8HPT,Alexander,,,USA,,Private Call,None
+,3229123,AI7SX,Trevor,,,USA,,Private Call,None
+,3229124,KF4IXU,Spring Hill Amateur Radio Club,,,USA,,Private Call,None
+,3229125,KR4FJL,Donald,,,USA,,Private Call,None
+,3229126,KB1MDM,Richard,,,USA,,Private Call,None
+,3229127,KG4GMU,Norman,,,USA,,Private Call,None
+,3229128,AE4AE,Greg,,,USA,,Private Call,None
+,3229129,N4NEJ,Daniel,,,USA,,Private Call,None
+,3229130,KE9GKG,Frank,,,USA,,Private Call,None
+,3229131,KF0VSM,Eli,,,USA,,Private Call,None
+,3229132,W9PGM,Michael,,,USA,,Private Call,None
+,3229133,KE0HFR,Richard,,,USA,,Private Call,None
+,3229134,KV4TN,Jerry,,,USA,,Private Call,None
+,3229135,AA3RD,Jose,,,USA,,Private Call,None
+,3229136,KJ5CTF,South Texas Rio Grade Valley,,,USA,,Private Call,None
+,3229137,WB3HRQ,John,,,USA,,Private Call,None
+,3229138,KB2LUV,Andrew,,,USA,,Private Call,None
+,3229139,KO6PSA,Griff,,,USA,,Private Call,None
+,3229140,K0GTZ,Gabriel,,,USA,,Private Call,None
+,3229141,KO6KQE,Jerry,,,USA,,Private Call,None
+,3229142,KR4PYU,Joseph,,,USA,,Private Call,None
+,3229143,AB4FS,Ronald,,,USA,,Private Call,None
+,3229144,KR4PYP,Maddox,,,USA,,Private Call,None
+,3229145,N7NOD,Gregory,,,USA,,Private Call,None
+,3229146,KD5NWB,Lyndon,,,USA,,Private Call,None
+,3229147,KD4YDY,Jose,,,USA,,Private Call,None
+,3229148,KZ4KI,Zach,,,USA,,Private Call,None
+,3229149,KM7IEB,Andrew,,,USA,,Private Call,None
+,3229150,KG5UMH,Michael,,,USA,,Private Call,None
+,3229151,KC3YXT,Braeden,,,USA,,Private Call,None
+,3229152,KD3CTE,Jaid,,,USA,,Private Call,None
+,3229153,AE2G,Stephen,,,USA,,Private Call,None
+,3229154,KO6PSR,Nagendra,,,USA,,Private Call,None
+,3229155,KD1AGB,Marlene,,,USA,,Private Call,None
+,3229156,KO4OVJ,Michael,,,USA,,Private Call,None
+,3229157,KF8HQK,Matthew,,,USA,,Private Call,None
+,3229158,KM7IIN,Norman,,,USA,,Private Call,None
+,3229159,W0CLA,Chaffee Lake Amateur Radio Association,,,USA,,Private Call,None
+,3229160,KJ5QGP,David,,,USA,,Private Call,None
+,3229161,K4FKM,Robert,,,USA,,Private Call,None
+,3229162,KC1TYN,William,,,USA,,Private Call,None
+,3229163,KF8GBD,James,,,USA,,Private Call,None
+,3229164,KB3NKV,Curtis,,,USA,,Private Call,None
+,3229165,KF8FHB,John,,,USA,,Private Call,None
+,3229166,KN4KZT,Russell,,,USA,,Private Call,None
+,3229167,KD7OFU,Robin,,,USA,,Private Call,None
+,3229168,WO6D,Jordan,,,USA,,Private Call,None
+,3229169,KD6MLN,Scott,,,USA,,Private Call,None
+,3229170,KM4MWE,James,,,USA,,Private Call,None
+,3229171,KJ5AEI,Jimmy,,,USA,,Private Call,None
+,3229172,W0BCD,Conrad,,,USA,,Private Call,None
+,3229173,KJ5NGJ,James,,,USA,,Private Call,None
+,3229174,W8ONB,Jay,,,USA,,Private Call,None
+,3229175,K2RBT,Richard,,,USA,,Private Call,None
+,3229176,KI5VWC,Joe,,,USA,,Private Call,None
+,3229177,KO4IZT,Andrew,,,USA,,Private Call,None
+,3229178,WO5LFY,Kenyon,,,USA,,Private Call,None
+,3229179,AJ5CA,Jack,,,USA,,Private Call,None
+,3229180,K8ALS,Alvin,,,USA,,Private Call,None
+,3229181,KR4PZH,Thomas,,,USA,,Private Call,None
+,3229182,K9VIC,Donald,,,USA,,Private Call,None
+,3229183,K6HJF,Henry,,,USA,,Private Call,None
+,3229184,N0JMB,Jason,,,USA,,Private Call,None
+,3229185,KB7PAC,Robert,,,USA,,Private Call,None
+,3229186,KE2JID,Ken,,,USA,,Private Call,None
+,3229187,AG6KO,Wolfgang,,,USA,,Private Call,None
+,3229188,W0KLT,Kirk,,,USA,,Private Call,None
+,3229189,KR4GWU,Dwight,,,USA,,Private Call,None
+,3229190,KA9VTO,Thomas,,,USA,,Private Call,None
+,3229191,KJ5SGQ,Andrew,,,USA,,Private Call,None
+,3229192,KD0NZL,Matthew,,,USA,,Private Call,None
+,3229193,KF0VHL,Steven,,,USA,,Private Call,None
+,3229194,KJ5RWP,Schuylar,,,USA,,Private Call,None
+,3229195,KJ5SFU,Brenton,,,USA,,Private Call,None
+,3229196,KF0JFA,Trista,,,USA,,Private Call,None
+,3229197,KR4NAV,Sean,,,USA,,Private Call,None
+,3229198,N7FHL,Larry,,,USA,,Private Call,None
+,3229199,NA4GE,Mohamed Rabeek,,,USA,,Private Call,None
+,3229200,N6JKE,Jacob,,,USA,,Private Call,None
+,3229201,KM4JLA,Robert,,,USA,,Private Call,None
+,3229202,KO6PRO,Shane,,,USA,,Private Call,None
+,3229203,K5KTF,James,,,USA,,Private Call,None
+,3229204,KE4YCH,Darren,,,USA,,Private Call,None
+,3229205,WB2PHL,Paul,,,USA,,Private Call,None
+,3229206,KM7IGS,Ethan,,,USA,,Private Call,None
+,3229207,KO6PKJ,Frank,,,USA,,Private Call,None
+,3229208,KO4VUN,Steven,,,USA,,Private Call,None
+,3229209,K4DNA,David,,,USA,,Private Call,None
+,3229210,WH6MO,Michael,,,USA,,Private Call,None
+,3229211,KC4YCF,Michael,,,USA,,Private Call,None
+,3229212,KF7LWV,Ronald,,,USA,,Private Call,None
+,3229213,KK6OSE,Mayo,,,USA,,Private Call,None
+,3229214,N5CLN,Stephen,,,USA,,Private Call,None
+,3229215,KD9YVY,Jordan,,,USA,,Private Call,None
+,3229216,KJ5MXO,Mccrae,,,USA,,Private Call,None
+,3229217,KM7HZV,Jeffrey,,,USA,,Private Call,None
+,3229218,KD0ONB,David,,,USA,,Private Call,None
+,3229219,W1WRH,William,,,USA,,Private Call,None
+,3229220,KD3DXC,Jeromy,,,USA,,Private Call,None
+,3229221,KG7KAE,Justin,,,USA,,Private Call,None
+,3229222,N3PVA,Scott,,,USA,,Private Call,None
+,3229223,WP3BC,Edgardo,,,USA,,Private Call,None
+,3229224,KC1VYZ,Byron,,,USA,,Private Call,None
 ,3231337,KF6DMA,Clive,,,USA,,Private Call,None
 ,3232323,W0KOS,Kostiantyn,,,USA,,Private Call,None
 ,3232719,K2MXA,Matt,,,USA,,Private Call,None
+,3233323,KR4PCR,Michael,,,USA,,Private Call,None
 ,3233333,K2IP,Tony,,,USA,,Private Call,None
 ,3240000,NT4AL,Alan,,,USA,,Private Call,None
 ,3242008,W5VVX,David,,,USA,,Private Call,None
@@ -254959,7 +255220,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3291101,W3KV,Scott,,,USA,,Private Call,None
 ,3293293,N9JTH,Thomas,,,USA,,Private Call,None
 ,3299025,KC7DHF,Gene,,,USA,,Private Call,None
-,3300001,KP4RMR,Ramon,,,PRI,,Private Call,None
 ,3300002,WP3JM,James,,,PRI,,Private Call,None
 ,3300003,KP4TR,Ramon,,,PRI,,Private Call,None
 ,3300004,WP4PTG,Juan,,,PRI,,Private Call,None
@@ -255402,7 +255662,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3300454,KP4YY,Robert,,,PRI,,Private Call,None
 ,3300455,WP4SNO,Carlos,,,PRI,,Private Call,None
 ,3300456,NP4TS,Juan,,,PRI,,Private Call,None
-,3300457,NP3N,Jaime,,,PRI,,Private Call,None
+,3300457,NP3N,Jay,,,PRI,,Private Call,None
 ,3300458,WP4VW,Milton,,,PRI,,Private Call,None
 ,3300459,WP4SSX,Diaz Rivera,,,PRI,,Private Call,None
 ,3300460,WP4OKD,Ovidio,,,PRI,,Private Call,None
@@ -255700,6 +255960,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3300760,KE5FUS,Mark,,,PRI,,Private Call,None
 ,3300761,WP4NUS,Oscar,,,PRI,,Private Call,None
 ,3300762,WP4UEB,Jorge,,,PRI,,Private Call,None
+,3300763,WP4UEE,Ted,,,PRI,,Private Call,None
 ,3301001,WP4OV,Juan,,,PRI,,Private Call,None
 ,3301002,WP4OTW,Carla,,,PRI,,Private Call,None
 ,3301003,NP4ET,Jose,,,PRI,,Private Call,None
@@ -255749,7 +256010,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3302007,WP4MXB,Carlos,,,PRI,,Private Call,None
 ,3302008,KP4DSV,Jose,,,PRI,,Private Call,None
 ,3302009,KP4EC,Ernesto,,,PRI,,Private Call,None
-,3303001,KP4RMR,Ramon,,,PRI,,Private Call,None
 ,3303002,KP4GA,Jose,,,PRI,,Private Call,None
 ,3303003,KP4AG,Hilda,,,PRI,,Private Call,None
 ,3303004,WP4KY,Wilberto,,,PRI,,Private Call,None
@@ -255765,9 +256025,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3303015,WP4O,Pedro,,,PRI,,Private Call,None
 ,3303016,WP4PEG,Justo,,,PRI,,Private Call,None
 ,3303017,KP4MCG,Lester,,,PRI,,Private Call,None
-,3303018,KP4RMR,Ramon,,,PRI,,Private Call,None
-,3303019,KP4RMR,Ramon,,,PRI,,Private Call,None
-,3303020,KP4RMR,Ramon,,,PRI,,Private Call,None
 ,3303021,KP4AMU,Hector,,,PRI,,Private Call,None
 ,3303022,KP3AV,Julio,,,PRI,,Private Call,None
 ,3303023,WP4OXG,Naubert,,,PRI,,Private Call,None
@@ -256428,7 +256685,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3340633,XE2WR,Rolando,,,MEX,,Private Call,None
 ,3340634,XE1QRN,Luis,,,MEX,,Private Call,None
 ,3340635,XE2JLD,Jorge,,,MEX,,Private Call,None
-,3340636,XE2OK,Orlando,,,MEX,,Private Call,None
 ,3340637,XE1ADY,Yudiana,,,MEX,,Private Call,None
 ,3340638,XE2GEL,Gerardo,,,MEX,,Private Call,None
 ,3340639,XE2MWT,Genaro,,,MEX,,Private Call,None
@@ -257193,6 +257449,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3680122,CO2RQ,Reinaldo,,,CUB,,Private Call,None
 ,3680123,CO2SG,Abel,,,CUB,,Private Call,None
 ,3680124,CO2ER,Alain,,,CUB,,Private Call,None
+,3680125,CL6ALZ,Alejandro,,,CUB,,Private Call,None
+,3680126,CO6SE,Manuel,,,CUB,,Private Call,None
 ,3700001,HI8D,David,,,DOM,,Private Call,None
 ,3700002,HI8SEW,Rafael,,,DOM,,Private Call,None
 ,3700003,HI8K,Alfredo,,,DOM,,Private Call,None
@@ -257352,6 +257610,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3700158,HI3NHMA,Hansel,,,DOM,,Private Call,None
 ,3700159,HI4DJA,Juan,,,DOM,,Private Call,None
 ,3700160,HI3EAH,Carlos,,,DOM,,Private Call,None
+,3700161,HI7DRA,Diosnedis,,,DOM,,Private Call,None
 ,3701001,HI8RCD,Dominican,,,DOM,,Private Call,None
 ,3701002,HI8VP,Vantroi,,,DOM,,Private Call,None
 ,3701003,HI8J,Juan,,,DOM,,Private Call,None
