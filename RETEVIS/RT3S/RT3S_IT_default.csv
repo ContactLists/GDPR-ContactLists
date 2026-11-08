@@ -3131,7 +3131,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2223185,IV3EVJ,Paolo,,,,,ITA
 2223186,IU3EGM,Andrea,,,,,ITA
 2223187,IU3EJM,Stefano,,,,,ITA
-2223188,IW3GXX,Elio,,,,,ITA
+2223188,IW3GXX,Stefano,,,,,ITA
 2223189,IU3EEE,Simone,,,,,ITA
 2223190,IN3ROL,Roman,,,,,ITA
 2223191,IZ3NWT,Tiziano,,,,,ITA
@@ -5920,6 +5920,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2226004,IK6TTE,Plinio,,,,,ITA
 2226005,IZ6KJK,Francesco,,,,,ITA
 2226006,IW6PQB,Antonio,,,,,ITA
+2226007,IK6PUO,Filippo,,,,,ITA
 2226008,IU6SSZ,Mario,,,,,ITA
 2226009,IW6PRK,Renzo,,,,,ITA
 2226010,IK6NBO,Mario,,,,,ITA
@@ -11397,7 +11398,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2231548,IU8MON,Andrea,,,,,ITA
 2231549,IU2TUC,Davide,,,,,ITA
 2231550,IZ3WXD,Carlo,,,,,ITA
-2231551,IU7TVB,Giuseppe,,,,,ITA
 2231552,IT9CZR,Valerio,,,,,ITA
 2231553,IK4QJH,Giancarlo,,,,,ITA
 2231554,IW3RMD,Fabrizio,,,,,ITA
@@ -13176,4 +13176,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2233346,I3ZXM,Marco,,,,,ITA
 2233347,IU7EPB,Girolamo,,,,,ITA
 2233348,IZ0UIP,Sante,,,,,ITA
+2233349,IV3LRV,Clubst.,,,,,ITA
+2233350,IU4IBQ,Stefano,,,,,ITA
+2233351,IU8WPR,Valerio,,,,,ITA
+2233352,IU8PWU,Rocco,,,,,ITA
+2233353,IU4FIS,Paolo,,,,,ITA
+2233354,IU2GLS,Davide,,,,,ITA
+2233355,IN3LZR,Antonio,,,,,ITA
+2233356,IU1QXO,Giovanni,,,,,ITA
+2233357,IU0TGP,Simone,,,,,ITA
+2233358,IU1WXM,Sergio,,,,,ITA
+2233359,IN3LPT,Piero,,,,,ITA
 2242222,IT9JFW,Lorenzo,,,,,ITA
